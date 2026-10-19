@@ -15,6 +15,7 @@ BepInEx plugin for [Valheim](https://store.steampowered.com/app/892970/Valheim/)
 |------|---------|
 | `VALHEIM_IRISH_MOD.md` | Full project overview and roadmap |
 | `plugins/irish-mod/` | C# BepInEx plugin (`IrishMod.dll`) |
+| `translations-to-fix/` | QA queue for dodgy/missing Irish ([README](translations-to-fix/README.md)) |
 
 ## Build
 
