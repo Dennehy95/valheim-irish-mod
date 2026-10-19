@@ -84,6 +84,8 @@ Full export of Irish (`ga`) strings from `plugins/irish-mod/Translations/*.ga.js
 |----------|-------------|
 | `translations-full.json` | All entries as a JSON array, sorted by `key` |
 | `translations-full.csv` | Same fields for Excel/Google Sheets (UTF-8 with BOM) |
+| `translations-slim.json` | AI review: only `key`, `english`, `irish` (see `tools/export_slim_translations.py`) |
+| `translations-slim.jsonl` | Same slim rows, one object per line (optional `--jsonl`) |
 
 ## Snapshot
 
@@ -105,7 +107,15 @@ Optional paths:
 python tools/export_all_translations.py --trans-dir plugins/irish-mod/Translations --export-dir exports
 ```
 
-Each row includes `key`, `english`, `irish`, `sourceFile`, file-level metadata (`pendingApiKey`, `machineAssisted`, `screen_id`, …), and per-entry `translationMethod`. Keys are deduplicated across files (first file in sorted filename order wins).
+Slim export for AI review:
+
+```bash
+python tools/export_slim_translations.py --jsonl
+```
+
+Workflow: [docs/ai-review-workflow.md](../docs/ai-review-workflow.md).
+
+Each full-export row includes `key`, `english`, `irish`, `sourceFile`, file-level metadata (`pendingApiKey`, `machineAssisted`, `screen_id`, …), and per-entry `translationMethod`. Keys are deduplicated across files (first file in sorted filename order wins).
 """
     path.write_text(body, encoding="utf-8")
 
