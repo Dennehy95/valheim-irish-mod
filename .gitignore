@@ -34,6 +34,7 @@ icon.png.bak
 
 # Python tooling (regenerate via tools/build_item_mt_cache.py)
 tools/__pycache__/
+**/__pycache__/
 tools/item-names_mt_cache.json
 tools/llm_review_config.json
 exports/llm-review/
