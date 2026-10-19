@@ -93,6 +93,16 @@ def main() -> int:
         help="Output screen slug, e.g. fejd-root-main-menu",
     )
     parser.add_argument(
+        "--screen-title",
+        default="",
+        help="Human-readable screen name for the extract JSON",
+    )
+    parser.add_argument(
+        "--scope-notes",
+        default="",
+        help="Short rationale for what is included/excluded in this scope",
+    )
+    parser.add_argument(
         "--out",
         type=Path,
         required=True,
@@ -123,14 +133,13 @@ def main() -> int:
             }
         )
 
+    screen_title = args.screen_title.strip() or args.screen_id.replace("-", " ").title()
+    scope_notes = args.scope_notes.strip() or f"Keys from scope file {args.scope.as_posix()}."
+
     payload = {
         "screen_id": args.screen_id,
-        "screen_title": "FejdStartup root main menu",
-        "scope_notes": (
-            "Primary title-screen button row and same-view footer links "
-            "(changelog, feedback, mod notice, etc.). Excludes character/world "
-            "select, settings panels, and loading health-warning overlays."
-        ),
+        "screen_title": screen_title,
+        "scope_notes": scope_notes,
         "scope_keys_file": str(args.scope.as_posix()),
         "extracted_at_utc": datetime.now(timezone.utc).isoformat(),
         "method": "static",

@@ -1,0 +1,375 @@
+{
+  "screen_id": "inventory-panel",
+  "locale": "ga",
+  "pendingApiKey": true,
+  "machineAssisted": false,
+  "source_extract": "extracted/inventory-panel.json",
+  "entries": [
+    {
+      "key": "inventory_achievement_secret",
+      "english": "Concealed",
+      "irish": "Folaithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_achievement_secret_description",
+      "english": "Only Odin knows what is hidden here.",
+      "irish": "Níl a fhios ag duine ach Odin cad atá i bhfolach anseo.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_achievements",
+      "english": "Achievements",
+      "irish": "Éachtaí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_activeeffects",
+      "english": "Active effects",
+      "irish": "Éifeachtaí gníomhacha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_blunt",
+      "english": "Blunt",
+      "irish": "Contondach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_chop",
+      "english": "Chop",
+      "irish": "Gearr",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_craftbutton",
+      "english": "Craft",
+      "irish": "Déan",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_crafting",
+      "english": "Crafting",
+      "irish": "Déantús",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_craftingprog",
+      "english": "Crafting",
+      "irish": "Ag déantú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_damage",
+      "english": "Damage",
+      "irish": "Damáiste",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_dmgmod",
+      "english": "Damage modifier",
+      "irish": "Modhnóir damáiste",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_drop",
+      "english": "Drop",
+      "irish": "Scaoil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_fire",
+      "english": "Fire",
+      "irish": "Tine",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_frost",
+      "english": "Frost",
+      "irish": "Sioc",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_full",
+      "english": "Inventory full",
+      "irish": "Inventar lán",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_immune",
+      "english": "Immune",
+      "irish": "Díolmhaithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_lightning",
+      "english": "Lightning",
+      "irish": "Tintreach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_logs",
+      "english": "Message log",
+      "irish": "Loga teachtaireachtaí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_logs_new",
+      "english": "New unlocks in message log.",
+      "irish": "Díghlasálacha nua sa loga teachtaireachtaí.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_maxquality",
+      "english": "Max quality",
+      "irish": "Uaschaighdeán",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_move",
+      "english": "Move",
+      "irish": "Bog",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_needspace",
+      "english": "You need more free inventory space",
+      "irish": "Teastaíonn níos mó spása saor i d'inventar uait",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_new",
+      "english": "New item",
+      "irish": "Mír nua",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_onlyoneingredient",
+      "english": "This recipe requires only one of the shown ingredients.",
+      "irish": "Ní theastaíonn ach ceann amháin de na comhábhair a thaispeántar don chóirse seo.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_pickaxe",
+      "english": "Pickaxe",
+      "irish": "Piocóid",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_pickup",
+      "english": "Pick up",
+      "irish": "Bailigh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_pierce",
+      "english": "Pierce",
+      "irish": "Tríoll",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_poison",
+      "english": "Poison",
+      "irish": "Nimh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_pvp",
+      "english": "Take damage from other players (friendly fire)",
+      "irish": "Glac damáiste ó imreoirí eile (tine chairdiúil)",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_quality",
+      "english": "Quality",
+      "irish": "Caighdeán",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_recipes",
+      "english": "Recipes",
+      "irish": "Cóirseanna",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_repairbutton",
+      "english": "Repair an item",
+      "irish": "Deisigh mír",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_resistant",
+      "english": "Resistant",
+      "irish": "Frithsheasmhach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_selectedgp",
+      "english": "Selected Forsaken power",
+      "irish": "Cumhacht na bFiáin roghnaithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_siege",
+      "english": "Siege",
+      "irish": "Seigé",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_skills",
+      "english": "Skills",
+      "irish": "Scileanna",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_slash",
+      "english": "Slash",
+      "irish": "Sleasadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_slightlyresistant",
+      "english": "Slightly resistant",
+      "irish": "Go beag frithsheasmhach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_slightlyweak",
+      "english": "Slightly weak",
+      "irish": "Go beag lag",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_spirit",
+      "english": "Spirit",
+      "irish": "Spiorad",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_split",
+      "english": "Split",
+      "irish": "Roinn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_splitstack",
+      "english": "Split stack",
+      "irish": "Roinn cruach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_stackall",
+      "english": "Place stacks",
+      "irish": "Cuir cruachanna",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_stationlevel",
+      "english": "Station level (Raise by building improvements)",
+      "irish": "Leibhéal an stáisiúin (ardaigh trí fheabhsuithe a thógáil)",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_stationlevelreq",
+      "english": "Required station level",
+      "irish": "Leibhéal stáisiúin riachtanach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_stats",
+      "english": "Player Statistics",
+      "irish": "Staitisticí an imreora",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_style",
+      "english": "Style",
+      "irish": "Stíl",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_tabs",
+      "english": "Change window",
+      "irish": "Athraigh fuinneog",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_takeall",
+      "english": "Take all",
+      "irish": "Tóg gach rud",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_texts",
+      "english": "Valheim Compendium",
+      "irish": "Comhchruinneas Valheim",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_totalskill",
+      "english": "Total skill",
+      "irish": "Scil iomlán",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_transfer",
+      "english": "Transfer",
+      "irish": "Aistrigh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_trophies",
+      "english": "Trophies",
+      "irish": "Trófae",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_upgrade",
+      "english": "Upgrade $1 quality to $2",
+      "irish": "Uasghrádaigh caighdeán $1 go $2",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_upgradebutton",
+      "english": "Upgrade",
+      "irish": "Uasghrádú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_upgraderbutton",
+      "english": "Attempt Refinement",
+      "irish": "Iarracht scagtha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_upgraderwarning",
+      "english": "Maximum safe quality. Refinement may break your item.",
+      "irish": "Uaschaighdeán sábháilte. D’fhéadfadh scagadh do mhír a bhriseadh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_use",
+      "english": "Use/equip ",
+      "irish": "Úsáid/gléas ",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_veryresistant",
+      "english": "Very resistant",
+      "irish": "An-frithsheasmhach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_veryweak",
+      "english": "Very weak",
+      "irish": "An-lag",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "inventory_weak",
+      "english": "Weak",
+      "irish": "Lag",
+      "translationMethod": "manual"
+    }
+  ]
+}

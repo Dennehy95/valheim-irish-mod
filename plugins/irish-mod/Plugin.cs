@@ -29,23 +29,23 @@ namespace IrishMod
                 "Display",
                 "ToggleIrishKey",
                 KeyCode.F7,
-                "Key to toggle main-menu Irish display (Irish + [English]) vs vanilla English.");
+                "Key to toggle Irish learner display (Irish + [English]) vs vanilla English for wired keys.");
 
             _irishModeDefault = Config.Bind(
                 "Display",
                 "IrishLearnerModeOnStart",
                 false,
-                "If true, main menu starts in Irish + [English] mode; if false, vanilla English until you press the toggle key.");
+                "If true, wired UI starts in Irish + [English] mode; if false, vanilla English until you press the toggle key.");
 
             IrishLearnerModeEnabled = _irishModeDefault.Value;
 
-            MainMenuTranslationCache.LoadFromPluginFolder(Log);
+            IrishTranslationCache.LoadFromPluginFolder(Log);
 
             _harmony = new Harmony(PluginInfo.PLUGIN_GUID);
             _harmony.PatchAll(typeof(Plugin).Assembly);
 
             Log.LogInfo(
-                $"{PluginInfo.PLUGIN_NAME} {PluginInfo.PLUGIN_VERSION} loaded. Main menu keys: {MainMenuTranslationCache.LoadedCount}. " +
+                $"{PluginInfo.PLUGIN_NAME} {PluginInfo.PLUGIN_VERSION} loaded. Wired keys: {IrishTranslationCache.LoadedCount}. " +
                 $"Irish mode: {(IrishLearnerModeEnabled ? "on" : "off")}. Toggle: {_toggleKey.Value}.");
         }
 
@@ -55,7 +55,7 @@ namespace IrishMod
                 return;
 
             IrishLearnerModeEnabled = !IrishLearnerModeEnabled;
-            Log.LogInfo($"Main menu Irish learner mode: {(IrishLearnerModeEnabled ? "ON (Irish + [English])" : "OFF (English)")}.");
+            Log.LogInfo($"Irish learner mode: {(IrishLearnerModeEnabled ? "ON (Irish + [English])" : "OFF (English)")}.");
 
             TryRefreshMainMenuLocalization();
         }
@@ -82,6 +82,6 @@ namespace IrishMod
     {
         public const string PLUGIN_GUID = "com.dennehy95.valheim.irishmod";
         public const string PLUGIN_NAME = "Valheim Irish Mod";
-        public const string PLUGIN_VERSION = "0.2.0";
+        public const string PLUGIN_VERSION = "0.3.0";
     }
 }

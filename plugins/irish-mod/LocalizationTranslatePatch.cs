@@ -10,7 +10,7 @@ namespace IrishMod
             if (!Plugin.IrishLearnerModeEnabled)
                 return;
 
-            if (!MainMenuTranslationCache.TryGet(word, out var entry))
+            if (!IrishTranslationCache.TryGet(word, out var entry))
                 return;
 
             var english = string.IsNullOrEmpty(__result) ? entry.English : __result;

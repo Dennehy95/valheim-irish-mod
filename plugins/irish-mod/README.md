@@ -1,13 +1,13 @@
 # Irish Mod (BepInEx plugin)
 
-Valheim BepInEx plugin for Irish (Gaeilge) on the **FejdStartup root main menu** (14 scoped keys).
+Valheim BepInEx plugin for Irish (Gaeilge) on scoped UI keys (main menu + in-game inventory panel).
 
 - **GUID:** `com.dennehy95.valheim.irishmod`
-- **Version:** `0.2.0`
+- **Version:** `0.3.0`
 
-## Part 3 — main menu Irish
+## Part 3 — scoped Irish (F7 learner mode)
 
-- Harmony postfix on `Localization.Translate` for keys in `Translations/fejd-root-main-menu.ga.json` only.
+- Harmony postfix on `Localization.Translate` for keys loaded from `Translations/*.ga.json` (main menu + inventory panel).
 - **Default:** vanilla English for those keys.
 - **Toggle key (default F7):** Irish plus original English in brackets, e.g. `Socruithe [Settings]`.
 - Config (`BepInEx/config/com.dennehy95.valheim.irishmod.cfg`): `Display.ToggleIrishKey`, `Display.IrishLearnerModeOnStart`.
@@ -35,7 +35,7 @@ dotnet build `
 2. Copy `bin/Debug/net472/IrishMod.dll` and the `Translations` folder to your Valheim folder:
 
    `BepInEx/plugins/Dennehy95-Valheim_Irish_Mod/IrishMod.dll`  
-   `BepInEx/plugins/Dennehy95-Valheim_Irish_Mod/Translations/fejd-root-main-menu.ga.json`
+   `BepInEx/plugins/Dennehy95-Valheim_Irish_Mod/Translations/*.ga.json`
 
 3. Repeat on the **dedicated server** Valheim install if you mirror client plugins there.
 
