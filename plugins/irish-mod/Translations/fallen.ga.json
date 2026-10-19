@@ -1,0 +1,489 @@
+{
+  "screen_id": "fallen",
+  "locale": "ga",
+  "pendingApiKey": true,
+  "machineAssisted": false,
+  "source_extract": "extracted/fallen.json",
+  "entries": [
+    {
+      "key": "fallen_viking_randomend_1",
+      "english": "You are worthy.",
+      "irish": "Tá tú fiú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomend_10",
+      "english": "It appears you are worthy.",
+      "irish": "Dealraíonn sé go bhfuil tú fiú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomend_11",
+      "english": "I can see your skills.",
+      "irish": "Is féidir liom do chuid scileanna a fheiceáil.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomend_12",
+      "english": "The ancestors smile upon you.",
+      "irish": "An sinsear aoibh gháire ar tú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomend_13",
+      "english": "The Valkyries chose well.",
+      "irish": "Roghnaigh na Valkyries go maith.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomend_14",
+      "english": "At long last.",
+      "irish": "Ar deireadh fada.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomend_15",
+      "english": "Now I can rest.",
+      "irish": "Anois is féidir liom a chuid eile.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomend_16",
+      "english": "A battle well fought.",
+      "irish": "A cath throid go maith.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomend_17",
+      "english": "Go now, with our blessing.",
+      "irish": "Téigh anois, lenár blessing.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomend_18",
+      "english": "You fight for all of us now.",
+      "irish": "Troid tú do gach duine againn anois.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomend_19",
+      "english": "We shall watch your progress with interest.",
+      "irish": "Déanfaimid féachaint ar do dhul chun cinn le hús.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomend_2",
+      "english": "You have proven yourself.",
+      "irish": "Tá tú cruthaithe duit féin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomend_20",
+      "english": "You are capable indeed.",
+      "irish": "Tá tú in ann go deimhin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomend_3",
+      "english": "Well fought, warrior.",
+      "irish": "Bhuel throid, laoch.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomend_4",
+      "english": "A true champion.",
+      "irish": "A curadh fíor.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomend_5",
+      "english": "You are destined for victory.",
+      "irish": "Tá tú i ndán do bua.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomend_6",
+      "english": "A worthy battle indeed.",
+      "irish": "A cath fiú go deimhin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomend_7",
+      "english": "It has been an honour.",
+      "irish": "Tá sé ina onóir.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomend_8",
+      "english": "You fight well.",
+      "irish": "Tá tú ag troid go maith.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomend_9",
+      "english": "You are a mighty warrior.",
+      "irish": "Tá tú laoch mighty.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomstart_1",
+      "english": "Let us see what you are capable of!",
+      "irish": "Lig dúinn a fheiceáil cad tá tú in ann!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomstart_10",
+      "english": "You seek to challenge me?",
+      "irish": "Iarrtar ort dúshlán a thabhairt dom?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomstart_11",
+      "english": "Now this I have been waiting for!",
+      "irish": "Anois seo tá mé ag fanacht!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomstart_12",
+      "english": "Fight me then!",
+      "irish": "An comhrac dom ansin!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomstart_13",
+      "english": "Prove your might!",
+      "irish": "Cruthaigh d'fhéadfadh!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomstart_14",
+      "english": "Is it blood that you are after?",
+      "irish": "An bhfuil sé fola go bhfuil tú tar éis?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomstart_15",
+      "english": "For victory!",
+      "irish": "Chun bua!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomstart_16",
+      "english": "Come on then!",
+      "irish": "Tar ar ansin!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomstart_17",
+      "english": "Is it a fight you crave?",
+      "irish": "An bhfuil sé troid crave tú?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomstart_18",
+      "english": "At last!",
+      "irish": "Ag seo caite!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomstart_19",
+      "english": "Shall we duel?",
+      "irish": "Beidh muid ag duel?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomstart_2",
+      "english": "Show me what you can do!",
+      "irish": "Taispeáin dom cad is féidir leat a dhéanamh!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomstart_20",
+      "english": "Do not be shy, fight me!",
+      "irish": "Ná bheith cúthail, troid dom!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomstart_3",
+      "english": "Prove yourself!",
+      "irish": "Cruthaigh tú féin!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomstart_4",
+      "english": "Are you worthy?",
+      "irish": "An bhfuil tú fiú?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomstart_5",
+      "english": "Let us see if you are worthy!",
+      "irish": "Lig dúinn a fheiceáil má tá tú fiú!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomstart_6",
+      "english": "Do you think you can defeat me?",
+      "irish": "An gceapann tú gur féidir leat a defeat dom?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomstart_7",
+      "english": "May the best warrior triumph!",
+      "irish": "Bealtaine an bua laoch is fearr!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomstart_8",
+      "english": "Shall we see who is the strongest?",
+      "irish": "Feicfidh muid cé hé an láidre?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomstart_9",
+      "english": "Finally a challenger!",
+      "irish": "Ar deireadh thiar, dúshlán!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_1",
+      "english": "Is that the best you can do?",
+      "irish": "An é sin an chuid is fearr is féidir leat a dhéanamh?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_10",
+      "english": "Is this a jest?",
+      "irish": "An bhfuil sé seo jest?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_11",
+      "english": "Is that all you have?",
+      "irish": "An bhfuil go léir agat?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_12",
+      "english": "What else can you do?",
+      "irish": "Cad eile is féidir leat a dhéanamh?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_13",
+      "english": "Now this is a fight!",
+      "irish": "Anois tá sé seo troid!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_14",
+      "english": "Let the blood stain the ground!",
+      "irish": "Lig an fhuil stain an talamh!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_15",
+      "english": "Prove yourself then! Do it!",
+      "irish": "Cruthaigh tú féin ansin! An bhfuil sé!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_16",
+      "english": "Strike with all your might!",
+      "irish": "Stailc le gach d'fhéadfadh!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_17",
+      "english": "I have seen mice more ferocious than you!",
+      "irish": "Feicthe agam lucha níos ferocious ná tú!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_18",
+      "english": "An old spoon could hit harder than you!",
+      "irish": "D'fhéadfadh sean spúnóg bhuail níos deacra ná tú!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_19",
+      "english": "What a puny excuse for a champion!",
+      "irish": "Cad leithscéal puny do curadh!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_2",
+      "english": "Come on! Fight me then!",
+      "irish": "Tar ar! An comhrac dom ansin!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_20",
+      "english": "Are you all they could muster?",
+      "irish": "An bhfuil tú go léir a d'fhéadfadh siad muster?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_21",
+      "english": "They truly let anyone pick up a weapon these days!",
+      "irish": "Lig siad go fírinneach duine ar bith a phiocadh suas arm na laethanta!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_22",
+      "english": "Do not humiliate your ancestors!",
+      "irish": "Ná humiliate do sinsear!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_23",
+      "english": "A child could fight better!",
+      "irish": "D'fhéadfadh leanbh troid níos fearr!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_24",
+      "english": "Are you truly even a viking?",
+      "irish": "An bhfuil tú go fírinneach fiú inmharthana?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_25",
+      "english": "Come now, surely that is not all?",
+      "irish": "Tar anois, surely nach bhfuil go léir?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_26",
+      "english": "Pathetic! Again!",
+      "irish": "Pathetic! Arís!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_27",
+      "english": "You call this fighting?",
+      "irish": "Iarrann tú an troid seo?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_28",
+      "english": "And you call yourself a champion?",
+      "irish": "Agus tú ag glaoch tú féin le curadh?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_29",
+      "english": "Did no one ever teach you proper footwork?",
+      "irish": "An raibh aon duine riamh a mhúineadh tú footwork ceart?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_3",
+      "english": "You can do better than that!",
+      "irish": "Is féidir leat a dhéanamh níos fearr ná sin!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_30",
+      "english": "Is that truly the weapon you will bring to this fight?",
+      "irish": "An bhfuil go fírinneach an t-arm a bheidh tú a thabhairt chun an troid?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_31",
+      "english": "A greyling has more finesse than you!",
+      "irish": "Tá grayling níos mó finesse ná tú!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_32",
+      "english": "Did the Valkyries make a mistake with you?",
+      "irish": "An ndearna na Valkyries botún leat?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_33",
+      "english": "Do not hold back!",
+      "irish": "Ná shealbhú ar ais!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_34",
+      "english": "A champion must strike true!",
+      "irish": "Ní mór curadh a bhaint amach fíor!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_35",
+      "english": "This is no place for weakness!",
+      "irish": "Níl an Tweet seo ar fáil.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_36",
+      "english": "Long have I waited for this!",
+      "irish": "Fada tar éis fanacht liom seo!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_37",
+      "english": "Do you wish for me to slay you?",
+      "irish": "Ar mhaith leat dom a slay tú?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_38",
+      "english": "I know you must be better than this!",
+      "irish": "Tá a fhios agam ní mór duit a bheith níos fearr ná seo!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_39",
+      "english": "You have not come all this way for nothing!",
+      "irish": "Nach bhfuil tú teacht ar fad ar an mbealach seo le haghaidh rud ar bith!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_4",
+      "english": "Surely this is not your full power?",
+      "irish": "Níl an Tweet seo ar fáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_40",
+      "english": "You must be one with your weapon!",
+      "irish": "Ní mór duit a bheith ar cheann le do arm!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_5",
+      "english": "Is that all?",
+      "irish": "An bhfuil go léir?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_6",
+      "english": "You must be stronger than this!",
+      "irish": "Ní mór duit a bheith níos láidre ná seo!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_7",
+      "english": "Are you supposed to be worthy?",
+      "irish": "An bhfuil tú ceaptha a bheith fiú?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_8",
+      "english": "Do not shame us!",
+      "irish": "Ná náire dúinn!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_9",
+      "english": "You forget your place!",
+      "irish": "dearmad tú d'áit!",
+      "translationMethod": "manual"
+    }
+  ]
+}

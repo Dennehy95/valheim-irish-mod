@@ -1,0 +1,414 @@
+{
+  "screen_id": "fallen",
+  "screen_title": "Fallen",
+  "scope_notes": "Keys from scope file tools/scopes/fallen.keys.txt.",
+  "scope_keys_file": "tools/scopes/fallen.keys.txt",
+  "extracted_at_utc": "2026-10-19T18:42:19.902658+00:00",
+  "method": "static",
+  "game_path": "A:\\Steam\\steamapps\\common\\Valheim",
+  "resources_assets_sha256": "f0274fe60c807842352a049f3762b7a08965bdbfe759dfbb16f90272e51c6bdb",
+  "key_count": 80,
+  "entries": [
+    {
+      "key": "fallen_viking_randomend_1",
+      "english": "You are worthy.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomend_10",
+      "english": "It appears you are worthy.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomend_11",
+      "english": "I can see your skills.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomend_12",
+      "english": "The ancestors smile upon you.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomend_13",
+      "english": "The Valkyries chose well.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomend_14",
+      "english": "At long last.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomend_15",
+      "english": "Now I can rest.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomend_16",
+      "english": "A battle well fought.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomend_17",
+      "english": "Go now, with our blessing.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomend_18",
+      "english": "You fight for all of us now.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomend_19",
+      "english": "We shall watch your progress with interest.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomend_2",
+      "english": "You have proven yourself.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomend_20",
+      "english": "You are capable indeed.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomend_3",
+      "english": "Well fought, warrior.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomend_4",
+      "english": "A true champion.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomend_5",
+      "english": "You are destined for victory.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomend_6",
+      "english": "A worthy battle indeed.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomend_7",
+      "english": "It has been an honour.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomend_8",
+      "english": "You fight well.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomend_9",
+      "english": "You are a mighty warrior.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomstart_1",
+      "english": "Let us see what you are capable of!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomstart_10",
+      "english": "You seek to challenge me?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomstart_11",
+      "english": "Now this I have been waiting for!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomstart_12",
+      "english": "Fight me then!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomstart_13",
+      "english": "Prove your might!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomstart_14",
+      "english": "Is it blood that you are after?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomstart_15",
+      "english": "For victory!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomstart_16",
+      "english": "Come on then!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomstart_17",
+      "english": "Is it a fight you crave?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomstart_18",
+      "english": "At last!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomstart_19",
+      "english": "Shall we duel?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomstart_2",
+      "english": "Show me what you can do!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomstart_20",
+      "english": "Do not be shy, fight me!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomstart_3",
+      "english": "Prove yourself!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomstart_4",
+      "english": "Are you worthy?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomstart_5",
+      "english": "Let us see if you are worthy!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomstart_6",
+      "english": "Do you think you can defeat me?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomstart_7",
+      "english": "May the best warrior triumph!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomstart_8",
+      "english": "Shall we see who is the strongest?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomstart_9",
+      "english": "Finally a challenger!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_1",
+      "english": "Is that the best you can do?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_10",
+      "english": "Is this a jest?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_11",
+      "english": "Is that all you have?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_12",
+      "english": "What else can you do?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_13",
+      "english": "Now this is a fight!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_14",
+      "english": "Let the blood stain the ground!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_15",
+      "english": "Prove yourself then! Do it!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_16",
+      "english": "Strike with all your might!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_17",
+      "english": "I have seen mice more ferocious than you!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_18",
+      "english": "An old spoon could hit harder than you!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_19",
+      "english": "What a puny excuse for a champion!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_2",
+      "english": "Come on! Fight me then!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_20",
+      "english": "Are you all they could muster?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_21",
+      "english": "They truly let anyone pick up a weapon these days!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_22",
+      "english": "Do not humiliate your ancestors!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_23",
+      "english": "A child could fight better!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_24",
+      "english": "Are you truly even a viking?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_25",
+      "english": "Come now, surely that is not all?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_26",
+      "english": "Pathetic! Again!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_27",
+      "english": "You call this fighting?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_28",
+      "english": "And you call yourself a champion?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_29",
+      "english": "Did no one ever teach you proper footwork?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_3",
+      "english": "You can do better than that!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_30",
+      "english": "Is that truly the weapon you will bring to this fight?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_31",
+      "english": "A greyling has more finesse than you!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_32",
+      "english": "Did the Valkyries make a mistake with you?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_33",
+      "english": "Do not hold back!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_34",
+      "english": "A champion must strike true!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_35",
+      "english": "This is no place for weakness!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_36",
+      "english": "Long have I waited for this!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_37",
+      "english": "Do you wish for me to slay you?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_38",
+      "english": "I know you must be better than this!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_39",
+      "english": "You have not come all this way for nothing!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_4",
+      "english": "Surely this is not your full power?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_40",
+      "english": "You must be one with your weapon!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_5",
+      "english": "Is that all?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_6",
+      "english": "You must be stronger than this!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_7",
+      "english": "Are you supposed to be worthy?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_8",
+      "english": "Do not shame us!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fallen_viking_randomtaunt_9",
+      "english": "You forget your place!",
+      "source_asset": "localization"
+    }
+  ],
+  "missing_keys": []
+}

@@ -3,7 +3,7 @@
 Valheim BepInEx plugin for Irish (Gaeilge) on scoped localization keys (menus, HUD, settings, and item names).
 
 - **GUID:** `com.dennehy95.valheim.irishmod`
-- **Version:** `0.7.0`
+- **Version:** `0.8.0`
 
 ## Part 3 — scoped Irish (F8 display cycle)
 
@@ -21,6 +21,7 @@ Valheim BepInEx plugin for Irish (Gaeilge) on scoped localization keys (menus, H
 - **v0.5.0 coverage batches:** `piece-names.ga.json` (~786), `npc-dialogue.ga.json` (~350), `menus-rest.ga.json` (~226) — same Argos + rule fallback pipeline; QA pass deferred.
 - **v0.6.0 coverage batches:** `status-effects.ga.json` (223), `fallen-warrior.ga.json` (202), `tutorial.ga.json` (165) — same pipeline; QA pass deferred.
 - **v0.7.0 coverage batches:** `lore.ga.json` (144), `enemy-names.ga.json` (138), `captions.ga.json` (132) — same pipeline; QA pass deferred.
+- **v0.8.0 coverage batches:** `achievements.ga.json` (110), `fallen.ga.json` (80), `events.ga.json` (54) — same pipeline; QA pass deferred.
 
 ## Prerequisites
 

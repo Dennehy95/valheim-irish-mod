@@ -1,0 +1,564 @@
+{
+  "screen_id": "achievements",
+  "screen_title": "Achievements",
+  "scope_notes": "Keys from scope file tools/scopes/achievements.keys.txt.",
+  "scope_keys_file": "tools/scopes/achievements.keys.txt",
+  "extracted_at_utc": "2026-10-19T18:41:57.097715+00:00",
+  "method": "static",
+  "game_path": "A:\\Steam\\steamapps\\common\\Valheim",
+  "resources_assets_sha256": "f0274fe60c807842352a049f3762b7a08965bdbfe759dfbb16f90272e51c6bdb",
+  "key_count": 110,
+  "entries": [
+    {
+      "key": "ach_allbosses",
+      "english": "The Viking",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_allbosses_desc",
+      "english": "Defeat all bosses on any difficulty.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_allbosseshard",
+      "english": "The Toughest Viking",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_allbosseshard_desc",
+      "english": "Defeat all bosses on hard difficulty.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_allbossesnormal",
+      "english": "The Tough Viking",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_allbossesnormal_desc",
+      "english": "Defeat all bosses on normal difficulty or higher.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_allbossesunarmed",
+      "english": "The Pugilist",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_allbossesunarmed_desc",
+      "english": "Defeat all bosses using only your fists.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_allbuildpieces",
+      "english": "The Carpenter",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_allbuildpieces_desc",
+      "english": "Build everything.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_allfoodcooked",
+      "english": "The Master Chef",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_allfoodcooked_desc",
+      "english": "Cook every kind of dish.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_allfoodeaten",
+      "english": "The Gourmet",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_allfoodeaten_desc",
+      "english": "Eat every kind of edible item.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_allitemcraft",
+      "english": "The Artisan",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_allitemcraft_desc",
+      "english": "Craft every kind of item.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_allminibosses",
+      "english": "Odin is Pleased",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_allminibosses_desc",
+      "english": "Defeat all minibosses.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_allweaponcraft",
+      "english": "The Blacksmith",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_allweaponcraft_desc",
+      "english": "Craft every kind of weapon.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_arrived",
+      "english": "I Have Arrived!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_arrived_desc",
+      "english": "Enter the tenth world.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_bigfish",
+      "english": "A Catch Worthy of Njord",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_bigfish_desc",
+      "english": "Catch a four star fish.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_boss1eikthyr",
+      "english": "Eikthyr",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_boss1eikthyr_desc",
+      "english": "Defeat the Lightning Stag.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_boss2elder",
+      "english": "The Elder",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_boss2elder_desc",
+      "english": "Defeat the Living Forest.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_boss3bonemass",
+      "english": "Bonemass",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_boss3bonemass_desc",
+      "english": "Defeat the Writhing Dead.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_boss4moder",
+      "english": "Moder",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_boss4moder_desc",
+      "english": "Defeat the Dragon Mother.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_boss5yagluth",
+      "english": "Yagluth",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_boss5yagluth_desc",
+      "english": "Defeat the Twisted Soul.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_boss6queen",
+      "english": "The Seeker Queen",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_boss6queen_desc",
+      "english": "Defeat the Crawling Matriarch.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_boss7fader",
+      "english": "Fader",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_boss7fader_desc",
+      "english": "Defeat the Emerald Flame.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_boss8frozenking",
+      "english": "Kall Fimbulbringer",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_boss8frozenking_desc",
+      "english": "Defeat the Shackled One.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_builddyrnwyn",
+      "english": "The Chosen One",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_builddyrnwyn_desc",
+      "english": "Assemble Dyrnwyn.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_buildhigh",
+      "english": "Mighty Halls",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_buildhigh_desc",
+      "english": "Raise a very tall structure.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_buildhighworld",
+      "english": "Top of the World",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_buildhighworld_desc",
+      "english": "Build something very high up.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_buildhouse",
+      "english": "The Homesteader",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_buildhouse_desc",
+      "english": "Build a house.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_buildvillage",
+      "english": "The Architect",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_buildvillage_desc",
+      "english": "Build a village.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_childofodin",
+      "english": "Child of Odin",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_childofodin_desc",
+      "english": "Embody the spirits of the Toughest Viking, Master Hunter, Survivor and Pathfinder.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_deathbyalltypes",
+      "english": "Are You Alright?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_deathbyalltypes_desc",
+      "english": "Die in every way possible.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_deathbyobliterator",
+      "english": "Obliterated",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_deathbyobliterator_desc",
+      "english": "You stood a bit too close.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_deathbytree",
+      "english": "Accidents Happen",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_deathbytree_desc",
+      "english": "Get killed by a tree.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_deathbytreeall",
+      "english": "That Can't Be an Accident",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_deathbytreeall_desc",
+      "english": "Get killed by every kind of tree.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_everyachievement",
+      "english": "The Most Worthy",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_everyachievement_desc",
+      "english": "Unlock every other achievement.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_explorensew",
+      "english": "The Explorer",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_explorensew_desc",
+      "english": "Travel far in all four directions.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_explorensewnomap",
+      "english": "The Pathfinder",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_explorensewnomap_desc",
+      "english": "Travel far in all four directions, without using a map.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_findalltrophies",
+      "english": "The Trophy Collector",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_findalltrophies_desc",
+      "english": "Collect all trophies.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_firstdeath",
+      "english": "The First of Many",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_firstdeath_desc",
+      "english": "Meet your end, then prepare to do it all again...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_grindbuild",
+      "english": "The Builder",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_grindbuild_desc",
+      "english": "Build 500 pieces.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_grindcomfort",
+      "english": "Comfort is King",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_grindcomfort_desc",
+      "english": "Reach a comfort level of 20.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_grindcook",
+      "english": "The Cook",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_grindcook_desc",
+      "english": "Cook 100 dishes.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_grinddays",
+      "english": "The Survivor",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_grinddays_desc",
+      "english": "Survive for 30 consecutive days.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_grindeat",
+      "english": "No Adventuring On an Empty Stomach",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_grindeat_desc",
+      "english": "Eat 500 items of food.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_grindfish",
+      "english": "The Fisherman",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_grindfish_desc",
+      "english": "Catch every kind of fish.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_grindforager",
+      "english": "The Forager",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_grindforager_desc",
+      "english": "Pick 250 berries and 250 mushrooms.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_grindharvest",
+      "english": "The Farmer",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_grindharvest_desc",
+      "english": "Harvest 500 crops.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_grindhoney",
+      "english": "The Beekeeper",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_grindhoney_desc",
+      "english": "Harvest 500 honey.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_grindleviathan",
+      "english": "No Time For Snoozing",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_grindleviathan_desc",
+      "english": "Awaken a sea creature.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_grindsail",
+      "english": "The Sailor",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_grindsail_desc",
+      "english": "Sail far enough to circle the world twice.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_grindsailhelm",
+      "english": "The Captain",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_grindsailhelm_desc",
+      "english": "Sail far enough to circle the world, while manning the helm.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_grindtreasure",
+      "english": "The Treasure Hunter",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_grindtreasure_desc",
+      "english": "Discover 10 buried treasure chests.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_grindtrees",
+      "english": "The Lumberjack",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_grindtrees_desc",
+      "english": "Cut down 500 trees.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_killallcreatures",
+      "english": "The Hunter",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_killallcreatures_desc",
+      "english": "Kill every kind of creature.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_killallcreatureshard",
+      "english": "The Master Hunter",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_killallcreatureshard_desc",
+      "english": "Kill every kind of creature on hard difficulty.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_kingsqueens",
+      "english": "Kings and Queens of Valheim",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_kingsqueens_desc",
+      "english": "Embody the spirits of the Viking, Hunter, Artisan, Master Chef, Carpenter and the Explorer.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_multiplayerboss",
+      "english": "Stronger Together",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_multiplayerboss_desc",
+      "english": "Kill a boss together with a friend.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_sailedge",
+      "english": "The Legends Are True",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_sailedge_desc",
+      "english": "Sail over the edge of the world.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_soloboss",
+      "english": "Lone Wolf",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ach_soloboss_desc",
+      "english": "Kill a boss all by yourself.",
+      "source_asset": "localization"
+    }
+  ],
+  "missing_keys": []
+}

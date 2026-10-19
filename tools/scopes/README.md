@@ -133,4 +133,21 @@ python tools/run_coverage_batch.py --scope tools/scopes/lore.keys.txt --screen-i
 
 (Same pattern for `enemy-names` and `captions`.)
 
+## Batch 8 — achievements, fallen, events (`ach_*`, `fallen_*`, `event_*`)
+
+| File | Prefix | Keys |
+|------|--------|------|
+| `achievements.keys.txt` | `ach_` | 110 |
+| `fallen.keys.txt` | `fallen_` | 80 |
+| `events.keys.txt` | `event_` | 54 |
+
+`fallen_` does not include `fallenwarrior_*` (batch 6).
+
+```powershell
+python tools/generate_prefix_scope.py --prefix ach_ --out tools/scopes/achievements.keys.txt
+python tools/run_coverage_batch.py --scope tools/scopes/achievements.keys.txt --screen-id achievements --screen-title "Achievements" --extract plugins/irish-mod/extracted/achievements.json --irish-map tools/achievements_irish_map.json --ga-out plugins/irish-mod/Translations/achievements.ga.json
+```
+
+(Same pattern for `fallen` and `events`.)
+
 Vanilla key census: `python tools/count_vanilla_keys.py`.

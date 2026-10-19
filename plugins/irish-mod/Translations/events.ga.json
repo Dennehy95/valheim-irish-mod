@@ -1,0 +1,333 @@
+{
+  "screen_id": "events",
+  "locale": "ga",
+  "pendingApiKey": true,
+  "machineAssisted": false,
+  "source_extract": "extracted/events.json",
+  "entries": [
+    {
+      "key": "event_bats_end",
+      "english": "The cauldron calms",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_bats_start",
+      "english": "You stirred the cauldron",
+      "irish": "Thréig tú an cauldron",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_bonemassarmy_end",
+      "english": "The smell is gone",
+      "irish": "Tá an boladh imithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_bonemassarmy_start",
+      "english": "A foul smell from the swamp...",
+      "irish": "Boladh salach ón swamp...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_boss01_end",
+      "english": "Eikthyr's defeated.",
+      "irish": "Eikthyr ar defeated.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_boss01_start",
+      "english": "Eikthyr's awakened!",
+      "irish": "Dúisigh Eikthyr!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_boss02_end",
+      "english": "The Elder's defeated.",
+      "irish": "An Elder defeated.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_boss02_start",
+      "english": "The Elder's awakened!",
+      "irish": "Dúisigh an Elder!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_boss03_end",
+      "english": "Bonemass' defeated.",
+      "irish": "Bonemass' defeated.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_boss03_start",
+      "english": "Bonemass' awakened!",
+      "irish": "Bonemass 'dúisigh!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_boss04_end",
+      "english": "Moder's defeated.",
+      "irish": "Moder ar defeated.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_boss04_start",
+      "english": "Moder's awakened!",
+      "irish": "Dúisigh Moder!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_boss05_end",
+      "english": "King Yagluth's defeated.",
+      "irish": "Rí Yagluth ar defeated.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_boss05_start",
+      "english": "King Yagluth's awakened!",
+      "irish": "Rí Yagluth ar awakened!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_caves_end",
+      "english": "The howls fade",
+      "irish": "Conas a oibríonn sé",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_caves_start",
+      "english": "Howls echo from the depths...",
+      "irish": "Howls macalla ó na doimhneacht...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_charredarmy_end",
+      "english": "The army retreats",
+      "irish": "Retreats an arm",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_charredarmy_start",
+      "english": "The undead army marches",
+      "irish": "An marches arm undead",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_charredspawnerarmy_start",
+      "english": "The dead have been summoned",
+      "irish": "An marbh a thoghairm",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_charrespawnerarmy_end",
+      "english": "The dead lie still once more",
+      "irish": "An bréag marbh fós uair amháin níos mó",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_eikthyrarmy_end",
+      "english": "The creatures are calming down",
+      "irish": "Na créatúir ag suaimhneach síos",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_eikthyrarmy_start",
+      "english": "Eikthyr rallies the creatures of the forest",
+      "irish": "Eikthyr rallies na créatúir na foraoise",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_elakingarmy_end",
+      "english": "They return to their burrows...",
+      "irish": "Filleann siad ar a gcuid poll...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_elakingarmy_start",
+      "english": "They emerge from below...",
+      "irish": "Tagann siad ó thíos...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_foresttrolls_end",
+      "english": "The shaking begins to fade",
+      "irish": "Tosaíonn an chroitheadh le céimnithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_foresttrolls_start",
+      "english": "The ground is shaking",
+      "irish": "Tá an talamh ag croitheadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_gdkingarmy_end",
+      "english": "The forest rests again",
+      "irish": "Tá an foraoise arís",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_gdkingarmy_start",
+      "english": "The forest is moving...",
+      "irish": "Tá an foraoise ag gluaiseacht...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_gemgoblin_end",
+      "english": "You got 'em",
+      "irish": "Fuair tú 'em",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_gemgoblin_start",
+      "english": "Get 'em!",
+      "irish": "Faigh 'em!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_ghosts_end",
+      "english": "They have been banished, for now...",
+      "irish": "Tá siad banished, le haghaidh anois...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_ghosts_start",
+      "english": "You feel a chill down your spine...",
+      "irish": "Braitheann tú fuar síos do spine...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_gjallarmy_end",
+      "english": "Good bye Gjall",
+      "irish": "Go raibh maith agat",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_gjallarmy_start",
+      "english": "What's up, Gjall?!",
+      "irish": "Cad atá suas, Gjall?!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_goblinarmy_end",
+      "english": "The horde is retreating",
+      "irish": "Is é an horde cúlú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_goblinarmy_start",
+      "english": "The horde is attacking!",
+      "irish": "Is é an horde ionsaí!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_hildirboss1_end",
+      "english": "She got burnt",
+      "irish": "Fuair sí dóite",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_hildirboss1_start",
+      "english": "She's hot on your tail!",
+      "irish": "Tá sí te ar do eireaball!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_hildirboss2_end",
+      "english": "You can chill out",
+      "irish": "Is féidir leat fuarú amach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_hildirboss2_start",
+      "english": "You get the chills...",
+      "irish": "A gheobhaidh tú an chills...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_hildirboss3_end",
+      "english": "You broke the code...again",
+      "irish": "Bhris tú an cód...arís",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_hildirboss3_start",
+      "english": "They were bros, man",
+      "irish": "Bhí siad bros, fear",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_jotunarmy_end",
+      "english": "The Jotun withdraw",
+      "irish": "An Jotun tharraingt siar",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_jotunarmy_start",
+      "english": "The Jotun have found you",
+      "irish": "An Jotun fuair tú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_moderarmy_end",
+      "english": "The cold wind is gone",
+      "irish": "Tá an ghaoth fuar imithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_moderarmy_start",
+      "english": "A cold wind blows from the mountains",
+      "irish": "A blows gaoithe fuar ó na sléibhte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_seekerarmy_end",
+      "english": "The search is over",
+      "irish": "Tá an cuardach os a chionn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_seekerarmy_start",
+      "english": "They sought you out",
+      "irish": "Rinne siad iarracht tú amach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_skeletons_end",
+      "english": "The skeletons are tired of fighting",
+      "irish": "Tá na cnámharlaigh tuirseach de troid",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_skeletons_start",
+      "english": "A skeleton surprise!",
+      "irish": "A iontas creatlach!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_surtlings_end",
+      "english": "The smell is fading",
+      "irish": "Tá an boladh céimnithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_surtlings_start",
+      "english": "There's a smell of sulfur in the air...",
+      "irish": "Níl boladh sulfair san aer...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_wolves_end",
+      "english": "The hunt is over",
+      "irish": "Tá an fiach os a chionn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "event_wolves_start",
+      "english": "You are being hunted...",
+      "irish": "Tá tú á fhiach...",
+      "translationMethod": "manual"
+    }
+  ]
+}

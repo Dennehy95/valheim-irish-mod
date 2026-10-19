@@ -1,0 +1,669 @@
+{
+  "screen_id": "achievements",
+  "locale": "ga",
+  "pendingApiKey": true,
+  "machineAssisted": false,
+  "source_extract": "extracted/achievements.json",
+  "entries": [
+    {
+      "key": "ach_allbosses",
+      "english": "The Viking",
+      "irish": "An Lochlannach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_allbosses_desc",
+      "english": "Defeat all bosses on any difficulty.",
+      "irish": "Defeat gach bosses ar aon deacracht.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_allbosseshard",
+      "english": "The Toughest Viking",
+      "irish": "An bhfuil a fhios agat?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_allbosseshard_desc",
+      "english": "Defeat all bosses on hard difficulty.",
+      "irish": "Defeat gach bosses ar deacracht crua.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_allbossesnormal",
+      "english": "The Tough Viking",
+      "irish": "Amharc ar ár liosta iomlán de shuíomhanna",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_allbossesnormal_desc",
+      "english": "Defeat all bosses on normal difficulty or higher.",
+      "irish": "Defeat gach bosses ar deacracht gnáth nó níos airde.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_allbossesunarmed",
+      "english": "The Pugilist",
+      "irish": "An Pugilist",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_allbossesunarmed_desc",
+      "english": "Defeat all bosses using only your fists.",
+      "irish": "Defeat gach bosses ag baint úsáide as ach do fists.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_allbuildpieces",
+      "english": "The Carpenter",
+      "irish": "An Carpenter",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_allbuildpieces_desc",
+      "english": "Build everything.",
+      "irish": "Tóg gach rud.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_allfoodcooked",
+      "english": "The Master Chef",
+      "irish": "An Máistir Chef",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_allfoodcooked_desc",
+      "english": "Cook every kind of dish.",
+      "irish": "Cook gach cineál mhias.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_allfoodeaten",
+      "english": "The Gourmet",
+      "irish": "An Gourmet",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_allfoodeaten_desc",
+      "english": "Eat every kind of edible item.",
+      "irish": "Eat gach cineál earra inite.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_allitemcraft",
+      "english": "The Artisan",
+      "irish": "An tEalaínisan",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_allitemcraft_desc",
+      "english": "Craft every kind of item.",
+      "irish": "Ceardaíocht gach cineál earra.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_allminibosses",
+      "english": "Odin is Pleased",
+      "irish": "Is maith liom é",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_allminibosses_desc",
+      "english": "Defeat all minibosses.",
+      "irish": "Defeat gach mionbhanna.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_allweaponcraft",
+      "english": "The Blacksmith",
+      "irish": "An gabha Dubh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_allweaponcraft_desc",
+      "english": "Craft every kind of weapon.",
+      "irish": "Ceardaíocht gach cineál arm.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_arrived",
+      "english": "I Have Arrived!",
+      "irish": "Tá mé Arrived!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_arrived_desc",
+      "english": "Enter the tenth world.",
+      "irish": "Cuir isteach an domhan deichiú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_bigfish",
+      "english": "A Catch Worthy of Njord",
+      "irish": "A Catch an Njord",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_bigfish_desc",
+      "english": "Catch a four star fish.",
+      "irish": "Gabháil iasc ceithre réalta.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_boss1eikthyr",
+      "english": "Eikthyr",
+      "irish": "Eikthyr",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_boss1eikthyr_desc",
+      "english": "Defeat the Lightning Stag.",
+      "irish": "Defeat an Stag Lightning.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_boss2elder",
+      "english": "The Elder",
+      "irish": "An Elder",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_boss2elder_desc",
+      "english": "Defeat the Living Forest.",
+      "irish": "Defeat an Foraoise Maireachtála.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_boss3bonemass",
+      "english": "Bonemass",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_boss3bonemass_desc",
+      "english": "Defeat the Writhing Dead.",
+      "irish": "Defeat an Writhing Dead.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_boss4moder",
+      "english": "Moder",
+      "irish": "Déan Teagmháil Linn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_boss4moder_desc",
+      "english": "Defeat the Dragon Mother.",
+      "irish": "Defeat an Máthair Dragon.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_boss5yagluth",
+      "english": "Yagluth",
+      "irish": "An bhfuil a fhios agat?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_boss5yagluth_desc",
+      "english": "Defeat the Twisted Soul.",
+      "irish": "Defeat an Soul Twisted.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_boss6queen",
+      "english": "The Seeker Queen",
+      "irish": "The Seeker Queen",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_boss6queen_desc",
+      "english": "Defeat the Crawling Matriarch.",
+      "irish": "Defeat an Matriarch Crawling.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_boss7fader",
+      "english": "Fader",
+      "irish": "Fader",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_boss7fader_desc",
+      "english": "Defeat the Emerald Flame.",
+      "irish": "Defeat an Flame Emerald.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_boss8frozenking",
+      "english": "Kall Fimbulbringer",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_boss8frozenking_desc",
+      "english": "Defeat the Shackled One.",
+      "irish": "Defeat an ceann Shackled.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_builddyrnwyn",
+      "english": "The Chosen One",
+      "irish": "An rogha a hAon",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_builddyrnwyn_desc",
+      "english": "Assemble Dyrnwyn.",
+      "irish": "Assemble Dyrnwyn.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_buildhigh",
+      "english": "Mighty Halls",
+      "irish": "Mighty Halls",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_buildhigh_desc",
+      "english": "Raise a very tall structure.",
+      "irish": "Ardaigh struchtúr an-ard.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_buildhighworld",
+      "english": "Top of the World",
+      "irish": "Barr an Domhain",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_buildhighworld_desc",
+      "english": "Build something very high up.",
+      "irish": "Tóg rud éigin an-ard suas.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_buildhouse",
+      "english": "The Homesteader",
+      "irish": "The Homesteader Cuntas deimhnithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_buildhouse_desc",
+      "english": "Build a house.",
+      "irish": "Teach a thógáil.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_buildvillage",
+      "english": "The Architect",
+      "irish": "An Ailtire",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_buildvillage_desc",
+      "english": "Build a village.",
+      "irish": "Tógáil sráidbhaile.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_childofodin",
+      "english": "Child of Odin",
+      "irish": "Leanbh Odin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_childofodin_desc",
+      "english": "Embody the spirits of the Toughest Viking, Master Hunter, Survivor and Pathfinder.",
+      "irish": "Embody an bhiotáille an Lochlannach Thiar, Máistir Hunter, Marthanóir agus Pathfinder.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_deathbyalltypes",
+      "english": "Are You Alright?",
+      "irish": "An bhfuil tú Alright?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_deathbyalltypes_desc",
+      "english": "Die in every way possible.",
+      "irish": "Die i ngach slí is féidir.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_deathbyobliterator",
+      "english": "Obliterated",
+      "irish": "Scriosta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_deathbyobliterator_desc",
+      "english": "You stood a bit too close.",
+      "irish": "Sheas tú beagán ró-dlúth.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_deathbytree",
+      "english": "Accidents Happen",
+      "irish": "Timpistí Happen",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_deathbytree_desc",
+      "english": "Get killed by a tree.",
+      "irish": "Faigh maraíodh ag crann.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_deathbytreeall",
+      "english": "That Can't Be an Accident",
+      "irish": "Ní féidir a bheith ina Timpiste",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_deathbytreeall_desc",
+      "english": "Get killed by every kind of tree.",
+      "irish": "Faigh maraíodh ag gach cineál crann.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_everyachievement",
+      "english": "The Most Worthy",
+      "irish": "An chuid is mó",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_everyachievement_desc",
+      "english": "Unlock every other achievement.",
+      "irish": "Díghlasáil gach gnóthachtáil eile.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_explorensew",
+      "english": "The Explorer",
+      "irish": "An Taiscéalaí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_explorensew_desc",
+      "english": "Travel far in all four directions.",
+      "irish": "Taisteal i bhfad i ngach ceithre treoracha.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_explorensewnomap",
+      "english": "The Pathfinder",
+      "irish": "An Conair",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_explorensewnomap_desc",
+      "english": "Travel far in all four directions, without using a map.",
+      "irish": "Taisteal i bhfad i ngach ceithre treoracha, gan léarscáil a úsáid.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_findalltrophies",
+      "english": "The Trophy Collector",
+      "irish": "An Bailitheoir Trófaí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_findalltrophies_desc",
+      "english": "Collect all trophies.",
+      "irish": "Bailigh gach trófaí.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_firstdeath",
+      "english": "The First of Many",
+      "irish": "An Chéad Go leor",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_firstdeath_desc",
+      "english": "Meet your end, then prepare to do it all again...",
+      "irish": "Freastal ar do deireadh, ansin a ullmhú chun é a dhéanamh arís...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_grindbuild",
+      "english": "The Builder",
+      "irish": "An Tógálaí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_grindbuild_desc",
+      "english": "Build 500 pieces.",
+      "irish": "Tóg píosaí 500.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_grindcomfort",
+      "english": "Comfort is King",
+      "irish": "Is maith liom é",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_grindcomfort_desc",
+      "english": "Reach a comfort level of 20.",
+      "irish": "Reach leibhéal chompord de 20.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_grindcook",
+      "english": "The Cook",
+      "irish": "An Cook",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_grindcook_desc",
+      "english": "Cook 100 dishes.",
+      "irish": "Cook 100 miasa.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_grinddays",
+      "english": "The Survivor",
+      "irish": "An marthanóir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_grinddays_desc",
+      "english": "Survive for 30 consecutive days.",
+      "irish": "Maireachtáil ar feadh 30 lá as a chéile.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_grindeat",
+      "english": "No Adventuring On an Empty Stomach",
+      "irish": "Uimh Adventuring Ar Folamh boilg",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_grindeat_desc",
+      "english": "Eat 500 items of food.",
+      "irish": "Eat 500 míreanna bia.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_grindfish",
+      "english": "The Fisherman",
+      "irish": "An Fisherman",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_grindfish_desc",
+      "english": "Catch every kind of fish.",
+      "irish": "Catch gach cineál na iasc.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_grindforager",
+      "english": "The Forager",
+      "irish": "An Forager",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_grindforager_desc",
+      "english": "Pick 250 berries and 250 mushrooms.",
+      "irish": "Pioc 250 caora agus beacáin 250.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_grindharvest",
+      "english": "The Farmer",
+      "irish": "An Feirmeoir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_grindharvest_desc",
+      "english": "Harvest 500 crops.",
+      "irish": "Fómhar 500 barra.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_grindhoney",
+      "english": "The Beekeeper",
+      "irish": "An Beekeeper",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_grindhoney_desc",
+      "english": "Harvest 500 honey.",
+      "irish": "Fómhar 500 mil.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_grindleviathan",
+      "english": "No Time For Snoozing",
+      "irish": "Uimh Am Do Snoozing",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_grindleviathan_desc",
+      "english": "Awaken a sea creature.",
+      "irish": "Ag fanacht créatúr farraige.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_grindsail",
+      "english": "The Sailor",
+      "irish": "An Sailor",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_grindsail_desc",
+      "english": "Sail far enough to circle the world twice.",
+      "irish": "Sail i bhfad go leor chun ciorcal an domhan faoi dhó.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_grindsailhelm",
+      "english": "The Captain",
+      "irish": "An Captaen",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_grindsailhelm_desc",
+      "english": "Sail far enough to circle the world, while manning the helm.",
+      "irish": "Sail i bhfad go leor chun ciorcal ar fud an domhain, agus manning an Helm.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_grindtreasure",
+      "english": "The Treasure Hunter",
+      "irish": "An Ciste Hunter",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_grindtreasure_desc",
+      "english": "Discover 10 buried treasure chests.",
+      "irish": "Faigh amach 10 cófraí taisce adhlactha.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_grindtrees",
+      "english": "The Lumberjack",
+      "irish": "An Tiarna",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_grindtrees_desc",
+      "english": "Cut down 500 trees.",
+      "irish": "Gearr síos crainn 500.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_killallcreatures",
+      "english": "The Hunter",
+      "irish": "Amharc ar gach eolas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_killallcreatures_desc",
+      "english": "Kill every kind of creature.",
+      "irish": "Kill gach cineál créatúr.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_killallcreatureshard",
+      "english": "The Master Hunter",
+      "irish": "An Máistir Hunter",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_killallcreatureshard_desc",
+      "english": "Kill every kind of creature on hard difficulty.",
+      "irish": "Kill gach cineál créatúr ar deacracht crua.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_kingsqueens",
+      "english": "Kings and Queens of Valheim",
+      "irish": "Ríthe agus Banríona Valheim",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_kingsqueens_desc",
+      "english": "Embody the spirits of the Viking, Hunter, Artisan, Master Chef, Carpenter and the Explorer.",
+      "irish": "Embody an bhiotáille an Lochlannach, Hunter, Artisan, Máistir Chef, Carpenter agus an Explorer.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_multiplayerboss",
+      "english": "Stronger Together",
+      "irish": "Láidir le chéile",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_multiplayerboss_desc",
+      "english": "Kill a boss together with a friend.",
+      "irish": "Kill Boss mar aon le cara.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_sailedge",
+      "english": "The Legends Are True",
+      "irish": "An bhfuil na finscéalta True",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_sailedge_desc",
+      "english": "Sail over the edge of the world.",
+      "irish": "Sail thar imeall an domhain.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_soloboss",
+      "english": "Lone Wolf",
+      "irish": "úsáid tírdhreach:",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ach_soloboss_desc",
+      "english": "Kill a boss all by yourself.",
+      "irish": "Kill Boss go léir ag tú féin.",
+      "translationMethod": "manual"
+    }
+  ]
+}

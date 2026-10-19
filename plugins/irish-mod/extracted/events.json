@@ -1,0 +1,284 @@
+{
+  "screen_id": "events",
+  "screen_title": "Events",
+  "scope_notes": "Keys from scope file tools/scopes/events.keys.txt.",
+  "scope_keys_file": "tools/scopes/events.keys.txt",
+  "extracted_at_utc": "2026-10-19T18:42:40.034021+00:00",
+  "method": "static",
+  "game_path": "A:\\Steam\\steamapps\\common\\Valheim",
+  "resources_assets_sha256": "f0274fe60c807842352a049f3762b7a08965bdbfe759dfbb16f90272e51c6bdb",
+  "key_count": 54,
+  "entries": [
+    {
+      "key": "event_bats_end",
+      "english": "The cauldron calms",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_bats_start",
+      "english": "You stirred the cauldron",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_bonemassarmy_end",
+      "english": "The smell is gone",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_bonemassarmy_start",
+      "english": "A foul smell from the swamp...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_boss01_end",
+      "english": "Eikthyr's defeated.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_boss01_start",
+      "english": "Eikthyr's awakened!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_boss02_end",
+      "english": "The Elder's defeated.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_boss02_start",
+      "english": "The Elder's awakened!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_boss03_end",
+      "english": "Bonemass' defeated.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_boss03_start",
+      "english": "Bonemass' awakened!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_boss04_end",
+      "english": "Moder's defeated.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_boss04_start",
+      "english": "Moder's awakened!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_boss05_end",
+      "english": "King Yagluth's defeated.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_boss05_start",
+      "english": "King Yagluth's awakened!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_caves_end",
+      "english": "The howls fade",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_caves_start",
+      "english": "Howls echo from the depths...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_charredarmy_end",
+      "english": "The army retreats",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_charredarmy_start",
+      "english": "The undead army marches",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_charredspawnerarmy_start",
+      "english": "The dead have been summoned",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_charrespawnerarmy_end",
+      "english": "The dead lie still once more",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_eikthyrarmy_end",
+      "english": "The creatures are calming down",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_eikthyrarmy_start",
+      "english": "Eikthyr rallies the creatures of the forest",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_elakingarmy_end",
+      "english": "They return to their burrows...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_elakingarmy_start",
+      "english": "They emerge from below...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_foresttrolls_end",
+      "english": "The shaking begins to fade",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_foresttrolls_start",
+      "english": "The ground is shaking",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_gdkingarmy_end",
+      "english": "The forest rests again",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_gdkingarmy_start",
+      "english": "The forest is moving...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_gemgoblin_end",
+      "english": "You got 'em",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_gemgoblin_start",
+      "english": "Get 'em!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_ghosts_end",
+      "english": "They have been banished, for now...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_ghosts_start",
+      "english": "You feel a chill down your spine...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_gjallarmy_end",
+      "english": "Good bye Gjall",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_gjallarmy_start",
+      "english": "What's up, Gjall?!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_goblinarmy_end",
+      "english": "The horde is retreating",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_goblinarmy_start",
+      "english": "The horde is attacking!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_hildirboss1_end",
+      "english": "She got burnt",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_hildirboss1_start",
+      "english": "She's hot on your tail!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_hildirboss2_end",
+      "english": "You can chill out",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_hildirboss2_start",
+      "english": "You get the chills...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_hildirboss3_end",
+      "english": "You broke the code...again",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_hildirboss3_start",
+      "english": "They were bros, man",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_jotunarmy_end",
+      "english": "The Jotun withdraw",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_jotunarmy_start",
+      "english": "The Jotun have found you",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_moderarmy_end",
+      "english": "The cold wind is gone",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_moderarmy_start",
+      "english": "A cold wind blows from the mountains",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_seekerarmy_end",
+      "english": "The search is over",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_seekerarmy_start",
+      "english": "They sought you out",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_skeletons_end",
+      "english": "The skeletons are tired of fighting",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_skeletons_start",
+      "english": "A skeleton surprise!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_surtlings_end",
+      "english": "The smell is fading",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_surtlings_start",
+      "english": "There's a smell of sulfur in the air...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_wolves_end",
+      "english": "The hunt is over",
+      "source_asset": "localization"
+    },
+    {
+      "key": "event_wolves_start",
+      "english": "You are being hunted...",
+      "source_asset": "localization"
+    }
+  ],
+  "missing_keys": []
+}
