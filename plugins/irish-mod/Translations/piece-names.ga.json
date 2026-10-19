@@ -188,7 +188,7 @@
     {
       "key": "piece_ashwood_door",
       "english": "Ashwood Door",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Ashwood Door",
       "translationMethod": "manual"
     },
     {
@@ -200,13 +200,13 @@
     {
       "key": "piece_ashwood_floor_1x1",
       "english": "Ashwood Floor 1x1",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Ashwood Floor 1x1",
       "translationMethod": "manual"
     },
     {
       "key": "piece_ashwood_floor_2x2",
       "english": "Ashwood Floor 2x2",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Ashwood Floor 2x2",
       "translationMethod": "manual"
     },
     {
@@ -314,7 +314,7 @@
     {
       "key": "piece_ashwoodstair",
       "english": "Ashwood Stair",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Ashwood Stair",
       "translationMethod": "manual"
     },
     {
@@ -632,7 +632,7 @@
     {
       "key": "piece_bench01",
       "english": "Wood Bench",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Adhmad Binse",
       "translationMethod": "manual"
     },
     {
@@ -1064,7 +1064,7 @@
     {
       "key": "piece_blackwoodstack",
       "english": "Ashwood Stack",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Ashwood Stack",
       "translationMethod": "manual"
     },
     {
@@ -1352,7 +1352,7 @@
     {
       "key": "piece_chestbarrel",
       "english": "Barrel",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Baraille",
       "translationMethod": "manual"
     },
     {
@@ -1982,7 +1982,7 @@
     {
       "key": "piece_fermenter",
       "english": "Fermenter",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Fermenter",
       "translationMethod": "manual"
     },
     {
@@ -2222,7 +2222,7 @@
     {
       "key": "piece_frostkiln",
       "english": "Frigid Kiln",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Frigid Kiln",
       "translationMethod": "manual"
     },
     {
@@ -2852,7 +2852,7 @@
     {
       "key": "piece_lorestone",
       "english": "Runestone",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Runestone",
       "translationMethod": "manual"
     },
     {
@@ -4034,7 +4034,7 @@
     {
       "key": "piece_stavebeam2",
       "english": "Timber Beam 2m",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Timber Tráth 2m",
       "translationMethod": "manual"
     },
     {
@@ -4268,7 +4268,7 @@
     {
       "key": "piece_tombstone_container",
       "english": "Grave",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Grave",
       "translationMethod": "manual"
     },
     {

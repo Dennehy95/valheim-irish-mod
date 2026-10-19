@@ -56,7 +56,7 @@
     {
       "key": "caption_axe",
       "english": "Axe",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Tuagh",
       "translationMethod": "manual"
     },
     {
@@ -92,7 +92,7 @@
     {
       "key": "caption_bow",
       "english": "Bow",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Bogha",
       "translationMethod": "manual"
     },
     {
@@ -614,7 +614,7 @@
     {
       "key": "caption_seagull",
       "english": "Seagull",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Seagull",
       "translationMethod": "manual"
     },
     {

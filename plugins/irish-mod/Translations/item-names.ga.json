@@ -998,7 +998,7 @@
     {
       "key": "item_barrelrings",
       "english": "Barrel Hoops",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Baraille Hoops",
       "translationMethod": "manual"
     },
     {
@@ -1286,7 +1286,7 @@
     {
       "key": "item_blobvial",
       "english": "Corked Vial",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Corked Vial",
       "translationMethod": "manual"
     },
     {
@@ -1340,7 +1340,7 @@
     {
       "key": "item_bloodgoldkey",
       "english": "Intricate Key",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Intricate Eochair",
       "translationMethod": "manual"
     },
     {
@@ -3458,7 +3458,7 @@
     {
       "key": "item_entrails",
       "english": "Entrails",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Entrails",
       "translationMethod": "manual"
     },
     {
@@ -3638,7 +3638,7 @@
     {
       "key": "item_feathers",
       "english": "Feathers",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Feathers",
       "translationMethod": "manual"
     },
     {
@@ -3674,7 +3674,7 @@
     {
       "key": "item_finewood",
       "english": "Finewood",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Finewood",
       "translationMethod": "manual"
     },
     {
@@ -3728,7 +3728,7 @@
     {
       "key": "item_fireworkrocket_green",
       "english": "Green Fireworks",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Glas Fireworks",
       "translationMethod": "manual"
     },
     {
@@ -3746,13 +3746,13 @@
     {
       "key": "item_fireworkrocket_white",
       "english": "Basic Fireworks",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Basic Fireworks",
       "translationMethod": "manual"
     },
     {
       "key": "item_fireworkrocket_yellow",
       "english": "Yellow Fireworks",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Buí Fireworks",
       "translationMethod": "manual"
     },
     {
@@ -4352,7 +4352,7 @@
     {
       "key": "item_graplinghook",
       "english": "Grappling Hook",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Grappling Crúca",
       "translationMethod": "manual"
     },
     {
@@ -5126,7 +5126,7 @@
     {
       "key": "item_hildirkey2",
       "english": "Hildir's Silver Key",
-      "irish": "Uisce agus Séarachas",
+      "irish": "P28 's Airgead Eochair",
       "translationMethod": "manual"
     },
     {
@@ -5186,7 +5186,7 @@
     {
       "key": "item_hook",
       "english": "Hook",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Crúca",
       "translationMethod": "manual"
     },
     {
@@ -5498,7 +5498,7 @@
     {
       "key": "item_knife_silver",
       "english": "Silver Knife",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Airgead Scian",
       "translationMethod": "manual"
     },
     {
@@ -5546,7 +5546,7 @@
     {
       "key": "item_knockback",
       "english": "Knockback",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Knockback",
       "translationMethod": "manual"
     },
     {
@@ -5942,7 +5942,7 @@
     {
       "key": "item_loxmeat",
       "english": "Lox Meat",
-      "irish": "Uisce agus Séarachas",
+      "irish": "P42 Feoil",
       "translationMethod": "manual"
     },
     {
@@ -7418,7 +7418,7 @@
     {
       "key": "item_oatmeallingonberryjam",
       "english": "Oatmeal",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Oatmeal",
       "translationMethod": "manual"
     },
     {
@@ -8468,7 +8468,7 @@
     {
       "key": "item_shield_silver",
       "english": "Silver Shield",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Airgead Sciath",
       "translationMethod": "manual"
     },
     {
@@ -8498,7 +8498,7 @@
     {
       "key": "item_shield_wood",
       "english": "Wood Shield",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Adhmad Sciath",
       "translationMethod": "manual"
     },
     {
@@ -8510,7 +8510,7 @@
     {
       "key": "item_shield_woodtower",
       "english": "Wood Tower Shield",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Adhmad Túr Sciath",
       "translationMethod": "manual"
     },
     {
@@ -8558,7 +8558,7 @@
     {
       "key": "item_silvernecklace",
       "english": "Silver Necklace",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Airgead Muince",
       "translationMethod": "manual"
     },
     {
@@ -8570,7 +8570,7 @@
     {
       "key": "item_silverore",
       "english": "Silver Ore",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Airgead Mianach",
       "translationMethod": "manual"
     },
     {
@@ -8990,7 +8990,7 @@
     {
       "key": "item_spiceforests",
       "english": "Woodland Herb Blend",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Woodland Herb Blend",
       "translationMethod": "manual"
     },
     {
@@ -9710,7 +9710,7 @@
     {
       "key": "item_tankard",
       "english": "Tankard",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Pionta",
       "translationMethod": "manual"
     },
     {
@@ -9866,7 +9866,7 @@
     {
       "key": "item_trinketbloodgoldstamina",
       "english": "Witch Crown",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Witch Crown",
       "translationMethod": "manual"
     },
     {
@@ -11552,7 +11552,7 @@
     {
       "key": "item_weight",
       "english": "Weight",
-      "irish": "Meáchan Meáchan",
+      "irish": "Meáchan",
       "translationMethod": "manual"
     },
     {
@@ -11690,7 +11690,7 @@
     {
       "key": "item_wood",
       "english": "Wood",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Adhmad",
       "translationMethod": "manual"
     },
     {

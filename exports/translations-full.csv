@@ -143,8 +143,8 @@ animal_fish4,Tetra,Seachtain na Gaeilge,remainder.ga.json,remainder,ga,True,Fals
 animal_fish5,Trollfish,Trollaigh,remainder.ga.json,remainder,ga,True,False,extracted/remainder.json,manual
 animal_fish6,Giant Herring,Línéadaigh Ollmhór,remainder.ga.json,remainder,ga,True,False,extracted/remainder.json,manual
 animal_fish7,Grouper,Grúpa an Aontais Fhorásach,remainder.ga.json,remainder,ga,True,False,extracted/remainder.json,manual
-animal_fish8,Coral Cod,Uisce agus Séarachas,remainder.ga.json,remainder,ga,True,False,extracted/remainder.json,manual
-animal_fish9,Anglerfish,Uisce agus Séarachas,remainder.ga.json,remainder,ga,True,False,extracted/remainder.json,manual
+animal_fish8,Coral Cod,Coral Cod,remainder.ga.json,remainder,ga,True,False,extracted/remainder.json,manual
+animal_fish9,Anglerfish,Anglerfish,remainder.ga.json,remainder,ga,True,False,extracted/remainder.json,manual
 base_item_modifier,Base item stamina use,Ábhar bonn stamina,remainder.ga.json,remainder,ga,True,False,extracted/remainder.json,manual
 biome_ashlands,Ashlands,irl - Library Service,remainder.ga.json,remainder,ga,True,False,extracted/remainder.json,manual
 biome_blackforest,Black Forest,Foraoise Dubh,remainder.ga.json,remainder,ga,True,False,extracted/remainder.json,manual
@@ -208,13 +208,13 @@ caption_arriving,arriving,ag teacht,captions.ga.json,captions,ga,True,False,extr
 caption_atgeir,Atgeir,Ag obair,captions.ga.json,captions,ga,True,False,extracted/captions.json,manual
 caption_attacking,attacking,ionsaí ionsaithe,captions.ga.json,captions,ga,True,False,extracted/captions.json,manual
 caption_awakening,awakening,Dúiseacht,captions.ga.json,captions,ga,True,False,extracted/captions.json,manual
-caption_axe,Axe,Uisce agus Séarachas,captions.ga.json,captions,ga,True,False,extracted/captions.json,manual
+caption_axe,Axe,Tuagh,captions.ga.json,captions,ga,True,False,extracted/captions.json,manual
 caption_barking,barking,coirt,captions.ga.json,captions,ga,True,False,extracted/captions.json,manual
 caption_biting,biting,giotán,captions.ga.json,captions,ga,True,False,extracted/captions.json,manual
 caption_blockedattack,Attack blocked,Ionsaí blocáilte,captions.ga.json,captions,ga,True,False,extracted/captions.json,manual
 caption_blocking,blocking,blocála,captions.ga.json,captions,ga,True,False,extracted/captions.json,manual
 caption_born,being born,a rugadh,captions.ga.json,captions,ga,True,False,extracted/captions.json,manual
-caption_bow,Bow,Uisce agus Séarachas,captions.ga.json,captions,ga,True,False,extracted/captions.json,manual
+caption_bow,Bow,Bogha,captions.ga.json,captions,ga,True,False,extracted/captions.json,manual
 caption_breakingapart,breaking apart,briseadh ar leith,captions.ga.json,captions,ga,True,False,extracted/captions.json,manual
 caption_breathingfire,breathing fire,análaithe dóiteáin,captions.ga.json,captions,ga,True,False,extracted/captions.json,manual
 caption_bubbling,bubbling,bláthanna cumhra: cumhráin,captions.ga.json,captions,ga,True,False,extracted/captions.json,manual
@@ -301,7 +301,7 @@ caption_rising,rising,ag ardú ag ardú,captions.ga.json,captions,ga,True,False,
 caption_rockdestroyed,Rock breaking,Rock briseadh,captions.ga.json,captions,ga,True,False,extracted/captions.json,manual
 caption_ruminating,ruminating,tréimhse saoil: ilbhliantúil,captions.ga.json,captions,ga,True,False,extracted/captions.json,manual
 caption_screeching,screeching,screeching,captions.ga.json,captions,ga,True,False,extracted/captions.json,manual
-caption_seagull,Seagull,Uisce agus Séarachas,captions.ga.json,captions,ga,True,False,extracted/captions.json,manual
+caption_seagull,Seagull,Seagull,captions.ga.json,captions,ga,True,False,extracted/captions.json,manual
 caption_shaking,shaking,croith,captions.ga.json,captions,ga,True,False,extracted/captions.json,manual
 caption_shattering,shattering,bláthanna cumhra: cumhráin,captions.ga.json,captions,ga,True,False,extracted/captions.json,manual
 caption_shedding,shedding,shedding,captions.ga.json,captions,ga,True,False,extracted/captions.json,manual
@@ -1479,7 +1479,7 @@ item_barleyflour_description,Great for baking bread.,Great do arán bácála.,it
 item_barleywine,Fire Resistance Barley Wine,Friotaíocht Dóiteáin Fíon Barley,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_barleywine_description,Fortifies you against fire.,Fortifies tú i gcoinne dóiteáin.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_barleywinebase,Barley Wine Base: Fire Resistance,Bonn Fíon Barley: Friotaíocht Dóiteáin,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
-item_barrelrings,Barrel Hoops,Uisce agus Séarachas,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
+item_barrelrings,Barrel Hoops,Baraille Hoops,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_barrelrings_description,"These metal rings are perfectly round, suitable for holding a barrel together. Just add wood!","Tá na fáinní miotail breá babhta, oiriúnach le haghaidh a bhfuil bairille le chéile. Just a chur adhmad!",item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_battleaxe,Battleaxe,Cluiche iontach,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_battleaxe_blackmetal,Black Metal Battleaxe,Black Miotal Cathaxe,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
@@ -1527,7 +1527,7 @@ item_blacksoup,Black Soup,Dubh Soup,item-names.ga.json,item-names,ga,True,False,
 item_blacksoup_description,A perfect balance of sweetness and acidity.,Tá cothromaíocht foirfe de binneas agus aigéadacht.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_blackwood,Ashwood,Coill na Fuinseoige,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_blackwood_description,Wood hardened by fire and ash.,Adhmad cruaite ag tine agus fuinseog.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
-item_blobvial,Corked Vial,Uisce agus Séarachas,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
+item_blobvial,Corked Vial,Corked Vial,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_blobvial_description,"Thick enough to contain something volatile, yet fragile enough to be shattered.","Tiubh go leor go bhfuil rud éigin so-ghalaithe, ach leochaileach go leor a bheith shattered.",item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_blockarmor,Block armour,armúr bloc,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_blockforce,Block force,fórsa bloc,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
@@ -1536,7 +1536,7 @@ item_bloodbag,Bloodbag,mála láimhe Fola,item-names.ga.json,item-names,ga,True,
 item_bloodbag_description,The contents of a leech. Ick!,An t-ábhar ar leech. Ick!,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_bloodclot,Blood Clot,irl - Library Service,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_bloodclot_description,Be careful not to puncture this while you carry it...,Bí cúramach gan puncture seo agus tú é a dhéanamh...,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
-item_bloodgoldkey,Intricate Key,Uisce agus Séarachas,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
+item_bloodgoldkey,Intricate Key,Intricate Eochair,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_bloodgoldkey_description,"If there's a key, then surely there must be a lock.","Má tá eochair, ansin surely ní mór go mbeadh glas.",item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_bloodpudding,Blood Pudding,Púitseáil Fola,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_bloodpudding_description,It's bloody tasty.,Tá sé blasta fuilteach.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
@@ -1891,7 +1891,7 @@ item_elakinghairbundle,Elaking Hair Bundle,Déan teagmháil Linn,item-names.ga.j
 item_elakinghairbundle_description,"The fur is dense, coarse, and surprisingly clean.","Tá an fionnadh dlúth, garbh, agus go hiontach glan.",item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_elderbark,Ancient Bark,An tSean - Choirt,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_elderbark_description,An ancient and sturdy material.,Ábhar ársa agus sturdy.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
-item_entrails,Entrails,Uisce agus Séarachas,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
+item_entrails,Entrails,Entrails,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_entrails_description,A slimy length of something's insides.,A fad slimy de rud éigin ar insides.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_eyescream,Eyescream,taiseachas aeir: fliuch,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_eyescream_description,Crispy cool and creamy.,Crispy fionnuar agus creamy.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
@@ -1925,13 +1925,13 @@ item_feastplains,Plains Pie Picnic,cliceáil grianghraf a mhéadú,item-names.ga
 item_feastplains_description,"There's nothing plain about this feast! Enjoy pies and loaves fresh from the oven, both sweet and savoury, and experience the culinary equivalent of a hug.","Níl aon rud plain mar gheall ar an feast! Bain sult as cóipeanna agus loaves úr ón oigheann, idir milis agus blasta, agus taithí a fháil ar an coibhéiseach cócaireachta de barróg.",item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_feastswamps,Swamp Dweller's Delight,soilse loingseoireachta E,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_feastswamps_description,"Who knew that leeches were edible? With the correct preparation (lots of cooking and lots of seasoning) you will be able to serve them in this feast for the culinary brave. For those who have a sensitive stomach, there are also tasty skewers of sausages and turnips on the side.","Cé a fhios go raibh leeches inite? Leis an ullmhú ceart (liotáin de chócaireacht agus go leor de seasoning) beidh tú in ann chun freastal orthu sa feast do na cróga cócaireachta. Dóibh siúd a bhfuil boilg íogair, tá skewers blasta de ispíní agus torna ar an taobh.",item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
-item_feathers,Feathers,Uisce agus Séarachas,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
+item_feathers,Feathers,Feathers,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_feathers_description,A small pile of feathers.,Carn beag cleití.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_fiddleheadfern,Fiddlehead,Eolas faoin gComhlacht,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_fiddleheadfern_description,Veggies with a twist!,Veggies le casadh!,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_fierysvinstew,Fiery Svinstew,tréimhse saoil: ilbhliantúil,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_fierysvinstew_description,This musty stew is a necessity on every adventurer's menu.,Is é seo an stew musty riachtanas ar gach roghchlár fiontaróir ar.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
-item_finewood,Finewood,Uisce agus Séarachas,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
+item_finewood,Finewood,Finewood,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_finewood_description,High quality wood for fine carpentry.,adhmad ardchaighdeáin le haghaidh siúinéir fíneáil.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_fircone,Fir Cone,Seirbhís do Chustaiméirí,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_fircone_big,Timberwood Cone,riachtanais uisce: measartha,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
@@ -1940,11 +1940,11 @@ item_fircone_description,Plant it to grow a fir tree.,Plandaí sé crann lámhai
 item_fireworkrocket_blue,Blue Fireworks,Seirbhís Dóiteáin Gorm,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_fireworkrocket_cyan,Cyan Fireworks,Oibreacha Dóiteáin Cian,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_fireworkrocket_description,This rocket's blasting off again!,Seo roicéad pléasctha amach arís!,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
-item_fireworkrocket_green,Green Fireworks,Uisce agus Séarachas,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
+item_fireworkrocket_green,Green Fireworks,Glas Fireworks,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_fireworkrocket_purple,Purple Fireworks,Seirbhís do Chustaiméirí,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_fireworkrocket_red,Red Fireworks,Oibreacha Dóiteáin Dearg,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
-item_fireworkrocket_white,Basic Fireworks,Uisce agus Séarachas,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
-item_fireworkrocket_yellow,Yellow Fireworks,Uisce agus Séarachas,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
+item_fireworkrocket_white,Basic Fireworks,Basic Fireworks,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
+item_fireworkrocket_yellow,Yellow Fireworks,Buí Fireworks,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_fish_cooked,Cooked Fish,Éisc chócaireachta,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_fish_cooked_description,A tasty side of smoked fish.,Taobh blasta d'iasc deataithe.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_fish_raw,Raw Fish,iasc amh,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
@@ -2044,7 +2044,7 @@ item_gold,Bloodgold,bláthanna cumhra: cumhráin,item-names.ga.json,item-names,g
 item_gold_description,"Precious metal, infused with the essence of a living thing.","Miotal lómhara, infused leis an croílár rud beo.",item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_goldore,Petrified Tissue,Fíocháin Petrified,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_goldore_description,A hard and sturdy material with plenty of potential. Needs to be refined in a Blast Furnace.,Ábhar crua agus sturdy le neart poitéinseal. Ní mór a scagadh i bhFoirnéis Soinneáin.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
-item_graplinghook,Grappling Hook,Uisce agus Séarachas,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
+item_graplinghook,Grappling Hook,Grappling Crúca,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_graplinghook_description,"For a dramatic entrance, or a swift retreat.","Chun bealach isteach drámatúil, nó cúlú tapa.",item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_grausten,Grausten,bláthanna cumhra: cumhráin,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_grausten_description,Porous yet sturdy.,Porous fós sturdy.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
@@ -2173,7 +2173,7 @@ item_hide,Hide,8ú Téarma Parlaiminteach,item-names.ga.json,item-names,ga,True,
 item_hide_description,An animal hide.,Seithe ainmhí.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_hildir_divan,Divan,taiseachas aeir: fliuch,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_hildirkey1,Hildir's Brass Key,cliceáil grianghraf a mhéadú,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
-item_hildirkey2,Hildir's Silver Key,Uisce agus Séarachas,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
+item_hildirkey2,Hildir's Silver Key,P28 's Airgead Eochair,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_hildirkey3,Hildir's Bronze Key,cliceáil grianghraf a mhéadú,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_hildirkey_description,It seems to be missing its owner...,Dealraíonn sé a bheith ar iarraidh a úinéir...,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_hoe,Hoe,taiseachas aeir: fliuch,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
@@ -2183,7 +2183,7 @@ item_honey_description,Sweet and tasty.,Sweet agus blasta.,item-names.ga.json,it
 item_honeyglazedchicken,Honey Glazed Chicken,cliceáil grianghraf a mhéadú,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_honeyglazedchicken_description,Grilled to perfection. Makes both eyes and mouths water.,Grilled chun foirfeachta. Déan an dá súile agus béal uisce.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_honeyglazedchickenuncooked,Uncooked Honey Glazed Chicken,Seans go mbeidh ort:,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
-item_hook,Hook,Uisce agus Séarachas,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
+item_hook,Hook,Crúca,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_hook_description,"A finely wrought item, with a gripping potential.","Earra mín saoirsithe, le poitéinseal corraitheach.",item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_ice,Ice,riachtanais uisce: measartha,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_ice_description,So cold...,Mar sin fuar...,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
@@ -2235,7 +2235,7 @@ item_knife_gold_frostfire_uncooked,Cast: Frostfire Dagger,Réitigh: Frostfire Da
 item_knife_gold_frostfire_uncooked_description,"The same mould, yet inclined to yield a more spectacular result... The frost shall reveal all, in time.","An múnla céanna, ach claonadh chun toradh níos iontach a thabhairt... Nochtfaidh an sioc go léir, in am.",item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_knife_gold_uncooked,Cast: Nord Dagger,Réitigh: Nord Dagger,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_knife_gold_uncooked_description,This weapon needs to be hardened with frost.,Ní mór an t-arm seo a chruachadh le sioc.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
-item_knife_silver,Silver Knife,Uisce agus Séarachas,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
+item_knife_silver,Silver Knife,Airgead Scian,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_knife_silver_description,A savage piece of pain.,Píosa pian sábhailte.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_knife_skollandhati,Skoll and Hati,Físeán i caighdeán maith HD,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_knife_skollandhati_description,"Stab once for those who've betrayed you, and twice for those you hate.","Fan uair amháin dóibh siúd atá feall ort, agus faoi dhó dóibh siúd fuath leat.",item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
@@ -2243,7 +2243,7 @@ item_knife_void,Voidcaller,Seirbhís do Chustaiméirí,item-names.ga.json,item-n
 item_knife_void_description,Who shall answer the call of the Void?,Cé a fhreagairt ar an glaoch ar an Void?,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_knife_wood,Wooden Knife,Déan teagmháil anois,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_knife_wood_description,Some people would say this knife is better for butter.,Bheadh roinnt daoine a rá go bhfuil an scian níos fearr le haghaidh im.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
-item_knockback,Knockback,Uisce agus Séarachas,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
+item_knockback,Knockback,Knockback,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_kvastur_description,A witch's best friend.,Cara is fearr le cailleach.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_lantern,Dvergr Lantern,Seirbhís do Chustaiméirí,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_lanternDN,Salvaged Lantern,Seirbhís do Chustaiméirí,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
@@ -2309,7 +2309,7 @@ item_lingonberries,Lingonberries,Sútha talún,item-names.ga.json,item-names,ga,
 item_lingonberries_description,These tart berries can grow even in cold climates.,Is féidir leis na caora tart fás fiú i climates fuar.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_lingondricka,Lingonberry Juice,Sútha talún,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_lingondricka_description,Pairs well with most foods.,Péirí go maith leis an chuid is mó bianna.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
-item_loxmeat,Lox Meat,Uisce agus Séarachas,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
+item_loxmeat,Lox Meat,P42 Feoil,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_loxmeat_cooked,Cooked Lox Meat,Cócaráilte Lox Feola,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_loxmeat_cooked_description,"A great hunk of tender meat, food fit for Valhalla!","A Hunk mór feola tairisceana, bia oiriúnach do Valhalla!",item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_loxmeat_description,A raw slab of marbled meat.,Leac amh d'fheoil mharmarach.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
@@ -2555,7 +2555,7 @@ item_oat,Oats,irl - Library Service,item-names.ga.json,item-names,ga,True,False,
 item_oat_description,"Tasty grains, to be used as they are or to be ground into flour.","Gráin thasty, a bheidh le húsáid mar go bhfuil siad nó a bheith talamh i plúr.",item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_oatflour,Oat Flour,bláthanna cumhra: cumhráin,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_oatflour_description,"Finely ground oats, with plenty of potential.","Coirce talamh Finely, le neart féideartha.",item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
-item_oatmeallingonberryjam,Oatmeal,Uisce agus Séarachas,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
+item_oatmeallingonberryjam,Oatmeal,Oatmeal,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_oatmeallingonberryjam_description,Served with a generous helping of lingonberry jam.,Freastal le cúnamh flaithiúil de subh lingonberry.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_oatmilk,Oat Milk,Bainne caorach,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_oatmilk_description,Tastes like innovation.,Tastes cosúil le nuálaíocht.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
@@ -2730,14 +2730,14 @@ item_shield_round_gold_uncooked,Cast: Nord Shield,Cast: Nord sciath,item-names.g
 item_shield_round_gold_uncooked_description,This shield needs to be hardened with frost.,Ní mór an sciath seo a chruachadh le sioc.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_shield_serpentscale,Serpent Scale Shield,Sraith Scála Shield,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_shield_serpentscale_description,A sturdy shield of overlapping scales.,Sciath sturdy de scálaí forluiteacha.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
-item_shield_silver,Silver Shield,Uisce agus Séarachas,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
+item_shield_silver,Silver Shield,Airgead Sciath,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_shield_silver_description,A shield of radiant silver.,Sciath d'airgead radanta.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_shield_tower_gold_description,Your foes can't hit you if they can't see you!,Ní féidir do foes bhuail tú más rud é nach féidir leo a fheiceáil tú!,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_shield_tower_gold_uncooked,Cast: Nord Greatshield,riachtanais uisce: measartha,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_shield_tower_gold_uncooked_description,This shield needs to be hardened with frost.,Ní mór an sciath seo a chruachadh le sioc.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
-item_shield_wood,Wood Shield,Uisce agus Séarachas,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
+item_shield_wood,Wood Shield,Adhmad Sciath,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_shield_wood_description,A simple wooden shield.,Sciath shimplí adhmaid.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
-item_shield_woodtower,Wood Tower Shield,Uisce agus Séarachas,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
+item_shield_woodtower,Wood Tower Shield,Adhmad Túr Sciath,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_shield_woodtower_description,A rough but heavy wooden shield.,Sciath gharbh adhmaid ach trom.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_shieldcore,Shield Core,riachtanais uisce: measartha,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_shieldcore_description,A protective force within is ready to be unleashed.,Tá fórsa cosanta laistigh réidh le scaoileadh.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
@@ -2745,9 +2745,9 @@ item_shocklatesmoothie,Muckshake,taiseachas aeir: fliuch,item-names.ga.json,item
 item_shocklatesmoothie_description,Wakes you up!,Wakes tú suas!,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_silver,Silver,airgid sterling,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_silver_description,A bar of pure silver ready to be worked.,Barra airgid íon réidh le hoibriú.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
-item_silvernecklace,Silver Necklace,Uisce agus Séarachas,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
+item_silvernecklace,Silver Necklace,Airgead Muince,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_silvernecklace_description,<color=yellow>Valuable</color>,<color=yellow>Luachmhar</color>,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
-item_silverore,Silver Ore,Uisce agus Séarachas,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
+item_silverore,Silver Ore,Airgead Mianach,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_silverore_description,Unrefined silver. Needs to be refined in a smelter.,Airgead neamhchinnte. Riachtanais a scagadh i smelter.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_sizzlingberrybroth,Sizzling Berry Broth,Siamsaíocht Berry Broth,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_sizzlingberrybroth_description,This soup settles in your stomach with an almost tingly sensation.,Socraíonn an anraith seo i do bholg le ceint beagnach.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
@@ -2817,7 +2817,7 @@ item_spiceashlands,Fiery Spice Powder,An bhfuil a fhios agat na buntáistí a bh
 item_spiceashlands_description,"Whatever spices have been used in this blend, they must come from someplace hot. And as if that wasn't enough, they have also been dried and smoked before being ground into a fine powder.","Cibé spíosraí a úsáideadh sa chumasc seo, ní mór dóibh teacht ó áit éigin te. Agus mar más rud é nach raibh go leor, tá siad triomaithe agus deataithe freisin roimh a bheith talamh i púdar fíneáil.",item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_spicedeepnorth,Seasoning of the Gourd,Séasú an Gourd,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_spicedeepnorth_description,"Using cinnamon bark and ginger root, with a touch of nutmeg, the herbalist has travelled far to create this fine and warming blend of spices.","Ag baint úsáide as coirt cainéal agus fréimhe ginger, le teagmháil nutmeg, tá an luibheoir thaistil i bhfad chun an meascán fíneáil agus téamh de spíosraí a chruthú.",item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
-item_spiceforests,Woodland Herb Blend,Uisce agus Séarachas,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
+item_spiceforests,Woodland Herb Blend,Woodland Herb Blend,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_spiceforests_description,"Thyme and marjoram carefully harvested and dried, before being mixed together. This blend will turn even the most basic of ingredients into a delicious feast.","Thyme agus marjoram fómhar agus triomaithe go cúramach, sula measctha le chéile. Beidh an meascán cas fiú an chuid is mó bunúsach de chomhábhair i feast delicious.",item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_spicemistlands,Herbs of the Hidden Hills,Luibheanna na Hills Hidden,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_spicemistlands_description,"A good herbalist knows exactly where to go to find ramsons, but she won't tell you the secrets of her trade! Still, if you have the coin for it you may treat yourself to this blend of finely harvested ramson bulbs and leaves.","Tá a fhios ag luibheoir maith go díreach cá háit le dul chun ramsons a aimsiú, ach ní inseoidh sí rúin a trádála duit! Fós féin, má tá an bonn agat dó b'fhéidir go gcaithfeá féin leis an meascán seo de bholgáin agus duilleoga ramson mínbhuainte.",item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
@@ -2937,7 +2937,7 @@ item_sword_wood,Wooden Sword,Sword adhmaid,item-names.ga.json,item-names,ga,True
 item_sword_wood_2h,Wooden Greatsword,Greatsword adhmaid,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_sword_wood_description,"Mostly harmless, unless you're very persistent.","An chuid is mó harmless, ach amháin má tá tú an-mharthanach.",item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_tamedonly,Can only hurt tamed creatures.,Ní féidir ach créatúir tamed ghortú.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
-item_tankard,Tankard,Uisce agus Séarachas,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
+item_tankard,Tankard,Pionta,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_tankard_anniversary,Horn of Celebration,Horn de Ceiliúradh,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_tankard_anniversary_description,One year since we arrived... Skål!,Bliain amháin ó tháinig muid... Staidéar!,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_tankard_description,Skål!,Staidéar!,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
@@ -2963,7 +2963,7 @@ item_trinketblackdtamina,Evasion Mantle,Cur síos ar an Táirge,item-names.ga.js
 item_trinketblackdtamina_description,Dance with death as you dodge your enemies' strikes.,Rince le bás mar dodge tú do naimhde' stailceanna.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_trinketbloodgoldhealth,Neckstabber,Seirbhís do Chustaiméirí,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_trinketbloodgoldhealth_description,Claw and bone and gold – grant them blood and they shall grant you a boon.,Claw agus cnámh agus ór – iad a dheonú fola agus beidh siad a dheonú duit boon.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
-item_trinketbloodgoldstamina,Witch Crown,Uisce agus Séarachas,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
+item_trinketbloodgoldstamina,Witch Crown,Witch Crown,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_trinketbloodgoldstamina_description,They say that the soul of a witch can grant strange powers to mortals...,Deir siad gur féidir leis an anam medicine cumhachtaí aisteach a dheonú do mortals...,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_trinketbronzehealth,Heart of the Forest,Croí na Foraoise,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_trinketbronzehealth_description,It pulsates with fragments of ancient life.,pulsates sé le blúirí den saol ársa.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
@@ -3272,7 +3272,7 @@ item_volture_meat_cooked_description,"A chewy and somewhat dry meat. Some season
 item_volture_meat_description,"Given that this bird feasts on all kinds of things, you'd better cook its meat before you even think about eating it.","Ós rud é go féastaí éan seo ar gach cineál rudaí, ba mhaith leat cócaireacht níos fearr a fheoil sula gceapann tú fiú faoi é a ithe.",item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_voltureegg,Volture Egg,Uibheacha Volta,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_voltureegg_description,"Warm to the touch, and full of protein.","Téamh leis an dteagmháil, agus iomlán de próitéin.",item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
-item_weight,Weight,Meáchan Meáchan,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
+item_weight,Weight,Meáchan,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_wishbone,Wishbone,riachtanais uisce: measartha,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_wishbone_description,This ancient bone remembers the location of many forgotten things.,Cuimhníonn an cnámh ársa an suíomh go leor rudaí dearmad.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_wisp,Wisp,Seirbhís do Chustaiméirí,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
@@ -3295,7 +3295,7 @@ item_wolfjerky,Wolf Jerky,riachtanais uisce: measartha,item-names.ga.json,item-n
 item_wolfjerky_description,Chewy and full of flavor.,Chewy agus iomlán de blas.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_wolfpelt,Wolf Pelt,cliceáil grianghraf a mhéadú,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_wolfpelt_description,A pelt of shaggy fur.,A pelt de fionnadh shaggy.,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
-item_wood,Wood,Uisce agus Séarachas,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
+item_wood,Wood,Adhmad,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_wood_description,"Good, strong wood to build with.","Dea, adhmad láidir a thógáil leis.",item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_writhanroots,Writhan Roots,tréimhse saoil: ilbhliantúil,item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
 item_writhanroots_description,"The gnarled body parts of a strange, offputting creature.","Na codanna comhlacht gnarled de aisteach, aschur creature.",item-names.ga.json,item-names,ga,True,False,extracted/item-names.json,manual
@@ -3330,7 +3330,7 @@ language_hungarian,Magyar*,Machaire *,remainder.ga.json,remainder,ga,True,False,
 language_icelandic,íslenska*,riachtanais uisce: measartha,remainder.ga.json,remainder,ga,True,False,extracted/remainder.json,manual
 language_italian,Italiano,taiseachas aeir: fliuch,remainder.ga.json,remainder,ga,True,False,extracted/remainder.json,manual
 language_japanese,日本語,bláthanna cumhra: cumhráin,remainder.ga.json,remainder,ga,True,False,extracted/remainder.json,manual
-language_korean,한국어,Uisce agus Séarachas,remainder.ga.json,remainder,ga,True,False,extracted/remainder.json,manual
+language_korean,한국어,한국어,remainder.ga.json,remainder,ga,True,False,extracted/remainder.json,manual
 language_latvian,Latviski*,Lámhaigh *,remainder.ga.json,remainder,ga,True,False,extracted/remainder.json,manual
 language_lithuanian,Lietuvių kalba*,Cuardaigh le haghaidh:,remainder.ga.json,remainder,ga,True,False,extracted/remainder.json,manual
 language_macedonian,македонски*,IOMPAIR TEICNEOLAÍOCHTA *,remainder.ga.json,remainder,ga,True,False,extracted/remainder.json,manual
@@ -4710,7 +4710,7 @@ npc_hildir_random_talk6,"I don't do repairs, sorry.","Ní féidir liom deisiúch
 npc_hildir_random_talk7,Hm... I'd love to tailor you a custom piece sometime.,Hm... Ba mhaith liom grá a chur in oiriúint duit píosa saincheaptha éigin.,npc-dialogue.ga.json,npc-dialogue,ga,True,False,extracted/npc-dialogue.json,manual
 npc_hildir_random_talk8,Back in the day I thought about setting up shop here permanently. But there aren't really enough customers for that.,Ar ais sa lá a shíl mé faoi bhunú siopa anseo go buan. Ach nach bhfuil i ndáiríre go leor custaiméirí don.,npc-dialogue.ga.json,npc-dialogue,ga,True,False,extracted/npc-dialogue.json,manual
 npc_hildir_random_talk9,"This place isn't too bad, all things considered. Maybe I'll bring someone else along next time.","Níl an áit seo ró-dona, gach rud a mheas. B'fhéidir go mbainfidh mé duine éigin eile a thabhairt chomh maith an chéad uair eile.",npc-dialogue.ga.json,npc-dialogue,ga,True,False,extracted/npc-dialogue.json,manual
-npc_hugin,Hugin,Uisce agus Séarachas,npc-dialogue.ga.json,npc-dialogue,ga,True,False,extracted/npc-dialogue.json,manual
+npc_hugin,Hugin,Hugin,npc-dialogue.ga.json,npc-dialogue,ga,True,False,extracted/npc-dialogue.json,manual
 npc_munin,Munin,tréimhse saoil: ilbhliantúil,npc-dialogue.ga.json,npc-dialogue,ga,True,False,extracted/npc-dialogue.json,manual
 npc_munin_ashlands_bellshard,Kraa! A sad memory lingers here... A faint echo in the air... Once these rang for joy to celebrate his passing but now he cannot bear the sound nor the reminder. If you seek to bring him give them voice once more.,Kraa! A lingers cuimhne brónach anseo... A macalla faint san aer... Chomh luath agus na ghlao seo le haghaidh áthas chun ceiliúradh a rith ach anois ní féidir leis an fhuaim ná an gcuimhne. Má fhéachann tú a thabhairt dó guth a thabhairt dóibh uair amháin níos mó.,npc-dialogue.ga.json,npc-dialogue,ga,True,False,extracted/npc-dialogue.json,manual
 npc_munin_ashlands_general01,Kraa! Poor pickings here. Empty skulls scoured clean by the flames. Barely a trace of memory left…,Kraa! Piocaí Poor anseo. skulls folamh scoured glan ag na lasracha. Barely rian de chuimhne fágtha...,npc-dialogue.ga.json,npc-dialogue,ga,True,False,extracted/npc-dialogue.json,manual
@@ -4768,10 +4768,10 @@ piece_ashwood_decowall_divider,Ashwood Divider,Díbhinní adhmaid,piece-names.ga
 piece_ashwood_decowall_divider_description,Adds a nice detail to any room.,Cuireann mion deas le haon seomra.,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_ashwood_decowall_tree,Ashwood Decorative Window,Fuinneog maisiúil Ashwood,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_ashwood_decowall_tree_description,Are you looking out the window or at the window? Nobody needs to know.,An bhfuil tú ag lorg amach an fhuinneog nó ag an fhuinneog? Ní mór aon duine a fhios.,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
-piece_ashwood_door,Ashwood Door,Uisce agus Séarachas,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
+piece_ashwood_door,Ashwood Door,Ashwood Door,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_ashwood_door_description,The detailed decorations might make you stop and look instead of actually going through.,D'fhéadfadh na maisiúcháin mionsonraithe a dhéanamh tú a stopadh agus breathnú in ionad dul i ndáiríre tríd.,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
-piece_ashwood_floor_1x1,Ashwood Floor 1x1,Uisce agus Séarachas,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
-piece_ashwood_floor_2x2,Ashwood Floor 2x2,Uisce agus Séarachas,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
+piece_ashwood_floor_1x1,Ashwood Floor 1x1,Ashwood Floor 1x1,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
+piece_ashwood_floor_2x2,Ashwood Floor 2x2,Ashwood Floor 2x2,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_ashwood_floor_deco,Ashwood Decorative Floor,Urlár maisiúil Ashwood,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_ashwood_floor_deco_description,Patterns work great on the floor as well.,Patrúin ag obair go hiontach ar an urlár chomh maith.,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_ashwood_floor_description,"Ashwood floorboards, laid diagonally.","Leag floorboards Ashwood, go trasnánach.",piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
@@ -4789,7 +4789,7 @@ piece_ashwoodbeam45,Ashwood Beam 45°,Fuinneog Beam 45 °,piece-names.ga.json,pi
 piece_ashwoodbeam67,Ashwood Beam 67°,Fuinseoige Beam 67 °,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_ashwoodcross26,Ashwood Roof Cross 26°,Scannáin torainn 26 °,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_ashwoodcross45,Ashwood Roof Cross 45°,Scannáin torainn 45 °,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
-piece_ashwoodstair,Ashwood Stair,Uisce agus Séarachas,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
+piece_ashwoodstair,Ashwood Stair,Ashwood Stair,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_ashwoodstair_description,These stairs are sturdier than they might appear.,Tá na staighre sturdier ná d'fhéadfadh siad le feiceáil.,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_ashwoodwall_description,Both sides of this wall have their own charm. The choice is yours!,Tá a charm féin ag an dá thaobh den bhalla seo. Is é an rogha mise!,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_ashwoodwallroof67,Ashwood Wall 67°,Balla Ashwood 67 °,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
@@ -4844,7 +4844,7 @@ piece_beehive_extract,Extract,Sliocht as Sliocht,piece-names.ga.json,piece-names
 piece_beehive_freespace,The bees need more open space,An gá beacha spás níos oscailte,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_beehive_happy,The bees are happy,Tá na beacha sásta,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_beehive_sleep,The bees are sleeping,Is iad na beacha codlata,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
-piece_bench01,Wood Bench,Uisce agus Séarachas,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
+piece_bench01,Wood Bench,Adhmad Binse,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_bench01_description,"If there is room in your heart, there is room for your butt.","Má tá seomra i do chroí, tá seomra do Butt.",piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_bench_runed,Carved Bench,Carved Bench,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_bench_runed_description,A rustic yet comfortable place to sit.,Áit rustic fós compordach chun suí.,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
@@ -4917,7 +4917,7 @@ piece_blackmetalbarstack,Black Metal Stack,Black Miotal Stack,piece-names.ga.jso
 piece_blackmetalbarstack_description,Sure to be the envy of all fulings!,Cinnte a bheith ar an envy de gach fulings!,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_blackwoodbench01,Ashwood Bench,riachtanais uisce: measartha,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_blackwoodbench01_description,"This bench has an elegant curve to it, to facilitate conversation.","Tá cuar galánta ag an mbinse seo dó, chun comhrá a éascú.",piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
-piece_blackwoodstack,Ashwood Stack,Uisce agus Séarachas,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
+piece_blackwoodstack,Ashwood Stack,Ashwood Stack,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_blackwoodstack_description,"No matter what, this stack of wood always feels warm.","Is cuma cad, mothaíonn an Stack adhmaid i gcónaí te.",piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_blastfurnace,Blast Furnace,Furnas Réitithe,building-ui.ga.json,building-ui,ga,True,False,extracted/building-ui.json,manual
 piece_blastfurnace_description,Some metals need higher temperatures to melt.,Ní mór roinnt miotail teochtaí níos airde a leá.,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
@@ -4971,7 +4971,7 @@ piece_charredballista,Skugg,Scátála,piece-names.ga.json,piece-names,ga,True,Fa
 piece_charredchest,Charred Chest,Carachtair rompu,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_chest,Reinforced Chest,Cófra Neartaithe,building-ui.ga.json,building-ui,ga,True,False,extracted/building-ui.json,manual
 piece_chest_description,"A sturdier chest, with room for more storage.","A cófra sturdier, le seomra le haghaidh níos mó stórála.",piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
-piece_chestbarrel,Barrel,Uisce agus Séarachas,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
+piece_chestbarrel,Barrel,Baraille,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_chestbarrel_description,"A barrel is good for storing lots of things, including food and drink.","Tá bairille maith do stóráil go leor de na rudaí, lena n-áirítear bia agus deoch.",piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_chestblackmetal,Black Metal Chest,Dubh Miotal Chic,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_chestblackmetal_description,The sturdy black metal that holds this chest together lets you put almost anything inside.,An miotail dubh sturdy go bhfuil an cófra le chéile ligeann tú a chur beagnach aon rud taobh istigh.,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
@@ -5081,7 +5081,7 @@ piece_faderember_nospace,The embers are suffocating,Is iad na embers suffocating
 piece_faderember_ok,The embers are catching,Na embers ag teacht,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_fairylightgarland,Fey Lights,Seirbhís do Chustaiméirí,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_fairylightgarland_description,Lends a gentle light to your festivities.,Lends solas milis le do festivities.,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
-piece_fermenter,Fermenter,Uisce agus Séarachas,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
+piece_fermenter,Fermenter,Fermenter,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_fermenter_add,Add item,Cuir isteach mír,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_fermenter_description,"Mead needs to sit and ferment for a while, for all its intended properties to emerge.","Ní mór don mhoth suí agus coipeadh ar feadh tamaill, as a chuid maoine beartaithe go léir chun teacht chun cinn.",piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_fermenter_exposed,Too exposed,Too nochtadh,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
@@ -5122,7 +5122,7 @@ piece_frostfoundry,Frost Foundry,Frost Bunaitheoir,piece-names.ga.json,piece-nam
 piece_frostfoundry_additem,Place Cast,Plás réitigh,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_frostfoundry_description,This foundry can be used to harden casts into proper items.,Is féidir an teilgean seo a úsáid chun teilgin a chruachadh i míreanna cuí.,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_frostfoundry_takeitem,Take Item,Tóg Mír,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
-piece_frostkiln,Frigid Kiln,Uisce agus Séarachas,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
+piece_frostkiln,Frigid Kiln,Frigid Kiln,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_frostkiln_description,"A strange and chilling process happens within this kiln, to produce a most potent fuel...","Tarlaíonn próiseas aisteach agus fuaraithe laistigh den kiln seo, chun breosla is potent a tháirgeadh...",piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_giant_bone,Petrified Bone,Petrified Bone,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_giant_brain,Soft Tissue,Fíocháin Bog,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
@@ -5234,7 +5234,7 @@ piece_logbeam2,Log Beam 2 m,Logáil isteach 2 m,piece-names.ga.json,piece-names,
 piece_logbeam4,Log Beam 4 m,Logáil isteach 4 m,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_logpole2,Log Pole 2 m,Logáil Pole 2 m,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_logpole4,Log Pole 4 m,Logáil isteach 4 m,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
-piece_lorestone,Runestone,Uisce agus Séarachas,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
+piece_lorestone,Runestone,Runestone,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_magetable,Galdr Table,Tábla Galdr,building-ui.ga.json,building-ui,ga,True,False,extracted/building-ui.json,manual
 piece_magetable_description,Mysterious galdr forces gather upon this altar. It's up to you to harness them...,fórsaí réaltra mistéireach bhailiú ar an altóir. Tá sé suas chun tú chun leas a bhaint astu...,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_magetable_ext,Rune Table,Tábla Rith,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
@@ -5439,7 +5439,7 @@ piece_stave_pole_2m,Timber Pole 2m,Seirbhís do Chustaiméirí,piece-names.ga.js
 piece_stave_pole_4m,Timber Pole 4m,Seirbhís do Chustaiméirí,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_stave_wall,Timber Wall,riachtanais uisce: measartha,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_stave_walls_description,Heavy timber walls are good for keeping out the cold.,Tá ballaí adhmaid trom maith chun an fuar a choinneáil amach.,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
-piece_stavebeam2,Timber Beam 2m,Uisce agus Séarachas,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
+piece_stavebeam2,Timber Beam 2m,Timber Tráth 2m,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_stavebeam26,Timber Beam 26°,Timber Beam 26 °,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_stavebeam4,Timber Beam 4m,Déan teagmháil linn,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_stavebeam45,Timber Beam 45°,Timber Beam 45 °,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
@@ -5491,7 +5491,7 @@ piece_throne01_description,"Perhaps this is what Odin's throne in Valhalla looks
 piece_tinbarstack,Tin Stack,Stáin Stack,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_tinbarstack_description,You can make a lot of bronze with this...,Is féidir leat a lán cré-umha a dhéanamh leis seo...,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_tombstone,Here rests,Seo sosanna,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
-piece_tombstone_container,Grave,Uisce agus Séarachas,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
+piece_tombstone_container,Grave,Grave,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_tombstone_recovered,Items recovered,Míreanna a aisghabháil,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_toofar,Too far,Too i bhfad,piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
 piece_trainingdummy,T.W.I.G.,"Inis dúinn, le do thoil...",piece-names.ga.json,piece-names,ga,True,False,extracted/piece-names.json,manual
@@ -5944,7 +5944,7 @@ se_trinketblackdtamina,Evasion Mantle,Cur síos ar an Táirge,status-effects.ga.
 se_trinketblackdtamina_description,Increased dodge skill and reduced block stamina cost.,scileanna Dodge méadaithe agus costas stamina bloc laghdaithe.,status-effects.ga.json,status-effects,ga,True,False,extracted/status-effects.json,manual
 se_trinketbloodgoldhealth,Neckstabber,Seirbhís do Chustaiméirí,status-effects.ga.json,status-effects,ga,True,False,extracted/status-effects.json,manual
 se_trinketbloodgoldhealth_description,"Health regenerates faster, running and attacking costs less stamina. You also get an instant boost to health and armour.","Sláinte regenerates níos tapúla, ag rith agus ionsaí costais níos lú stamina. A gheobhaidh tú freisin borradh toirt do shláinte agus armúr.",status-effects.ga.json,status-effects,ga,True,False,extracted/status-effects.json,manual
-se_trinketbloodgoldstamina,Witch Crown,Uisce agus Séarachas,status-effects.ga.json,status-effects,ga,True,False,extracted/status-effects.json,manual
+se_trinketbloodgoldstamina,Witch Crown,Witch Crown,status-effects.ga.json,status-effects,ga,True,False,extracted/status-effects.json,manual
 se_trinketbloodgoldstamina_description,"Health, stamina and eitr regenerate faster, and you get an instant boost to stamina and eitr.","Sláinte, stamina agus eitile athghiniúint níos tapúla, agus gheobhaidh tú borradh toirt le stamina agus eitile.",status-effects.ga.json,status-effects,ga,True,False,extracted/status-effects.json,manual
 se_trinketbronzehealth,Heart of the Forest,Croí na Foraoise,status-effects.ga.json,status-effects,ga,True,False,extracted/status-effects.json,manual
 se_trinketbronzehealth_description,Increased health regeneration.,Athghiniúint sláinte méadaithe.,status-effects.ga.json,status-effects,ga,True,False,extracted/status-effects.json,manual
@@ -6459,7 +6459,7 @@ tag_decor,Decor,Déan teagmháil Linn,remainder.ga.json,remainder,ga,True,False,
 tag_defense,Defence,Cosaint Sonraí,remainder.ga.json,remainder,ga,True,False,extracted/remainder.json,manual
 tag_doors,Doors and Windows,Doirse agus Windows,remainder.ga.json,remainder,ga,True,False,extracted/remainder.json,manual
 tag_feasts,Feasts,Feasts,remainder.ga.json,remainder,ga,True,False,extracted/remainder.json,manual
-tag_floor,Flooring,Uisce agus Séarachas,remainder.ga.json,remainder,ga,True,False,extracted/remainder.json,manual
+tag_floor,Flooring,Flooring,remainder.ga.json,remainder,ga,True,False,extracted/remainder.json,manual
 tag_food,Food,Bia bia,remainder.ga.json,remainder,ga,True,False,extracted/remainder.json,manual
 tag_furniture,Furniture,Troscán,remainder.ga.json,remainder,ga,True,False,extracted/remainder.json,manual
 tag_lighting,Lighting,Soilsiú Poiblí,remainder.ga.json,remainder,ga,True,False,extracted/remainder.json,manual

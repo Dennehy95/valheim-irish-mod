@@ -212,13 +212,13 @@
     {
       "key": "animal_fish8",
       "english": "Coral Cod",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Coral Cod",
       "translationMethod": "manual"
     },
     {
       "key": "animal_fish9",
       "english": "Anglerfish",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Anglerfish",
       "translationMethod": "manual"
     },
     {
@@ -1580,7 +1580,7 @@
     {
       "key": "language_korean",
       "english": "한국어",
-      "irish": "Uisce agus Séarachas",
+      "irish": "한국어",
       "translationMethod": "manual"
     },
     {
@@ -3764,7 +3764,7 @@
     {
       "key": "tag_floor",
       "english": "Flooring",
-      "irish": "Uisce agus Séarachas",
+      "irish": "Flooring",
       "translationMethod": "manual"
     },
     {

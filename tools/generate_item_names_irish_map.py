@@ -13,6 +13,9 @@ from item_irish_translate import translate_item
 _REPO = Path(__file__).resolve().parents[1]
 _CACHE = _REPO / "tools" / "item-names_mt_cache.json"
 
+# Argos en→ga sometimes returns this garbage for unrelated English inputs.
+_POISONED_MT: frozenset[str] = frozenset({"Uisce agus Séarachas"})
+
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
@@ -42,7 +45,11 @@ def main() -> int:
         if not english.strip():
             irish_map[key] = ""
             continue
-        irish = cache.get(english) or translate_item(key, english)
+        cached = cache.get(english)
+        if cached and cached not in _POISONED_MT:
+            irish = cached
+        else:
+            irish = translate_item(key, english)
         irish_map[key] = irish
         if i % 50 == 0 or i == len(entries):
             print(f"Translated {i}/{len(entries)}", file=sys.stderr)

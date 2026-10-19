@@ -54,6 +54,7 @@ PROPER_NOUNS: frozenset[str] = frozenset(
 )
 
 EXACT: dict[str, str] = {
+    "Weight": "Meáchan",
     "Armour": "Armúr",
     "Armor": "Armúr",
     "Amber": "Ómra",
@@ -108,6 +109,7 @@ WORDS: dict[str, str] = {
     "ancient": "ársa",
     "wood": "adhmad",
     "wooden": "adhmaid",
+    "weight": "meáchan",
     "stone": "cloch",
     "flint": "clochóir",
     "bronze": "cré-umha",

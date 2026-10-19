@@ -11,7 +11,7 @@ Full export of Irish (`ga`) strings from `plugins/irish-mod/Translations/*.ga.js
 
 - **Rows (unique keys):** 6,058
 - **Source files:** 21 `*.ga.json` translation bundles
-- **Generated (UTC):** 2026-10-19 19:39:19 UTC
+- **Generated (UTC):** 2026-10-19 19:43:19 UTC
 
 ## Regenerate
 

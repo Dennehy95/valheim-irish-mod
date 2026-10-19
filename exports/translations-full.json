@@ -1730,7 +1730,7 @@
   {
     "key": "animal_fish8",
     "english": "Coral Cod",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Coral Cod",
     "sourceFile": "remainder.ga.json",
     "screen_id": "remainder",
     "locale": "ga",
@@ -1742,7 +1742,7 @@
   {
     "key": "animal_fish9",
     "english": "Anglerfish",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Anglerfish",
     "sourceFile": "remainder.ga.json",
     "screen_id": "remainder",
     "locale": "ga",
@@ -2510,7 +2510,7 @@
   {
     "key": "caption_axe",
     "english": "Axe",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Tuagh",
     "sourceFile": "captions.ga.json",
     "screen_id": "captions",
     "locale": "ga",
@@ -2582,7 +2582,7 @@
   {
     "key": "caption_bow",
     "english": "Bow",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Bogha",
     "sourceFile": "captions.ga.json",
     "screen_id": "captions",
     "locale": "ga",
@@ -3626,7 +3626,7 @@
   {
     "key": "caption_seagull",
     "english": "Seagull",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Seagull",
     "sourceFile": "captions.ga.json",
     "screen_id": "captions",
     "locale": "ga",
@@ -16490,7 +16490,7 @@
   {
     "key": "item_barrelrings",
     "english": "Barrel Hoops",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Baraille Hoops",
     "sourceFile": "item-names.ga.json",
     "screen_id": "item-names",
     "locale": "ga",
@@ -17066,7 +17066,7 @@
   {
     "key": "item_blobvial",
     "english": "Corked Vial",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Corked Vial",
     "sourceFile": "item-names.ga.json",
     "screen_id": "item-names",
     "locale": "ga",
@@ -17174,7 +17174,7 @@
   {
     "key": "item_bloodgoldkey",
     "english": "Intricate Key",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Intricate Eochair",
     "sourceFile": "item-names.ga.json",
     "screen_id": "item-names",
     "locale": "ga",
@@ -21410,7 +21410,7 @@
   {
     "key": "item_entrails",
     "english": "Entrails",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Entrails",
     "sourceFile": "item-names.ga.json",
     "screen_id": "item-names",
     "locale": "ga",
@@ -21770,7 +21770,7 @@
   {
     "key": "item_feathers",
     "english": "Feathers",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Feathers",
     "sourceFile": "item-names.ga.json",
     "screen_id": "item-names",
     "locale": "ga",
@@ -21842,7 +21842,7 @@
   {
     "key": "item_finewood",
     "english": "Finewood",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Finewood",
     "sourceFile": "item-names.ga.json",
     "screen_id": "item-names",
     "locale": "ga",
@@ -21950,7 +21950,7 @@
   {
     "key": "item_fireworkrocket_green",
     "english": "Green Fireworks",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Glas Fireworks",
     "sourceFile": "item-names.ga.json",
     "screen_id": "item-names",
     "locale": "ga",
@@ -21986,7 +21986,7 @@
   {
     "key": "item_fireworkrocket_white",
     "english": "Basic Fireworks",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Basic Fireworks",
     "sourceFile": "item-names.ga.json",
     "screen_id": "item-names",
     "locale": "ga",
@@ -21998,7 +21998,7 @@
   {
     "key": "item_fireworkrocket_yellow",
     "english": "Yellow Fireworks",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Buí Fireworks",
     "sourceFile": "item-names.ga.json",
     "screen_id": "item-names",
     "locale": "ga",
@@ -23198,7 +23198,7 @@
   {
     "key": "item_graplinghook",
     "english": "Grappling Hook",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Grappling Crúca",
     "sourceFile": "item-names.ga.json",
     "screen_id": "item-names",
     "locale": "ga",
@@ -24746,7 +24746,7 @@
   {
     "key": "item_hildirkey2",
     "english": "Hildir's Silver Key",
-    "irish": "Uisce agus Séarachas",
+    "irish": "P28 's Airgead Eochair",
     "sourceFile": "item-names.ga.json",
     "screen_id": "item-names",
     "locale": "ga",
@@ -24866,7 +24866,7 @@
   {
     "key": "item_hook",
     "english": "Hook",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Crúca",
     "sourceFile": "item-names.ga.json",
     "screen_id": "item-names",
     "locale": "ga",
@@ -25490,7 +25490,7 @@
   {
     "key": "item_knife_silver",
     "english": "Silver Knife",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Airgead Scian",
     "sourceFile": "item-names.ga.json",
     "screen_id": "item-names",
     "locale": "ga",
@@ -25586,7 +25586,7 @@
   {
     "key": "item_knockback",
     "english": "Knockback",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Knockback",
     "sourceFile": "item-names.ga.json",
     "screen_id": "item-names",
     "locale": "ga",
@@ -26378,7 +26378,7 @@
   {
     "key": "item_loxmeat",
     "english": "Lox Meat",
-    "irish": "Uisce agus Séarachas",
+    "irish": "P42 Feoil",
     "sourceFile": "item-names.ga.json",
     "screen_id": "item-names",
     "locale": "ga",
@@ -29330,7 +29330,7 @@
   {
     "key": "item_oatmeallingonberryjam",
     "english": "Oatmeal",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Oatmeal",
     "sourceFile": "item-names.ga.json",
     "screen_id": "item-names",
     "locale": "ga",
@@ -31430,7 +31430,7 @@
   {
     "key": "item_shield_silver",
     "english": "Silver Shield",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Airgead Sciath",
     "sourceFile": "item-names.ga.json",
     "screen_id": "item-names",
     "locale": "ga",
@@ -31490,7 +31490,7 @@
   {
     "key": "item_shield_wood",
     "english": "Wood Shield",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Adhmad Sciath",
     "sourceFile": "item-names.ga.json",
     "screen_id": "item-names",
     "locale": "ga",
@@ -31514,7 +31514,7 @@
   {
     "key": "item_shield_woodtower",
     "english": "Wood Tower Shield",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Adhmad Túr Sciath",
     "sourceFile": "item-names.ga.json",
     "screen_id": "item-names",
     "locale": "ga",
@@ -31610,7 +31610,7 @@
   {
     "key": "item_silvernecklace",
     "english": "Silver Necklace",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Airgead Muince",
     "sourceFile": "item-names.ga.json",
     "screen_id": "item-names",
     "locale": "ga",
@@ -31634,7 +31634,7 @@
   {
     "key": "item_silverore",
     "english": "Silver Ore",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Airgead Mianach",
     "sourceFile": "item-names.ga.json",
     "screen_id": "item-names",
     "locale": "ga",
@@ -32474,7 +32474,7 @@
   {
     "key": "item_spiceforests",
     "english": "Woodland Herb Blend",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Woodland Herb Blend",
     "sourceFile": "item-names.ga.json",
     "screen_id": "item-names",
     "locale": "ga",
@@ -33914,7 +33914,7 @@
   {
     "key": "item_tankard",
     "english": "Tankard",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Pionta",
     "sourceFile": "item-names.ga.json",
     "screen_id": "item-names",
     "locale": "ga",
@@ -34226,7 +34226,7 @@
   {
     "key": "item_trinketbloodgoldstamina",
     "english": "Witch Crown",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Witch Crown",
     "sourceFile": "item-names.ga.json",
     "screen_id": "item-names",
     "locale": "ga",
@@ -37598,7 +37598,7 @@
   {
     "key": "item_weight",
     "english": "Weight",
-    "irish": "Meáchan Meáchan",
+    "irish": "Meáchan",
     "sourceFile": "item-names.ga.json",
     "screen_id": "item-names",
     "locale": "ga",
@@ -37874,7 +37874,7 @@
   {
     "key": "item_wood",
     "english": "Wood",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Adhmad",
     "sourceFile": "item-names.ga.json",
     "screen_id": "item-names",
     "locale": "ga",
@@ -38294,7 +38294,7 @@
   {
     "key": "language_korean",
     "english": "한국어",
-    "irish": "Uisce agus Séarachas",
+    "irish": "한국어",
     "sourceFile": "remainder.ga.json",
     "screen_id": "remainder",
     "locale": "ga",
@@ -49238,7 +49238,7 @@
   {
     "key": "npc_hugin",
     "english": "Hugin",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Hugin",
     "sourceFile": "npc-dialogue.ga.json",
     "screen_id": "npc-dialogue",
     "locale": "ga",
@@ -49934,7 +49934,7 @@
   {
     "key": "piece_ashwood_door",
     "english": "Ashwood Door",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Ashwood Door",
     "sourceFile": "piece-names.ga.json",
     "screen_id": "piece-names",
     "locale": "ga",
@@ -49958,7 +49958,7 @@
   {
     "key": "piece_ashwood_floor_1x1",
     "english": "Ashwood Floor 1x1",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Ashwood Floor 1x1",
     "sourceFile": "piece-names.ga.json",
     "screen_id": "piece-names",
     "locale": "ga",
@@ -49970,7 +49970,7 @@
   {
     "key": "piece_ashwood_floor_2x2",
     "english": "Ashwood Floor 2x2",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Ashwood Floor 2x2",
     "sourceFile": "piece-names.ga.json",
     "screen_id": "piece-names",
     "locale": "ga",
@@ -50186,7 +50186,7 @@
   {
     "key": "piece_ashwoodstair",
     "english": "Ashwood Stair",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Ashwood Stair",
     "sourceFile": "piece-names.ga.json",
     "screen_id": "piece-names",
     "locale": "ga",
@@ -50846,7 +50846,7 @@
   {
     "key": "piece_bench01",
     "english": "Wood Bench",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Adhmad Binse",
     "sourceFile": "piece-names.ga.json",
     "screen_id": "piece-names",
     "locale": "ga",
@@ -51722,7 +51722,7 @@
   {
     "key": "piece_blackwoodstack",
     "english": "Ashwood Stack",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Ashwood Stack",
     "sourceFile": "piece-names.ga.json",
     "screen_id": "piece-names",
     "locale": "ga",
@@ -52370,7 +52370,7 @@
   {
     "key": "piece_chestbarrel",
     "english": "Barrel",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Baraille",
     "sourceFile": "piece-names.ga.json",
     "screen_id": "piece-names",
     "locale": "ga",
@@ -53690,7 +53690,7 @@
   {
     "key": "piece_fermenter",
     "english": "Fermenter",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Fermenter",
     "sourceFile": "piece-names.ga.json",
     "screen_id": "piece-names",
     "locale": "ga",
@@ -54182,7 +54182,7 @@
   {
     "key": "piece_frostkiln",
     "english": "Frigid Kiln",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Frigid Kiln",
     "sourceFile": "piece-names.ga.json",
     "screen_id": "piece-names",
     "locale": "ga",
@@ -55526,7 +55526,7 @@
   {
     "key": "piece_lorestone",
     "english": "Runestone",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Runestone",
     "sourceFile": "piece-names.ga.json",
     "screen_id": "piece-names",
     "locale": "ga",
@@ -57986,7 +57986,7 @@
   {
     "key": "piece_stavebeam2",
     "english": "Timber Beam 2m",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Timber Tráth 2m",
     "sourceFile": "piece-names.ga.json",
     "screen_id": "piece-names",
     "locale": "ga",
@@ -58610,7 +58610,7 @@
   {
     "key": "piece_tombstone_container",
     "english": "Grave",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Grave",
     "sourceFile": "piece-names.ga.json",
     "screen_id": "piece-names",
     "locale": "ga",
@@ -63950,7 +63950,7 @@
   {
     "key": "se_trinketbloodgoldstamina",
     "english": "Witch Crown",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Witch Crown",
     "sourceFile": "status-effects.ga.json",
     "screen_id": "status-effects",
     "locale": "ga",
@@ -70058,7 +70058,7 @@
   {
     "key": "tag_floor",
     "english": "Flooring",
-    "irish": "Uisce agus Séarachas",
+    "irish": "Flooring",
     "sourceFile": "remainder.ga.json",
     "screen_id": "remainder",
     "locale": "ga",
