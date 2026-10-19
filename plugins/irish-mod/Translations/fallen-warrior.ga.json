@@ -1,0 +1,1221 @@
+{
+  "screen_id": "fallen-warrior",
+  "locale": "ga",
+  "pendingApiKey": true,
+  "machineAssisted": false,
+  "source_extract": "extracted/fallen-warrior.json",
+  "entries": [
+    {
+      "key": "fallenwarrior_title100_f",
+      "english": "{name} the Wolf",
+      "irish": "{ainm} an Mac Tíre",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title100_m",
+      "english": "{name} the Wolf",
+      "irish": "{ainm} an Mac Tíre",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title101_f",
+      "english": "{name} the Young",
+      "irish": "{ainm} an Óg",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title101_m",
+      "english": "{name} the Young",
+      "irish": "{ainm} an Óg",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title10_f",
+      "english": "{name} the Brave",
+      "irish": "{ainm} an Brave",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title10_m",
+      "english": "{name} the Brave",
+      "irish": "{ainm} an Brave",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title11_f",
+      "english": "{name} the Bright",
+      "irish": "{ainm} an Bright",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title11_m",
+      "english": "{name} the Bright",
+      "irish": "{ainm} an Bright",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title12_f",
+      "english": "{name} the Broken",
+      "irish": "{ainm} an Broken",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title12_m",
+      "english": "{name} the Broken",
+      "irish": "{ainm} an Broken",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title13_f",
+      "english": "{name} the Builder of Cities",
+      "irish": "{ainm} an Tógálaí Cathracha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title13_m",
+      "english": "{name} the Builder of Cities",
+      "irish": "{ainm} an Tógálaí Cathracha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title14_f",
+      "english": "{name} the Calm",
+      "irish": "{ainm} an calma",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title14_m",
+      "english": "{name} the Calm",
+      "irish": "{ainm} an calma",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title15_f",
+      "english": "{name} the Champion",
+      "irish": "{ainm} an Champion",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title15_m",
+      "english": "{name} the Champion",
+      "irish": "{ainm} an Champion",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title16_f",
+      "english": "{name} the Cheerful",
+      "irish": "{ainm} an Cheerful",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title16_m",
+      "english": "{name} the Cheerful",
+      "irish": "{ainm} an Cheerful",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title17_f",
+      "english": "{name} the Chosen",
+      "irish": "{ainm} an roghnaithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title17_m",
+      "english": "{name} the Chosen",
+      "irish": "{ainm} an roghnaithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title18_f",
+      "english": "{name} the Clever",
+      "irish": "{ainm} an Clever",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title18_m",
+      "english": "{name} the Clever",
+      "irish": "{ainm} an Clever",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title19_f",
+      "english": "{name} the Cold",
+      "irish": "{ainm} an Fuar",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title19_m",
+      "english": "{name} the Cold",
+      "irish": "{ainm} an Fuar",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title1_f",
+      "english": "{name} the Adventurer",
+      "irish": "{ainm} an Eachtraíochta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title1_m",
+      "english": "{name} the Adventurer",
+      "irish": "{ainm} an Eachtraíochta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title20_f",
+      "english": "{name} the Conqueror",
+      "irish": "{ainm} an Conqueror",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title20_m",
+      "english": "{name} the Conqueror",
+      "irish": "{ainm} an Conqueror",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title21_f",
+      "english": "{name} the Courter of Death",
+      "irish": "{ainm} an Courter an Bháis",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title21_m",
+      "english": "{name} the Courter of Death",
+      "irish": "{ainm} an Courter an Bháis",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title22_f",
+      "english": "{name} the Damned",
+      "irish": "{ainm} an Damned",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title22_m",
+      "english": "{name} the Damned",
+      "irish": "{ainm} an Damned",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title23_f",
+      "english": "{name} the Dangerous",
+      "irish": "{ainm} an Contúirteacha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title23_m",
+      "english": "{name} the Dangerous",
+      "irish": "{ainm} an Contúirteacha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title24_f",
+      "english": "{name} the Deathbringer",
+      "irish": "{ainm} an Deathbringer",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title24_m",
+      "english": "{name} the Deathbringer",
+      "irish": "{ainm} an Deathbringer",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title25_f",
+      "english": "{name} the Deceiver",
+      "irish": "{ainm} an Deceiver",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title25_m",
+      "english": "{name} the Deceiver",
+      "irish": "{ainm} an Deceiver",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title26_f",
+      "english": "{name} the Demanding",
+      "irish": "{ainm} an Éileamh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title26_m",
+      "english": "{name} the Demanding",
+      "irish": "{ainm} an Éileamh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title27_f",
+      "english": "{name} the Dragon",
+      "irish": "{ainm} an Dragon",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title27_m",
+      "english": "{name} the Dragon",
+      "irish": "{ainm} an Dragon",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title28_f",
+      "english": "{name} the Eagle",
+      "irish": "{ainm} an Eagle",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title28_m",
+      "english": "{name} the Eagle",
+      "irish": "{ainm} an Eagle",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title29_f",
+      "english": "{name} the Explorer",
+      "irish": "{ainm} an Explorer",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title29_m",
+      "english": "{name} the Explorer",
+      "irish": "{ainm} an Explorer",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title2_f",
+      "english": "{name} the Baleful",
+      "irish": "{ainm} an trócaire",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title2_m",
+      "english": "{name} the Baleful",
+      "irish": "{ainm} an trócaire",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title30_f",
+      "english": "{name} the Feared",
+      "irish": "{ainm} an eagla",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title30_m",
+      "english": "{name} the Feared",
+      "irish": "{ainm} an eagla",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title31_f",
+      "english": "{name} the Fierce",
+      "irish": "{ainm} an Fierce",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title31_m",
+      "english": "{name} the Fierce",
+      "irish": "{ainm} an Fierce",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title32_f",
+      "english": "{name} the Fighter",
+      "irish": "{ainm} an Trodaire",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title32_m",
+      "english": "{name} the Fighter",
+      "irish": "{ainm} an Trodaire",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title33_f",
+      "english": "{name} the Forgotten",
+      "irish": "{ainm} an dearmad",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title33_m",
+      "english": "{name} the Forgotten",
+      "irish": "{ainm} an dearmad",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title34_f",
+      "english": "{name} the Generous",
+      "irish": "{ainm} an Géiniúil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title34_m",
+      "english": "{name} the Generous",
+      "irish": "{ainm} an Géiniúil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title35_f",
+      "english": "{name} the Greedy",
+      "irish": "{ainm} an Greedy",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title35_m",
+      "english": "{name} the Greedy",
+      "irish": "{ainm} an Greedy",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title36_f",
+      "english": "{name} the Grim",
+      "irish": "{ainm} an Grim",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title36_m",
+      "english": "{name} the Grim",
+      "irish": "{ainm} an Grim",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title37_f",
+      "english": "{name} the Harrower",
+      "irish": "{ainm} an Harrower",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title37_m",
+      "english": "{name} the Harrower",
+      "irish": "{ainm} an Harrower",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title38_f",
+      "english": "{name} the Kingmaker",
+      "irish": "{ainm} an Kingmaker",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title38_m",
+      "english": "{name} the Kingmaker",
+      "irish": "{ainm} an Kingmaker",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title39_f",
+      "english": "{name} the Knowing",
+      "irish": "{ainm} an Knowing",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title39_m",
+      "english": "{name} the Knowing",
+      "irish": "{ainm} an Knowing",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title3_f",
+      "english": "{name} the Bear",
+      "irish": "{ainm} an Bear",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title3_m",
+      "english": "{name} the Bear",
+      "irish": "{ainm} an Bear",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title40_f",
+      "english": "{name} the Legendary",
+      "irish": "{ainm} an Finscéalaí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title40_m",
+      "english": "{name} the Legendary",
+      "irish": "{ainm} an Finscéalaí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title41_f",
+      "english": "{name} the Loathsome",
+      "irish": "{ainm} an Loathsome",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title41_m",
+      "english": "{name} the Loathsome",
+      "irish": "{ainm} an Loathsome",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title42_f",
+      "english": "{name} the Lonely",
+      "irish": "{ainm} an Lonely",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title42_m",
+      "english": "{name} the Lonely",
+      "irish": "{ainm} an Lonely",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title43_f",
+      "english": "{name} the Lost",
+      "irish": "{ainm} an Caillte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title43_m",
+      "english": "{name} the Lost",
+      "irish": "{ainm} an Caillte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title44_f",
+      "english": "{name} the Loyal",
+      "irish": "{ainm} an Loyal",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title44_m",
+      "english": "{name} the Loyal",
+      "irish": "{ainm} an Loyal",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title45_f",
+      "english": "{name} the Lucky",
+      "irish": "{ainm} an Lucky",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title45_m",
+      "english": "{name} the Lucky",
+      "irish": "{ainm} an Lucky",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title46_f",
+      "english": "{name} the Marked",
+      "irish": "{ainm} an Marked",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title46_m",
+      "english": "{name} the Marked",
+      "irish": "{ainm} an Marked",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title47_f",
+      "english": "{name} the Mighty",
+      "irish": "{ainm} an Mighty",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title47_m",
+      "english": "{name} the Mighty",
+      "irish": "{ainm} an Mighty",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title48_f",
+      "english": "{name} the Mountain Walker",
+      "irish": "{ainm} an Walker Sléibhe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title48_m",
+      "english": "{name} the Mountain Walker",
+      "irish": "{ainm} an Walker Sléibhe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title49_f",
+      "english": "{name} the Mysterious",
+      "irish": "{ainm} an Mysterious",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title49_m",
+      "english": "{name} the Mysterious",
+      "irish": "{ainm} an Mysterious",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title4_f",
+      "english": "{name} the Beaten",
+      "irish": "{ainm} an Beaten",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title4_m",
+      "english": "{name} the Beaten",
+      "irish": "{ainm} an Beaten",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title50_f",
+      "english": "{name} the Old",
+      "irish": "{ainm} an Sean",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title50_m",
+      "english": "{name} the Old",
+      "irish": "{ainm} an Sean",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title51_f",
+      "english": "{name} the Plunderer",
+      "irish": "{ainm} an Plunderer",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title51_m",
+      "english": "{name} the Plunderer",
+      "irish": "{ainm} an Plunderer",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title52_f",
+      "english": "{name} the Proud",
+      "irish": "{ainm} an Proud",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title52_m",
+      "english": "{name} the Proud",
+      "irish": "{ainm} an Proud",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title53_f",
+      "english": "{name} the Quick",
+      "irish": "{ainm} an Quick",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title53_m",
+      "english": "{name} the Quick",
+      "irish": "{ainm} an Quick",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title54_f",
+      "english": "{name} the Raider",
+      "irish": "{ainm} an Raider",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title54_m",
+      "english": "{name} the Raider",
+      "irish": "{ainm} an Raider",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title55_f",
+      "english": "{name} the Ravager",
+      "irish": "{ainm} an Ravager",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title55_m",
+      "english": "{name} the Ravager",
+      "irish": "{ainm} an Ravager",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title56_f",
+      "english": "{name} the Raven",
+      "irish": "{ainm} an Raven",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title56_m",
+      "english": "{name} the Raven",
+      "irish": "{ainm} an Raven",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title57_f",
+      "english": "{name} the Rebuilder",
+      "irish": "{ainm} an Atógálaí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title57_m",
+      "english": "{name} the Rebuilder",
+      "irish": "{ainm} an Atógálaí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title58_f",
+      "english": "{name} the Red",
+      "irish": "{ainm} an Dearg",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title58_m",
+      "english": "{name} the Red",
+      "irish": "{ainm} an Dearg",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title59_f",
+      "english": "{name} the Reveller",
+      "irish": "{ainm} an Reveller",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title59_m",
+      "english": "{name} the Reveller",
+      "irish": "{ainm} an Reveller",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title5_f",
+      "english": "{name} the Beautiful",
+      "irish": "{ainm} an Álainn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title5_m",
+      "english": "{name} the Beautiful",
+      "irish": "{ainm} an Álainn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title60_f",
+      "english": "{name} the Rich",
+      "irish": "{ainm} an saibhir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title60_m",
+      "english": "{name} the Rich",
+      "irish": "{ainm} an saibhir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title61_f",
+      "english": "{name} the Ruler",
+      "irish": "{ainm} an Rialóir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title61_m",
+      "english": "{name} the Ruler",
+      "irish": "{ainm} an Rialóir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title62_f",
+      "english": "{name} the Scarred",
+      "irish": "{ainm} an scarred",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title62_m",
+      "english": "{name} the Scarred",
+      "irish": "{ainm} an scarred",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title63_f",
+      "english": "{name} the Seafarer",
+      "irish": "{ainm} an Maraí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title63_m",
+      "english": "{name} the Seafarer",
+      "irish": "{ainm} an Maraí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title64_f",
+      "english": "{name} the Seeker of Glory",
+      "irish": "{ainm} an Seeker na Glóir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title64_m",
+      "english": "{name} the Seeker of Glory",
+      "irish": "{ainm} an Seeker na Glóir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title65_f",
+      "english": "{name} the Sellsword",
+      "irish": "{ainm} an Sellsword",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title65_m",
+      "english": "{name} the Sellsword",
+      "irish": "{ainm} an Sellsword",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title66_f",
+      "english": "{name} the Shadow",
+      "irish": "{ainm} an Scáth",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title66_m",
+      "english": "{name} the Shadow",
+      "irish": "{ainm} an Scáth",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title67_f",
+      "english": "{name} the Sharp",
+      "irish": "{ainm} an Sharp",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title67_m",
+      "english": "{name} the Sharp",
+      "irish": "{ainm} an Sharp",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title68_f",
+      "english": "{name} the Shipmaker",
+      "irish": "{ainm} an Shipmaker",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title68_m",
+      "english": "{name} the Shipmaker",
+      "irish": "{ainm} an Shipmaker",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title69_f",
+      "english": "{name} the Shipwrecker",
+      "irish": "{ainm} an Shipwrecker",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title69_m",
+      "english": "{name} the Shipwrecker",
+      "irish": "{ainm} an Shipwrecker",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title6_f",
+      "english": "{name} the Berserker",
+      "irish": "{ainm} an Berserker",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title6_m",
+      "english": "{name} the Berserker",
+      "irish": "{ainm} an Berserker",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title70_f",
+      "english": "{name} the Silvertongue",
+      "irish": "{ainm} an Silvertongue",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title70_m",
+      "english": "{name} the Silvertongue",
+      "irish": "{ainm} an Silvertongue",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title71_f",
+      "english": "{name} the Skald",
+      "irish": "{ainm} an Skald",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title71_m",
+      "english": "{name} the Skald",
+      "irish": "{ainm} an Skald",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title72_f",
+      "english": "{name} the Slaughterer",
+      "irish": "{ainm} an Slaughter",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title72_m",
+      "english": "{name} the Slaughterer",
+      "irish": "{ainm} an Slaughter",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title73_f",
+      "english": "{name} the Slayer",
+      "irish": "{ainm} an Slayer",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title73_m",
+      "english": "{name} the Slayer",
+      "irish": "{ainm} an Slayer",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title74_f",
+      "english": "{name} the Soldier",
+      "irish": "{ainm} an Saighdiúir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title74_m",
+      "english": "{name} the Soldier",
+      "irish": "{ainm} an Saighdiúir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title75_f",
+      "english": "{name} the Solemn",
+      "irish": "{ainm} an Sollúntas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title75_m",
+      "english": "{name} the Solemn",
+      "irish": "{ainm} an Sollúntas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title76_f",
+      "english": "{name} the Spiteful",
+      "irish": "{ainm} an Spiteful",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title76_m",
+      "english": "{name} the Spiteful",
+      "irish": "{ainm} an Spiteful",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title77_f",
+      "english": "{name} the Stern",
+      "irish": "{ainm} an Stern",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title77_m",
+      "english": "{name} the Stern",
+      "irish": "{ainm} an Stern",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title78_f",
+      "english": "{name} the Stoic",
+      "irish": "{ainm} an Stoic",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title78_m",
+      "english": "{name} the Stoic",
+      "irish": "{ainm} an Stoic",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title79_f",
+      "english": "{name} the Stormborn",
+      "irish": "{ainm} an Stormborn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title79_m",
+      "english": "{name} the Stormborn",
+      "irish": "{ainm} an Stormborn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title7_f",
+      "english": "{name} the Bloodthirsty",
+      "irish": "{ainm} an Folthirsty",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title7_m",
+      "english": "{name} the Bloodthirsty",
+      "irish": "{ainm} an Folthirsty",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title80_f",
+      "english": "{name} the Strange",
+      "irish": "{ainm} an Strange",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title80_m",
+      "english": "{name} the Strange",
+      "irish": "{ainm} an Strange",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title81_f",
+      "english": "{name} the Strong",
+      "irish": "{ainm} an láidre",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title81_m",
+      "english": "{name} the Strong",
+      "irish": "{ainm} an láidre",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title82_f",
+      "english": "{name} the Teller of Tales",
+      "irish": "{ainm} an díoltóra de Tales",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title82_m",
+      "english": "{name} the Teller of Tales",
+      "irish": "{ainm} an díoltóra de Tales",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title83_f",
+      "english": "{name} the Traveller",
+      "irish": "{ainm} an Lucht Siúil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title83_m",
+      "english": "{name} the Traveller",
+      "irish": "{ainm} an Lucht Siúil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title84_f",
+      "english": "{name} the Trickster",
+      "irish": "{ainm} an Trickster",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title84_m",
+      "english": "{name} the Trickster",
+      "irish": "{ainm} an Trickster",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title85_f",
+      "english": "{name} the True",
+      "irish": "{ainm} an True",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title85_m",
+      "english": "{name} the True",
+      "irish": "{ainm} an True",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title86_f",
+      "english": "{name} the Undefeated",
+      "irish": "{ainm} an Undefeated",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title86_m",
+      "english": "{name} the Undefeated",
+      "irish": "{ainm} an Undefeated",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title87_f",
+      "english": "{name} the Underdog",
+      "irish": "{ainm} an Underdog",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title87_m",
+      "english": "{name} the Underdog",
+      "irish": "{ainm} an Underdog",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title88_f",
+      "english": "{name} the Undying",
+      "irish": "{ainm} an Undying",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title88_m",
+      "english": "{name} the Undying",
+      "irish": "{ainm} an Undying",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title89_f",
+      "english": "{name} the Unifier",
+      "irish": "{ainm} an Unifier",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title89_m",
+      "english": "{name} the Unifier",
+      "irish": "{ainm} an Unifier",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title8_f",
+      "english": "{name} the Bloody",
+      "irish": "{ainm} an Fola",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title8_m",
+      "english": "{name} the Bloody",
+      "irish": "{ainm} an Fola",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title90_f",
+      "english": "{name} the Unimpressed",
+      "irish": "{ainm} an Unimpressed",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title90_m",
+      "english": "{name} the Unimpressed",
+      "irish": "{ainm} an Unimpressed",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title91_f",
+      "english": "{name} the Vagabond",
+      "irish": "{ainm} an Vagabond",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title91_m",
+      "english": "{name} the Vagabond",
+      "irish": "{ainm} an Vagabond",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title92_f",
+      "english": "{name} the Vanquisher",
+      "irish": "{ainm} an Vanquisher",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title92_m",
+      "english": "{name} the Vanquisher",
+      "irish": "{ainm} an Vanquisher",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title93_f",
+      "english": "{name} the Victorious",
+      "irish": "{ainm} an Victorious",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title93_m",
+      "english": "{name} the Victorious",
+      "irish": "{ainm} an Victorious",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title94_f",
+      "english": "{name} the Violent",
+      "irish": "{ainm} an Víolent",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title94_m",
+      "english": "{name} the Violent",
+      "irish": "{ainm} an Víolent",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title95_f",
+      "english": "{name} the Viper",
+      "irish": "{ainm} an Viper",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title95_m",
+      "english": "{name} the Viper",
+      "irish": "{ainm} an Viper",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title96_f",
+      "english": "{name} the Wanderer",
+      "irish": "{ainm} an Wanderer",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title96_m",
+      "english": "{name} the Wanderer",
+      "irish": "{ainm} an Wanderer",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title97_f",
+      "english": "{name} the Watchful",
+      "irish": "{ainm} an Watchful",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title97_m",
+      "english": "{name} the Watchful",
+      "irish": "{ainm} an Watchful",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title98_f",
+      "english": "{name} the Wild",
+      "irish": "{ainm} an Fiáin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title98_m",
+      "english": "{name} the Wild",
+      "irish": "{ainm} an Fiáin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title99_f",
+      "english": "{name} the Wise",
+      "irish": "{ainm} an Wise",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title99_m",
+      "english": "{name} the Wise",
+      "irish": "{ainm} an Wise",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title9_f",
+      "english": "{name} the Bold",
+      "irish": "{ainm} an Bold",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fallenwarrior_title9_m",
+      "english": "{name} the Bold",
+      "irish": "{ainm} an Bold",
+      "translationMethod": "manual"
+    }
+  ]
+}

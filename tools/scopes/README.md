@@ -103,4 +103,19 @@ python tools/run_coverage_batch.py --scope tools/scopes/piece-names.keys.txt --s
 
 (Same pattern for `npc-dialogue` and `menus-rest`.)
 
+## Batch 6 — status effects, fallen warrior, tutorial (`se_*`, `fallenwarrior_*`, `tutorial_*`)
+
+| File | Prefix | Keys |
+|------|--------|------|
+| `status-effects.keys.txt` | `se_` | 223 |
+| `fallen-warrior.keys.txt` | `fallenwarrior_` | 202 |
+| `tutorial.keys.txt` | `tutorial_` | 165 |
+
+```powershell
+python tools/generate_prefix_scope.py --prefix se_ --out tools/scopes/status-effects.keys.txt
+python tools/run_coverage_batch.py --scope tools/scopes/status-effects.keys.txt --screen-id status-effects --screen-title "Status effects" --extract plugins/irish-mod/extracted/status-effects.json --irish-map tools/status-effects_irish_map.json --ga-out plugins/irish-mod/Translations/status-effects.ga.json
+```
+
+(Same pattern for `fallen-warrior` and `tutorial`.)
+
 Vanilla key census: `python tools/count_vanilla_keys.py`.

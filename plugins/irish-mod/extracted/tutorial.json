@@ -1,0 +1,839 @@
+{
+  "screen_id": "tutorial",
+  "screen_title": "Tutorial",
+  "scope_notes": "Keys from scope file tools/scopes/tutorial.keys.txt.",
+  "scope_keys_file": "tools/scopes/tutorial.keys.txt",
+  "extracted_at_utc": "2026-10-19T16:01:12.468942+00:00",
+  "method": "static",
+  "game_path": "A:\\Steam\\steamapps\\common\\Valheim",
+  "resources_assets_sha256": "f0274fe60c807842352a049f3762b7a08965bdbfe759dfbb16f90272e51c6bdb",
+  "key_count": 165,
+  "entries": [
+    {
+      "key": "tutorial_altar_label",
+      "english": "Hugin: Forsaken altars",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_altar_text",
+      "english": "You have found the summoning place of one of the Forsaken. Make the correct offering at their altar and they will come.\n\nBe wary though, the Forsaken are not easy prey, so craft a wicked weapon, don your finest armour, and eat a hearty meal before engaging them in combat.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_altar_topic",
+      "english": "Calling forth the beast",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_artisan_extension_label",
+      "english": "Hugin: Artisan press",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_artisan_extension_text",
+      "english": "Now you'll be able to craft ceramic tiles, which have excellent heat insulation.\nYou'll need them if you're to travel southwards!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_artisan_extension_topic",
+      "english": "A new tool",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_ashlandocean_label",
+      "english": "Hugin: Boiling waters",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_ashlandocean_text",
+      "english": "It seems you have ventured to the boiling waters of the south. As you surely noted, this can be a deadly pursuit.\nTo traverse these waters you will need to build something sturdier if you dont want to sleep with the fishes.\n",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_ashlandocean_topic",
+      "english": "Ahoy!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_ashlands_label",
+      "english": "Hugin: Ashlands",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_ashlands_text",
+      "english": "You have discovered the Ashlands, the very hottest parts of the tenth world.\nHere, water boils without a cauldron, and anything flammable can be set alight with just a spark. Be careful!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_ashlands_topic",
+      "english": "Keep a cool head!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_bathtub_text",
+      "english": "Jump in, the water's nice and warm!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_batteringram_label",
+      "english": "Hugin: Battering ram",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_batteringram_text",
+      "english": "The enemy fortresses are built from sturdy stuff. You'll need machines like this one if you're to break through their walls.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_batteringram_topic",
+      "english": "A powerful siege engine",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_bed_label",
+      "english": "Hugin: Settling in",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_bed_text",
+      "english": "Sleep the night away in your bed and awaken feeling refreshed and full of energy.\n\nAnother improvement to your home would be some chests where you can store items. <color=yellow>It is good practice to always have some spare equipment</color>, if something unfortunate should happen to you while exploring...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_bed_topic",
+      "english": "A headrest for the weary!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_bellfragment_label",
+      "english": "Munin: Bell fragment",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_bellfragment_topic",
+      "english": "A fragment of the past",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_blackforest_label",
+      "english": "Hugin: Black Forest",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_blackforest_text",
+      "english": "You have wandered into the Black Forest. This place can be very dangerous for those unprepared for it. Prove your worth by slaying Eikthyr.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_blackforest_topic",
+      "english": "Turn back! This is a dangerous place",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_bosstrophy_label",
+      "english": "Hugin: Forsaken trophy",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_bosstrophy_text",
+      "english": "Return to the Sacrificial Stones with your Forsaken trophy and offer it as a sacrifice to make the Gods smile upon you.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_bosstrophy_topic",
+      "english": "Congratulations, warrior!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_cold_label",
+      "english": "Hugin: Cold",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_cold_text",
+      "english": "When the temperature drops at night, or if you are wet, you will suffer from being cold. This reduces your stamina regeneration.\n\nSeeking shelter by an open flame is your best option when this happens.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_cold_topic",
+      "english": "Be wary of the weather",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_crypt_label",
+      "english": "Hugin: Dungeons",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_crypt_text",
+      "english": "Delves and dungeons can be found across the tenth world. They are monuments of the past, and most often filled with the riches of civilizations long lost.\n\nRemember to bring a light source!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_crypt_topic",
+      "english": "Treasures lie below",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_death_label",
+      "english": "Hugin: Death",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_death_text",
+      "english": "Each time you are struck down, you will <color=yellow\">forget a small part of your abilities and drop your belongings</color> at the site of the accident.\n\nIf you wish you were home by now I'd recommend <color=yellow\">building a bed</color>, wherever home may be.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_death_topic",
+      "english": "You suffered a mortal blow!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_dvergr_label",
+      "english": "Hugin: Dvergr",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_dvergr_text",
+      "english": "Kra-kraaa! Stubborn fools! The Dvergr will tolerate strangers and vagrants but they are quick to anger should you upset them... Which I am sure you will manage to do sooner or later.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_dvergrhalls_label",
+      "english": "Hugin: Dvergr homes",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_dvergrhalls_text",
+      "english": "As I am sure my lesser brother tells you, the halls beyond are very impressive...\n\nJust try not to get lost in the winding tunnels and secret passageways will you?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_eitr",
+      "english": "It seems you have had a sip from an Yggdrasil branch, and I bet you found it to your liking.\nThose fun colored lights you may see spinning around you might not all be in your head anymore.\nJust don't make it a habit. There may be some long term effects that are anything but magical.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_eitr_label",
+      "english": "Hugin: Eitr",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_eitr_text",
+      "english": "The mists permeate all that live and grow in these lands, and now it is a part of you as well.\n\nWith eitr you will be able to cast all sorts of powerful spells. Try to find more eitr-infused ingredients to increase your ability.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_end_hugin_label",
+      "english": "Hugin: To Valhalla",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_end_hugin_text",
+      "english": "Well done, warrior!\r\nAt long last, you have slain all Forsaken and proven yourself worthy. The gates of Valhalla are now open to you – all you need to do is to let the valkyrie carry you there.\r\nBut worry not, you will always be welcome here in the tenth world, should you wish to return.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_end_hugin_topic",
+      "english": "Journey to Valhalla",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_end_munin_label",
+      "english": "Munin: Forsaken Defeated",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_end_munin_text",
+      "english": "You have fought well, warrior.\r\nThanks to you, the Forsaken are no more, and this world can once again be reunited with the rest of Yggdrasil. But that is a story for another time! For now, you ought to claim your reward in Valhalla, don't you think?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_end_munin_topic",
+      "english": "And so the saga comes to an end...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_faderember_label",
+      "english": "Hugin: Eternal Pyre",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_faderember_text",
+      "english": "It is not just a dragon's breath that burns bright, but its very essence as well. One can harness it, with enough skill and patience...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_food2_text",
+      "english": "You have found a snack, consume it to stave off hunger. Some food types are better for your health and indirectly affect how much damage you can block before becoming staggered, and others will fortify your stamina. Then there are also some that is all-around beneficial!\n\nBe aware that before long you will grow hungry again, so try to always have at least a couple of different meals ready.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_food_label",
+      "english": "Hugin: Food",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_food_text",
+      "english": "You have found a snack. Consume it to improve your health and stamina.\n\nBe aware that before long you will grow hungry again, so try to always have at least a couple of different meals ready.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_food_topic",
+      "english": "A tasty morsel!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_giants_label",
+      "english": "Hugin: Giant remains",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_giants_text",
+      "english": "Kraa! Pick their bones and break their domes!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_guardstone_label",
+      "english": "Hugin: Ward",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_guardstone_text",
+      "english": "The ward emits a strong aura which prevents other vikings from building things. It also locks all doors within its influence.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_guardstone_topic",
+      "english": "You have built a ward",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_haldor",
+      "english": "Rumour has it that some traders have found themselves into the tenth world. If you find yourself in need of special commodities you might want to seek them out.\n\nOne of them should be somewhere in a forest such as this. I'm terribly sorry I can't be of more help... you'll have to keep an eye out.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_haldor_label",
+      "english": "Hugin: Trader Haldor",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_haldor_topic",
+      "english": "Well met, adventurer…",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_hammer_label",
+      "english": "Hugin: Hammer",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_hammer_text",
+      "english": "With this tool you will raise mighty halls and towering fortifications.\n\nStart by building a <color=yellow>workbench</color>. This in turn will enable you to construct other things.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_hammer_topic",
+      "english": "You have crafted a hammer",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_hildir",
+      "english": "I've heard that a trader was seen in an area not unlike this one. She is an odd character indeed, but may have very special goods for sale.\n\nHowever, rumour has it that her stocks have been raided. She might need a helping hand, and you are starting to look fairly capable by now.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_hildir_label",
+      "english": "Hugin: Trader Hildir",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_hildir_topic",
+      "english": "Why, hello there.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_hildirdungeon",
+      "english": "I have a feeling that this place could be more challenging than one might expect.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_hildirdungeon_label",
+      "english": "Mysterious Location",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_hildirdungeon_topic",
+      "english": "Watch your step, warrior.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_hoe_label",
+      "english": "Hugin: Hoe",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_hoe_text",
+      "english": "This tool is used for landscaping. You could say it is the perfect complement to the hammer.\n\nUse it to clear the ground and manipulate the terrain. It is easier to create buildings on level ground!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_hoe_topic",
+      "english": "You have crafted a hoe",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_hunger2_text",
+      "english": "Consuming food is of <color=yellow>utmost importance</color> to a viking warrior, even in the afterlife.\n\nFood can be found everywhere in the world, and a great deal of it can be prepared at a <color=yellow>Cooking station</color>.\n\nThere are three types of food; One increases health, one fortifies stamina, and then there's also a combination of both. Choose your diet based on your needs!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_hunger_label",
+      "english": "Hugin: Hunger",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_hunger_text",
+      "english": "Consuming food is of <color=yellow>utmost importance</color> to a viking warrior, even in the afterlife. Having a full belly both fortifies your health and improves your stamina.\n\nFood can be found everywhere in the world, and a great deal of it can be prepared at a <color=yellow>cooking station</color>.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_hunger_topic",
+      "english": "You need sustenance",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_inventory_label",
+      "english": "Hugin: Inventory",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_inventory_text",
+      "english": "Most items must be crafted. However, due to your recent departure from Midgard, you will have to recall the true shape of objects. Just pick things up and it will all come back to you, I'm sure.\n\nMy lesser brother, Munin, tells me one can fashion a stone axe out of <color=yellow>wood and stone</color>.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_inventory_topic",
+      "english": "Take stock of your inventory",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_jotuninvasion_hugin_label",
+      "english": "Hugin: Jotun Invasions",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_jotuninvasion_hugin_text",
+      "english": "\"Beware the approach of the Jotun army. You must meet them at their point of invasion and halt their advances, if you are to ever set the tenth world right...\"",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_jotuninvasion_hugin_topic",
+      "english": "Strange forces are invading!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_magetable_label",
+      "english": "Hugin: Galdr table",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_magetable_text",
+      "english": "Trying your hand at scrying the runes are you? I'm impressed, sorcerer!\n\nCharms and conjurations will take their toll. If you wish to master the arts you must find appropriate sustenance. As it happens, the parts around here are looking ripe with all sorts of delicious new ingredients to gather. Lucky you!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_maptable_label",
+      "english": "Hugin: Cartography table",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_maptable_text",
+      "english": "With this table you can record and share your explorations of the tenth world. Use the toolbox to record your progress and take a look at this large map to copy what others have explored.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_maptable_topic",
+      "english": "Record your exploration",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_mould_hugin_label",
+      "english": "Hugin: Moulds",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_mould_hugin_text",
+      "english": "Moulds can yield fascinating results! But it is not enough to merely fill them with materials – they also need to be hardened with the help of extreme temperatures...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_mould_hugin_topic",
+      "english": "You have found a mould!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_ore_label",
+      "english": "Hugin: Ore",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_ore_text",
+      "english": "Raw ore needs to be refined in the <color=yellow>smelter</color> before you can work it at the <color=yellow>forge</color>.\n\nTo build a smelter you will need <color=yellow>surtling cores</color>. Search for them in the dark places beneath the earth.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_ore_topic",
+      "english": "You have found some ore",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_pickaxe_label",
+      "english": "Hugin: Pickaxe",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_pickaxe_text",
+      "english": "The black forest is rich in minerals. There you can find copper in the ground and tin lining the ocean shore.\n\nNow go forth and strike the earth!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_pickaxe_topic",
+      "english": "You have crafted a pickaxe",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_portal_label",
+      "english": "Hugin: Portals",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_portal_text",
+      "english": "Portals are great for fast travel between different parts of the world.\n\nOf course, you need to build one on the other end as well, then give the pair the same name and they will be automatically connected!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_portal_topic",
+      "english": "You have built a portal",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_prison_label",
+      "english": "Hugin: The Prison",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_prison_text",
+      "english": "Be wary! The being imprisoned beyond this gate is mighty, more so than any other to be found in all of Valheim. You would do well to prepare accordingly before you venture forth to this final foe.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_prison_topic",
+      "english": "One last trial...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_random1",
+      "english": "Kraa!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_random2",
+      "english": "Was that a vole...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_random3",
+      "english": "Fair weather...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_random4",
+      "english": "Busy, warrior? I can come back later...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_random5",
+      "english": "Please come and listen.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_random6",
+      "english": "Kraa? Kaaaw!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_randomevent_label",
+      "english": "Hugin: Invasions",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_randomevent_text",
+      "english": "Monsters will lay siege to your camp from time to time. Strength of arms does not guarantee you victory in these situations. Build a strong defense to weather out the storm!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_randomevent_topic",
+      "english": "You have been invaded",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_randomimp1",
+      "english": "Hail warrior.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_randomimp2",
+      "english": "Well met.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_randomimp3",
+      "english": "I bring tidings.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_randomimp4",
+      "english": "I have a tale or two to tell.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_randomimp5",
+      "english": "Kraa? Kaaaw!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_randomimp6",
+      "english": "Harken!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_sacrificialblood_label",
+      "english": "Hugin: Kall Fimbulbringer defeated",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_sacrificialblood_text",
+      "english": "Well done, warrior! You have found the sacrificial blood, the final key to restoring this realm. Now the All-Father has one last task for you – prove yourself worthy by journeying back to where it all began!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_sacrificialblood_topic",
+      "english": "It is time...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_shield_label",
+      "english": "Hugin: Shield",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_shield_text",
+      "english": "A shield allows you to block incoming damage. \nIf your timing is perfect, the enemy may also be <color=yellow>parried</color>. \nBe careful though, if you block too many hits you will become <color=yellow>staggered</color>. The amount of damage you can block before becoming staggered depends on your maximum health, so if you plan on tanking a lot of damage you should eat food that increases your health.\nHeavier shields will block more damage but will also slow you down.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_shield_topic",
+      "english": "You have crafted a shield",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_shieldgenerator_label",
+      "english": "Hugin: Shield generator",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_shieldgenerator_text",
+      "english": "Kraa! This should keep away whatever the sky might throw at you.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_shieldgenerator_topic",
+      "english": "Means of protection",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_smelter_label",
+      "english": "Hugin: Smelter",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_smelter_text",
+      "english": "Deposit your raw ore in this furnace and it will melt away all impurities, leaving you with a bar of refined metal to work at the forge.\n\nYou will need <color=yellow>coal</color> to fuel the smelter. Coal can be produced by building a <color=yellow>kiln</color> and loading it with wood.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_smelter_topic",
+      "english": "You have built a smelter",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_start_label",
+      "english": "Hugin: Tip",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_start_text",
+      "english": "Start tips: try to interact with things in the environment. Some items like stones, branches and pieces of flint can be collected and used for crafting. \n\nTo open your inventory and crafting screen press $KEY_Inventory.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_start_topic",
+      "english": "Welcome to Valheim",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_stemple1_label",
+      "english": "Hugin: Welcome",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_stemple1_text",
+      "english": "I am Hugin, sent here to guide you in your travels.\n\nThe megaliths surrounding you are the Sacrificial Stones. They represent the Forsaken, which you must slay in order to ascend to Valhalla.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_stemple1_topic",
+      "english": "Welcome to the tenth world, warrior",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_stemple2_label",
+      "english": "Hugin: Vegvisirs",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_stemple2_text",
+      "english": "These magical stones were scattered throughout the lands by Oden as signposts pointing toward the ritual grounds of the Forsaken.\n\nIf inspected closer, this one will reveal the summoning place of Eikthyr, your <color=yellow>first prey</color>. He is a mighty beast, so you need to properly arm yourself before even attempting to defeat him.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_stemple2_topic",
+      "english": "This stone is a Vegvisir",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_stemple4_label",
+      "english": "Hugin: Eikthyr defeated",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_stemple4_text",
+      "english": "You have been granted the power of Eikthyr. Use it in times of need.\n\nYour next target dwells in the black forest. Go there, explore the lands, and uncover their lost treasures and resources.\n\nThe Elder awaits!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_stemple4_topic",
+      "english": "Oden is pleased",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_tissueref_label",
+      "english": "Hugin: Eitr refinery",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_tissueref_text",
+      "english": "Warrior, what kind of contraption is this?! It looks dangerous...\n\nThere is a grinding funnel up here, I wonder what you will put into it.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_trinket_label",
+      "english": "Hugin: Trinkets",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_trinket_text",
+      "english": "Kra-kraaa! Warrior, is that a gleaming trinket I see in your grasp? Don it with pride, and let its power course through you as you strike down your foes. Once your adrenaline reaches its peak, you are sure to be rewarded!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_trinket_topic",
+      "english": "Adrenaline surges through you!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_upgrader_hugin_label",
+      "english": "Hugin: Forge of Potential",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_upgrader_hugin_text",
+      "english": "Finding this place of ancient power is no easy feat, and those who have done so stand to gain a great deal! A word of warning, however – while the Forge may work brilliantly in your favour, it may just as easily shatter that which you seek to refine...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_upgrader_hugin_topic",
+      "english": "Hear ye, wanderer!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_weight_label",
+      "english": "Hugin: Encumberance",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_weight_text",
+      "english": "If you carry too much luggage you will become encumbered, slowing you down and preventing you from regaining your stamina.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_weight_topic",
+      "english": "You need to lighten your load!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_wishbone_label",
+      "english": "Hugin: Wishbone",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_wishbone_text",
+      "english": "It seems one of the many bones this living ossuary hid in his belly was a Wishbone.\n\nThis bone contains powerful magic which guides you to things hidden in the earth. It can locate <color=yellow>silver veins</color>, but may also lead you to buried treasure...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_wishbone_topic",
+      "english": "Bonemass left you a parting gift",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_wispattractor_label",
+      "english": "Hugin: Wisp fountain",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_wispattractor_text",
+      "english": "A strange edifice indeed. I wonder what it will attract. Let us just perch here for a while and see what happens...\n\n\nWarrior, I am bored. Besides, it is not my job to babysit the likes of you long into the night... Just be vigilant and I'm sure you will be rewarded.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_workbench_label",
+      "english": "Hugin: Workbench",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_workbench_text",
+      "english": "A workbench allows you to craft <color=yellow>complex items</color> as well as giving you access to lots of more <color=yellow>building pieces</color> to construct with the hammer.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_workbench_topic",
+      "english": "You have built a workbench",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_yggroot_label",
+      "english": "Hugin: Yggdrasil roots",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tutorial_yggroot_text",
+      "english": "Kraa! Although severed from the trunk, I can see that magic still lingers in the roots of the old ash.\n\nNeedless to say, no weapon of your design will be able to break the bark. You need something better, fashioned by more capable hands.",
+      "source_asset": "localization"
+    }
+  ],
+  "missing_keys": []
+}

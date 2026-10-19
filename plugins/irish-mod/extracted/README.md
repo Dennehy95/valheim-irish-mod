@@ -16,8 +16,11 @@ Static dumps of **scoped** UI strings for translation pipeline work. These files
 | [`piece-names.json`](piece-names.json) | Remaining **building piece** names (`piece_*` after `building-ui`) | 786 |
 | [`npc-dialogue.json`](npc-dialogue.json) | **NPC** dialogue (`npc_*`) | 350 |
 | [`menus-rest.json`](menus-rest.json) | **Menus** outside Fejd root (`menu_*` except main menu) | 226 |
+| [`status-effects.json`](status-effects.json) | **Status effects** (`se_*`) | 223 |
+| [`fallen-warrior.json`](fallen-warrior.json) | **Fallen warrior** dialogue (`fallenwarrior_*`) | 202 |
+| [`tutorial.json`](tutorial.json) | **Tutorial** strings (`tutorial_*`) | 165 |
 
-**Total scoped keys in extracts:** 3773 (4129 wired via matching `Translations/*.ga.json` as of v0.5.0).
+**Total scoped keys in extracts:** 4363 (4719 wired via matching `Translations/*.ga.json` as of v0.6.0).
 
 ### Scope rationale (`fejd-root-main-menu`)
 

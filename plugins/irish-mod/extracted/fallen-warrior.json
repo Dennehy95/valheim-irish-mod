@@ -1,0 +1,1024 @@
+{
+  "screen_id": "fallen-warrior",
+  "screen_title": "Fallen warrior",
+  "scope_notes": "Keys from scope file tools/scopes/fallen-warrior.keys.txt.",
+  "scope_keys_file": "tools/scopes/fallen-warrior.keys.txt",
+  "extracted_at_utc": "2026-10-19T16:00:52.190954+00:00",
+  "method": "static",
+  "game_path": "A:\\Steam\\steamapps\\common\\Valheim",
+  "resources_assets_sha256": "f0274fe60c807842352a049f3762b7a08965bdbfe759dfbb16f90272e51c6bdb",
+  "key_count": 202,
+  "entries": [
+    {
+      "key": "fallenwarrior_title100_f",
+      "english": "{name} the Wolf",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title100_m",
+      "english": "{name} the Wolf",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title101_f",
+      "english": "{name} the Young",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title101_m",
+      "english": "{name} the Young",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title10_f",
+      "english": "{name} the Brave",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title10_m",
+      "english": "{name} the Brave",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title11_f",
+      "english": "{name} the Bright",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title11_m",
+      "english": "{name} the Bright",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title12_f",
+      "english": "{name} the Broken",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title12_m",
+      "english": "{name} the Broken",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title13_f",
+      "english": "{name} the Builder of Cities",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title13_m",
+      "english": "{name} the Builder of Cities",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title14_f",
+      "english": "{name} the Calm",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title14_m",
+      "english": "{name} the Calm",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title15_f",
+      "english": "{name} the Champion",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title15_m",
+      "english": "{name} the Champion",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title16_f",
+      "english": "{name} the Cheerful",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title16_m",
+      "english": "{name} the Cheerful",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title17_f",
+      "english": "{name} the Chosen",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title17_m",
+      "english": "{name} the Chosen",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title18_f",
+      "english": "{name} the Clever",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title18_m",
+      "english": "{name} the Clever",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title19_f",
+      "english": "{name} the Cold",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title19_m",
+      "english": "{name} the Cold",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title1_f",
+      "english": "{name} the Adventurer",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title1_m",
+      "english": "{name} the Adventurer",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title20_f",
+      "english": "{name} the Conqueror",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title20_m",
+      "english": "{name} the Conqueror",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title21_f",
+      "english": "{name} the Courter of Death",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title21_m",
+      "english": "{name} the Courter of Death",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title22_f",
+      "english": "{name} the Damned",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title22_m",
+      "english": "{name} the Damned",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title23_f",
+      "english": "{name} the Dangerous",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title23_m",
+      "english": "{name} the Dangerous",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title24_f",
+      "english": "{name} the Deathbringer",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title24_m",
+      "english": "{name} the Deathbringer",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title25_f",
+      "english": "{name} the Deceiver",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title25_m",
+      "english": "{name} the Deceiver",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title26_f",
+      "english": "{name} the Demanding",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title26_m",
+      "english": "{name} the Demanding",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title27_f",
+      "english": "{name} the Dragon",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title27_m",
+      "english": "{name} the Dragon",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title28_f",
+      "english": "{name} the Eagle",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title28_m",
+      "english": "{name} the Eagle",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title29_f",
+      "english": "{name} the Explorer",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title29_m",
+      "english": "{name} the Explorer",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title2_f",
+      "english": "{name} the Baleful",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title2_m",
+      "english": "{name} the Baleful",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title30_f",
+      "english": "{name} the Feared",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title30_m",
+      "english": "{name} the Feared",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title31_f",
+      "english": "{name} the Fierce",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title31_m",
+      "english": "{name} the Fierce",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title32_f",
+      "english": "{name} the Fighter",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title32_m",
+      "english": "{name} the Fighter",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title33_f",
+      "english": "{name} the Forgotten",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title33_m",
+      "english": "{name} the Forgotten",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title34_f",
+      "english": "{name} the Generous",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title34_m",
+      "english": "{name} the Generous",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title35_f",
+      "english": "{name} the Greedy",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title35_m",
+      "english": "{name} the Greedy",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title36_f",
+      "english": "{name} the Grim",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title36_m",
+      "english": "{name} the Grim",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title37_f",
+      "english": "{name} the Harrower",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title37_m",
+      "english": "{name} the Harrower",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title38_f",
+      "english": "{name} the Kingmaker",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title38_m",
+      "english": "{name} the Kingmaker",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title39_f",
+      "english": "{name} the Knowing",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title39_m",
+      "english": "{name} the Knowing",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title3_f",
+      "english": "{name} the Bear",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title3_m",
+      "english": "{name} the Bear",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title40_f",
+      "english": "{name} the Legendary",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title40_m",
+      "english": "{name} the Legendary",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title41_f",
+      "english": "{name} the Loathsome",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title41_m",
+      "english": "{name} the Loathsome",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title42_f",
+      "english": "{name} the Lonely",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title42_m",
+      "english": "{name} the Lonely",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title43_f",
+      "english": "{name} the Lost",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title43_m",
+      "english": "{name} the Lost",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title44_f",
+      "english": "{name} the Loyal",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title44_m",
+      "english": "{name} the Loyal",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title45_f",
+      "english": "{name} the Lucky",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title45_m",
+      "english": "{name} the Lucky",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title46_f",
+      "english": "{name} the Marked",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title46_m",
+      "english": "{name} the Marked",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title47_f",
+      "english": "{name} the Mighty",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title47_m",
+      "english": "{name} the Mighty",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title48_f",
+      "english": "{name} the Mountain Walker",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title48_m",
+      "english": "{name} the Mountain Walker",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title49_f",
+      "english": "{name} the Mysterious",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title49_m",
+      "english": "{name} the Mysterious",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title4_f",
+      "english": "{name} the Beaten",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title4_m",
+      "english": "{name} the Beaten",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title50_f",
+      "english": "{name} the Old",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title50_m",
+      "english": "{name} the Old",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title51_f",
+      "english": "{name} the Plunderer",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title51_m",
+      "english": "{name} the Plunderer",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title52_f",
+      "english": "{name} the Proud",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title52_m",
+      "english": "{name} the Proud",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title53_f",
+      "english": "{name} the Quick",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title53_m",
+      "english": "{name} the Quick",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title54_f",
+      "english": "{name} the Raider",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title54_m",
+      "english": "{name} the Raider",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title55_f",
+      "english": "{name} the Ravager",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title55_m",
+      "english": "{name} the Ravager",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title56_f",
+      "english": "{name} the Raven",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title56_m",
+      "english": "{name} the Raven",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title57_f",
+      "english": "{name} the Rebuilder",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title57_m",
+      "english": "{name} the Rebuilder",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title58_f",
+      "english": "{name} the Red",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title58_m",
+      "english": "{name} the Red",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title59_f",
+      "english": "{name} the Reveller",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title59_m",
+      "english": "{name} the Reveller",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title5_f",
+      "english": "{name} the Beautiful",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title5_m",
+      "english": "{name} the Beautiful",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title60_f",
+      "english": "{name} the Rich",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title60_m",
+      "english": "{name} the Rich",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title61_f",
+      "english": "{name} the Ruler",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title61_m",
+      "english": "{name} the Ruler",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title62_f",
+      "english": "{name} the Scarred",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title62_m",
+      "english": "{name} the Scarred",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title63_f",
+      "english": "{name} the Seafarer",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title63_m",
+      "english": "{name} the Seafarer",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title64_f",
+      "english": "{name} the Seeker of Glory",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title64_m",
+      "english": "{name} the Seeker of Glory",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title65_f",
+      "english": "{name} the Sellsword",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title65_m",
+      "english": "{name} the Sellsword",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title66_f",
+      "english": "{name} the Shadow",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title66_m",
+      "english": "{name} the Shadow",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title67_f",
+      "english": "{name} the Sharp",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title67_m",
+      "english": "{name} the Sharp",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title68_f",
+      "english": "{name} the Shipmaker",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title68_m",
+      "english": "{name} the Shipmaker",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title69_f",
+      "english": "{name} the Shipwrecker",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title69_m",
+      "english": "{name} the Shipwrecker",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title6_f",
+      "english": "{name} the Berserker",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title6_m",
+      "english": "{name} the Berserker",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title70_f",
+      "english": "{name} the Silvertongue",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title70_m",
+      "english": "{name} the Silvertongue",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title71_f",
+      "english": "{name} the Skald",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title71_m",
+      "english": "{name} the Skald",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title72_f",
+      "english": "{name} the Slaughterer",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title72_m",
+      "english": "{name} the Slaughterer",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title73_f",
+      "english": "{name} the Slayer",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title73_m",
+      "english": "{name} the Slayer",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title74_f",
+      "english": "{name} the Soldier",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title74_m",
+      "english": "{name} the Soldier",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title75_f",
+      "english": "{name} the Solemn",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title75_m",
+      "english": "{name} the Solemn",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title76_f",
+      "english": "{name} the Spiteful",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title76_m",
+      "english": "{name} the Spiteful",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title77_f",
+      "english": "{name} the Stern",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title77_m",
+      "english": "{name} the Stern",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title78_f",
+      "english": "{name} the Stoic",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title78_m",
+      "english": "{name} the Stoic",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title79_f",
+      "english": "{name} the Stormborn",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title79_m",
+      "english": "{name} the Stormborn",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title7_f",
+      "english": "{name} the Bloodthirsty",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title7_m",
+      "english": "{name} the Bloodthirsty",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title80_f",
+      "english": "{name} the Strange",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title80_m",
+      "english": "{name} the Strange",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title81_f",
+      "english": "{name} the Strong",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title81_m",
+      "english": "{name} the Strong",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title82_f",
+      "english": "{name} the Teller of Tales",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title82_m",
+      "english": "{name} the Teller of Tales",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title83_f",
+      "english": "{name} the Traveller",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title83_m",
+      "english": "{name} the Traveller",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title84_f",
+      "english": "{name} the Trickster",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title84_m",
+      "english": "{name} the Trickster",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title85_f",
+      "english": "{name} the True",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title85_m",
+      "english": "{name} the True",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title86_f",
+      "english": "{name} the Undefeated",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title86_m",
+      "english": "{name} the Undefeated",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title87_f",
+      "english": "{name} the Underdog",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title87_m",
+      "english": "{name} the Underdog",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title88_f",
+      "english": "{name} the Undying",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title88_m",
+      "english": "{name} the Undying",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title89_f",
+      "english": "{name} the Unifier",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title89_m",
+      "english": "{name} the Unifier",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title8_f",
+      "english": "{name} the Bloody",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title8_m",
+      "english": "{name} the Bloody",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title90_f",
+      "english": "{name} the Unimpressed",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title90_m",
+      "english": "{name} the Unimpressed",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title91_f",
+      "english": "{name} the Vagabond",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title91_m",
+      "english": "{name} the Vagabond",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title92_f",
+      "english": "{name} the Vanquisher",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title92_m",
+      "english": "{name} the Vanquisher",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title93_f",
+      "english": "{name} the Victorious",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title93_m",
+      "english": "{name} the Victorious",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title94_f",
+      "english": "{name} the Violent",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title94_m",
+      "english": "{name} the Violent",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title95_f",
+      "english": "{name} the Viper",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title95_m",
+      "english": "{name} the Viper",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title96_f",
+      "english": "{name} the Wanderer",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title96_m",
+      "english": "{name} the Wanderer",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title97_f",
+      "english": "{name} the Watchful",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title97_m",
+      "english": "{name} the Watchful",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title98_f",
+      "english": "{name} the Wild",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title98_m",
+      "english": "{name} the Wild",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title99_f",
+      "english": "{name} the Wise",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title99_m",
+      "english": "{name} the Wise",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title9_f",
+      "english": "{name} the Bold",
+      "source_asset": "localization_warriortitles"
+    },
+    {
+      "key": "fallenwarrior_title9_m",
+      "english": "{name} the Bold",
+      "source_asset": "localization_warriortitles"
+    }
+  ],
+  "missing_keys": []
+}

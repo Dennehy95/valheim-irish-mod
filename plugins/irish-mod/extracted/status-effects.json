@@ -1,0 +1,1129 @@
+{
+  "screen_id": "status-effects",
+  "screen_title": "Status effects",
+  "scope_notes": "Keys from scope file tools/scopes/status-effects.keys.txt.",
+  "scope_keys_file": "tools/scopes/status-effects.keys.txt",
+  "extracted_at_utc": "2026-10-19T16:00:27.018053+00:00",
+  "method": "static",
+  "game_path": "A:\\Steam\\steamapps\\common\\Valheim",
+  "resources_assets_sha256": "f0274fe60c807842352a049f3762b7a08965bdbfe759dfbb16f90272e51c6bdb",
+  "key_count": 223,
+  "entries": [
+    {
+      "key": "se_adrenaline",
+      "english": "Adrenaline gain",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_adrenaline_upfront",
+      "english": "Adrenaline gain",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_adrenalinerush",
+      "english": "Adrenaline Rush",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_adrenalinerush_tooltip",
+      "english": "The adrenaline surges through you",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_ashlandsmediumarmorseteffect_name",
+      "english": "Ask's Endurance",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_ashlandsmediumarmorseteffect_tooltip",
+      "english": "A lighter armour lets you move more freely, every move requiring less energy.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_attackstamina",
+      "english": "Attack stamina usage",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_beltstrength_start",
+      "english": "You feel stronger",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_beltstrength_tooltip",
+      "english": "Increase max carry weight.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_berserker_undead_effect_name",
+      "english": "Vilebone Wrath",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_berserker_undead_effect_tooltip",
+      "english": "Increases damage and regeneration, but weakens you against physical damage.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_berserkereffect_name",
+      "english": "Berserk",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_berserkerteffect_tooltip",
+      "english": "Increases damage and regeneration, but weakens you against physical damage.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_blockstamina",
+      "english": "Block stamina cost",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_blockstaminaflat",
+      "english": "Block stamina use",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_blockstaminaflat_minus",
+      "english": "Block stamina return",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_bonemass_name",
+      "english": "Bonemass",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_bonemass_start",
+      "english": "Bonemass' spirit lives in you now",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_bonemass_tooltip",
+      "english": "The mass takes the brunt of your blows. The effort required to raise your shield lessens, and you can withstand harder hits.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_burning_name",
+      "english": "Burning",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_burning_start",
+      "english": "You are burning!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_burning_tooltip",
+      "english": "You are on fire!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_cold_name",
+      "english": "Cold",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_cold_repeat",
+      "english": "You are cold",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_cold_start",
+      "english": "You feel cold",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_cold_stop",
+      "english": "You are getting warmer",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_cold_tooltip",
+      "english": "Lower health and stamina regeneration.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_coldres_name",
+      "english": "Cold resistance",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_corpserun_name",
+      "english": "Corpse run",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_corpserun_tooltip",
+      "english": "You can run longer and take significantly less damage from physical attacks.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_cozy_name",
+      "english": "Cozy",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_cozy_start",
+      "english": "You feel cozy",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_crowned_name",
+      "english": "Royalty",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_crowned_start",
+      "english": "You pass by unchallenged.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_crowned_tooltip",
+      "english": "The creatures of Valheim will not harm the one who has mastered them.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_deepnorthmediumarmorseteffect_name",
+      "english": "Vanguard",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_deepnorthmediumarmorseteffect_tooltip",
+      "english": "You feel stronger and faster, ready to strike at your foes!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_demister_start",
+      "english": "You release the bound wisp",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_dodgestamina",
+      "english": "Dodge stamina usage",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_eikthyr_name",
+      "english": "Eikthyr",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_eikthyr_start",
+      "english": "You activate the power of Eikthyr",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_eikthyr_tooltip",
+      "english": "The grace of the mighty stag flows through you. Your ability to move around is improved, be it on land or in water.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_eitr",
+      "english": "Eitr",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_eitr_upfront",
+      "english": "Eitr gain",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_eitrregen",
+      "english": "Eitr regen",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_encumbered_name",
+      "english": "Encumbered",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_encumbered_repeat",
+      "english": "You are carrying too much",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_encumbered_start",
+      "english": "You are carrying too much",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_encumbered_tooltip",
+      "english": "You are encumbered and cannot run.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_fader_name",
+      "english": "Fader",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_fader_start",
+      "english": "The Emerald Flame still burns",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_fader_tooltip",
+      "english": "The Emerald Flame never relents. You shall stand your ground, even when it is aflame, and you shall use all the advantages the battle may offer you.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_fenringseteffect_name",
+      "english": "Fenris blessing",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_fenringseteffect_tooltip",
+      "english": "The Fenris armour makes you quick on your feet so you can pass through fire, and your fists feel the power of the beast.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_fire_name",
+      "english": "Fire",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_fire_tooltip",
+      "english": "Warm from a cozy fire.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_fishinghat_description",
+      "english": "Vikings want you, fish fear you.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_freezing_name",
+      "english": "Freezing",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_freezing_repeat",
+      "english": "You are freezing!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_freezing_start",
+      "english": "You are freezing!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_freezing_stop",
+      "english": "You are getting warmer",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_freezing_tooltip",
+      "english": "You are freezing. No health regeneration and significantly lowered stamina regeneration.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_frost_name",
+      "english": "Frost",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_frost_tooltip",
+      "english": "You suffer from hypothermia.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_frostorbs",
+      "english": "Vengeance Sphere",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_frostorbs_description",
+      "english": "Should your enemy hurt you, it shall reflect back upon them at once.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_frostres_name",
+      "english": "Frost resistance",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_frostres_tooltip",
+      "english": "You are protected against the cold.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_harpooned_name",
+      "english": "Harpooned",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_harpooned_tooltip",
+      "english": "You have been harpooned.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_harvesterseteffect_name",
+      "english": "Harvester",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_harvesterseteffect_tooltip",
+      "english": "Wearing the right clothes makes the chores easier.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_health",
+      "english": "Health",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_health_upfront",
+      "english": "Health gain",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_healthpotionmedium_name",
+      "english": "Health Potion",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_healthpotionminor_name",
+      "english": "Minor Health Potion",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_healthregen",
+      "english": "Health regen",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_healthupgrade_name",
+      "english": "Health upgrade",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_healthupgrade_stop",
+      "english": "You feel stronger",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_immobilized",
+      "english": "Immobilized",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_immobilized_tooltip",
+      "english": "You are stuck",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_jumpheight",
+      "english": "Jump height",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_jumplength",
+      "english": "Jump length",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_jumpstamina",
+      "english": "Jump stamina usage",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_lightfooteffect_name",
+      "english": "Lightfoot",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_lightning_name",
+      "english": "Lightning",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_lightning_tooltip",
+      "english": "Lightning damage.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_loxseteffect_name",
+      "english": "Boon of the Lox",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_loxseteffect_tooltip",
+      "english": "The fur allows you to blend in with the wilderness and move about unseen.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_mageseteffect_name",
+      "english": "Eitr-infused",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_mageseteffect_tooltip",
+      "english": "You are one with the eitr. (increased regen. + elemental magic skill)",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_max_carryweight",
+      "english": "Max carry weight",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_mead_name",
+      "english": "Mead",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_moder_name",
+      "english": "Moder",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_moder_start",
+      "english": "Moder still cries",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_moder_tooltip",
+      "english": "The dragon's wings urge you on. You shall always have tailwind while sailing, and you shall swiftly carry heavy burdens, even over the coldest mountains.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_noisemod",
+      "english": "Noise",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_poison_name",
+      "english": "Poison",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_poison_start",
+      "english": "You have been poisoned",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_poison_tooltip",
+      "english": "Poison damage.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_poisonres_name",
+      "english": "Poison resistance",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_potion_barleywine_tooltip",
+      "english": "You take less damage from burning.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_potion_bugrepellent_tooltip",
+      "english": "The fresh scent of this potion will keep away certain unwanted companions.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_potion_bzerker_tooltip",
+      "english": "For a short while, you fight with the ferocity of a mad and frenzied creature.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_potion_eitrlingering_tooltip",
+      "english": "Eitr regeneration over time.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_potion_eitrminor_tooltip",
+      "english": "Eitr over time.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_potion_frostresist_tooltip",
+      "english": "You are protected against the cold.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_potion_hasty_tooltip",
+      "english": "Magic fills you, letting you move quicker than ever before.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_potion_healthlingering_tooltip",
+      "english": "Health regeneration over time.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_potion_healthmajor_tooltip",
+      "english": "Health over time.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_potion_healthmedium_tooltip",
+      "english": "Health over time.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_potion_healthminor_tooltip",
+      "english": "Health over time.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_potion_lightfoot_tooltip",
+      "english": "You feel lighter, almost like you could jump all the way to the branches of Yggdrasil itself.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_potion_poisonresist_tooltip",
+      "english": "You take less damage from poison.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_potion_staminalingering_tooltip",
+      "english": "Stamina regeneration over time.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_potion_staminamedium_tooltip",
+      "english": "Regenerate stamina fast.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_potion_staminaminor_tooltip",
+      "english": "Regenerate stamina fast.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_potion_start",
+      "english": "You drink the potion",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_potion_strength_tooltip",
+      "english": "Incredible strength courses through you, but only for a time...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_potion_swimmer_tooltip",
+      "english": "Bring the power of the sea-god with you as you brave the waves.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_potion_tamer_tooltip",
+      "english": "Animals will be less reluctant to accept you into their flock.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_potion_tasty_tooltip",
+      "english": "Lower health regeneration, but increased stamina regeneration.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_potion_trollpheromones_tooltip",
+      "english": "All is fair in love and war.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_puke_name",
+      "english": "Feeling sick",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_puke_start",
+      "english": "You feel sick",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_puke_tooltip",
+      "english": "You don't feel so well and can't hold your food down.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_queen_name",
+      "english": "The Queen",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_queen_start",
+      "english": "The Queen's power breaks free",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_queen_tooltip",
+      "english": "Her Majesty blesses you. In her shadow both stealth and magic may flourish, and no poison shall harm you.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_rested_comfort",
+      "english": "Comfort",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_rested_name",
+      "english": "Rested",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_rested_start",
+      "english": "You feel rested",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_rested_stop",
+      "english": "You don't feel rested anymore",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_rested_tooltip",
+      "english": "You feel rested. Health and stamina regeneration are higher.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_resting_name",
+      "english": "Resting",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_resting_start",
+      "english": "Resting...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_resting_tooltip",
+      "english": "You are currently resting. Health and stamina regeneration are significantly higher.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_rootseteffect_name",
+      "english": "Improved archery",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_rootseteffect_tooltip",
+      "english": "The ancient roots help you focus your bow skill.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_runstamina",
+      "english": "Run stamina usage",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_shelter_name",
+      "english": "Shelter",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_shelter_start",
+      "english": "You are sheltered",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_shelter_stop",
+      "english": "You are exposed",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_shelter_tooltip",
+      "english": "You are sheltered from the weather.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_shield",
+      "english": "Magic barrier",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_shield_damage",
+      "english": "Damage absorption (based on skill):",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_shield_description",
+      "english": "A magical shield that absorbs damage.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_shield_ttl",
+      "english": "Time:",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_slimed_name",
+      "english": "Slimed",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_slowfall_name",
+      "english": "Feather fall",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_slowfall_tooltip",
+      "english": "What is gravity but an effect of entropy?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_smoked_name",
+      "english": "Smoked",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_smoked_start",
+      "english": "You can't breathe in the smoke!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_smoked_tooltip",
+      "english": "Breathing smoke is unhealthy.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_sneakmod",
+      "english": "Sneak",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_sneakstamina",
+      "english": "Sneak stamina usage",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_softdeath_name",
+      "english": "No skill drain",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_softdeath_tooltip",
+      "english": "If you die you won't lose any skill points.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_spirit_name",
+      "english": "Spirit",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_spirit_tooltip",
+      "english": "Extra damage against the undead.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_stagger",
+      "english": "Stagger resistance",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_stamina",
+      "english": "Stamina",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_stamina_upfront",
+      "english": "Stamina gain",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_staminapotion_name",
+      "english": "Stamina potion",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_staminaregen",
+      "english": "Stamina regen",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_staminaupgrade_name",
+      "english": "Stamina upgrade",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_staminaupgrade_stop",
+      "english": "You feel stronger",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_swimstamina",
+      "english": "Swim stamina usage",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_tared_name",
+      "english": "Tarred",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_tared_start",
+      "english": "You are covered in sticky tar",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_tared_tooltip",
+      "english": "The sticky tar is slowing you down.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_theelder_name",
+      "english": "The Elder",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_theelder_start",
+      "english": "The Elder's power surges through you",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_theelder_tooltip",
+      "english": "The power of the forest invigorates you. You shall gather its bounties faster, just as you shall regain your own vitality should you lose it.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_trinketblackdamagedealth",
+      "english": "Bracelets of the Brave",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_trinketblackdamagedealth_description",
+      "english": "Increased mace damage, and a quick health burst regeneration.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_trinketblackdtamina",
+      "english": "Evasion Mantle",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_trinketblackdtamina_description",
+      "english": "Increased dodge skill and reduced block stamina cost.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_trinketbloodgoldhealth",
+      "english": "Neckstabber",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_trinketbloodgoldhealth_description",
+      "english": "Health regenerates faster, running and attacking costs less stamina. You also get an instant boost to health and armour.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_trinketbloodgoldstamina",
+      "english": "Witch Crown",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_trinketbloodgoldstamina_description",
+      "english": "Health, stamina and eitr regenerate faster, and you get an instant boost to stamina and eitr.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_trinketbronzehealth",
+      "english": "Heart of the Forest",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_trinketbronzehealth_description",
+      "english": "Increased health regeneration.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_trinketbronzestamina",
+      "english": "Bronze Pendant",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_trinketbronzestamina_description",
+      "english": "Increased stamina regeneration.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_trinketcarapaceeitr",
+      "english": "Pulsating Earrings",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_trinketcarapaceeitr_description",
+      "english": "Increased eitr regeneration.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_trinketchitinswim",
+      "english": "Fins of Destiny",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_trinketchitinswim_description",
+      "english": "Reduced swim stamina cost and increased swim speed.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_trinketflametaleitr",
+      "english": "Jörmundling ",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_trinketflametaleitr_description",
+      "english": "Increased elemental and blood magic skill, and a quick burst of eitr regeneration.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_trinketflametalstaminahealth",
+      "english": "Brimstone",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_trinketflametalstaminahealth_description",
+      "english": "A quick burst of both health and stamina regeneration.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_trinketironhealth",
+      "english": "Iron Brooch",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_trinketironhealth_description",
+      "english": "Increased armour and a quick burst of health regeneration.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_trinketironstamina",
+      "english": "Nimble Anklet",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_trinketironstamina_description",
+      "english": "Increased run speed and a quick burst of stamina regeneration.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_trinketscalestaminadamage",
+      "english": "Resounding Shackle",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_trinketscalestaminadamage_description",
+      "english": "Increased slash damage and a quick burst of stamina regeneration.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_trinketsilverdamage",
+      "english": "Wolf Sight",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_trinketsilverdamage_description",
+      "english": "Increased bow skill, spear skill, and increased pierce damage.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_trinketsilverresist",
+      "english": "Crystal Heart",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_trinketsilverresist_description",
+      "english": "Increased resistance against blunt, slash and pierce damage.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_trollseteffect_name",
+      "english": "Sneaky",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_trollseteffect_tooltip",
+      "english": "Makes you more sneaky.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_ttl",
+      "english": "Effect duration",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_warm_name",
+      "english": "Warm",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_warm_start",
+      "english": "You feel warm.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_warm_tooltip",
+      "english": "You are warm.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_wet_name",
+      "english": "Wet",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_wet_repeat",
+      "english": "You are wet",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_wet_start",
+      "english": "You are wet",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_wet_stop",
+      "english": "You are dry again",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_wet_tooltip",
+      "english": "Lowers your health and stamina regeneration.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_windrun_name",
+      "english": "Wind Run",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_windrun_tooltip",
+      "english": "Increases run speed and greatly reduced stamina use when running with the wind. Let the wind guide you to victory!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_wishbone_name",
+      "english": "Wishbone",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_wishbone_start",
+      "english": "You can sense hidden objects",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_wishbone_tooltip",
+      "english": "Helps you find hidden things. Move in the direction the pings get more intense.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_yagluth_name",
+      "english": "Yagluth",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_yagluth_start",
+      "english": "The cosmic powers of Yagluth",
+      "source_asset": "localization"
+    },
+    {
+      "key": "se_yagluth_tooltip",
+      "english": "The fallen king lends you his might. A king must have the power to vanquish his foes, just as he must be able to support his people.",
+      "source_asset": "localization"
+    }
+  ],
+  "missing_keys": []
+}

@@ -1,0 +1,1347 @@
+{
+  "screen_id": "status-effects",
+  "locale": "ga",
+  "pendingApiKey": true,
+  "machineAssisted": false,
+  "source_extract": "extracted/status-effects.json",
+  "entries": [
+    {
+      "key": "se_adrenaline",
+      "english": "Adrenaline gain",
+      "irish": "Gnóthachan adrenaline",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_adrenaline_upfront",
+      "english": "Adrenaline gain",
+      "irish": "Gnóthachan adrenaline",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_adrenalinerush",
+      "english": "Adrenaline Rush",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_adrenalinerush_tooltip",
+      "english": "The adrenaline surges through you",
+      "irish": "An surges adrenaline trí tú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_ashlandsmediumarmorseteffect_name",
+      "english": "Ask's Endurance",
+      "irish": "Deireadh an chomhrá",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_ashlandsmediumarmorseteffect_tooltip",
+      "english": "A lighter armour lets you move more freely, every move requiring less energy.",
+      "irish": "Ligeann armúr níos éadroime bogadh tú níos mó faoi shaoirse, gach gluaiseacht ag teastáil níos lú fuinnimh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_attackstamina",
+      "english": "Attack stamina usage",
+      "irish": "Ionsaí úsáid stamina",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_beltstrength_start",
+      "english": "You feel stronger",
+      "irish": "Braitheann tú níos láidre",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_beltstrength_tooltip",
+      "english": "Increase max carry weight.",
+      "irish": "Méadú meáchan a iompar max.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_berserker_undead_effect_name",
+      "english": "Vilebone Wrath",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_berserker_undead_effect_tooltip",
+      "english": "Increases damage and regeneration, but weakens you against physical damage.",
+      "irish": "Méaduithe damáiste agus athghiniúint, ach weakens tú i gcoinne damáiste fisiciúil.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_berserkereffect_name",
+      "english": "Berserk",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_berserkerteffect_tooltip",
+      "english": "Increases damage and regeneration, but weakens you against physical damage.",
+      "irish": "Méaduithe damáiste agus athghiniúint, ach weakens tú i gcoinne damáiste fisiciúil.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_blockstamina",
+      "english": "Block stamina cost",
+      "irish": "Bloc costas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_blockstaminaflat",
+      "english": "Block stamina use",
+      "irish": "úsáid tÃ rdhreach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_blockstaminaflat_minus",
+      "english": "Block stamina return",
+      "irish": "Filleadh stamina",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_bonemass_name",
+      "english": "Bonemass",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_bonemass_start",
+      "english": "Bonemass' spirit lives in you now",
+      "irish": "Tá saol spiorad Bonemass i tú anois",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_bonemass_tooltip",
+      "english": "The mass takes the brunt of your blows. The effort required to raise your shield lessens, and you can withstand harder hits.",
+      "irish": "Tógann an mais an brunt de do blows. An iarracht is gá a ardú do cheachtanna sciath, agus is féidir leat a sheasamh amas níos deacra.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_burning_name",
+      "english": "Burning",
+      "irish": "Amharc ar gach eolas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_burning_start",
+      "english": "You are burning!",
+      "irish": "Tá tú ag dó!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_burning_tooltip",
+      "english": "You are on fire!",
+      "irish": "Tá tú ar dóiteáin!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_cold_name",
+      "english": "Cold",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_cold_repeat",
+      "english": "You are cold",
+      "irish": "Tá tú fuar",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_cold_start",
+      "english": "You feel cold",
+      "irish": "Braitheann tú fuar",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_cold_stop",
+      "english": "You are getting warmer",
+      "irish": "Tá tú ag fáil níos teo",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_cold_tooltip",
+      "english": "Lower health and stamina regeneration.",
+      "irish": "Athghiniúint sláinte agus stamina níos ísle.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_coldres_name",
+      "english": "Cold resistance",
+      "irish": "friotaíocht fuar",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_corpserun_name",
+      "english": "Corpse run",
+      "irish": "Cór á reáchtáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_corpserun_tooltip",
+      "english": "You can run longer and take significantly less damage from physical attacks.",
+      "irish": "Is féidir leat a reáchtáil níos faide agus a ghlacadh damáiste suntasach níos lú ó ionsaithe fisiceacha.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_cozy_name",
+      "english": "Cozy",
+      "irish": "bláthanna cumhra: cumhráin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_cozy_start",
+      "english": "You feel cozy",
+      "irish": "Braitheann tú cluthar",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_crowned_name",
+      "english": "Royalty",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_crowned_start",
+      "english": "You pass by unchallenged.",
+      "irish": "Pas tú ag unchallenged.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_crowned_tooltip",
+      "english": "The creatures of Valheim will not harm the one who has mastered them.",
+      "irish": "Ní bheidh na créatúir de Valheim dochar an duine a bhfuil máistreacht orthu.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_deepnorthmediumarmorseteffect_name",
+      "english": "Vanguard",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_deepnorthmediumarmorseteffect_tooltip",
+      "english": "You feel stronger and faster, ready to strike at your foes!",
+      "irish": "Braitheann tú níos láidre agus níos tapúla, réidh chun dul ar stailc ar do foes!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_demister_start",
+      "english": "You release the bound wisp",
+      "irish": "Scaoileadh tú an wisp faoi cheangal",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_dodgestamina",
+      "english": "Dodge stamina usage",
+      "irish": "úsáid a bhaint as stamina",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_eikthyr_name",
+      "english": "Eikthyr",
+      "irish": "Eikthyr",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_eikthyr_start",
+      "english": "You activate the power of Eikthyr",
+      "irish": "CCF tú an chumhacht Eikthyr",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_eikthyr_tooltip",
+      "english": "The grace of the mighty stag flows through you. Your ability to move around is improved, be it on land or in water.",
+      "irish": "Sreabhann an grásta an stag mighty trí tú. Tá do chumas chun bogadh timpeall feabhsaithe, é a bheith ar thalamh nó in uisce.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_eitr",
+      "english": "Eitr",
+      "irish": "Eitlíocht",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_eitr_upfront",
+      "english": "Eitr gain",
+      "irish": "Gnóthachan Eitreacha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_eitrregen",
+      "english": "Eitr regen",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_encumbered_name",
+      "english": "Encumbered",
+      "irish": "Cúcamar",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_encumbered_repeat",
+      "english": "You are carrying too much",
+      "irish": "Tá tú ag iompar an iomarca",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_encumbered_start",
+      "english": "You are carrying too much",
+      "irish": "Tá tú ag iompar an iomarca",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_encumbered_tooltip",
+      "english": "You are encumbered and cannot run.",
+      "irish": "Tá tú encumbered agus ní féidir a reáchtáil.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_fader_name",
+      "english": "Fader",
+      "irish": "Fader",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_fader_start",
+      "english": "The Emerald Flame still burns",
+      "irish": "An Flame Emerald dónna fós",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_fader_tooltip",
+      "english": "The Emerald Flame never relents. You shall stand your ground, even when it is aflame, and you shall use all the advantages the battle may offer you.",
+      "irish": "An Flame Emerald riamh relents. Beidh tú seasamh do thalamh, fiú nuair a bhíonn sé aflame, agus beidh tú ag úsáid na buntáistí is féidir leis an cath a thairiscint duit.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_fenringseteffect_name",
+      "english": "Fenris blessing",
+      "irish": "beannacht Fenris",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_fenringseteffect_tooltip",
+      "english": "The Fenris armour makes you quick on your feet so you can pass through fire, and your fists feel the power of the beast.",
+      "irish": "Déanann an armúr Fenris tú tapa ar do chosa ionas gur féidir leat pas a fháil trí dóiteáin, agus do fists bhraitheann an chumhacht an Beast.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_fire_name",
+      "english": "Fire",
+      "irish": "Dóiteáin agus Dóiteáin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_fire_tooltip",
+      "english": "Warm from a cozy fire.",
+      "irish": "Teas ó dhóiteán cluthar.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_fishinghat_description",
+      "english": "Vikings want you, fish fear you.",
+      "irish": "Lochlannaigh mian leat, eagla iasc tú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_freezing_name",
+      "english": "Freezing",
+      "irish": "reoite",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_freezing_repeat",
+      "english": "You are freezing!",
+      "irish": "Tá tú ag reo!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_freezing_start",
+      "english": "You are freezing!",
+      "irish": "Tá tú ag reo!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_freezing_stop",
+      "english": "You are getting warmer",
+      "irish": "Tá tú ag fáil níos teo",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_freezing_tooltip",
+      "english": "You are freezing. No health regeneration and significantly lowered stamina regeneration.",
+      "irish": "Tá tú ag reo. Gan athghiniúint sláinte agus athghiniúint stamina laghdaithe go mór.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_frost_name",
+      "english": "Frost",
+      "irish": "Frost",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_frost_tooltip",
+      "english": "You suffer from hypothermia.",
+      "irish": "Tá tú ag fulaingt ó hypothermia.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_frostorbs",
+      "english": "Vengeance Sphere",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_frostorbs_description",
+      "english": "Should your enemy hurt you, it shall reflect back upon them at once.",
+      "irish": "Ba chóir do namhaid Gortaítear tú, déanfaidh sé machnamh ar ais orthu ag an am céanna.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_frostres_name",
+      "english": "Frost resistance",
+      "irish": "friotaíocht Frost",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_frostres_tooltip",
+      "english": "You are protected against the cold.",
+      "irish": "Tá tú cosanta i gcoinne an fuar.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_harpooned_name",
+      "english": "Harpooned",
+      "irish": "tréimhse saoil: ilbhliantúil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_harpooned_tooltip",
+      "english": "You have been harpooned.",
+      "irish": "Tá tú curtha harpooned.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_harvesterseteffect_name",
+      "english": "Harvester",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_harvesterseteffect_tooltip",
+      "english": "Wearing the right clothes makes the chores easier.",
+      "irish": "Ag caitheamh na héadaí ceart a dhéanann na chores níos éasca.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_health",
+      "english": "Health",
+      "irish": "Sláinte agus Sláinte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_health_upfront",
+      "english": "Health gain",
+      "irish": "a fháil sláinte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_healthpotionmedium_name",
+      "english": "Health Potion",
+      "irish": "Sláinte Pota",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_healthpotionminor_name",
+      "english": "Minor Health Potion",
+      "irish": "Mionbhlianta Sláinte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_healthregen",
+      "english": "Health regen",
+      "irish": "tréimhse saoil: ilbhliantúil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_healthupgrade_name",
+      "english": "Health upgrade",
+      "irish": "Uasghrádú Sláinte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_healthupgrade_stop",
+      "english": "You feel stronger",
+      "irish": "Braitheann tú níos láidre",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_immobilized",
+      "english": "Immobilized",
+      "irish": "Immobilized",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_immobilized_tooltip",
+      "english": "You are stuck",
+      "irish": "Tá tú i bhfostú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_jumpheight",
+      "english": "Jump height",
+      "irish": "Léim airde an leathanaigh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_jumplength",
+      "english": "Jump length",
+      "irish": "fad Léim",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_jumpstamina",
+      "english": "Jump stamina usage",
+      "irish": "Léim úsáid a bhaint as stamina",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_lightfooteffect_name",
+      "english": "Lightfoot",
+      "irish": "cineál gas: in airde",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_lightning_name",
+      "english": "Lightning",
+      "irish": "Lightning Lightning Lightning",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_lightning_tooltip",
+      "english": "Lightning damage.",
+      "irish": "Damáiste Lightning.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_loxseteffect_name",
+      "english": "Boon of the Lox",
+      "irish": "Boon an Lox",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_loxseteffect_tooltip",
+      "english": "The fur allows you to blend in with the wilderness and move about unseen.",
+      "irish": "Ceadaíonn an fionnaidh leat a chumasc i leis an wilderness agus bogadh faoi unseen.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_mageseteffect_name",
+      "english": "Eitr-infused",
+      "irish": "Eitreacha-infused",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_mageseteffect_tooltip",
+      "english": "You are one with the eitr. (increased regen. + elemental magic skill)",
+      "irish": "Tá tú ar cheann leis an eitinn. (athghiniúint méadaithe. + scil draíochta eiliminteach)",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_max_carryweight",
+      "english": "Max carry weight",
+      "irish": "Meáchan a iompar Max",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_mead_name",
+      "english": "Mead",
+      "irish": "Meadrán",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_moder_name",
+      "english": "Moder",
+      "irish": "Déan Teagmháil Linn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_moder_start",
+      "english": "Moder still cries",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_moder_tooltip",
+      "english": "The dragon's wings urge you on. You shall always have tailwind while sailing, and you shall swiftly carry heavy burdens, even over the coldest mountains.",
+      "irish": "Sciatháin an dragan áiteamh tú ar. Beidh ort i gcónaí tailwind agus seoltóireacht, agus beidh tú ag iompar go tapa ualaí trom, fiú thar na sléibhte is fuaire.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_noisemod",
+      "english": "Noise",
+      "irish": "Toir agus Crainn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_poison_name",
+      "english": "Poison",
+      "irish": "Inis dúinn, le do thoil...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_poison_start",
+      "english": "You have been poisoned",
+      "irish": "Tá tú ag nimhiú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_poison_tooltip",
+      "english": "Poison damage.",
+      "irish": "Damáiste díobhála.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_poisonres_name",
+      "english": "Poison resistance",
+      "irish": "minicíocht uisce: flúirseach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_potion_barleywine_tooltip",
+      "english": "You take less damage from burning.",
+      "irish": "Tógann tú damáiste níos lú ó dhó.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_potion_bugrepellent_tooltip",
+      "english": "The fresh scent of this potion will keep away certain unwanted companions.",
+      "irish": "Coimeádfaidh an boladh úr den phota seo compánach áirithe nach dteastaíonn.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_potion_bzerker_tooltip",
+      "english": "For a short while, you fight with the ferocity of a mad and frenzied creature.",
+      "irish": "Ar feadh tamaill ghearr, troid tú leis an ferocity de chréatúr dÚsachtach agus frenzied.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_potion_eitrlingering_tooltip",
+      "english": "Eitr regeneration over time.",
+      "irish": "Athghiniúint Eitr le himeacht ama.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_potion_eitrminor_tooltip",
+      "english": "Eitr over time.",
+      "irish": "Eitr le himeacht ama.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_potion_frostresist_tooltip",
+      "english": "You are protected against the cold.",
+      "irish": "Tá tú cosanta i gcoinne an fuar.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_potion_hasty_tooltip",
+      "english": "Magic fills you, letting you move quicker than ever before.",
+      "irish": "Líonann Magic tú, ligean duit bogadh níos tapúla ná riamh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_potion_healthlingering_tooltip",
+      "english": "Health regeneration over time.",
+      "irish": "Athghiniúint sláinte le himeacht ama.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_potion_healthmajor_tooltip",
+      "english": "Health over time.",
+      "irish": "Sláinte le himeacht ama.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_potion_healthmedium_tooltip",
+      "english": "Health over time.",
+      "irish": "Sláinte le himeacht ama.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_potion_healthminor_tooltip",
+      "english": "Health over time.",
+      "irish": "Sláinte le himeacht ama.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_potion_lightfoot_tooltip",
+      "english": "You feel lighter, almost like you could jump all the way to the branches of Yggdrasil itself.",
+      "irish": "Braitheann tú níos éadroime, beagnach cosúil go bhféadfadh tú léim go léir ar an mbealach chun na brainsí de Yggdrasil féin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_potion_poisonresist_tooltip",
+      "english": "You take less damage from poison.",
+      "irish": "Tógann tú damáiste níos lú ó nimh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_potion_staminalingering_tooltip",
+      "english": "Stamina regeneration over time.",
+      "irish": "Athghiniúint Stamina le himeacht ama.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_potion_staminamedium_tooltip",
+      "english": "Regenerate stamina fast.",
+      "irish": "stamina athghiniúint go tapa.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_potion_staminaminor_tooltip",
+      "english": "Regenerate stamina fast.",
+      "irish": "stamina athghiniúint go tapa.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_potion_start",
+      "english": "You drink the potion",
+      "irish": "Deochann tú an potion",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_potion_strength_tooltip",
+      "english": "Incredible strength courses through you, but only for a time...",
+      "irish": "Cúrsaí neart dochreidte trí tú, ach amháin ar feadh tamaill...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_potion_swimmer_tooltip",
+      "english": "Bring the power of the sea-god with you as you brave the waves.",
+      "irish": "Tabhair cumhacht na farraige-god leat mar cróga tú na dtonnta.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_potion_tamer_tooltip",
+      "english": "Animals will be less reluctant to accept you into their flock.",
+      "irish": "Beidh ainmhithe a bheith níos lú drogall glacadh leat isteach ina flock.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_potion_tasty_tooltip",
+      "english": "Lower health regeneration, but increased stamina regeneration.",
+      "irish": "Athghiniúint sláinte níos ísle, ach athghiniúint stamina méadaithe.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_potion_trollpheromones_tooltip",
+      "english": "All is fair in love and war.",
+      "irish": "Tá gach cothrom i ngrá agus cogadh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_puke_name",
+      "english": "Feeling sick",
+      "irish": "Beathú tinn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_puke_start",
+      "english": "You feel sick",
+      "irish": "Braitheann tú tinn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_puke_tooltip",
+      "english": "You don't feel so well and can't hold your food down.",
+      "irish": "Ní gá duit a bhraitheann chomh maith agus ní féidir a shealbhú do bia síos.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_queen_name",
+      "english": "The Queen",
+      "irish": "Na Banríona",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_queen_start",
+      "english": "The Queen's power breaks free",
+      "irish": "Briseann cumhacht na Banríona saor in aisce",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_queen_tooltip",
+      "english": "Her Majesty blesses you. In her shadow both stealth and magic may flourish, and no poison shall harm you.",
+      "irish": "A Shoilse blesses tú. Ina scáth d'fhéadfadh an dá stealth agus draíocht borradh, agus ní bheidh aon nimh dochar tú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_rested_comfort",
+      "english": "Comfort",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_rested_name",
+      "english": "Rested",
+      "irish": "irl - Library Service",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_rested_start",
+      "english": "You feel rested",
+      "irish": "Braitheann tú rested",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_rested_stop",
+      "english": "You don't feel rested anymore",
+      "irish": "Ní gá duit a bhraitheann rested níos mó",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_rested_tooltip",
+      "english": "You feel rested. Health and stamina regeneration are higher.",
+      "irish": "Is dóigh leat rested. Tá athghiniúint sláinte agus stamina níos airde.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_resting_name",
+      "english": "Resting",
+      "irish": "Forchoimeádas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_resting_start",
+      "english": "Resting...",
+      "irish": "Ag freagairt...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_resting_tooltip",
+      "english": "You are currently resting. Health and stamina regeneration are significantly higher.",
+      "irish": "Tá tú ag resting faoi láthair. Tá athghiniúint sláinte agus stamina i bhfad níos airde.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_rootseteffect_name",
+      "english": "Improved archery",
+      "irish": "Boghdóireacht feabhsaithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_rootseteffect_tooltip",
+      "english": "The ancient roots help you focus your bow skill.",
+      "irish": "Cuidíonn na fréamhacha ársa leat do scil bogha a dhíriú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_runstamina",
+      "english": "Run stamina usage",
+      "irish": "Rith úsáid stamina",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_shelter_name",
+      "english": "Shelter",
+      "irish": "Díroghnaigh gach rud",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_shelter_start",
+      "english": "You are sheltered",
+      "irish": "Tá tú foscadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_shelter_stop",
+      "english": "You are exposed",
+      "irish": "Tá tú faoi lé",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_shelter_tooltip",
+      "english": "You are sheltered from the weather.",
+      "irish": "Tá tú foscadh ón aimsir.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_shield",
+      "english": "Magic barrier",
+      "irish": "Bac draíochta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_shield_damage",
+      "english": "Damage absorption (based on skill):",
+      "irish": "ionsú damáiste (bunaithe ar scil):",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_shield_description",
+      "english": "A magical shield that absorbs damage.",
+      "irish": "sciath draíochta a ionsúnn damáiste.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_shield_ttl",
+      "english": "Time:",
+      "irish": "Am:",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_slimed_name",
+      "english": "Slimed",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_slowfall_name",
+      "english": "Feather fall",
+      "irish": "Titim eile",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_slowfall_tooltip",
+      "english": "What is gravity but an effect of entropy?",
+      "irish": "Cad is domhantarraingthe ach éifeacht eantrópachta?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_smoked_name",
+      "english": "Smoked",
+      "irish": "Smoked",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_smoked_start",
+      "english": "You can't breathe in the smoke!",
+      "irish": "Ní féidir leat breathe sa deataigh!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_smoked_tooltip",
+      "english": "Breathing smoke is unhealthy.",
+      "irish": "Tá deatach análaithe míshláintiúil.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_sneakmod",
+      "english": "Sneak",
+      "irish": "Sneaiceanna",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_sneakstamina",
+      "english": "Sneak stamina usage",
+      "irish": "úsáid stamina Sneak",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_softdeath_name",
+      "english": "No skill drain",
+      "irish": "Gan draein scil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_softdeath_tooltip",
+      "english": "If you die you won't lose any skill points.",
+      "irish": "Má fhaigheann tú bás ní chaillfidh tú aon pointí scile.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_spirit_name",
+      "english": "Spirit",
+      "irish": "Spiorad Naomh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_spirit_tooltip",
+      "english": "Extra damage against the undead.",
+      "irish": "Damáiste breise i gcoinne an undead.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_stagger",
+      "english": "Stagger resistance",
+      "irish": "Friotaíocht a chosc",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_stamina",
+      "english": "Stamina",
+      "irish": "Stamina",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_stamina_upfront",
+      "english": "Stamina gain",
+      "irish": "Gnóthachan Stamina",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_staminapotion_name",
+      "english": "Stamina potion",
+      "irish": "Stamina potion",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_staminaregen",
+      "english": "Stamina regen",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_staminaupgrade_name",
+      "english": "Stamina upgrade",
+      "irish": "Uasghrádú Stamina",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_staminaupgrade_stop",
+      "english": "You feel stronger",
+      "irish": "Braitheann tú níos láidre",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_swimstamina",
+      "english": "Swim stamina usage",
+      "irish": "úsáid stamina trom",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_tared_name",
+      "english": "Tarred",
+      "irish": "Tarred",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_tared_start",
+      "english": "You are covered in sticky tar",
+      "irish": "Tá tú clúdaithe i tarra greamaitheach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_tared_tooltip",
+      "english": "The sticky tar is slowing you down.",
+      "irish": "Tá an tarra greamaitheach ag moilliú tú síos.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_theelder_name",
+      "english": "The Elder",
+      "irish": "An Elder",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_theelder_start",
+      "english": "The Elder's power surges through you",
+      "irish": "Bloic cumhachta an Elder trí tú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_theelder_tooltip",
+      "english": "The power of the forest invigorates you. You shall gather its bounties faster, just as you shall regain your own vitality should you lose it.",
+      "irish": "An chumhacht na foraoise invigorates tú. Beidh tú a bhailiú a bounties níos tapúla, díreach mar a bheidh tú ar ais do bheocht féin ba chóir duit a chailleann sé.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_trinketblackdamagedealth",
+      "english": "Bracelets of the Brave",
+      "irish": "Bráisléid na Cróga",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_trinketblackdamagedealth_description",
+      "english": "Increased mace damage, and a quick health burst regeneration.",
+      "irish": "damáiste mace méadaithe, agus athghiniúint pléasctha sláinte tapaidh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_trinketblackdtamina",
+      "english": "Evasion Mantle",
+      "irish": "Cur síos ar an Táirge",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_trinketblackdtamina_description",
+      "english": "Increased dodge skill and reduced block stamina cost.",
+      "irish": "scileanna Dodge méadaithe agus costas stamina bloc laghdaithe.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_trinketbloodgoldhealth",
+      "english": "Neckstabber",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_trinketbloodgoldhealth_description",
+      "english": "Health regenerates faster, running and attacking costs less stamina. You also get an instant boost to health and armour.",
+      "irish": "Sláinte regenerates níos tapúla, ag rith agus ionsaí costais níos lú stamina. A gheobhaidh tú freisin borradh toirt do shláinte agus armúr.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_trinketbloodgoldstamina",
+      "english": "Witch Crown",
+      "irish": "Uisce agus Séarachas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_trinketbloodgoldstamina_description",
+      "english": "Health, stamina and eitr regenerate faster, and you get an instant boost to stamina and eitr.",
+      "irish": "Sláinte, stamina agus eitile athghiniúint níos tapúla, agus gheobhaidh tú borradh toirt le stamina agus eitile.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_trinketbronzehealth",
+      "english": "Heart of the Forest",
+      "irish": "Croí na Foraoise",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_trinketbronzehealth_description",
+      "english": "Increased health regeneration.",
+      "irish": "Athghiniúint sláinte méadaithe.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_trinketbronzestamina",
+      "english": "Bronze Pendant",
+      "irish": "Bronze Pendant",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_trinketbronzestamina_description",
+      "english": "Increased stamina regeneration.",
+      "irish": "Athghiniúint stamina méadaithe.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_trinketcarapaceeitr",
+      "english": "Pulsating Earrings",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_trinketcarapaceeitr_description",
+      "english": "Increased eitr regeneration.",
+      "irish": "Athghiniúint eite méadaithe.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_trinketchitinswim",
+      "english": "Fins of Destiny",
+      "irish": "Maoiniú ar Dheas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_trinketchitinswim_description",
+      "english": "Reduced swim stamina cost and increased swim speed.",
+      "irish": "Costas stamina snámh laghdaithe agus luas snámh méadaithe.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_trinketflametaleitr",
+      "english": "Jörmundling ",
+      "irish": "Déan teagmháil linn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_trinketflametaleitr_description",
+      "english": "Increased elemental and blood magic skill, and a quick burst of eitr regeneration.",
+      "irish": "scil draíochta eiliminteach agus fola méadaithe, agus pléascadh tapa de athghiniúint eitile.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_trinketflametalstaminahealth",
+      "english": "Brimstone",
+      "irish": "tréimhse saoil: ilbhliantúil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_trinketflametalstaminahealth_description",
+      "english": "A quick burst of both health and stamina regeneration.",
+      "irish": "A pléasctha tapa ar an dá sláinte agus stamina athghiniúint.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_trinketironhealth",
+      "english": "Iron Brooch",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_trinketironhealth_description",
+      "english": "Increased armour and a quick burst of health regeneration.",
+      "irish": "Armúr méadaithe agus pléascadh tapa ar athghiniúint sláinte.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_trinketironstamina",
+      "english": "Nimble Anklet",
+      "irish": "Nimble rúitíne",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_trinketironstamina_description",
+      "english": "Increased run speed and a quick burst of stamina regeneration.",
+      "irish": "luas a reáchtáil méadaithe agus pléascadh tapa de athghiniúint stamina.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_trinketscalestaminadamage",
+      "english": "Resounding Shackle",
+      "irish": "Shackle a athbheochan",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_trinketscalestaminadamage_description",
+      "english": "Increased slash damage and a quick burst of stamina regeneration.",
+      "irish": "damáiste Slais méadaithe agus pléascadh tapa de athghiniúint stamina.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_trinketsilverdamage",
+      "english": "Wolf Sight",
+      "irish": "Mac Tíre",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_trinketsilverdamage_description",
+      "english": "Increased bow skill, spear skill, and increased pierce damage.",
+      "irish": "scil bogha méadaithe, scil spear, agus damáiste poll méadaithe.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_trinketsilverresist",
+      "english": "Crystal Heart",
+      "irish": "Croí na hEilvéise",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_trinketsilverresist_description",
+      "english": "Increased resistance against blunt, slash and pierce damage.",
+      "irish": "Friotaíocht mhéadaithe i gcoinne mhaol, slais agus damáiste pollta.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_trollseteffect_name",
+      "english": "Sneaky",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_trollseteffect_tooltip",
+      "english": "Makes you more sneaky.",
+      "irish": "Déanann tú níos sneaky.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_ttl",
+      "english": "Effect duration",
+      "irish": "Fad an tionchair",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_warm_name",
+      "english": "Warm",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_warm_start",
+      "english": "You feel warm.",
+      "irish": "Braitheann tú te.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_warm_tooltip",
+      "english": "You are warm.",
+      "irish": "Tá tú te.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_wet_name",
+      "english": "Wet",
+      "irish": "Déan teagmháil linn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_wet_repeat",
+      "english": "You are wet",
+      "irish": "Tá tú fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_wet_start",
+      "english": "You are wet",
+      "irish": "Tá tú fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_wet_stop",
+      "english": "You are dry again",
+      "irish": "Tá tú tirim arís",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_wet_tooltip",
+      "english": "Lowers your health and stamina regeneration.",
+      "irish": "Níos ísle do shláinte agus stamina athghiniúint.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_windrun_name",
+      "english": "Wind Run",
+      "irish": "Rith Gaoithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_windrun_tooltip",
+      "english": "Increases run speed and greatly reduced stamina use when running with the wind. Let the wind guide you to victory!",
+      "irish": "Méaduithe luas reáchtáil agus go mór a laghdú stamina úsáid nuair a reáchtáil leis an ghaoth. Lig an treoir gaoithe tú chun bua!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_wishbone_name",
+      "english": "Wishbone",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_wishbone_start",
+      "english": "You can sense hidden objects",
+      "irish": "Is féidir leat tuiscint rudaí i bhfolach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_wishbone_tooltip",
+      "english": "Helps you find hidden things. Move in the direction the pings get more intense.",
+      "irish": "Cuidíonn tú rudaí i bhfolach. Bog sa treo a fháil na pings níos déine.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_yagluth_name",
+      "english": "Yagluth",
+      "irish": "An bhfuil a fhios agat?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_yagluth_start",
+      "english": "The cosmic powers of Yagluth",
+      "irish": "Na cumhachtaí Cosmaí de Yagluth",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "se_yagluth_tooltip",
+      "english": "The fallen king lends you his might. A king must have the power to vanquish his foes, just as he must be able to support his people.",
+      "irish": "An rí tar éis titim lends tú a d'fhéadfadh. Ní mór rí go mbeadh an chumhacht a vanquish a foes, díreach mar ní mór dó a bheith in ann chun tacú lena mhuintir.",
+      "translationMethod": "manual"
+    }
+  ]
+}

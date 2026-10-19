@@ -1,0 +1,999 @@
+{
+  "screen_id": "tutorial",
+  "locale": "ga",
+  "pendingApiKey": true,
+  "machineAssisted": false,
+  "source_extract": "extracted/tutorial.json",
+  "entries": [
+    {
+      "key": "tutorial_altar_label",
+      "english": "Hugin: Forsaken altars",
+      "irish": "Toir agus Crainn bláthanna",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_altar_text",
+      "english": "You have found the summoning place of one of the Forsaken. Make the correct offering at their altar and they will come.\n\nBe wary though, the Forsaken are not easy prey, so craft a wicked weapon, don your finest armour, and eat a hearty meal before engaging them in combat.",
+      "irish": "Fuair tú an áit thoghairme ar cheann de na Forsaken. Déan an tairiscint ceart ag a n-altóir agus beidh siad ag teacht.\n\nBí fainiciúil cé, nach bhfuil an Forsaken chreiche éasca, mar sin ceardaíochta arm ghránna, ná do armúr is fearr, agus a ithe béile hearty roimh dul i ngleic leo.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_altar_topic",
+      "english": "Calling forth the beast",
+      "irish": "Ag glaoch amach an Beast",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_artisan_extension_label",
+      "english": "Hugin: Artisan press",
+      "irish": "Tús: preas Artisan",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_artisan_extension_text",
+      "english": "Now you'll be able to craft ceramic tiles, which have excellent heat insulation.\nYou'll need them if you're to travel southwards!",
+      "irish": "Anois beidh tú in ann a ceardaíochta tíleanna ceirmeacha, a bhfuil insliú teasa den scoth.\nBeidh ort iad má tá tú chun taisteal ó dheas!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_artisan_extension_topic",
+      "english": "A new tool",
+      "irish": "Uirlis nua",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_ashlandocean_label",
+      "english": "Hugin: Boiling waters",
+      "irish": "Hugin: Uiscí Boiling",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_ashlandocean_text",
+      "english": "It seems you have ventured to the boiling waters of the south. As you surely noted, this can be a deadly pursuit.\nTo traverse these waters you will need to build something sturdier if you dont want to sleep with the fishes.\n",
+      "irish": "Dealraíonn sé go bhfuil tú ag fiontair le huiscí fiuchphointe an deisceart. Mar a thug tú faoi deara surely, is féidir é seo a bheith ina tóir deadly.\nChun na huiscí beidh ort rud éigin sturdier a thógáil más rud é nach mian leat codladh leis na fishes.\n",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_ashlandocean_topic",
+      "english": "Ahoy!",
+      "irish": "Ahoy!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_ashlands_label",
+      "english": "Hugin: Ashlands",
+      "irish": "Inis dúinn, le do thoil...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_ashlands_text",
+      "english": "You have discovered the Ashlands, the very hottest parts of the tenth world.\nHere, water boils without a cauldron, and anything flammable can be set alight with just a spark. Be careful!",
+      "irish": "Tá tú amach an Ashlands, na codanna an- teo ar fud an domhain deichiú.\nAnseo, boils uisce gan cauldron, agus is féidir aon rud inlasta a shocrú le spréach amháin. Bí cúramach!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_ashlands_topic",
+      "english": "Keep a cool head!",
+      "irish": "Coinnigh ceann fionnuar!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_bathtub_text",
+      "english": "Jump in, the water's nice and warm!",
+      "irish": "Léim i, an t-uisce deas agus te!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_batteringram_label",
+      "english": "Hugin: Battering ram",
+      "irish": "Hugin: ramhrú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_batteringram_text",
+      "english": "The enemy fortresses are built from sturdy stuff. You'll need machines like this one if you're to break through their walls.",
+      "irish": "An fortresses namhaid tógtha ó stuif sturdy. Beidh ort meaisíní cosúil leis an gceann seo má tá tú a bhriseadh trína ballaí.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_batteringram_topic",
+      "english": "A powerful siege engine",
+      "irish": "A inneall léigear cumhachtach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_bed_label",
+      "english": "Hugin: Settling in",
+      "irish": "Inis dúinn, le do thoil...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_bed_text",
+      "english": "Sleep the night away in your bed and awaken feeling refreshed and full of energy.\n\nAnother improvement to your home would be some chests where you can store items. <color=yellow>It is good practice to always have some spare equipment</color>, if something unfortunate should happen to you while exploring...",
+      "irish": "Codladh an oíche ar shiúl i do leaba agus mhúscailt mothú athnuachan agus iomlán fuinnimh.\n\nBheadh feabhas eile ar do theach a bheith roinnt cófraí nuair is féidir leat míreanna a stóráil. dath = buí Tá sé dea-chleachtas a bheith i gcónaí ar roinnt trealamh spártha / dath ., más rud é ba chóir rud éigin trua a tharlóidh duit agus iniúchadh...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_bed_topic",
+      "english": "A headrest for the weary!",
+      "irish": "A headrest don traochta!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_bellfragment_label",
+      "english": "Munin: Bell fragment",
+      "irish": "Mumhan: Bell il",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_bellfragment_topic",
+      "english": "A fragment of the past",
+      "irish": "A il an am atá caite",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_blackforest_label",
+      "english": "Hugin: Black Forest",
+      "irish": "Toir ornáideacha agus Crainn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_blackforest_text",
+      "english": "You have wandered into the Black Forest. This place can be very dangerous for those unprepared for it. Prove your worth by slaying Eikthyr.",
+      "irish": "Tá tú wandered isteach sa Foraoise Dubh. Is féidir an áit seo a bheith an-chontúirteach dóibh siúd gan ullmhú dó. Cruthaigh do fiú ag slaying Eikthyr.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_blackforest_topic",
+      "english": "Turn back! This is a dangerous place",
+      "irish": "Cas ar ais! Níl an Tweet seo ar fáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_bosstrophy_label",
+      "english": "Hugin: Forsaken trophy",
+      "irish": "Toir agus Crainn bláthanna",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_bosstrophy_text",
+      "english": "Return to the Sacrificial Stones with your Forsaken trophy and offer it as a sacrifice to make the Gods smile upon you.",
+      "irish": "Fill ar ais chuig na Clocha Íobairt le do trófaí Forsaken agus é a thairiscint mar íobairt a dhéanamh ar an aoibh gháire Dé ar tú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_bosstrophy_topic",
+      "english": "Congratulations, warrior!",
+      "irish": "Comhghairdeas, laoch!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_cold_label",
+      "english": "Hugin: Cold",
+      "irish": "Gluaiseacht: Fuar",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_cold_text",
+      "english": "When the temperature drops at night, or if you are wet, you will suffer from being cold. This reduces your stamina regeneration.\n\nSeeking shelter by an open flame is your best option when this happens.",
+      "irish": "Nuair a thiteann an teocht san oíche, nó má tá tú fliuch, beidh tú ag fulaingt ó bheith fuar. Laghdaíonn sé seo do athghiniúint stamina.\n\nIs é an foscadh ag lasair oscailte do rogha is fearr nuair a tharlaíonn sé seo.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_cold_topic",
+      "english": "Be wary of the weather",
+      "irish": "Bí fainiciúil ar an aimsir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_crypt_label",
+      "english": "Hugin: Dungeons",
+      "irish": "Inis dúinn, le do thoil...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_crypt_text",
+      "english": "Delves and dungeons can be found across the tenth world. They are monuments of the past, and most often filled with the riches of civilizations long lost.\n\nRemember to bring a light source!",
+      "irish": "Is féidir Delves agus dungeons a fháil ar fud an domhain deichiú. Tá siad séadchomharthaí ar an am atá caite, agus is minic a líonadh leis an riches na sibhialtachtaí caillte fada.\n\nCuimhnigh a thabhairt foinse solais!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_crypt_topic",
+      "english": "Treasures lie below",
+      "irish": "Soiscéil a bheidh thíos",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_death_label",
+      "english": "Hugin: Death",
+      "irish": "Tús: Bás",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_death_text",
+      "english": "Each time you are struck down, you will <color=yellow\">forget a small part of your abilities and drop your belongings</color> at the site of the accident.\n\nIf you wish you were home by now I'd recommend <color=yellow\">building a bed</color>, wherever home may be.",
+      "irish": "Gach uair a bhuail tú síos, beidh tú lí=buí\" a bhrú amach cuid bheag de do chumas agus titim do belongings / dath lí ar an suíomh na timpiste.\n\nMás mian leat go raibh tú sa bhaile ag anois ba mhaith liom a mholadh líofa = buí \"thógáil leaba / lí, cibé áit a d'fhéadfadh a bheith sa bhaile.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_death_topic",
+      "english": "You suffered a mortal blow!",
+      "irish": "D'fhulaing tú buille mortal!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_dvergr_label",
+      "english": "Hugin: Dvergr",
+      "irish": "Toir agus Crainn bláthanna",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_dvergr_text",
+      "english": "Kra-kraaa! Stubborn fools! The Dvergr will tolerate strangers and vagrants but they are quick to anger should you upset them... Which I am sure you will manage to do sooner or later.",
+      "irish": "Kra-Kraaaa! amadáin Grabheirthe! Beidh an Dvergr fhulaingt strainséirí agus vagrants ach tá siad tapa a fearg ba chóir duit trína chéile iad... Cad tá mé cinnte go mbeidh tú a bhainistiú a dhéanamh luath nó mall.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_dvergrhalls_label",
+      "english": "Hugin: Dvergr homes",
+      "irish": "Hugin: Tithe Dvergr",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_dvergrhalls_text",
+      "english": "As I am sure my lesser brother tells you, the halls beyond are very impressive...\n\nJust try not to get lost in the winding tunnels and secret passageways will you?",
+      "irish": "Mar tá mé cinnte Insíonn mo dheartháir níos lú tú, tá na hallaí thar an-suntasach...\n\nJust iarracht a dhéanamh gan a fháil caillte sna tolláin foirceannadh agus pasáistí rúnda a bheidh tú?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_eitr",
+      "english": "It seems you have had a sip from an Yggdrasil branch, and I bet you found it to your liking.\nThose fun colored lights you may see spinning around you might not all be in your head anymore.\nJust don't make it a habit. There may be some long term effects that are anything but magical.",
+      "irish": "Dealraíonn sé go bhfuil tú go raibh sip ó bhrainse Yggdrasil, agus geall mé fuair tú é le do liking.\nNa soilse daite spraoi is féidir leat a fheiceáil sníomh timpeall ní fhéadfadh tú a bheith go léir i do cheann níos mó.\nNí hamháin go ndéanann sé nós. D'fhéadfadh roinnt éifeachtaí fadtéarmacha go bhfuil aon rud ach draíochta.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_eitr_label",
+      "english": "Hugin: Eitr",
+      "irish": "Gluaiseacht: Eitr",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_eitr_text",
+      "english": "The mists permeate all that live and grow in these lands, and now it is a part of you as well.\n\nWith eitr you will be able to cast all sorts of powerful spells. Try to find more eitr-infused ingredients to increase your ability.",
+      "irish": "Na mists permeate go léir go bhfuil cónaí agus ag fás sna tailte, agus anois tá sé mar chuid de tú chomh maith.\n\nLe eitéar beidh tú in ann a chaitheamh gach cineál na geasa cumhachtach. Bain triail as a fháil níos eitr-infused comhábhair a mhéadú do chumas.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_end_hugin_label",
+      "english": "Hugin: To Valhalla",
+      "irish": "Mol: Chun Valhalla",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_end_hugin_text",
+      "english": "Well done, warrior!\r\nAt long last, you have slain all Forsaken and proven yourself worthy. The gates of Valhalla are now open to you – all you need to do is to let the valkyrie carry you there.\r\nBut worry not, you will always be welcome here in the tenth world, should you wish to return.",
+      "irish": "Bhuel a dhéanamh, laoch!\nAr deireadh fada, tá tú slain gach Forsaken agus cruthaithe tú féin fiú. Is iad na geataí de Valhalla ar oscailt anois chun tú - go léir is gá duit a dhéanamh ná a ligean ar an valkyrie a dhéanamh tú ann.\nAch ní imní ort, beidh tú i gcónaí fáilte a chur roimh anseo sa domhan deichiú, ba chóir duit gur mian leat filleadh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_end_hugin_topic",
+      "english": "Journey to Valhalla",
+      "irish": "Turas go dtí Valhalla",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_end_munin_label",
+      "english": "Munin: Forsaken Defeated",
+      "irish": "Mumhan: Briseadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_end_munin_text",
+      "english": "You have fought well, warrior.\r\nThanks to you, the Forsaken are no more, and this world can once again be reunited with the rest of Yggdrasil. But that is a story for another time! For now, you ought to claim your reward in Valhalla, don't you think?",
+      "irish": "Tá tú throid go maith, laoch.\nA bhuíochas sin duit, níl an Forsaken níos mó, agus is féidir an domhan seo a athaonad arís leis an gcuid eile de Yggdrasil. Ach is é sin scéal ar feadh tréimhse eile! Chun anois, ba chóir duit do luaíocht a éileamh i Valhalla, ná smaoinigh tú?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_end_munin_topic",
+      "english": "And so the saga comes to an end...",
+      "irish": "Agus mar sin tagann an saga chun deiridh...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_faderember_label",
+      "english": "Hugin: Eternal Pyre",
+      "irish": "Mol: Pirimid Eternal",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_faderember_text",
+      "english": "It is not just a dragon's breath that burns bright, but its very essence as well. One can harness it, with enough skill and patience...",
+      "irish": "Níl sé ach anáil Dragon a dhónn geal, ach a bunúsach an-chomh maith. Is féidir le duine leas a bhaint as é, le go leor scil agus foighne...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_food2_text",
+      "english": "You have found a snack, consume it to stave off hunger. Some food types are better for your health and indirectly affect how much damage you can block before becoming staggered, and others will fortify your stamina. Then there are also some that is all-around beneficial!\n\nBe aware that before long you will grow hungry again, so try to always have at least a couple of different meals ready.",
+      "irish": "Fuair tú sneaic, é a ithe chun stáirse amach ocras. Tá roinnt cineálacha bia níos fearr do do shláinte agus go hindíreach difear cé mhéad damáiste is féidir leat bloc sula bheith stáirse, agus beidh daoine eile fortify do stamina. Ansin tá roinnt go bhfuil gach-babhta tairbheach!\n\nBí ar an eolas go roimh fad a bheidh tú ag fás ocras arís, mar sin déan iarracht a bheith i gcónaí ar a laghad cúpla béilí éagsúla réidh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_food_label",
+      "english": "Hugin: Food",
+      "irish": "Mol: Bia",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_food_text",
+      "english": "You have found a snack. Consume it to improve your health and stamina.\n\nBe aware that before long you will grow hungry again, so try to always have at least a couple of different meals ready.",
+      "irish": "Fuair tú sneaic. Tóg é chun feabhas a chur ar do shláinte agus stamina.\n\nBí ar an eolas go roimh fad a bheidh tú ag fás ocras arís, mar sin déan iarracht a bheith i gcónaí ar a laghad cúpla béilí éagsúla réidh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_food_topic",
+      "english": "A tasty morsel!",
+      "irish": "A morsel blasta!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_giants_label",
+      "english": "Hugin: Giant remains",
+      "irish": "Hugin: Fanann Giant",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_giants_text",
+      "english": "Kraa! Pick their bones and break their domes!",
+      "irish": "Kraa! Pioc a n-chnámha agus briseadh a gcuid domes!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_guardstone_label",
+      "english": "Hugin: Ward",
+      "irish": "Toir agus Crainn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_guardstone_text",
+      "english": "The ward emits a strong aura which prevents other vikings from building things. It also locks all doors within its influence.",
+      "irish": "An bharda astaíonn aura láidir a chuireann cosc ar vikings eile ó rudaí a thógáil. Glasann sé freisin gach doirse laistigh dá thionchar.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_guardstone_topic",
+      "english": "You have built a ward",
+      "irish": "Tá tú tógtha ar bharda",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_haldor",
+      "english": "Rumour has it that some traders have found themselves into the tenth world. If you find yourself in need of special commodities you might want to seek them out.\n\nOne of them should be somewhere in a forest such as this. I'm terribly sorry I can't be of more help... you'll have to keep an eye out.",
+      "irish": "Tá Rumour sé go bhfuil roinnt trádálaithe le fáil iad féin ar an domhan deichiú. Má fhaigheann tú féin i gá tráchtearraí speisialta b'fhéidir gur mhaith leat iad a lorg amach.\n\nBa chóir go mbeadh duine acu áit éigin i bhforaois mar seo. Tá brón orm go hiontach ní féidir liom a bheith níos mó cabhrach... beidh ort súil a choinneáil amach.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_haldor_label",
+      "english": "Hugin: Trader Haldor",
+      "irish": "Gluaiseacht: Trádálaí Haldor",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_haldor_topic",
+      "english": "Well met, adventurer…",
+      "irish": "Bhuel bhuail,...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_hammer_label",
+      "english": "Hugin: Hammer",
+      "irish": "Gluaiseacht: Hammer",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_hammer_text",
+      "english": "With this tool you will raise mighty halls and towering fortifications.\n\nStart by building a <color=yellow>workbench</color>. This in turn will enable you to construct other things.",
+      "irish": "Leis an uirlis beidh tú a ardú hallaí mighty agus fortifications túr.\n\nTosaigh ag tógáil líofa = buí líbhir / dath . Beidh sé seo ar a seal ar chumas tú a thógáil rudaí eile.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_hammer_topic",
+      "english": "You have crafted a hammer",
+      "irish": "Tá tú crafted casúr",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_hildir",
+      "english": "I've heard that a trader was seen in an area not unlike this one. She is an odd character indeed, but may have very special goods for sale.\n\nHowever, rumour has it that her stocks have been raided. She might need a helping hand, and you are starting to look fairly capable by now.",
+      "irish": "Chuala mé go bhfaca trádálaí i gceantar nach bhfuil murab ionann agus an ceann seo. Tá sí carachtar corr go deimhin, ach d'fhéadfadh go mbeadh earraí an-speisialta ar díol.\n\nMar sin féin, tá ráfla sé go bhfuil a stoic raided. D'fhéadfadh sí gá lámh ag cabhrú, agus tá tú ag tosú chun breathnú go cothrom in ann anois.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_hildir_label",
+      "english": "Hugin: Trader Hildir",
+      "irish": "Toir agus Crainn bláthanna",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_hildir_topic",
+      "english": "Why, hello there.",
+      "irish": "Cén fáth, Dia duit ann.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_hildirdungeon",
+      "english": "I have a feeling that this place could be more challenging than one might expect.",
+      "irish": "Tá mé mothú go bhféadfadh an áit seo a bheith níos dúshlánaí ná mar a d'fhéadfadh duine a bheith ag súil.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_hildirdungeon_label",
+      "english": "Mysterious Location",
+      "irish": "tréimhse saoil: ilbhliantúil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_hildirdungeon_topic",
+      "english": "Watch your step, warrior.",
+      "irish": "Féach ar do chéim, laoch.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_hoe_label",
+      "english": "Hugin: Hoe",
+      "irish": "Toir ornáideacha agus Crainn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_hoe_text",
+      "english": "This tool is used for landscaping. You could say it is the perfect complement to the hammer.\n\nUse it to clear the ground and manipulate the terrain. It is easier to create buildings on level ground!",
+      "irish": "Úsáidtear an uirlis seo le haghaidh tírdhreachú. D'fhéadfá a rá go bhfuil sé an chomhlánú foirfe chun an casúr.\n\nBain úsáid as chun an talamh a ghlanadh agus an tír-raon a ionramháil. Tá sé níos éasca foirgnimh a chruthú ar an talamh ar leibhéal!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_hoe_topic",
+      "english": "You have crafted a hoe",
+      "irish": "Tá tú crafted hoe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_hunger2_text",
+      "english": "Consuming food is of <color=yellow>utmost importance</color> to a viking warrior, even in the afterlife.\n\nFood can be found everywhere in the world, and a great deal of it can be prepared at a <color=yellow>Cooking station</color>.\n\nThere are three types of food; One increases health, one fortifies stamina, and then there's also a combination of both. Choose your diet based on your needs!",
+      "irish": "Is bia a thógáil de lí = buí líthirmeach / dath lí le ghaiscíoch inmharthana, fiú sa saol.\n\nIs féidir le bia a fháil i ngach áit ar fud an domhain, agus is féidir go leor de é a ullmhú ag lí lí = buí . Stáisiún cócaireachta / dath.\n\nTá trí chineál bia ann; Méadaíonn amháin sláinte, fortifies amháin stamina, agus ansin níl chomh maith le meascán den dá. Roghnaigh do aiste bia bunaithe ar do chuid riachtanas!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_hunger_label",
+      "english": "Hugin: Hunger",
+      "irish": "Toir ornáideacha agus Crainn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_hunger_text",
+      "english": "Consuming food is of <color=yellow>utmost importance</color> to a viking warrior, even in the afterlife. Having a full belly both fortifies your health and improves your stamina.\n\nFood can be found everywhere in the world, and a great deal of it can be prepared at a <color=yellow>cooking station</color>.",
+      "irish": "Is bia a thógáil de lí = buí líthirmeach / dath lí le ghaiscíoch inmharthana, fiú sa saol. Ag bolg iomlán fortifies araon do shláinte agus a fheabhsaíonn do stamina.\n\nIs féidir le bia a fháil i ngach áit ar fud an domhain, agus is féidir le go leor de é a ullmhú ag líthir = stáisiún bruithniúcháin buí / dath.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_hunger_topic",
+      "english": "You need sustenance",
+      "irish": "Ní mór duit sustenance",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_inventory_label",
+      "english": "Hugin: Inventory",
+      "irish": "Mol: Fardal",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_inventory_text",
+      "english": "Most items must be crafted. However, due to your recent departure from Midgard, you will have to recall the true shape of objects. Just pick things up and it will all come back to you, I'm sure.\n\nMy lesser brother, Munin, tells me one can fashion a stone axe out of <color=yellow>wood and stone</color>.",
+      "irish": "Ní mór an chuid is mó míreanna a crafted. Mar sin féin, mar gheall ar do imeacht le déanaí ó Midgard, beidh ort a thabhairt chun cuimhne an cruth fíor na rudaí. Just rudaí a phiocadh suas agus beidh sé ar fad teacht ar ais chugat, Tá mé cinnte.\n\nMo dheartháir níos lú, Munin, insíonn dom ar féidir le duine faisean axe cloiche as líofa = lí buí agus cloch / dath.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_inventory_topic",
+      "english": "Take stock of your inventory",
+      "irish": "Tóg stoc de do fardal",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_jotuninvasion_hugin_label",
+      "english": "Hugin: Jotun Invasions",
+      "irish": "Tús: Ionradh Jotun",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_jotuninvasion_hugin_text",
+      "english": "\"Beware the approach of the Jotun army. You must meet them at their point of invasion and halt their advances, if you are to ever set the tenth world right...\"",
+      "irish": "\"Bí an cur chuige ar an arm Jotun. Ní mór duit freastal orthu ag a n-pointe ionradh agus stop a chur a n-airleacan, má tá tú a leagtar riamh ar an ceart domhan deichiú...\"",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_jotuninvasion_hugin_topic",
+      "english": "Strange forces are invading!",
+      "irish": "Tá fórsaí aisteach invading!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_magetable_label",
+      "english": "Hugin: Galdr table",
+      "irish": "Gluaiseacht: tábla Galdr",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_magetable_text",
+      "english": "Trying your hand at scrying the runes are you? I'm impressed, sorcerer!\n\nCharms and conjurations will take their toll. If you wish to master the arts you must find appropriate sustenance. As it happens, the parts around here are looking ripe with all sorts of delicious new ingredients to gather. Lucky you!",
+      "irish": "Ag iarraidh do lámh ag scrying na runes bhfuil tú? Tá mé tógtha, sorcerer!\n\nTógfaidh Charms agus conjurations a dola. Más mian leat na healaíona a mháistir, ní mór duit cothú cuí a fháil. Mar a tharlaíonn sé, tá na codanna ar fud anseo ag lorg níos aibí le gach cineál comhábhair nua delicious a bhailiú. Lucky tú!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_maptable_label",
+      "english": "Hugin: Cartography table",
+      "irish": "Mol: Cartagrafaíocht tábla",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_maptable_text",
+      "english": "With this table you can record and share your explorations of the tenth world. Use the toolbox to record your progress and take a look at this large map to copy what others have explored.",
+      "irish": "Leis an tábla seo is féidir leat a thaifeadadh agus a roinnt do taiscéalaíochta an domhain deichiú. Bain úsáid as an bosca uirlisí a thaifeadadh do dhul chun cinn agus a chur le breathnú ar an léarscáil mór a chóipeáil cad iad na daoine eile a iniúchadh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_maptable_topic",
+      "english": "Record your exploration",
+      "irish": "Taifead do thaiscéalaíocht",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_mould_hugin_label",
+      "english": "Hugin: Moulds",
+      "irish": "Mol: Moulds",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_mould_hugin_text",
+      "english": "Moulds can yield fascinating results! But it is not enough to merely fill them with materials – they also need to be hardened with the help of extreme temperatures...",
+      "irish": "Is féidir le múnlaí torthaí iontacha a tháirgeadh! Ach nach bhfuil sé go leor chun iad a líonadh ach le hábhair - ní mór iad a cruaite freisin le cabhair ó theocht mhór...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_mould_hugin_topic",
+      "english": "You have found a mould!",
+      "irish": "Tá tú ag fáil múnla!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_ore_label",
+      "english": "Hugin: Ore",
+      "irish": "Toir agus Crainn bláthanna",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_ore_text",
+      "english": "Raw ore needs to be refined in the <color=yellow>smelter</color> before you can work it at the <color=yellow>forge</color>.\n\nTo build a smelter you will need <color=yellow>surtling cores</color>. Search for them in the dark places beneath the earth.",
+      "irish": "Ní mór amh ore a scagadh sa lí = buí líthir / dath líthir sular féidir leat é a oibriú ag an líthir = buí líthir / dath .\n\nChun smelter a thógáil beidh ort lí = croíleacáin / dath buí. Cuardaigh dóibh sna háiteanna dorcha faoi bhun an domhain.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_ore_topic",
+      "english": "You have found some ore",
+      "irish": "Tá tú fuair roinnt ore",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_pickaxe_label",
+      "english": "Hugin: Pickaxe",
+      "irish": "Toir agus Crainn bláthanna",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_pickaxe_text",
+      "english": "The black forest is rich in minerals. There you can find copper in the ground and tin lining the ocean shore.\n\nNow go forth and strike the earth!",
+      "irish": "Tá an foraoise dubh saibhir i mianraí. Is féidir leat copair a aimsiú sa talamh agus stáin ag líneáil an chladaigh farraige.\n\nAnois dul amach agus an talamh a bhaint amach!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_pickaxe_topic",
+      "english": "You have crafted a pickaxe",
+      "irish": "Tá tú crafted pickaxe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_portal_label",
+      "english": "Hugin: Portals",
+      "irish": "Tús: Portals",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_portal_text",
+      "english": "Portals are great for fast travel between different parts of the world.\n\nOf course, you need to build one on the other end as well, then give the pair the same name and they will be automatically connected!",
+      "irish": "Tá Portals mór le haghaidh taistil go tapa idir codanna éagsúla den domhan.\n\nAr ndóigh, ní mór duit a thógáil ar cheann ar an taobh eile chomh maith, a thabhairt ansin an péire an t-ainm céanna agus beidh siad ceangailte go huathoibríoch!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_portal_topic",
+      "english": "You have built a portal",
+      "irish": "Tá tú tógtha tairseach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_prison_label",
+      "english": "Hugin: The Prison",
+      "irish": "Tús: An Príosún",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_prison_text",
+      "english": "Be wary! The being imprisoned beyond this gate is mighty, more so than any other to be found in all of Valheim. You would do well to prepare accordingly before you venture forth to this final foe.",
+      "irish": "Bí fainiciúil! Is é an á bpríosún thar an geata mighty, níos mó ná aon eile a bheidh le fáil i ngach ceann de Valheim. Ba mhaith leat a dhéanamh go maith a ullmhú dá réir sin sula dtéann tú amach go dtí an fóe deiridh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_prison_topic",
+      "english": "One last trial...",
+      "irish": "Triail deiridh amháin...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_random1",
+      "english": "Kraa!",
+      "irish": "Kraa!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_random2",
+      "english": "Was that a vole...",
+      "irish": "An raibh a vole...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_random3",
+      "english": "Fair weather...",
+      "irish": "aimsir chothrom...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_random4",
+      "english": "Busy, warrior? I can come back later...",
+      "irish": "Busy, laoch? Is féidir liom teacht ar ais níos déanaí...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_random5",
+      "english": "Please come and listen.",
+      "irish": "Le do thoil teacht agus éisteacht.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_random6",
+      "english": "Kraa? Kaaaw!",
+      "irish": "Kraa? A thabhairt!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_randomevent_label",
+      "english": "Hugin: Invasions",
+      "irish": "Mol: Ionradh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_randomevent_text",
+      "english": "Monsters will lay siege to your camp from time to time. Strength of arms does not guarantee you victory in these situations. Build a strong defense to weather out the storm!",
+      "irish": "Beidh arrachtaigh a leagan léigear do champa ó am go ham. Ní neart arm ráthaíocht tú bua sna cásanna seo. Tógáil cosaint láidir chun aimsir amach an stoirm!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_randomevent_topic",
+      "english": "You have been invaded",
+      "irish": "Tá tú ionradh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_randomimp1",
+      "english": "Hail warrior.",
+      "irish": "Hail laoch.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_randomimp2",
+      "english": "Well met.",
+      "irish": "Bhuel bhuail.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_randomimp3",
+      "english": "I bring tidings.",
+      "irish": "Tugaim tidings.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_randomimp4",
+      "english": "I have a tale or two to tell.",
+      "irish": "Tá mé scéal nó dhó a insint.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_randomimp5",
+      "english": "Kraa? Kaaaw!",
+      "irish": "Kraa? A thabhairt!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_randomimp6",
+      "english": "Harken!",
+      "irish": "Fómhar!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_sacrificialblood_label",
+      "english": "Hugin: Kall Fimbulbringer defeated",
+      "irish": "Hugin: Kall Fimbulbringer defeated",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_sacrificialblood_text",
+      "english": "Well done, warrior! You have found the sacrificial blood, the final key to restoring this realm. Now the All-Father has one last task for you – prove yourself worthy by journeying back to where it all began!",
+      "irish": "Bhuel a dhéanamh, laoch! Fuair tú an fhuil sacrificial, an eochair deiridh a athchóiriú an réimse seo. Anois tá an All-Father amháin tasc deireanach ar do shon - chruthú duit féin fiú ag journeying ar ais go dtí áit a thosaigh sé ar fad!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_sacrificialblood_topic",
+      "english": "It is time...",
+      "irish": "Tá sé am...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_shield_label",
+      "english": "Hugin: Shield",
+      "irish": "Gluaiseacht: sciath",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_shield_text",
+      "english": "A shield allows you to block incoming damage. \nIf your timing is perfect, the enemy may also be <color=yellow>parried</color>. \nBe careful though, if you block too many hits you will become <color=yellow>staggered</color>. The amount of damage you can block before becoming staggered depends on your maximum health, so if you plan on tanking a lot of damage you should eat food that increases your health.\nHeavier shields will block more damage but will also slow you down.",
+      "irish": "Ligeann sciath duit damáiste a dhéanamh.\nMá tá do uainiú foirfe, d'fhéadfadh an namhaid a bheith chomh maith líofa = buí r / dath .\nBí cúramach cé, má tá tú bloc amas an iomarca a bheidh tú a bheith color = buí líofa / dath. Braitheann an méid damáiste is féidir leat bloc sula mbíonn tú ag brath ar do shláinte uasta, mar sin má tá tú ag pleanáil ar tanú a lán damáiste ba chóir duit bia a ithe a mhéadaíonn do shláinte.\nBeidh sciatha Heavier bloc damáiste níos mó ach beidh mall tú síos freisin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_shield_topic",
+      "english": "You have crafted a shield",
+      "irish": "Tá tú crafted sciath",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_shieldgenerator_label",
+      "english": "Hugin: Shield generator",
+      "irish": "Gluaiseacht: gineadóir sciath",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_shieldgenerator_text",
+      "english": "Kraa! This should keep away whatever the sky might throw at you.",
+      "irish": "Kraa! Ba chóir é seo a choinneáil ar shiúl cibé d'fhéadfadh an spéir caith ag tú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_shieldgenerator_topic",
+      "english": "Means of protection",
+      "irish": "Modhanna cosanta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_smelter_label",
+      "english": "Hugin: Smelter",
+      "irish": "Toir agus Crainn bláthanna",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_smelter_text",
+      "english": "Deposit your raw ore in this furnace and it will melt away all impurities, leaving you with a bar of refined metal to work at the forge.\n\nYou will need <color=yellow>coal</color> to fuel the smelter. Coal can be produced by building a <color=yellow>kiln</color> and loading it with wood.",
+      "irish": "Taisce do ore amh sa foirnéise agus beidh sé leá ar shiúl gach eisíontais, ag fágáil tú le barra de miotail scagtha a bheith ag obair ag an forge.\n\nBeidh ort líthir = buí líthir / dath nigh chun breosla an smelter. Is féidir le gual a tháirgeadh trí dhath a thógáil = buí lítir / dath agus é a luchtú le adhmad.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_smelter_topic",
+      "english": "You have built a smelter",
+      "irish": "Tá tú tógtha smelter",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_start_label",
+      "english": "Hugin: Tip",
+      "irish": "Tús: Tip",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_start_text",
+      "english": "Start tips: try to interact with things in the environment. Some items like stones, branches and pieces of flint can be collected and used for crafting. \n\nTo open your inventory and crafting screen press $KEY_Inventory.",
+      "irish": "Leideanna Tosaigh: déan iarracht idirghníomhú le rudaí sa timpeallacht. Is féidir roinnt míreanna cosúil le clocha, brainsí agus píosaí flint a bhailiú agus a úsáid le haghaidh crafting.\n\nA oscailt do phreas scáileán fardal agus crafting $KEY Inventory.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_start_topic",
+      "english": "Welcome to Valheim",
+      "irish": "Fáilte go dtí Valheim",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_stemple1_label",
+      "english": "Hugin: Welcome",
+      "irish": "Tús: Fáilte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_stemple1_text",
+      "english": "I am Hugin, sent here to guide you in your travels.\n\nThe megaliths surrounding you are the Sacrificial Stones. They represent the Forsaken, which you must slay in order to ascend to Valhalla.",
+      "irish": "Tá mé Hugin, sheoladh anseo chun tú a threorú i do taisteal.\n\nIs iad na megaliths timpeall ort na Clocha Íobairtiúla. Ionadaíocht siad an Forsaken, a ní mór duit a slay d'fhonn dul suas go dtí Valhalla.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_stemple1_topic",
+      "english": "Welcome to the tenth world, warrior",
+      "irish": "Fáilte go dtí an domhan deichiú, laoch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_stemple2_label",
+      "english": "Hugin: Vegvisirs",
+      "irish": "Toir agus Crainn bláthanna",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_stemple2_text",
+      "english": "These magical stones were scattered throughout the lands by Oden as signposts pointing toward the ritual grounds of the Forsaken.\n\nIf inspected closer, this one will reveal the summoning place of Eikthyr, your <color=yellow>first prey</color>. He is a mighty beast, so you need to properly arm yourself before even attempting to defeat him.",
+      "irish": "Bhí na clocha draíochta scaipthe ar fud na tailte ag Oden mar signposts dírithe i dtreo na forais deasghnátha an Forsaken.\n\nMá iniúchadh níos dlúithe, beidh an ceann seo nochtann an áit a thoghairm Eikthyr, do dhath = buí chreiche / dath . Tá sé ina Beast mighty, mar sin ní mór duit a lámh i gceart féin roimh fiú iarracht a defeat dó.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_stemple2_topic",
+      "english": "This stone is a Vegvisir",
+      "irish": "Is é seo an chloch Vegvisir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_stemple4_label",
+      "english": "Hugin: Eikthyr defeated",
+      "irish": "Gluaiseacht: Eikthyr defeated",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_stemple4_text",
+      "english": "You have been granted the power of Eikthyr. Use it in times of need.\n\nYour next target dwells in the black forest. Go there, explore the lands, and uncover their lost treasures and resources.\n\nThe Elder awaits!",
+      "irish": "Deonaíodh cumhacht Eikthyr duit. Bain úsáid as in amanna de dhíth.\n\nDo dwells sprioc seo chugainn san fhoraois dubh. Téigh ann, iniúchadh a dhéanamh ar na tailte, agus a gcuid seoda caillte agus acmhainní.\n\nAn Elder ag fanacht!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_stemple4_topic",
+      "english": "Oden is pleased",
+      "irish": "Tá áthas ar Oden",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_tissueref_label",
+      "english": "Hugin: Eitr refinery",
+      "irish": "Hugin: scaglann Eitr",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_tissueref_text",
+      "english": "Warrior, what kind of contraption is this?! It looks dangerous...\n\nThere is a grinding funnel up here, I wonder what you will put into it.",
+      "irish": "Warrior, cén cineál contraption é seo?! Breathnaíonn sé contúirteach...\n\nTá tonnadóir meilt suas anseo, Wonder mé cad a bheidh tú a chur isteach é.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_trinket_label",
+      "english": "Hugin: Trinkets",
+      "irish": "Gluaiseacht: Baile Átha Troim",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_trinket_text",
+      "english": "Kra-kraaa! Warrior, is that a gleaming trinket I see in your grasp? Don it with pride, and let its power course through you as you strike down your foes. Once your adrenaline reaches its peak, you are sure to be rewarded!",
+      "irish": "Kra-Kraaaa! Warrior, is é sin trinket gleaming Feicim i do thuiscint? Don sé le bród, agus lig a chúrsa cumhachta trí tú mar a bhuaileann tú síos do foes. Nuair a shroicheann do adrenaline a bhuaic, tá tú cinnte a bronntar!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_trinket_topic",
+      "english": "Adrenaline surges through you!",
+      "irish": "Adrenaline surges trí tú!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_upgrader_hugin_label",
+      "english": "Hugin: Forge of Potential",
+      "irish": "Hugin: Forge de féideartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_upgrader_hugin_text",
+      "english": "Finding this place of ancient power is no easy feat, and those who have done so stand to gain a great deal! A word of warning, however – while the Forge may work brilliantly in your favour, it may just as easily shatter that which you seek to refine...",
+      "irish": "Lorg an áit chumhacht ársa aon feat éasca, agus iad siúd a bhfuil déanta mar sin seasamh a fháil go leor! Focal rabhaidh, áfach – cé go bhféadfadh an Forge ag obair go hiontach i do fhabhar, d'fhéadfadh sé díreach mar shatter go héasca go bhfuil tú ag iarraidh a bheachtú...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_upgrader_hugin_topic",
+      "english": "Hear ye, wanderer!",
+      "irish": "Caith sibh, wanderer!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_weight_label",
+      "english": "Hugin: Encumberance",
+      "irish": "Hugin: Cumasc",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_weight_text",
+      "english": "If you carry too much luggage you will become encumbered, slowing you down and preventing you from regaining your stamina.",
+      "irish": "Má dhéanann tú bagáiste iomarca a bheidh tú a bheith encumbered, slowing tú síos agus a chosc tú ó regaining do stamina.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_weight_topic",
+      "english": "You need to lighten your load!",
+      "irish": "Ní mór duit a Éadromaigh do ualach!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_wishbone_label",
+      "english": "Hugin: Wishbone",
+      "irish": "Toir agus Crainn bláthanna",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_wishbone_text",
+      "english": "It seems one of the many bones this living ossuary hid in his belly was a Wishbone.\n\nThis bone contains powerful magic which guides you to things hidden in the earth. It can locate <color=yellow>silver veins</color>, but may also lead you to buried treasure...",
+      "irish": "Dealraíonn sé ar cheann de na cnámha go leor an ossuary beo hid ina bolg a bhí Wishbone.\n\nTá an cnámh draíochta cumhachtach a threoraíonn tú chun rudaí i bhfolach sa domhan. Is féidir é a aimsiú líthir = veins líthir buí lítir / dath lí, ach d'fhéadfadh tú mar thoradh ar taisce adhartha freisin...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_wishbone_topic",
+      "english": "Bonemass left you a parting gift",
+      "irish": "Bonemass d'fhág tú bronntanas scaradh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_wispattractor_label",
+      "english": "Hugin: Wisp fountain",
+      "irish": "Hugin: Fountain Wisp",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_wispattractor_text",
+      "english": "A strange edifice indeed. I wonder what it will attract. Let us just perch here for a while and see what happens...\n\n\nWarrior, I am bored. Besides, it is not my job to babysit the likes of you long into the night... Just be vigilant and I'm sure you will be rewarded.",
+      "irish": "A edifice aisteach go deimhin. N'fheadar cad a mheallfaidh sé. Lig dúinn ach perch anseo ar feadh tamaill agus a fheiceáil cad a tharlaíonn...\n\n\nWarrior, Tá mé leamh. Thairis sin, nach bhfuil sé mo phost a babysit an maith leat fada isteach san oíche... Just a bheith vigilant agus tá mé cinnte go mbeidh tú a bronntar.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_workbench_label",
+      "english": "Hugin: Workbench",
+      "irish": "Tús: Workbench",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_workbench_text",
+      "english": "A workbench allows you to craft <color=yellow>complex items</color> as well as giving you access to lots of more <color=yellow>building pieces</color> to construct with the hammer.",
+      "irish": "A workbench is féidir leat a ceardaíochta dath = buí míreanna líthimeallach / dath líthir chomh maith le rochtain a thabhairt duit ar go leor de níos mó lí = buí píosaí líthithe / dath a thógáil leis an casúr.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_workbench_topic",
+      "english": "You have built a workbench",
+      "irish": "Tá tú tógtha ag obairbench",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_yggroot_label",
+      "english": "Hugin: Yggdrasil roots",
+      "irish": "Hugin: fréamhacha Yggdrasil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tutorial_yggroot_text",
+      "english": "Kraa! Although severed from the trunk, I can see that magic still lingers in the roots of the old ash.\n\nNeedless to say, no weapon of your design will be able to break the bark. You need something better, fashioned by more capable hands.",
+      "irish": "Kraa! Cé go bhfuil sé níos déine ó na trunk, is féidir liom a fheiceáil go bhfuil an draíocht fós lingers i fréamhacha an sean-fhoinse.\n\nNí gá a rá, ní bheidh aon arm de do dhearadh in ann an coirt a bhriseadh. Ní mór duit rud éigin níos fearr, fashioned ag lámha níos mó in ann.",
+      "translationMethod": "manual"
+    }
+  ]
+}
