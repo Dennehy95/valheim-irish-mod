@@ -1,0 +1,1341 @@
+{
+  "screen_id": "settings-ui",
+  "locale": "ga",
+  "pendingApiKey": true,
+  "machineAssisted": false,
+  "source_extract": "extracted/settings-ui.json",
+  "entries": [
+    {
+      "key": "settings_3dresolution",
+      "english": "3D resolution limit",
+      "irish": "Teorainn taifeach 3D",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_accessibility",
+      "english": "Accessibility",
+      "irish": "Inrochtaineacht",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_account",
+      "english": "Account",
+      "irish": "Cuntas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_altdodge",
+      "english": "Alternative dodge",
+      "irish": "Seachnú malartach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_altkeys",
+      "english": "(Alt buttons)",
+      "irish": "(Cnaipí malarta)",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_altplace",
+      "english": "Alternative placement",
+      "irish": "Suiteáil mhalartach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_animateradial",
+      "english": "Animate Radial",
+      "irish": "Beochan roghchláir radaigh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_antialiasing",
+      "english": "Anti-aliasing",
+      "irish": "Frith-ailísiú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_apply",
+      "english": "Apply",
+      "irish": "Cuir i bhfeidhm",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_attack",
+      "english": "Attack",
+      "irish": "Ionsaí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_audio",
+      "english": "Audio",
+      "irish": "Fuaim",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_autobackup",
+      "english": "Auto-backup history",
+      "irish": "Stair chúltaca uathoibríoch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_autobackup_descr",
+      "english": "Choose how many historic saves will be stored for you.",
+      "irish": "Roghnaigh cé mhéad sábháil stairiúil a stórálfar duit.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_automatic",
+      "english": "Automatic",
+      "irish": "Uathoibríoch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_autopickup",
+      "english": "Toggle auto-pickup",
+      "irish": "Scoránaigh piocadh uathoibríoch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_autorun",
+      "english": "Auto-run",
+      "irish": "Rith uathoibríoch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_backward",
+      "english": "Backward",
+      "irish": "Siar",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_barber_look",
+      "english": "Look around",
+      "irish": "Féach thart",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_bilinear",
+      "english": "Smooth",
+      "irish": "Sleamhain",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_block",
+      "english": "Block",
+      "irish": "Blocáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_blocked_player_list",
+      "english": "Blocked Players",
+      "irish": "Imreoirí blocáilte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_bloom",
+      "english": "Bloom",
+      "irish": "Bloom",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_buildcat",
+      "english": "Build category",
+      "irish": "Catagóir tógála",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_buildmenu",
+      "english": "Build menu",
+      "irish": "Roghchlár tógála",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_buildnext",
+      "english": "Next tab / snap point",
+      "irish": "An chéad chluaisín eile / pointe snapála",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_buildprev",
+      "english": "Prev. tab / snap point",
+      "irish": "Cluaisín roimhe / pointe snapála",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_ca",
+      "english": "Chromatic aberration",
+      "irish": "Aberráid chrómatach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_camera_sensitivity",
+      "english": "Camera sensitivity",
+      "irish": "Íogairí ceamara",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_camerashake",
+      "english": "Camera shake",
+      "irish": "Croitheadh ceamara",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_camerashake_descr",
+      "english": "Adds a camera shake when the character has taken damage.",
+      "irish": "Croitheadh ceamara nuair a ghortaítear an carachtar.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_cameratilt",
+      "english": "Immersive camera",
+      "irish": "Ceamara tumtha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_cameratilt_descr",
+      "english": "When sailing, camera movement is affected by the waves.",
+      "irish": "Ag seoladh, bíonn gluaiseacht an cheamara faoi thionchar na dtonn.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_camzoom",
+      "english": "Zoom in/out view",
+      "irish": "Súmáil isteach/amach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_camzoomin",
+      "english": "Zoom in view",
+      "irish": "Súmáil isteach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_camzoomout",
+      "english": "Zoom out view",
+      "irish": "Súmáil amach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_chat",
+      "english": "Chat",
+      "irish": "Comhrá",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_clearkeyinfo",
+      "english": "Press Delete to clear",
+      "irish": "Brúigh Scrios chun glanadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_close_radial",
+      "english": "Close Radial Menu / Emote Wheel",
+      "irish": "Dún roghchlár radaigh / roth emóid",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_clothquality",
+      "english": "Cloth Quality",
+      "irish": "Cáilíocht éadaigh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_cloud_storage_warning",
+      "english": "Setting the backups to a high value involves the risk of running out of storage.",
+      "irish": "Má shocraíonn tú ardluach ar na cúltacaí, bíonn baol ann go rithfidh tú as stóráil.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_cloudsave",
+      "english": "Cloud save",
+      "irish": "Sábháil sa néal",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_console",
+      "english": "Enable Console",
+      "irish": "Cumasaigh consól",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_continousmusic",
+      "english": "Continuous music",
+      "irish": "Ceol leanúnach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_controller",
+      "english": "Controller",
+      "irish": "Rialaitheoir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_controller_classic",
+      "english": "Classic",
+      "irish": "Clasaiceach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_controller_default",
+      "english": "Layout",
+      "irish": "Leagan amach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_controller_layout",
+      "english": "Controller layout",
+      "irish": "Leagan amach an rialaitheora",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_controller_sensitivity",
+      "english": "Controller sensitivity",
+      "irish": "Íogairí an rialaitheora",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_controller_speaker_volume",
+      "english": "Controller speaker volume",
+      "irish": "Toirt chainteora an rialaitheora",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_controller_use_adaptive_triggers",
+      "english": "Use adaptive triggers",
+      "irish": "Úsáid truicearacha oiriúnacha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_controller_use_controller_speaker",
+      "english": "Use controller speaker",
+      "irish": "Úsáid chainteoir an rialaitheora",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_controller_use_vibration",
+      "english": "Use vibration",
+      "irish": "Úsáid creathadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_controller_vibration_strength",
+      "english": "Vibration strength",
+      "irish": "Neart creathadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_controls",
+      "english": "Controls",
+      "irish": "Rialuithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_crouch",
+      "english": "Crouch",
+      "irish": "Crom",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_deleteplayfab_task_header",
+      "english": "Deleting PlayFab account...",
+      "irish": "Cuntas PlayFab á scriosadh...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_deleteplayfabaccount",
+      "english": "Delete PlayFab account",
+      "irish": "Scrios cuntas PlayFab",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_deleteplayfabaccount_failure",
+      "english": "Could not delete PlayFab account. Reason: ",
+      "irish": "Níorbh fhéidir an cuntas PlayFab a scriosadh. Cúis: ",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_deleteplayfabaccount_not_logged_in",
+      "english": "You are not logged in to PlayFab",
+      "irish": "Níl tú logáilte isteach i PlayFab",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_deleteplayfabaccount_success",
+      "english": "PlayFab account deleted successfully!",
+      "irish": "Scriosadh an cuntas PlayFab go rathúil!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_detailedparticlesystems",
+      "english": "Detailed Particle Systems",
+      "irish": "Córais cháithníní mionsonraithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_distantshadows",
+      "english": "Distant shadows",
+      "irish": "Scáthanna iargúlta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_dodge",
+      "english": "Dodge",
+      "irish": "Seachnú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_dof",
+      "english": "Depth of field (DOF)",
+      "irish": "Réimse doimhneachta (DOF)",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_double_tap",
+      "english": "Double Tap",
+      "irish": "Beartánú faoi dhó",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_double_tap_descr",
+      "english": "Quickly tapping the stick towards the same element twice will interact with it.",
+      "irish": "Má bhuailíonn tú an maide faoi dhó i dtreo an eilimint chéanna, idirghníomhóidh tú leis.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_draw",
+      "english": "Draw",
+      "irish": "Tarraing",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_enable_show_build_piece_author",
+      "english": "Show build piece author",
+      "irish": "Taispeáin údar píosa tógála",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_enable_show_build_piece_author_desc",
+      "english": "When hovering over a build piece in build mode, shows who placed it down.",
+      "irish": "Nuair a chuireann tú luachan ar phíosa tógála sa mhodh tógála, taispeántar cé a chuir síos é.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_extreme",
+      "english": "Extreme",
+      "irish": "Ar an gar",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_fishingcast",
+      "english": "Cast",
+      "irish": "Caitheamh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_fishingpull",
+      "english": "Pull",
+      "irish": "Tarraingt",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_flick_interact",
+      "english": "Flick Interact",
+      "irish": "Idirghníomhú swipe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_flick_interact_descr",
+      "english": "Quickly moving the stick towards an element will interact with it.",
+      "irish": "Má bhogann tú an maide go tapa i dtreo eilimint, idirghníomhóidh tú leis.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_forward",
+      "english": "Forward",
+      "irish": "Ar aghaidh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_fpslimit",
+      "english": "Framerate limit",
+      "irish": "Teorainn fráma in aghaidh an tsoicind",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_fullscreen",
+      "english": "Fullscreen",
+      "irish": "Lánscáileán",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_gamepadenabled",
+      "english": "Gamepad enabled",
+      "irish": "Cluasán cluiche cumasaithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_gameplay",
+      "english": "Gameplay",
+      "irish": "Imirt",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_glyphs",
+      "english": "Glyphs",
+      "irish": "Glifí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_glyphs_ps",
+      "english": "Alternative glyphs",
+      "irish": "Glifí malarta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_gp",
+      "english": "Forsaken power",
+      "irish": "Cumhacht an díothaithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_graphic_mode",
+      "english": "Graphic mode",
+      "irish": "Mód grafaicí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_graphics",
+      "english": "Graphics",
+      "irish": "Grafaicí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_graphics_preset",
+      "english": "Graphics preset",
+      "irish": "Réamhshocrú grafaicí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_guicale_note",
+      "english": "Minimum screen resolution: 2560x1440",
+      "irish": "Taifeach íosta scáileáin: 2560x1440",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_guiscale",
+      "english": "Scale GUI",
+      "irish": "Scála GUI",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_hide",
+      "english": "Hide/show weapon",
+      "irish": "Folaigh/taispeáin arm",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_high",
+      "english": "High",
+      "irish": "Ard",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_hotbar1",
+      "english": "Hotbar 1",
+      "irish": "Barra te 1",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_hotbar2",
+      "english": "Hotbar 2",
+      "irish": "Barra te 2",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_hotbar3",
+      "english": "Hotbar 3",
+      "irish": "Barra te 3",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_hotbar4",
+      "english": "Hotbar 4",
+      "irish": "Barra te 4",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_hotbar5",
+      "english": "Hotbar 5",
+      "irish": "Barra te 5",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_hotbar6",
+      "english": "Hotbar 6",
+      "irish": "Barra te 6",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_hotbar7",
+      "english": "Hotbar 7",
+      "irish": "Barra te 7",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_hotbar8",
+      "english": "Hotbar 8",
+      "irish": "Barra te 8",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_hotbarright",
+      "english": "Cycle hotbar",
+      "irish": "Rothlaigh an barra te",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_hotbaruse",
+      "english": "Use hotbar item",
+      "irish": "Úsáid earra ar an barra te",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_hoverselectspd",
+      "english": "Hover Select Speed",
+      "irish": "Luas roghnaithe luachana",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_infinite",
+      "english": "Inf.",
+      "irish": "Gan teor.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_inventory",
+      "english": "Inventory",
+      "irish": "Fardal",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_invert_camera_x",
+      "english": "Invert camera X axis",
+      "irish": "Inbhéartaigh ais X an cheamara",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_invert_camera_y",
+      "english": "Invert camera Y axis",
+      "irish": "Inbhéartaigh ais Y an cheamara",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_invertcamera",
+      "english": "Invert camera",
+      "irish": "Inbhéartaigh ceamara",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_invertmouse",
+      "english": "Invert mouse",
+      "irish": "Inbhéartaigh luch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_joysens",
+      "english": "Gamepad sensitivity",
+      "irish": "Íogairí cluasáin cluiche",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_jump",
+      "english": "Jump",
+      "irish": "Léim",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_keyboardmouse",
+      "english": "Keyboard & Mouse",
+      "irish": "Méarchlár & Luch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_langchange_community",
+      "english": "*Community Translation",
+      "irish": "*Aistriúchán pobail",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_langchange_notice",
+      "english": "Game restart is required when changing language.",
+      "irish": "Caithfear an cluiche a atosú nuair a athraíonn tú teanga.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_language",
+      "english": "Language",
+      "irish": "Teanga",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_left",
+      "english": "Left",
+      "irish": "Clé",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_legacysave",
+      "english": "Legacy save",
+      "irish": "Sábháil oidhreachta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_lights",
+      "english": "Particle lights",
+      "irish": "Soilse cáithníní",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_localsave",
+      "english": "Local save",
+      "irish": "Sábháil áitiúil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_lod",
+      "english": "Draw distance / level of detail",
+      "irish": "Fad tarraingthe / leibhéal mionsonraí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_lod2",
+      "english": "Level of detail",
+      "irish": "Leibhéal mionsonraí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_look",
+      "english": "Look",
+      "irish": "Féach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_low",
+      "english": "Low",
+      "irish": "Íseal",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_map",
+      "english": "Map",
+      "irish": "Léarscáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_mapzoom",
+      "english": "Zoom in/out minimap",
+      "irish": "Súmáil isteach/amach ar mhionléarscáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_mastervol",
+      "english": "Volume",
+      "irish": "Toirt",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_medium",
+      "english": "Medium",
+      "irish": "Meánach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_menu",
+      "english": "Menu",
+      "irish": "Roghchlár",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_minimapzoomin",
+      "english": "Zoom minimap",
+      "irish": "Súmáil mionléarscáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_misc",
+      "english": "Misc.",
+      "irish": "Ilghnéitheach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_motionblur",
+      "english": "Motion blur",
+      "irish": "Dorchú gluaiseachta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_mousesens",
+      "english": "Mouse sensitivity",
+      "irish": "Íogairí luiche",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_move",
+      "english": "Move",
+      "irish": "Bog",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_musicvol",
+      "english": "Music volume",
+      "irish": "Toirt ceoil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_native",
+      "english": "Native",
+      "irish": "Dúchasach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_nearestneighbor",
+      "english": "Pixelated",
+      "irish": "Picteilínithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_nextsnap",
+      "english": "Next snap point",
+      "irish": "An chéad phointe snapála eile",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_open_emote_wheel",
+      "english": "Open Emote Wheel",
+      "irish": "Oscail roth emóid",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_open_radial",
+      "english": "Open Radial Menu",
+      "irish": "Oscail roghchlár radaigh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_open_radial_wheel",
+      "english": "Open Radial Wheel",
+      "irish": "Oscail roth radaigh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_persistentbackbtn",
+      "english": "Persistent Back Button",
+      "irish": "Cnaipe Siar buan",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_place",
+      "english": "Place",
+      "irish": "Cuir síos",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_playfab_timed_out_header",
+      "english": "PlayFab timed out! Make sure you are connected to the internet.",
+      "irish": "PlayFab imithe thar am! Cinntigh go bhfuil nasc idirlín agat.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_pointlights",
+      "english": "Active point lights",
+      "irish": "Soilse phointe gníomhacha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_pointlightshadows",
+      "english": "Active point light shadows",
+      "irish": "Scáthanna soilse phointe gníomhacha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_presskey",
+      "english": "Press a key",
+      "irish": "Brúigh eochair",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_prevsnap",
+      "english": "Previous snap point",
+      "irish": "Pointe snapála roimhe seo",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_quality_mode_balanced",
+      "english": "Balanced",
+      "irish": "Cothromaithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_quality_mode_custom",
+      "english": "Custom",
+      "irish": "Saincheaptha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_quality_mode_customized",
+      "english": "Customized",
+      "irish": "Saincheaptha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_quality_mode_not_supported",
+      "english": "*Please set your device to support 120Hz graphic output.",
+      "irish": "*Socraigh do ghléas le tacaíocht 120Hz aschuir ghrafaicí.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_quality_mode_performance",
+      "english": "Performance",
+      "irish": "Feidhmíocht",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_quality_mode_quality",
+      "english": "Quality",
+      "irish": "Cáilíocht",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_quality_mode_very_low",
+      "english": "Very low",
+      "irish": "An-íseal",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_quickselect",
+      "english": "Right-click build selection",
+      "irish": "Roghnú tógála cliceáil dheis",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_quickselect_descr",
+      "english": "Enables build piece selection with the right mouse button.",
+      "irish": "Cumasaíonn sé roghnú píosa tógála le cnaipe dheis na luiche.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_radial",
+      "english": "Radial Menu",
+      "irish": "Roghchlár radaigh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_radial_big",
+      "english": "Big",
+      "irish": "Mór",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_radial_small",
+      "english": "Small",
+      "irish": "Beag",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_radial_small_edge",
+      "english": "Small Edge",
+      "irish": "Imeall beag",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_radialback",
+      "english": "Back (Radial)",
+      "irish": "Siar (radaigh)",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_radialclose",
+      "english": "Close (Radial)",
+      "irish": "Dún (radaigh)",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_radialinteract",
+      "english": "Interact (Radial)",
+      "irish": "Idirghníomhú (radaigh)",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_radialsecondaryinteract",
+      "english": "Drop (Radial)",
+      "irish": "Scaoil (radaigh)",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_radialsize",
+      "english": "Radial Size",
+      "irish": "Méid radaigh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_radialsize_descr",
+      "english": "Control the size and location of the Radial Menu",
+      "irish": "Rialaigh méid agus suíomh an roghchláir radaigh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_reducebg",
+      "english": "Reduce background performance",
+      "irish": "Laghdaigh feidhmíocht sa chúlra",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_reducebg_descr",
+      "english": "When the game is not in focus, e.g. while minimized, it will use less resources.",
+      "irish": "Nuair nach bhfuil an cluiche i bhfócas, e.g. nuair a íoslaghdaítear é, úsáidfidh sé níos lú acmhainní.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_reduceflashinglights",
+      "english": "Reduce flashing lights",
+      "irish": "Laghdaigh soilse splancacha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_reduceflashinglights_descr",
+      "english": "Reduces the strength of lightning effects.",
+      "irish": "Laghdaíonn sé neart éifeachtaí tintrí.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_release_to_use_mode",
+      "english": "Release To Use Mode",
+      "irish": "Mód scaoileadh chun úsáid",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_release_to_use_mode_descr",
+      "english": "Release to use",
+      "irish": "Scaoil chun úsáid",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_remove",
+      "english": "Deconstruct",
+      "irish": "Díthógáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_renderscale",
+      "english": "Render scale",
+      "irish": "Scála rindreála",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_requirerestart",
+      "english": "Requires restart",
+      "irish": "Teastaíonn atosú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_res",
+      "english": "Resolution",
+      "irish": "Taifeach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_resetcontrols",
+      "english": "Reset controls",
+      "irish": "Athshocraigh rialuithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_resok",
+      "english": "Does this work correctly?",
+      "irish": "An oibríonn sé seo i gceart?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_right",
+      "english": "Right",
+      "irish": "Deas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_rotate",
+      "english": "Rotate",
+      "irish": "Rothlaigh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_run",
+      "english": "Run",
+      "irish": "Rith",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_same_online_platform_only_ps",
+      "english": "PlayStation™Network only",
+      "irish": "PlayStation™Network amháin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_secondaryattack",
+      "english": "Secondary attack",
+      "irish": "Ionsaí tánaisteach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_sfxvol",
+      "english": "Effect volume",
+      "irish": "Toirt éifeachtaí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_shadowquality",
+      "english": "Shadow quality",
+      "irish": "Cáilíocht scáthanna",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_shipcameratilt",
+      "english": "Immersive ship camera",
+      "irish": "Ceamara soitheach tumtha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_show_button_hints",
+      "english": "Show button hints",
+      "irish": "Taispeáin leideanna cnaipe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_show_button_hints_descr",
+      "english": "Activates more tooltips informing you about controls in the menus.",
+      "irish": "Gníomhachtaíonn sé tuilleadh leideanna faoi rialuithe sna roghchláir.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_showgamepadmap",
+      "english": "Show gamepad",
+      "irish": "Taispeáin cluasán cluiche",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_showkeyhints",
+      "english": "Show key hints",
+      "irish": "Taispeáin leideanna eochrach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_simulationdistance",
+      "english": "Draw distance",
+      "irish": "Fad tarraingthe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_simulationdistance_circular",
+      "english": "circular $1 m",
+      "irish": "ciorclach $1 m",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_simulationdistance_square",
+      "english": "square $1 m",
+      "irish": "cearnógach $1 m",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_simulationdistance_warning",
+      "english": "Increasing the draw distance may severly degrade performance!",
+      "irish": "Má mhéadaíonn tú an fad tarraingthe, laghdófar feidhmíocht go mór!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_sit",
+      "english": "Sit",
+      "irish": "Suí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_skip_intro_cinematic",
+      "english": "Skip intro cinematic",
+      "irish": "Scipeáil scannán iontrochta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_softpart",
+      "english": "Soft particles",
+      "irish": "Cáithníní bog",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_spiral_normal",
+      "english": "Normal",
+      "irish": "Gnáth",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_spiral_off",
+      "english": "Off",
+      "irish": "As",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_spiral_slight",
+      "english": "Slight",
+      "irish": "Beagán",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_spiraleffect",
+      "english": "Spiral Effect",
+      "irish": "Éifeacht spíraíle",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_ssao",
+      "english": "SSAO",
+      "irish": "SSAO",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_sunshafts",
+      "english": "Sun shafts",
+      "irish": "Gaí ghrian",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_swap_triggers",
+      "english": "Swap triggers",
+      "irish": "Babhtáil truicearacha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_tesselation",
+      "english": "Tessellation",
+      "irish": "Teassaláil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_test",
+      "english": "Test",
+      "irish": "Tástáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_toggle_attack_towards_look_direction",
+      "english": "Attack towards look direction",
+      "irish": "Ionsaí i dtreo féachana",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_toggle_attack_towards_look_direction_tooltip",
+      "english": "If off, attacks will instead be made in the direction the camera is facing.",
+      "irish": "Má tá sé as, déanfar ionsaithe sa treo a bhíonn an ceamara ag féachaint.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_toggleblock",
+      "english": "Toggle block",
+      "irish": "Scoránaigh blocáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_togglehud",
+      "english": "Toggle HUD",
+      "irish": "Scoránaigh HUD",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_togglerun",
+      "english": "Toggle sprint",
+      "irish": "Scoránaigh sprint",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_tutorialsenabled",
+      "english": "Enable raven hints",
+      "irish": "Cumasaigh leideanna préacháin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_tutorialsenabled_descr",
+      "english": "Oden will send his ravens to advise you in your adventures.",
+      "irish": "Seolfaidh Óðinn a phréacháin chun tú a chomhairleú i do heachtraí.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_ultra",
+      "english": "Ultra",
+      "irish": "Ultra",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_unlimited",
+      "english": "Unlimited",
+      "irish": "Gan teorainn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_upscalingalgorithm",
+      "english": "Upscaling method",
+      "irish": "Modh uas-scálú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_use",
+      "english": "Use",
+      "irish": "Úsáid",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_useradial",
+      "english": "Use Radial",
+      "irish": "Úsáid roghchlár radaigh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_useradial_descr",
+      "english": "Enables the use of a radial menu for inventory navigation.",
+      "irish": "Cumasaíonn sé úsáid roghchláir radaigh don fhardal.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_vegetation",
+      "english": "Vegetation quality",
+      "irish": "Cáilíocht fásra",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_veryhigh",
+      "english": "Very High",
+      "irish": "An-ard",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_vsync",
+      "english": "VSync",
+      "irish": "VSync",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_walk",
+      "english": "Toggle walk",
+      "irish": "Scoránaigh siúl",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_zoomin",
+      "english": "Zoom in",
+      "irish": "Súmáil isteach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_zoomout",
+      "english": "Zoom out",
+      "irish": "Súmáil amach",
+      "translationMethod": "manual"
+    }
+  ]
+}

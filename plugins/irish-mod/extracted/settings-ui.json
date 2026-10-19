@@ -1,0 +1,1124 @@
+{
+  "screen_id": "settings-ui",
+  "screen_title": "Settings UI",
+  "scope_notes": "All settings_* keys (batch 3).",
+  "scope_keys_file": "tools/scopes/settings-ui.keys.txt",
+  "extracted_at_utc": "2026-10-19T14:35:00.731029+00:00",
+  "method": "static",
+  "game_path": "A:\\Steam\\steamapps\\common\\Valheim",
+  "resources_assets_sha256": "f0274fe60c807842352a049f3762b7a08965bdbfe759dfbb16f90272e51c6bdb",
+  "key_count": 222,
+  "entries": [
+    {
+      "key": "settings_3dresolution",
+      "english": "3D resolution limit",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_accessibility",
+      "english": "Accessibility",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_account",
+      "english": "Account",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_altdodge",
+      "english": "Alternative dodge",
+      "source_asset": "localization_extra"
+    },
+    {
+      "key": "settings_altkeys",
+      "english": "(Alt buttons)",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_altplace",
+      "english": "Alternative placement",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_animateradial",
+      "english": "Animate Radial",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_antialiasing",
+      "english": "Anti-aliasing",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_apply",
+      "english": "Apply",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_attack",
+      "english": "Attack",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_audio",
+      "english": "Audio",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_autobackup",
+      "english": "Auto-backup history",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_autobackup_descr",
+      "english": "Choose how many historic saves will be stored for you.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_automatic",
+      "english": "Automatic",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_autopickup",
+      "english": "Toggle auto-pickup",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_autorun",
+      "english": "Auto-run",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_backward",
+      "english": "Backward",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_barber_look",
+      "english": "Look around",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_bilinear",
+      "english": "Smooth",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_block",
+      "english": "Block",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_blocked_player_list",
+      "english": "Blocked Players",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_bloom",
+      "english": "Bloom",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_buildcat",
+      "english": "Build category",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_buildmenu",
+      "english": "Build menu",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_buildnext",
+      "english": "Next tab / snap point",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_buildprev",
+      "english": "Prev. tab / snap point",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_ca",
+      "english": "Chromatic aberration",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_camera_sensitivity",
+      "english": "Camera sensitivity",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_camerashake",
+      "english": "Camera shake",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_camerashake_descr",
+      "english": "Adds a camera shake when the character has taken damage.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_cameratilt",
+      "english": "Immersive camera",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_cameratilt_descr",
+      "english": "When sailing, camera movement is affected by the waves.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_camzoom",
+      "english": "Zoom in/out view",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_camzoomin",
+      "english": "Zoom in view",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_camzoomout",
+      "english": "Zoom out view",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_chat",
+      "english": "Chat",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_clearkeyinfo",
+      "english": "Press Delete to clear",
+      "source_asset": "localization_extra"
+    },
+    {
+      "key": "settings_close_radial",
+      "english": "Close Radial Menu / Emote Wheel",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_clothquality",
+      "english": "Cloth Quality",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_cloud_storage_warning",
+      "english": "Setting the backups to a high value involves the risk of running out of storage.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_cloudsave",
+      "english": "Cloud save",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_console",
+      "english": "Enable Console",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_continousmusic",
+      "english": "Continuous music",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_controller",
+      "english": "Controller",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_controller_classic",
+      "english": "Classic",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_controller_default",
+      "english": "Layout",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_controller_layout",
+      "english": "Controller layout",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_controller_sensitivity",
+      "english": "Controller sensitivity",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_controller_speaker_volume",
+      "english": "Controller speaker volume",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_controller_use_adaptive_triggers",
+      "english": "Use adaptive triggers",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_controller_use_controller_speaker",
+      "english": "Use controller speaker",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_controller_use_vibration",
+      "english": "Use vibration",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_controller_vibration_strength",
+      "english": "Vibration strength",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_controls",
+      "english": "Controls",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_crouch",
+      "english": "Crouch",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_deleteplayfab_task_header",
+      "english": "Deleting PlayFab account...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_deleteplayfabaccount",
+      "english": "Delete PlayFab account",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_deleteplayfabaccount_failure",
+      "english": "Could not delete PlayFab account. Reason: ",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_deleteplayfabaccount_not_logged_in",
+      "english": "You are not logged in to PlayFab",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_deleteplayfabaccount_success",
+      "english": "PlayFab account deleted successfully!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_detailedparticlesystems",
+      "english": "Detailed Particle Systems",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_distantshadows",
+      "english": "Distant shadows",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_dodge",
+      "english": "Dodge",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_dof",
+      "english": "Depth of field (DOF)",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_double_tap",
+      "english": "Double Tap",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_double_tap_descr",
+      "english": "Quickly tapping the stick towards the same element twice will interact with it.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_draw",
+      "english": "Draw",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_enable_show_build_piece_author",
+      "english": "Show build piece author",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_enable_show_build_piece_author_desc",
+      "english": "When hovering over a build piece in build mode, shows who placed it down.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_extreme",
+      "english": "Extreme",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_fishingcast",
+      "english": "Cast",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_fishingpull",
+      "english": "Pull",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_flick_interact",
+      "english": "Flick Interact",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_flick_interact_descr",
+      "english": "Quickly moving the stick towards an element will interact with it.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_forward",
+      "english": "Forward",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_fpslimit",
+      "english": "Framerate limit",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_fullscreen",
+      "english": "Fullscreen",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_gamepadenabled",
+      "english": "Gamepad enabled",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_gameplay",
+      "english": "Gameplay",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_glyphs",
+      "english": "Glyphs",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_glyphs_ps",
+      "english": "Alternative glyphs",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_gp",
+      "english": "Forsaken power",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_graphic_mode",
+      "english": "Graphic mode",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_graphics",
+      "english": "Graphics",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_graphics_preset",
+      "english": "Graphics preset",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_guicale_note",
+      "english": "Minimum screen resolution: 2560x1440",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_guiscale",
+      "english": "Scale GUI",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_hide",
+      "english": "Hide/show weapon",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_high",
+      "english": "High",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_hotbar1",
+      "english": "Hotbar 1",
+      "source_asset": "localization_extra"
+    },
+    {
+      "key": "settings_hotbar2",
+      "english": "Hotbar 2",
+      "source_asset": "localization_extra"
+    },
+    {
+      "key": "settings_hotbar3",
+      "english": "Hotbar 3",
+      "source_asset": "localization_extra"
+    },
+    {
+      "key": "settings_hotbar4",
+      "english": "Hotbar 4",
+      "source_asset": "localization_extra"
+    },
+    {
+      "key": "settings_hotbar5",
+      "english": "Hotbar 5",
+      "source_asset": "localization_extra"
+    },
+    {
+      "key": "settings_hotbar6",
+      "english": "Hotbar 6",
+      "source_asset": "localization_extra"
+    },
+    {
+      "key": "settings_hotbar7",
+      "english": "Hotbar 7",
+      "source_asset": "localization_extra"
+    },
+    {
+      "key": "settings_hotbar8",
+      "english": "Hotbar 8",
+      "source_asset": "localization_extra"
+    },
+    {
+      "key": "settings_hotbarright",
+      "english": "Cycle hotbar",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_hotbaruse",
+      "english": "Use hotbar item",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_hoverselectspd",
+      "english": "Hover Select Speed",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_infinite",
+      "english": "Inf.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_inventory",
+      "english": "Inventory",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_invert_camera_x",
+      "english": "Invert camera X axis",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_invert_camera_y",
+      "english": "Invert camera Y axis",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_invertcamera",
+      "english": "Invert camera",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_invertmouse",
+      "english": "Invert mouse",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_joysens",
+      "english": "Gamepad sensitivity",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_jump",
+      "english": "Jump",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_keyboardmouse",
+      "english": "Keyboard & Mouse",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_langchange_community",
+      "english": "*Community Translation",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_langchange_notice",
+      "english": "Game restart is required when changing language.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_language",
+      "english": "Language",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_left",
+      "english": "Left",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_legacysave",
+      "english": "Legacy save",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_lights",
+      "english": "Particle lights",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_localsave",
+      "english": "Local save",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_lod",
+      "english": "Draw distance / level of detail",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_lod2",
+      "english": "Level of detail",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_look",
+      "english": "Look",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_low",
+      "english": "Low",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_map",
+      "english": "Map",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_mapzoom",
+      "english": "Zoom in/out minimap",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_mastervol",
+      "english": "Volume",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_medium",
+      "english": "Medium",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_menu",
+      "english": "Menu",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_minimapzoomin",
+      "english": "Zoom minimap",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_misc",
+      "english": "Misc.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_motionblur",
+      "english": "Motion blur",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_mousesens",
+      "english": "Mouse sensitivity",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_move",
+      "english": "Move",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_musicvol",
+      "english": "Music volume",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_native",
+      "english": "Native",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_nearestneighbor",
+      "english": "Pixelated",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_nextsnap",
+      "english": "Next snap point",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_open_emote_wheel",
+      "english": "Open Emote Wheel",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_open_radial",
+      "english": "Open Radial Menu",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_open_radial_wheel",
+      "english": "Open Radial Wheel",
+      "source_asset": "localization_extra"
+    },
+    {
+      "key": "settings_persistentbackbtn",
+      "english": "Persistent Back Button",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_place",
+      "english": "Place",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_playfab_timed_out_header",
+      "english": "PlayFab timed out! Make sure you are connected to the internet.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_pointlights",
+      "english": "Active point lights",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_pointlightshadows",
+      "english": "Active point light shadows",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_presskey",
+      "english": "Press a key",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_prevsnap",
+      "english": "Previous snap point",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_quality_mode_balanced",
+      "english": "Balanced",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_quality_mode_custom",
+      "english": "Custom",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_quality_mode_customized",
+      "english": "Customized",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_quality_mode_not_supported",
+      "english": "*Please set your device to support 120Hz graphic output.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_quality_mode_performance",
+      "english": "Performance",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_quality_mode_quality",
+      "english": "Quality",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_quality_mode_very_low",
+      "english": "Very low",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_quickselect",
+      "english": "Right-click build selection",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_quickselect_descr",
+      "english": "Enables build piece selection with the right mouse button.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_radial",
+      "english": "Radial Menu",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_radial_big",
+      "english": "Big",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_radial_small",
+      "english": "Small",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_radial_small_edge",
+      "english": "Small Edge",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_radialback",
+      "english": "Back (Radial)",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_radialclose",
+      "english": "Close (Radial)",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_radialinteract",
+      "english": "Interact (Radial)",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_radialsecondaryinteract",
+      "english": "Drop (Radial)",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_radialsize",
+      "english": "Radial Size",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_radialsize_descr",
+      "english": "Control the size and location of the Radial Menu",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_reducebg",
+      "english": "Reduce background performance",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_reducebg_descr",
+      "english": "When the game is not in focus, e.g. while minimized, it will use less resources.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_reduceflashinglights",
+      "english": "Reduce flashing lights",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_reduceflashinglights_descr",
+      "english": "Reduces the strength of lightning effects.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_release_to_use_mode",
+      "english": "Release To Use Mode",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_release_to_use_mode_descr",
+      "english": "Release to use",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_remove",
+      "english": "Deconstruct",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_renderscale",
+      "english": "Render scale",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_requirerestart",
+      "english": "Requires restart",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_res",
+      "english": "Resolution",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_resetcontrols",
+      "english": "Reset controls",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_resok",
+      "english": "Does this work correctly?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_right",
+      "english": "Right",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_rotate",
+      "english": "Rotate",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_run",
+      "english": "Run",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_same_online_platform_only_ps",
+      "english": "PlayStation™Network only",
+      "source_asset": "localization_platformspecific"
+    },
+    {
+      "key": "settings_secondaryattack",
+      "english": "Secondary attack",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_sfxvol",
+      "english": "Effect volume",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_shadowquality",
+      "english": "Shadow quality",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_shipcameratilt",
+      "english": "Immersive ship camera",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_show_button_hints",
+      "english": "Show button hints",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_show_button_hints_descr",
+      "english": "Activates more tooltips informing you about controls in the menus.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_showgamepadmap",
+      "english": "Show gamepad",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_showkeyhints",
+      "english": "Show key hints",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_simulationdistance",
+      "english": "Draw distance",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_simulationdistance_circular",
+      "english": "circular $1 m",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_simulationdistance_square",
+      "english": "square $1 m",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_simulationdistance_warning",
+      "english": "Increasing the draw distance may severly degrade performance!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_sit",
+      "english": "Sit",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_skip_intro_cinematic",
+      "english": "Skip intro cinematic",
+      "source_asset": "localization_extra"
+    },
+    {
+      "key": "settings_softpart",
+      "english": "Soft particles",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_spiral_normal",
+      "english": "Normal",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_spiral_off",
+      "english": "Off",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_spiral_slight",
+      "english": "Slight",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_spiraleffect",
+      "english": "Spiral Effect",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_ssao",
+      "english": "SSAO",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_sunshafts",
+      "english": "Sun shafts",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_swap_triggers",
+      "english": "Swap triggers",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_tesselation",
+      "english": "Tessellation",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_test",
+      "english": "Test",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_toggle_attack_towards_look_direction",
+      "english": "Attack towards look direction",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_toggle_attack_towards_look_direction_tooltip",
+      "english": "If off, attacks will instead be made in the direction the camera is facing.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_toggleblock",
+      "english": "Toggle block",
+      "source_asset": "localization_extra"
+    },
+    {
+      "key": "settings_togglehud",
+      "english": "Toggle HUD",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_togglerun",
+      "english": "Toggle sprint",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_tutorialsenabled",
+      "english": "Enable raven hints",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_tutorialsenabled_descr",
+      "english": "Oden will send his ravens to advise you in your adventures.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_ultra",
+      "english": "Ultra",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_unlimited",
+      "english": "Unlimited",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_upscalingalgorithm",
+      "english": "Upscaling method",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_use",
+      "english": "Use",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_useradial",
+      "english": "Use Radial",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_useradial_descr",
+      "english": "Enables the use of a radial menu for inventory navigation.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_vegetation",
+      "english": "Vegetation quality",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_veryhigh",
+      "english": "Very High",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_vsync",
+      "english": "VSync",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_walk",
+      "english": "Toggle walk",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_zoomin",
+      "english": "Zoom in",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_zoomout",
+      "english": "Zoom out",
+      "source_asset": "localization"
+    }
+  ],
+  "missing_keys": []
+}

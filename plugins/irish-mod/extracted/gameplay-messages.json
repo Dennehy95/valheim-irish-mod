@@ -1,0 +1,684 @@
+{
+  "screen_id": "gameplay-messages",
+  "screen_title": "Gameplay messages",
+  "scope_notes": "All msg_* keys (batch 3).",
+  "scope_keys_file": "tools/scopes/gameplay-messages.keys.txt",
+  "extracted_at_utc": "2026-10-19T14:35:02.540289+00:00",
+  "method": "static",
+  "game_path": "A:\\Steam\\steamapps\\common\\Valheim",
+  "resources_assets_sha256": "f0274fe60c807842352a049f3762b7a08965bdbfe759dfbb16f90272e51c6bdb",
+  "key_count": 134,
+  "entries": [
+    {
+      "key": "msg_added",
+      "english": "Added",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_alreadysynced",
+      "english": "There is nothing new to copy",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_bedenemiesnearby",
+      "english": "There are enemies nearby",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_bedneedroof",
+      "english": "The bed must be placed under a roof",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_bednofire",
+      "english": "The bed needs to be placed near a fire",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_bedtooexposed",
+      "english": "The bed is too exposed",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_bedwet",
+      "english": "You are wet",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_biome_found",
+      "english": "Discovered $1 ",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_blocked",
+      "english": "Blocked",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_blockedbyboss",
+      "english": "Blocked by an evil force.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_broke",
+      "english": "$1 broke",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_broke_OLD",
+      "english": "broke",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_cantaddmore",
+      "english": "You can't add more $1",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_cantconsume",
+      "english": "You can't consume that right now",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_cantdrop",
+      "english": "You can't drop that",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_cantoffer",
+      "english": "Your offering is not answered",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_cantopen",
+      "english": "You can't open it",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_cantpickup",
+      "english": "You can't pick that up",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_cantremovenow",
+      "english": "That can't be removed at this time",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_cantsleep",
+      "english": "You can't sleep at this time",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_cantuseon",
+      "english": "You can't use $1 on $2",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_cart_incorrectposition",
+      "english": "Not in the right position",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_cart_storage",
+      "english": "Storage",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_cart_use",
+      "english": "Use",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_consumed",
+      "english": "Consumed",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_cookingstationtooweak",
+      "english": "This cooking station is too weak for",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_dlcrequired",
+      "english": "DLC required",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_doesnotneedrepair",
+      "english": "does not need repairs",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_donthaveany",
+      "english": "You don't have any",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_door_needkey",
+      "english": "Need key: $1",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_door_usingkey",
+      "english": "Using key: $1",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_dropped",
+      "english": "Dropped",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_extensionmissingstation",
+      "english": "Needs to be placed near the appropriate crafting station",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_fireadding",
+      "english": "Adding $1 to the fire",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_firenotburning",
+      "english": "It's not burning",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_fireportalalready",
+      "english": "The portal is already activated",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_fishing_catched",
+      "english": "Caught",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_fishing_hooked",
+      "english": "Hooked",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_fishing_linebroke",
+      "english": "Line broke",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_fishing_lost",
+      "english": "Lost catch",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_fishing_wrongbait",
+      "english": "It's not taking the bait",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_food_done",
+      "english": "You could eat another bite",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_goodmorning",
+      "english": "Good morning",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_goodnight",
+      "english": "Good night",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_harpoon_escaped",
+      "english": "escaped",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_harpoon_harpooned",
+      "english": "harpooned",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_harpoon_linebroke",
+      "english": "Line broke",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_harpoon_released",
+      "english": "released",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_harpoon_targettoofar",
+      "english": "Target too far",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_incompleteoffering",
+      "english": "Incomplete offering",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_incompleteoffering_fader",
+      "english": "The bells are not in place",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_incompleteoffering_memorial",
+      "english": "The Ancestors still lie dormant",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_inuse",
+      "english": "Someone else is using it",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_invalidplacement",
+      "english": "Invalid placement",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_isfull",
+      "english": "You are full already",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_itsfull",
+      "english": "It's full",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_level",
+      "english": "level",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_mapnodata",
+      "english": "The table is empty",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_mapsaved",
+      "english": "You record your discoveries to the table",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_mapsynced",
+      "english": "You copy some discoveries from the table",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_missingitem",
+      "english": "You don't have the correct item",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_missingrequirement",
+      "english": "Missing requirement",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_missingstation",
+      "english": "Missing the required crafting station",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_needcultivated",
+      "english": "Needs cultivated soil",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_needdirt",
+      "english": "This area can't be cultivated",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_needfire",
+      "english": "You need to have a lit fire below the cooking station",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_needspace",
+      "english": "Needs more space",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_newday",
+      "english": "Day $1",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_newdish",
+      "english": "New dish",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_newitem",
+      "english": "New item",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_newmaterial",
+      "english": "New material",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_newpiece",
+      "english": "New build piece",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_newrecipe",
+      "english": "New crafting recipe",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_newstation",
+      "english": "New crafting station",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_newstation_level",
+      "english": "New station level",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_newtext",
+      "english": "$1 added to the compendium",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_newtrophy",
+      "english": "Trophy collected",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_nobuildzone",
+      "english": "A mystical force in this area stops you",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_nocookitems",
+      "english": "You don't have any cookable items",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_nocookroom",
+      "english": "There is no room",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_nomore",
+      "english": "You can't eat more $1",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_noprocessableitems",
+      "english": "You don't have any processable items",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_noroom",
+      "english": "No room in inventory",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_nosnow",
+      "english": "No snow to shovel",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_noteleport",
+      "english": "An item prevents you from teleporting",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_noteleportarea",
+      "english": "Can only be built inside a stone circle",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_notindungeon",
+      "english": "Can't be placed in a dungeon",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_noturretammo",
+      "english": "No ballista missiles",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_offerdone",
+      "english": "You make the sacrifice",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_offerdone_fader",
+      "english": "You ring the bells",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_offerdone_memorial",
+      "english": "The Ancestors heed your call",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_offerwrong",
+      "english": "Nothing happens",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_outof",
+      "english": "You are out of",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_pin_added",
+      "english": "Map location added",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_pin_exist",
+      "english": "Map location already added",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_portal_blocked",
+      "english": "Blocked",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_privatezone",
+      "english": "The ward stops you",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_pvpoff",
+      "english": "Friendly fire disabled",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_pvpon",
+      "english": "Friendly fire enabled",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_removed",
+      "english": "Removed",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_repaired",
+      "english": "Repaired $1",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_ship_ladder",
+      "english": "Ladder",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_skills_lowered",
+      "english": "Skills lowered",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_skillup",
+      "english": "Skill improved",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_snapping",
+      "english": "Snapping:",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_snapping_auto",
+      "english": "Auto",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_snapping_manual",
+      "english": "Manual",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_snowtoodeep",
+      "english": "Snow is too deep",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_softdeath",
+      "english": "The Gods are merciful",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_sold",
+      "english": "Sold $1 for $2",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_spawnpointset",
+      "english": "Spawn point set",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_stackall",
+      "english": "Items stacked:",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_stackall_hover",
+      "english": "(Hold to stack)",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_stackall_none",
+      "english": "No items to stack",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_stationneedroof",
+      "english": "The crafting station needs a roof",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_stationtooexposed",
+      "english": "The crafting station is too exposed",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_throwinfire",
+      "english": "You throw some $1 into the fire",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_toofew",
+      "english": "Too few",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_toohard",
+      "english": "Too hard",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_turretotherammo",
+      "english": "The ballista is already loaded with ",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_upgrader_broke",
+      "english": "$1 refinement failed and broke on level $2",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_upgrader_fail",
+      "english": "Refining of $1 failed, downgraded to level $2",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_upgrader_success",
+      "english": "$1 refined successfully to level $2",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_useonwhat",
+      "english": "Use $1 on what?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_walk",
+      "english": "Walk",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_wontwork",
+      "english": "That won't work",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_worldsaveblockedonserver",
+      "english": "The server does not have enough space left on disk to save your game.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_worldsaved",
+      "english": "World saved",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_worldsavedcloudstoragefull",
+      "english": "Cloud storage full! World was moved to local storage and saved.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_worldsavewarning",
+      "english": "World save in",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_wrongbiome",
+      "english": "Can't be placed in this environment",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_wrongitem",
+      "english": "Wrong item",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_wrongtool",
+      "english": "Wrong tool",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_youdied",
+      "english": "YOU DIED!",
+      "source_asset": "localization"
+    }
+  ],
+  "missing_keys": []
+}

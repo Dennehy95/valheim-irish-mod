@@ -1,0 +1,813 @@
+{
+  "screen_id": "gameplay-messages",
+  "locale": "ga",
+  "pendingApiKey": true,
+  "machineAssisted": false,
+  "source_extract": "extracted/gameplay-messages.json",
+  "entries": [
+    {
+      "key": "msg_added",
+      "english": "Added",
+      "irish": "Curtha leis",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_alreadysynced",
+      "english": "There is nothing new to copy",
+      "irish": "Níl aon rud nua le cóipeáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_bedenemiesnearby",
+      "english": "There are enemies nearby",
+      "irish": "Tá namhaid in aice láimhe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_bedneedroof",
+      "english": "The bed must be placed under a roof",
+      "irish": "Caithfear an leaba a chur faoi dhíon",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_bednofire",
+      "english": "The bed needs to be placed near a fire",
+      "irish": "Caithfear an leaba a chur in aice le tine",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_bedtooexposed",
+      "english": "The bed is too exposed",
+      "irish": "Tá an leaba ró-nochtaithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_bedwet",
+      "english": "You are wet",
+      "irish": "Tá tú fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_biome_found",
+      "english": "Discovered $1 ",
+      "irish": "Aimsíodh $1 ",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_blocked",
+      "english": "Blocked",
+      "irish": "Blocáilte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_blockedbyboss",
+      "english": "Blocked by an evil force.",
+      "irish": "Blocáilte ag fórsa olc.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_broke",
+      "english": "$1 broke",
+      "irish": "Bhris $1",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_broke_OLD",
+      "english": "broke",
+      "irish": "bhris",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_cantaddmore",
+      "english": "You can't add more $1",
+      "irish": "Ní féidir leat níos mó $1 a chur leis",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_cantconsume",
+      "english": "You can't consume that right now",
+      "irish": "Ní féidir leat é sin a ithe anois",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_cantdrop",
+      "english": "You can't drop that",
+      "irish": "Ní féidir leat é sin a scaoileadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_cantoffer",
+      "english": "Your offering is not answered",
+      "irish": "Ní fhreagraítear do thairiscint",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_cantopen",
+      "english": "You can't open it",
+      "irish": "Ní féidir leat é a oscailt",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_cantpickup",
+      "english": "You can't pick that up",
+      "irish": "Ní féidir leat é sin a phiocadh suas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_cantremovenow",
+      "english": "That can't be removed at this time",
+      "irish": "Ní féidir é a bhaint anois",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_cantsleep",
+      "english": "You can't sleep at this time",
+      "irish": "Ní féidir leat codladh anois",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_cantuseon",
+      "english": "You can't use $1 on $2",
+      "irish": "Ní féidir leat $1 a úsáid ar $2",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_cart_incorrectposition",
+      "english": "Not in the right position",
+      "irish": "Níl sé sa suíomh ceart",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_cart_storage",
+      "english": "Storage",
+      "irish": "Stóráil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_cart_use",
+      "english": "Use",
+      "irish": "Úsáid",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_consumed",
+      "english": "Consumed",
+      "irish": "Ídithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_cookingstationtooweak",
+      "english": "This cooking station is too weak for",
+      "irish": "Tá an stáisiún cócaireachta ró-lag le haghaidh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_dlcrequired",
+      "english": "DLC required",
+      "irish": "DLC ag teastáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_doesnotneedrepair",
+      "english": "does not need repairs",
+      "irish": "ní gá deisiúchán",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_donthaveany",
+      "english": "You don't have any",
+      "irish": "Níl aon cheann agat",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_door_needkey",
+      "english": "Need key: $1",
+      "irish": "Eochair ag teastáil: $1",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_door_usingkey",
+      "english": "Using key: $1",
+      "irish": "Eochair á húsáid: $1",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_dropped",
+      "english": "Dropped",
+      "irish": "Scaoilte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_extensionmissingstation",
+      "english": "Needs to be placed near the appropriate crafting station",
+      "irish": "Caithfear é a chur in aice leis an stáisiún ceardaíochta cuí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_fireadding",
+      "english": "Adding $1 to the fire",
+      "irish": "$1 á chur leis an tine",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_firenotburning",
+      "english": "It's not burning",
+      "irish": "Níl sé ar lasadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_fireportalalready",
+      "english": "The portal is already activated",
+      "irish": "Tá an tairseach gníomhachtaithe cheana",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_fishing_catched",
+      "english": "Caught",
+      "irish": "Gafa",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_fishing_hooked",
+      "english": "Hooked",
+      "irish": "Dúnta ar an croch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_fishing_linebroke",
+      "english": "Line broke",
+      "irish": "Chuaigh an líne",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_fishing_lost",
+      "english": "Lost catch",
+      "irish": "Caillte an ceach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_fishing_wrongbait",
+      "english": "It's not taking the bait",
+      "irish": "Níl sé ag glacadh leis an mealladh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_food_done",
+      "english": "You could eat another bite",
+      "irish": "D'fhéadfá greim eile a ithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_goodmorning",
+      "english": "Good morning",
+      "irish": "Maidin mhaith",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_goodnight",
+      "english": "Good night",
+      "irish": "Oíche mhaith",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_harpoon_escaped",
+      "english": "escaped",
+      "irish": "éalaigh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_harpoon_harpooned",
+      "english": "harpooned",
+      "irish": "gafa le harúin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_harpoon_linebroke",
+      "english": "Line broke",
+      "irish": "Chuaigh an líne",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_harpoon_released",
+      "english": "released",
+      "irish": "scaoilte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_harpoon_targettoofar",
+      "english": "Target too far",
+      "irish": "Sprioc ró-iargúlta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_incompleteoffering",
+      "english": "Incomplete offering",
+      "irish": "Tairiscint neamhiomlán",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_incompleteoffering_fader",
+      "english": "The bells are not in place",
+      "irish": "Níl na cloigíní ina áit",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_incompleteoffering_memorial",
+      "english": "The Ancestors still lie dormant",
+      "irish": "Tá na Sinsear fós ina luí codlatach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_inuse",
+      "english": "Someone else is using it",
+      "irish": "Tá duine eile á úsáid",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_invalidplacement",
+      "english": "Invalid placement",
+      "irish": "Suiteáil neamhbhailí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_isfull",
+      "english": "You are full already",
+      "irish": "Tá tú líonta cheana",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_itsfull",
+      "english": "It's full",
+      "irish": "Tá sé lán",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_level",
+      "english": "level",
+      "irish": "leibhéal",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_mapnodata",
+      "english": "The table is empty",
+      "irish": "Tá an bord folamh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_mapsaved",
+      "english": "You record your discoveries to the table",
+      "irish": "Taifeadann tú d'aimsiúcháin ar an mbord",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_mapsynced",
+      "english": "You copy some discoveries from the table",
+      "irish": "Cóipeálann tú roinnt aimsiúchán ón mbord",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_missingitem",
+      "english": "You don't have the correct item",
+      "irish": "Níl an earra ceart agat",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_missingrequirement",
+      "english": "Missing requirement",
+      "irish": "Riachtanas ar iarraidh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_missingstation",
+      "english": "Missing the required crafting station",
+      "irish": "Stáisiún ceardaíochta riachtanach ar iarraidh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_needcultivated",
+      "english": "Needs cultivated soil",
+      "irish": "Talú talún oibre ag teastáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_needdirt",
+      "english": "This area can't be cultivated",
+      "irish": "Ní féidir an ceantar seo a oibriú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_needfire",
+      "english": "You need to have a lit fire below the cooking station",
+      "irish": "Caithfear tine ar lasadh faoi stáisiún cócaireachta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_needspace",
+      "english": "Needs more space",
+      "irish": "Níos mó spáis ag teastáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_newday",
+      "english": "Day $1",
+      "irish": "Lá $1",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_newdish",
+      "english": "New dish",
+      "irish": "Mias nua",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_newitem",
+      "english": "New item",
+      "irish": "Earra nua",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_newmaterial",
+      "english": "New material",
+      "irish": "Ábhar nua",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_newpiece",
+      "english": "New build piece",
+      "irish": "Píosa tógála nua",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_newrecipe",
+      "english": "New crafting recipe",
+      "irish": "Oideas ceardaíochta nua",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_newstation",
+      "english": "New crafting station",
+      "irish": "Stáisiún ceardaíochta nua",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_newstation_level",
+      "english": "New station level",
+      "irish": "Leibhéal stáisiúin nua",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_newtext",
+      "english": "$1 added to the compendium",
+      "irish": "$1 curtha leis an gcomhthiomsú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_newtrophy",
+      "english": "Trophy collected",
+      "irish": "Trófaí bailithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_nobuildzone",
+      "english": "A mystical force in this area stops you",
+      "irish": "Cuireann fórsa misticiúil sa cheantar seo stop ort",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_nocookitems",
+      "english": "You don't have any cookable items",
+      "irish": "Níl aon earraí inólta agat",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_nocookroom",
+      "english": "There is no room",
+      "irish": "Níl aon spás ann",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_nomore",
+      "english": "You can't eat more $1",
+      "irish": "Ní féidir leat níos mó $1 a ithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_noprocessableitems",
+      "english": "You don't have any processable items",
+      "irish": "Níl aon earraí inpróiseála agat",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_noroom",
+      "english": "No room in inventory",
+      "irish": "Níl spás sa fhardal",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_nosnow",
+      "english": "No snow to shovel",
+      "irish": "Níl sneachta le sluasaid",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_noteleport",
+      "english": "An item prevents you from teleporting",
+      "irish": "Cuireann earra cosc ort teilgean a dhéanamh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_noteleportarea",
+      "english": "Can only be built inside a stone circle",
+      "irish": "Ní féidir é a thógáil ach taobh istigh de chiorcal cloiche",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_notindungeon",
+      "english": "Can't be placed in a dungeon",
+      "irish": "Ní féidir é a chur i ndungeon",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_noturretammo",
+      "english": "No ballista missiles",
+      "irish": "Níl piléir balísteacha ann",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_offerdone",
+      "english": "You make the sacrifice",
+      "irish": "Déanann tú an íobairt",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_offerdone_fader",
+      "english": "You ring the bells",
+      "irish": "Buailann tú na cloigíní",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_offerdone_memorial",
+      "english": "The Ancestors heed your call",
+      "irish": "Éistíonn na Sinsear le d'fhiafraí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_offerwrong",
+      "english": "Nothing happens",
+      "irish": "Ní tharlaíonn aon rud",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_outof",
+      "english": "You are out of",
+      "irish": "Tá tú as",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_pin_added",
+      "english": "Map location added",
+      "irish": "Suíomh léarscáile curtha leis",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_pin_exist",
+      "english": "Map location already added",
+      "irish": "Suíomh léarscáile curtha leis cheana",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_portal_blocked",
+      "english": "Blocked",
+      "irish": "Blocáilte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_privatezone",
+      "english": "The ward stops you",
+      "irish": "Cuireann an coimeád stop ort",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_pvpoff",
+      "english": "Friendly fire disabled",
+      "irish": "Lánúin díghníomhachtaithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_pvpon",
+      "english": "Friendly fire enabled",
+      "irish": "Lánúin ghníomhachtaithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_removed",
+      "english": "Removed",
+      "irish": "Bainte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_repaired",
+      "english": "Repaired $1",
+      "irish": "$1 deisithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_ship_ladder",
+      "english": "Ladder",
+      "irish": "Dréimire",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_skills_lowered",
+      "english": "Skills lowered",
+      "irish": "Scileanna laghdaithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_skillup",
+      "english": "Skill improved",
+      "irish": "Feabhas ar scil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_snapping",
+      "english": "Snapping:",
+      "irish": "Snapáil:",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_snapping_auto",
+      "english": "Auto",
+      "irish": "Uathoibríoch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_snapping_manual",
+      "english": "Manual",
+      "irish": "Láimhe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_snowtoodeep",
+      "english": "Snow is too deep",
+      "irish": "Tá an sneachta ró-dhomhain",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_softdeath",
+      "english": "The Gods are merciful",
+      "irish": "Tá trócaire ag na Déithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_sold",
+      "english": "Sold $1 for $2",
+      "irish": "Díoladh $1 ar $2",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_spawnpointset",
+      "english": "Spawn point set",
+      "irish": "Pointe tógála socraithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_stackall",
+      "english": "Items stacked:",
+      "irish": "Earraí carntha:",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_stackall_hover",
+      "english": "(Hold to stack)",
+      "irish": "(Coinnigh síos chun carnadh)",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_stackall_none",
+      "english": "No items to stack",
+      "irish": "Níl earraí le carnadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_stationneedroof",
+      "english": "The crafting station needs a roof",
+      "irish": "Teastaíonn díon ar an stáisiún ceardaíochta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_stationtooexposed",
+      "english": "The crafting station is too exposed",
+      "irish": "Tá an stáisiún ceardaíochta ró-nochtaithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_throwinfire",
+      "english": "You throw some $1 into the fire",
+      "irish": "Caitheann tú roinnt $1 isteach sa tine",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_toofew",
+      "english": "Too few",
+      "irish": "Ró-bheag",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_toohard",
+      "english": "Too hard",
+      "irish": "Ró-chrua",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_turretotherammo",
+      "english": "The ballista is already loaded with ",
+      "irish": "Tá an balísteach luchtaithe cheana le ",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_upgrader_broke",
+      "english": "$1 refinement failed and broke on level $2",
+      "irish": "Theip ar mhinicíocht $1 agus bhris sé ar leibhéal $2",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_upgrader_fail",
+      "english": "Refining of $1 failed, downgraded to level $2",
+      "irish": "Theip ar mhinicíocht $1, laghdú go leibhéal $2",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_upgrader_success",
+      "english": "$1 refined successfully to level $2",
+      "irish": "Mhinicíodh $1 go rathúil go leibhéal $2",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_useonwhat",
+      "english": "Use $1 on what?",
+      "irish": "Úsáid $1 ar cad?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_walk",
+      "english": "Walk",
+      "irish": "Siúl",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_wontwork",
+      "english": "That won't work",
+      "irish": "Ní oibreoidh sin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_worldsaveblockedonserver",
+      "english": "The server does not have enough space left on disk to save your game.",
+      "irish": "Níl go leor spáis ar dhiosca ag an bhfreastalaí chun do chluiche a shábháil.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_worldsaved",
+      "english": "World saved",
+      "irish": "Sábháladh an domhan",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_worldsavedcloudstoragefull",
+      "english": "Cloud storage full! World was moved to local storage and saved.",
+      "irish": "Stóráil sa néal lán! Bogadh an domhan go stóráil áitiúil agus sábháladh é.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_worldsavewarning",
+      "english": "World save in",
+      "irish": "Sábháil domhain i",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_wrongbiome",
+      "english": "Can't be placed in this environment",
+      "irish": "Ní féidir é a chur sa timpeallacht seo",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_wrongitem",
+      "english": "Wrong item",
+      "irish": "Earra mícheart",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_wrongtool",
+      "english": "Wrong tool",
+      "irish": "Uirlis mícheart",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_youdied",
+      "english": "YOU DIED!",
+      "irish": "BHÍ TÚ MARBH!",
+      "translationMethod": "manual"
+    }
+  ]
+}

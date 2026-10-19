@@ -3,7 +3,7 @@
 Valheim BepInEx plugin for Irish (Gaeilge) on scoped UI keys (main menu + in-game inventory panel).
 
 - **GUID:** `com.dennehy95.valheim.irishmod`
-- **Version:** `0.3.2`
+- **Version:** `0.3.4`
 
 ## Part 3 — scoped Irish (F8 display cycle)
 

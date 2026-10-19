@@ -31,3 +31,32 @@ python tools/discover_scope_keys.py --prefix skill_ --prefix stat_ --prefix cust
 ```
 
 `building-ui.keys.txt` is hand-curated from `piece_*` (stations, structural pieces, doors, storage, common furniture).
+
+## Batch 3 scopes
+
+| File | Prefix | Keys |
+|------|--------|------|
+| `settings-ui.keys.txt` | `settings_*` | ~222 — full settings menus |
+| `gameplay-messages.keys.txt` | `msg_*` | ~134 — gameplay toasts / feedback |
+
+Regenerate:
+
+```powershell
+python tools/discover_scope_keys.py --prefix settings_ `
+  --exclude-file tools/scopes/fejd-root-main-menu.keys.txt `
+  --exclude-file tools/scopes/inventory-panel.keys.txt `
+  --exclude-file tools/scopes/hud-gameplay.keys.txt `
+  --exclude-file tools/scopes/character-ui.keys.txt `
+  --exclude-file tools/scopes/building-ui.keys.txt `
+  --out tools/scopes/settings-ui.keys.txt
+
+python tools/discover_scope_keys.py --prefix msg_ `
+  --exclude-file tools/scopes/fejd-root-main-menu.keys.txt `
+  --exclude-file tools/scopes/inventory-panel.keys.txt `
+  --exclude-file tools/scopes/hud-gameplay.keys.txt `
+  --exclude-file tools/scopes/character-ui.keys.txt `
+  --exclude-file tools/scopes/building-ui.keys.txt `
+  --out tools/scopes/gameplay-messages.keys.txt
+```
+
+Vanilla key census: `python tools/count_vanilla_keys.py`.
