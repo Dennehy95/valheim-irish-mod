@@ -14,17 +14,19 @@ Minimal Valheim BepInEx plugin for the Irish language learning mod (slice 1: loa
 
 ```powershell
 cd plugins/irish-mod
-dotnet build -p:GamePath="A:\Steam\steamapps\common\Valheim"
+dotnet build `
+  -p:GamePath="A:\Steam\steamapps\common\Valheim" `
+  -p:BepInExPath="$env:APPDATA\Thunderstore Mod Manager\DataFolder\Valheim\profiles\WonPoyuntO_NetworkMods"
 ```
 
-On this machine, Steam Valheim is at `A:\Steam\steamapps\common\Valheim`. Override `GamePath` if your install is elsewhere.
+`GamePath` is the Steam game folder; `BepInExPath` is the Thunderstore profile that holds BepInEx core on Dennehy-Desktop.
 
 ## Install
 
 1. Build Release or Debug.
 2. Copy `bin/Debug/net472/IrishMod.dll` (or `bin/Release/net472/`) to your Valheim folder:
 
-   `BepInEx/plugins/IrishMod.dll`
+   `BepInEx/plugins/IrishMod/IrishMod.dll` (Thunderstore profile or Steam overlay)
 
 3. Repeat on the **dedicated server** Valheim install if you mirror client plugins there.
 

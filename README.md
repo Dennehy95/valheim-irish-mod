@@ -21,10 +21,15 @@ BepInEx plugin for [Valheim](https://store.steampowered.com/app/892970/Valheim/)
 From `plugins/irish-mod/`:
 
 ```powershell
-dotnet build -p:GamePath="A:\Steam\steamapps\common\Valheim"
+dotnet build `
+  -p:GamePath="A:\Steam\steamapps\common\Valheim" `
+  -p:BepInExPath="$env:APPDATA\Thunderstore Mod Manager\DataFolder\Valheim\profiles\WonPoyuntO_NetworkMods"
 ```
 
-`GamePath` must point at the Valheim folder with **BepInEx core** installed (`BepInEx\core\BepInEx.dll`). If the Steam install only has partial BepInEx files, install or update **BepInExPack_Valheim** via Thunderstore first.
+- `GamePath` — Steam Valheim folder (`valheim.exe`, `valheim_Data\Managed\`).
+- `BepInExPath` — folder that contains a full **BepInEx core** (`BepInEx\core\BepInEx.dll`). With Thunderstore Mod Manager, that is usually the active **profile** directory, not the bare Steam install (which may only have leftover `BepInEx\plugins` from launches).
+
+If both live in one folder, omit `BepInExPath` (it defaults to `GamePath`).
 
 ## Install (manual)
 

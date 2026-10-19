@@ -27,14 +27,20 @@
     </When>
   </Choose>
 
+  <PropertyGroup>
+    <BepInExPath Condition="'$(BepInExPath)' == ''">$(GamePath)</BepInExPath>
+  </PropertyGroup>
+
   <Target Name="ValidateGamePath" BeforeTargets="ResolveAssemblyReferences">
-    <Error Condition="!Exists('$(GamePath)\BepInEx\core\BepInEx.dll')"
-           Text="Valheim install not found. Set GamePath to your Valheim folder (with BepInEx installed), e.g. dotnet build -p:GamePath=&quot;A:\Steam\steamapps\common\Valheim&quot;." />
+    <Error Condition="!Exists('$(GamePath)\valheim_Data\Managed\UnityEngine.dll')"
+           Text="Valheim game folder not found. Set GamePath to your Steam Valheim install (with valheim_Data\Managed), e.g. dotnet build -p:GamePath=&quot;A:\Steam\steamapps\common\Valheim&quot;." />
+    <Error Condition="!Exists('$(BepInExPath)\BepInEx\core\BepInEx.dll')"
+           Text="BepInEx core not found. Set BepInExPath to a folder with BepInEx\core\BepInEx.dll (often your Thunderstore profile), e.g. -p:BepInExPath=&quot;%AppData%\Thunderstore Mod Manager\DataFolder\Valheim\profiles\YourProfile&quot;." />
   </Target>
 
   <ItemGroup>
     <Reference Include="BepInEx">
-      <HintPath>$(GamePath)\BepInEx\core\BepInEx.dll</HintPath>
+      <HintPath>$(BepInExPath)\BepInEx\core\BepInEx.dll</HintPath>
       <Private>false</Private>
     </Reference>
     <Reference Include="UnityEngine">
