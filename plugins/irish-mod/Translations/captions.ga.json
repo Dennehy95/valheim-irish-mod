@@ -1,0 +1,801 @@
+{
+  "screen_id": "captions",
+  "locale": "ga",
+  "pendingApiKey": true,
+  "machineAssisted": false,
+  "source_extract": "extracted/captions.json",
+  "entries": [
+    {
+      "key": "caption_absorbingproj",
+      "english": "absorbing projectile",
+      "irish": "tiúracán ionsú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_agreeing",
+      "english": "agreeing",
+      "irish": "aontú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_alerted",
+      "english": "alerted",
+      "irish": "airdeallach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_altar_empowered",
+      "english": "Altar empowered",
+      "irish": "Cumhacht ag Altar",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_arriving",
+      "english": "arriving",
+      "irish": "ag teacht",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_atgeir",
+      "english": "Atgeir",
+      "irish": "Ag obair",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_attacking",
+      "english": "attacking",
+      "irish": "ionsaí ionsaithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_awakening",
+      "english": "awakening",
+      "irish": "Dúiseacht",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_axe",
+      "english": "Axe",
+      "irish": "Uisce agus Séarachas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_barking",
+      "english": "barking",
+      "irish": "coirt",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_biting",
+      "english": "biting",
+      "irish": "giotán",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_blockedattack",
+      "english": "Attack blocked",
+      "irish": "Ionsaí blocáilte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_blocking",
+      "english": "blocking",
+      "irish": "blocála",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_born",
+      "english": "being born",
+      "irish": "a rugadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_bow",
+      "english": "Bow",
+      "irish": "Uisce agus Séarachas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_breakingapart",
+      "english": "breaking apart",
+      "irish": "briseadh ar leith",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_breathingfire",
+      "english": "breathing fire",
+      "irish": "análaithe dóiteáin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_bubbling",
+      "english": "bubbling",
+      "irish": "bláthanna cumhra: cumhráin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_building",
+      "english": "building",
+      "irish": "tógáil foirgneamh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_burningfood",
+      "english": "burning food",
+      "irish": "bia a dhó",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_burp",
+      "english": "Burping",
+      "irish": "Uirlisí ilchuspóireacha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_burrowing",
+      "english": "burrowing",
+      "irish": "ag fás",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_bye",
+      "english": "saying goodbye",
+      "irish": "ag rá slán slán",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_calling",
+      "english": "calling",
+      "irish": "ag glaoch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_callingforaid",
+      "english": "calling for aid",
+      "irish": "glaoch ar chabhair",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_casting",
+      "english": "casting",
+      "irish": "soilse loingseoireachta E",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_castingmagic",
+      "english": "casting",
+      "irish": "soilse loingseoireachta E",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_castingspell",
+      "english": "casting a spell",
+      "irish": "réitigh geasa",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_catchfire",
+      "english": "Something catching fire",
+      "irish": "Rud a ghabháil tine",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_cawing",
+      "english": "cawing",
+      "irish": "cineál gas: in airde",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_charging",
+      "english": "charging",
+      "irish": "a mhuirearú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_chittering",
+      "english": "chittering",
+      "irish": "bláthanna cumhra: cumhráin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_closing",
+      "english": "closing",
+      "irish": "Dún na nGall",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_creaking",
+      "english": "creaking",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_destroyed",
+      "english": "destroyed",
+      "irish": "scriosta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_dispersing",
+      "english": "dispersing",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_dodging",
+      "english": "dodging",
+      "irish": "dornálaíocht",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_donecooking",
+      "english": "done cooking",
+      "irish": "déanta cócaireacht",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_doorclose",
+      "english": "Door closing",
+      "irish": "Dúnadh Doras",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_dooropen",
+      "english": "Door opening",
+      "irish": "Doirse oscailte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_drawn",
+      "english": "being drawn",
+      "irish": "a tharraingt",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_droppingitem",
+      "english": "dropping an item",
+      "irish": "Mír a scaoileadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_dying",
+      "english": "dying",
+      "irish": "ag fáil bháis",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_eating",
+      "english": "eating",
+      "irish": "ag ithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_exploding",
+      "english": "exploding",
+      "irish": "Dioplóma sa Ghaeilge",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_explosion",
+      "english": "Explosion",
+      "irish": "Amharc ar gach eolas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_firework_explode",
+      "english": "Firework exploding",
+      "irish": "Díroghnaigh gach rud",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_firing",
+      "english": "firing",
+      "irish": "lámhaigh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_fizzling",
+      "english": "fizzling",
+      "irish": "tréimhse saoil: ilbhliantúil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_food_burnt",
+      "english": "Food burnt",
+      "irish": "Bia dóite",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_food_done",
+      "english": "Food cooked",
+      "irish": "Bia bruite",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_fueladded",
+      "english": "Object being refueled",
+      "irish": "Cuspóir á athbhreoslaiú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_gateclose",
+      "english": "Gate closing",
+      "irish": "Dúnadh Geata",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_gateopen",
+      "english": "Gate opening",
+      "irish": "Oscailt Geata",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_gettinghit",
+      "english": "getting hit",
+      "irish": "ag fáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_ghostnoises",
+      "english": "whooshing",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_groaning",
+      "english": "groaning",
+      "irish": "tréimhse saoil: ilbhliantúil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_growing",
+      "english": "growing",
+      "irish": "Plandaí faoi dhíon",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_growling",
+      "english": "growling",
+      "irish": "bláthanna cumhra: cumhráin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_grumbling",
+      "english": "grumbling",
+      "irish": "bláthanna cumhra: cumhráin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_grunting",
+      "english": "grunting",
+      "irish": "cineál gas: in airde",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_healing",
+      "english": "healing",
+      "irish": "foirm duille: líneach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_hello",
+      "english": "greeting",
+      "irish": "Beannacht Beannacht",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_hit",
+      "english": "striking",
+      "irish": "buailte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_hitting",
+      "english": "hitting",
+      "irish": "ag bualadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_howling",
+      "english": "howling",
+      "irish": "méid bláth: beag",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_hurt",
+      "english": "hurt",
+      "irish": "Gortaítear",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_iceshatter",
+      "english": "Ice shattering",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_inhaling",
+      "english": "inhaling",
+      "irish": "minicíocht uisce: flúirseach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_itemcrafted",
+      "english": "Item crafted",
+      "irish": "Mír crafted",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_jumping",
+      "english": "jumping",
+      "irish": "léim",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_knife",
+      "english": "Knife",
+      "irish": "Cruinnscríobh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_laughing",
+      "english": "laughing",
+      "irish": "ag gáire",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_levelup",
+      "english": "Skill increased!",
+      "irish": "Skill méadaithe!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_lightingfire",
+      "english": "lighting fire",
+      "irish": "soilsiú dóiteáin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_linebreak",
+      "english": "line snapping",
+      "irish": "líne snapping",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_loaded",
+      "english": "loaded",
+      "irish": "lucht siúil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_meteor_exploding",
+      "english": "Meteor exploding",
+      "irish": "Méadair exploding",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_moving",
+      "english": "moving",
+      "irish": "ag gluaiseacht",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_opening",
+      "english": "opening",
+      "irish": "oscailt oscailte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_parried",
+      "english": "Attack parried",
+      "irish": "Ionsaí ar phósadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_platform_crumbling",
+      "english": "Lava platform crumbling",
+      "irish": "Lava borradh ardán",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_platform_rising",
+      "english": "Platform rising",
+      "irish": "Ardán ag ardú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_player",
+      "english": "Player",
+      "irish": "Seinn ar líne",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_portalopen",
+      "english": "Portal opening",
+      "irish": "oscailt Portal",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_potion",
+      "english": "Potion consumed",
+      "irish": "Pota a chaitear",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_projexploding",
+      "english": "projectile exploding",
+      "irish": "exploding projectile",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_puking",
+      "english": "Puking",
+      "irish": "Ag tarraingt",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_punching",
+      "english": "Punching",
+      "irish": "Punching",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_rattling",
+      "english": "rattling",
+      "irish": "bláthanna cumhra: cumhráin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_ravencaw",
+      "english": "Raven cawing",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_ravenflap",
+      "english": "Raven flapping",
+      "irish": "Raven flapping",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_recharging",
+      "english": "recharging",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_refilled",
+      "english": "refilled",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_refueled",
+      "english": "refueled",
+      "irish": "athbhreoslaithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_reloading",
+      "english": "reloading",
+      "irish": "athluchtú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_repaired",
+      "english": "Item repaired",
+      "irish": "Mír a dheisiú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_rising",
+      "english": "rising",
+      "irish": "ag ardú ag ardú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_rockdestroyed",
+      "english": "Rock breaking",
+      "irish": "Rock briseadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_ruminating",
+      "english": "ruminating",
+      "irish": "tréimhse saoil: ilbhliantúil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_screeching",
+      "english": "screeching",
+      "irish": "screeching",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_seagull",
+      "english": "Seagull",
+      "irish": "Uisce agus Séarachas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_shaking",
+      "english": "shaking",
+      "irish": "croith",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_shattering",
+      "english": "shattering",
+      "irish": "bláthanna cumhra: cumhráin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_shedding",
+      "english": "shedding",
+      "irish": "shedding",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_shivering",
+      "english": "shivering",
+      "irish": "ag gabháil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_shouting",
+      "english": "shouting",
+      "irish": "shouting",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_shuttingdown",
+      "english": "shutting down",
+      "irish": "stoptar síos",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_sighing",
+      "english": "sighing",
+      "irish": "sighing",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_snarling",
+      "english": "snarling",
+      "irish": "cineál gas: leathadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_spear",
+      "english": "Spear",
+      "irish": "Spear",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_spinning",
+      "english": "spinning",
+      "irish": "sníomh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_spitexploding",
+      "english": "spit exploding",
+      "irish": "spit exploding",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_spitting",
+      "english": "spitting",
+      "irish": "spitting",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_splashing",
+      "english": "splashing",
+      "irish": "splancscáileán",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_sputtering",
+      "english": "sputtering",
+      "irish": "sputtering",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_squawking",
+      "english": "squawking",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_startup",
+      "english": "starting up",
+      "irish": "ag tosú suas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_stomping",
+      "english": "stomping",
+      "irish": "tréimhse saoil: ilbhliantúil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_summoning",
+      "english": "summoning",
+      "irish": "toghairm",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_sweeping",
+      "english": "sweeping",
+      "irish": "scuabadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_swiping",
+      "english": "swiping",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_swung",
+      "english": "being swung",
+      "irish": "a bheith swung",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_takingdamage",
+      "english": "taking damage",
+      "irish": "damáiste a dhéanamh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_takingoff",
+      "english": "taking off",
+      "irish": "cur as",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_talking",
+      "english": "talking",
+      "irish": "ag caint",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_throwing",
+      "english": "throwing",
+      "irish": "Ag caitheamh tobac",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_thunder",
+      "english": "Distant thunder",
+      "irish": "Toir ornáideacha agus Crainn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_tilling",
+      "english": "tilling",
+      "irish": "cur síos ar",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_trading",
+      "english": "is pleased with a trade",
+      "irish": "Tá áthas le trádáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_treefall",
+      "english": "Tree falling",
+      "irish": "cineál gas: in airde",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "caption_used",
+      "english": "used",
+      "irish": "a úsáidtear",
+      "translationMethod": "manual"
+    }
+  ]
+}

@@ -1,0 +1,704 @@
+{
+  "screen_id": "enemy-names",
+  "screen_title": "Enemy names",
+  "scope_notes": "Keys from scope file tools/scopes/enemy-names.keys.txt.",
+  "scope_keys_file": "tools/scopes/enemy-names.keys.txt",
+  "extracted_at_utc": "2026-10-19T16:06:37.118237+00:00",
+  "method": "static",
+  "game_path": "A:\\Steam\\steamapps\\common\\Valheim",
+  "resources_assets_sha256": "f0274fe60c807842352a049f3762b7a08965bdbfe759dfbb16f90272e51c6bdb",
+  "key_count": 138,
+  "entries": [
+    {
+      "key": "enemy_abomination",
+      "english": "Abomination",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_asksvin",
+      "english": "Asksvin",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_asksvin_hatchling",
+      "english": "Asksvin Hatchling",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_aspect_bonemass",
+      "english": "Aspect of the Writhing Dead",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_aspect_dragon",
+      "english": "Aspect of the Dragon Mother",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_aspect_eikthyr",
+      "english": "Aspect of the Lightning Stag",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_aspect_fader",
+      "english": "Aspect of the Emerald Flame",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_aspect_gdking",
+      "english": "Aspect of the Living Forest",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_aspect_goblinking",
+      "english": "Aspect of the Twisted Soul",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_aspect_seekerqueen",
+      "english": "Aspect of the Crawling Matriarch",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_babyseeker",
+      "english": "Seeker Brood",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_barka",
+      "english": "Barka",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_bat",
+      "english": "Bat",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_bigblob",
+      "english": "Hexahedric Pulp",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_bjorn",
+      "english": "Bear",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_blob",
+      "english": "Blob",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_blobelite",
+      "english": "Oozer",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_blobfrost",
+      "english": "Frost Blob",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_bloblava",
+      "english": "Lava Blob",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_blobmork",
+      "english": "Shapeless Pulp",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_blobmorkmini",
+      "english": "Tiny Pulp",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_blobtar",
+      "english": "Growth",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_boar",
+      "english": "Boar",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_boarpiggy",
+      "english": "Piggy",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_bonemass",
+      "english": "Bonemass",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_bonemawserpent",
+      "english": "Bonemaw",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_boss_bonemass_deathmessage",
+      "english": "The Mass ceases its writhing",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_boss_bonemass_spawnmessage",
+      "english": "The Mass is moving",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_boss_dragon_deathmessage",
+      "english": "Moder is in tears",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_boss_dragon_spawnmessage",
+      "english": "Moder is enraged",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_boss_fader_alertmessage",
+      "english": "The Emerald Flame ignites",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_boss_fader_deathmessage",
+      "english": "The Emerald Flame is extinguished",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_boss_frozenking_alertmessage",
+      "english": "His hatred corrupts all!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_boss_frozenking_deathmessage",
+      "english": "Peace settles over the world",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_boss_goblinking_deathmessage",
+      "english": "Yagluth's soul has been defeated",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_boss_goblinking_spawnmessage",
+      "english": "Yagluth's twisted soul has been summoned",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_boss_queen_alertmessage",
+      "english": "The Queen wants it all",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_boss_queen_deathmessage",
+      "english": "Long live the Queen",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_charred",
+      "english": "Charred",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_charred_archer",
+      "english": "Charred Marksman",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_charred_grunt",
+      "english": "Charred Grunt",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_charred_mage",
+      "english": "Charred Warlock",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_charred_melee",
+      "english": "Charred Warrior",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_charred_melee_Dyrnwyn",
+      "english": "<color=orange>Lord Reto</color>",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_charred_melee_Fader",
+      "english": "Summoned Charred Warrior",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_charred_twitcher",
+      "english": "Charred Twitcher",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_charred_twitcher_summoned",
+      "english": "Summoned Twitcher",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_charredspawnercross",
+      "english": "Effigy of Malice",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_charredtwitcherspawner",
+      "english": "Monument of Torment",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_chicken",
+      "english": "Chicken",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_deathsquito",
+      "english": "Deathsquito",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_deer",
+      "english": "Deer",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_dragon",
+      "english": "Moder",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_drake",
+      "english": "Drake",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_draugr",
+      "english": "Draugr",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_draugrelite",
+      "english": "Draugr Elite",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_draugrspawner",
+      "english": "Body Pile",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_dvergr",
+      "english": "Dvergr Rogue",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_dvergr_deepnorth",
+      "english": "Imprisoned Dvergr",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_dvergr_mage",
+      "english": "Dvergr Mage",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_dvergrs",
+      "english": "Dvergr",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_eikthyr",
+      "english": "Eikthyr",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_eikthyr_alertmessage",
+      "english": "Eikthyr summons the storm",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_eikthyr_deathmessage",
+      "english": "Eikthyr is slain",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_elaking",
+      "english": "Elaking",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_elakingmole",
+      "english": "Eyeless One",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_fader",
+      "english": "Fader",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_fader_codename",
+      "english": "The Emerald Flame",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_fallenvalkyrie",
+      "english": "Fallen Valkyrie",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_fallenwarrior",
+      "english": "Fallen Warrior",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_fenring",
+      "english": "Fenring",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_fenringcultist",
+      "english": "Cultist",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_fenringcultist_hildir",
+      "english": "<color=orange>Geirrhafa</color>",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_frozenking",
+      "english": "Kall Fimbulbringer",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_frozenking_p3",
+      "english": "Kall Fimbulbringer",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_frysling",
+      "english": "Frysling",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_gdking",
+      "english": "The Elder",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_gdking_alertmessage",
+      "english": "The Elder rises from the forest",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_gdking_deathmessage",
+      "english": "The Elder has been felled",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_gemgoblin",
+      "english": "Riktig Fuling",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_ghost",
+      "english": "Ghost",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_ghost_void",
+      "english": "The Void",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_gjall",
+      "english": "Gjall",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_goblin",
+      "english": "Fuling",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_goblin_deepnorth",
+      "english": "Captive Fuling",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_goblin_hildir",
+      "english": "<color=orange>Zil</color> ",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_goblinbrute",
+      "english": "Fuling Berserker",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_goblinbrute_hildir",
+      "english": "<color=orange>Thungr</color> ",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_goblinbrute_hildircombined",
+      "english": "<color=orange>Zil & Thungr</color>",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_goblinking",
+      "english": "Yagluth",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_goblinshaman",
+      "english": "Fuling Shaman",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_greydwarf",
+      "english": "Greydwarf",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_greydwarfbrute",
+      "english": "Greydwarf Brute",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_greydwarfshaman",
+      "english": "Greydwarf Shaman",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_greydwarfspawner",
+      "english": "Greydwarf Nest",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_greyling",
+      "english": "Greyling",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_hare",
+      "english": "Hare",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_hen",
+      "english": "Hen",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_holespawner",
+      "english": "Wardrobe Shaft",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_jotun_warrior",
+      "english": "Krigen",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_jotun_witch",
+      "english": "Hexen",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_kvastur",
+      "english": "Kvastur",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_kvastur_lore",
+      "english": "A witch's companion must be made of sturdy stuff.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_leech",
+      "english": "Leech",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_lox",
+      "english": "Lox",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_loxcalf",
+      "english": "Lox Calf",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_mistile",
+      "english": "Mistile",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_moose",
+      "english": "Moose",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_moosecalf",
+      "english": "Moose Calf",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_morgen",
+      "english": "Morgen",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_neck",
+      "english": "Neck",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_root",
+      "english": "Root",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_seal",
+      "english": "Seal",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_seal_baby",
+      "english": "Baby Seal",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_seeker",
+      "english": "Seeker",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_seekerbrute",
+      "english": "Seeker Soldier",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_seekerqueen",
+      "english": "The Queen",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_serpent",
+      "english": "Serpent",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_shadowperson",
+      "english": "Shadow",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_skeleton",
+      "english": "Skeleton",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_skeleton_summoned",
+      "english": "Skelett",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_skeletonfire",
+      "english": "<color=orange>Brenna</color>",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_skeletonpoison",
+      "english": "Rancid Remains",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_skeletonspawner",
+      "english": "Evil Bone Pile",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_stonegolem",
+      "english": "Stone Golem",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_summonedroot",
+      "english": "Summoned Root",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_summonedtroll",
+      "english": "Summoned Troll",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_surtling",
+      "english": "Surtling",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_tick",
+      "english": "Tick",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_troll",
+      "english": "Troll",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_trollfrost",
+      "english": "Gammeltroll",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_ulv",
+      "english": "Ulv",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_unbjorn",
+      "english": "Vile",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_volture",
+      "english": "Volture",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_wolf",
+      "english": "Wolf",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_wolfcub",
+      "english": "Wolf Cub",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_wraith",
+      "english": "Wraith",
+      "source_asset": "localization"
+    },
+    {
+      "key": "enemy_writhan",
+      "english": "Writhan",
+      "source_asset": "localization"
+    }
+  ],
+  "missing_keys": []
+}

@@ -1,0 +1,674 @@
+{
+  "screen_id": "captions",
+  "screen_title": "Captions",
+  "scope_notes": "Keys from scope file tools/scopes/captions.keys.txt.",
+  "scope_keys_file": "tools/scopes/captions.keys.txt",
+  "extracted_at_utc": "2026-10-19T16:06:58.796240+00:00",
+  "method": "static",
+  "game_path": "A:\\Steam\\steamapps\\common\\Valheim",
+  "resources_assets_sha256": "f0274fe60c807842352a049f3762b7a08965bdbfe759dfbb16f90272e51c6bdb",
+  "key_count": 132,
+  "entries": [
+    {
+      "key": "caption_absorbingproj",
+      "english": "absorbing projectile",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_agreeing",
+      "english": "agreeing",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_alerted",
+      "english": "alerted",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_altar_empowered",
+      "english": "Altar empowered",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_arriving",
+      "english": "arriving",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_atgeir",
+      "english": "Atgeir",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_attacking",
+      "english": "attacking",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_awakening",
+      "english": "awakening",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_axe",
+      "english": "Axe",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_barking",
+      "english": "barking",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_biting",
+      "english": "biting",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_blockedattack",
+      "english": "Attack blocked",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_blocking",
+      "english": "blocking",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_born",
+      "english": "being born",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_bow",
+      "english": "Bow",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_breakingapart",
+      "english": "breaking apart",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_breathingfire",
+      "english": "breathing fire",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_bubbling",
+      "english": "bubbling",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_building",
+      "english": "building",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_burningfood",
+      "english": "burning food",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_burp",
+      "english": "Burping",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_burrowing",
+      "english": "burrowing",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_bye",
+      "english": "saying goodbye",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_calling",
+      "english": "calling",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_callingforaid",
+      "english": "calling for aid",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_casting",
+      "english": "casting",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_castingmagic",
+      "english": "casting",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_castingspell",
+      "english": "casting a spell",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_catchfire",
+      "english": "Something catching fire",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_cawing",
+      "english": "cawing",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_charging",
+      "english": "charging",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_chittering",
+      "english": "chittering",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_closing",
+      "english": "closing",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_creaking",
+      "english": "creaking",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_destroyed",
+      "english": "destroyed",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_dispersing",
+      "english": "dispersing",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_dodging",
+      "english": "dodging",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_donecooking",
+      "english": "done cooking",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_doorclose",
+      "english": "Door closing",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_dooropen",
+      "english": "Door opening",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_drawn",
+      "english": "being drawn",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_droppingitem",
+      "english": "dropping an item",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_dying",
+      "english": "dying",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_eating",
+      "english": "eating",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_exploding",
+      "english": "exploding",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_explosion",
+      "english": "Explosion",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_firework_explode",
+      "english": "Firework exploding",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_firing",
+      "english": "firing",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_fizzling",
+      "english": "fizzling",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_food_burnt",
+      "english": "Food burnt",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_food_done",
+      "english": "Food cooked",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_fueladded",
+      "english": "Object being refueled",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_gateclose",
+      "english": "Gate closing",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_gateopen",
+      "english": "Gate opening",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_gettinghit",
+      "english": "getting hit",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_ghostnoises",
+      "english": "whooshing",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_groaning",
+      "english": "groaning",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_growing",
+      "english": "growing",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_growling",
+      "english": "growling",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_grumbling",
+      "english": "grumbling",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_grunting",
+      "english": "grunting",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_healing",
+      "english": "healing",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_hello",
+      "english": "greeting",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_hit",
+      "english": "striking",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_hitting",
+      "english": "hitting",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_howling",
+      "english": "howling",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_hurt",
+      "english": "hurt",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_iceshatter",
+      "english": "Ice shattering",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_inhaling",
+      "english": "inhaling",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_itemcrafted",
+      "english": "Item crafted",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_jumping",
+      "english": "jumping",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_knife",
+      "english": "Knife",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_laughing",
+      "english": "laughing",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_levelup",
+      "english": "Skill increased!",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_lightingfire",
+      "english": "lighting fire",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_linebreak",
+      "english": "line snapping",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_loaded",
+      "english": "loaded",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_meteor_exploding",
+      "english": "Meteor exploding",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_moving",
+      "english": "moving",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_opening",
+      "english": "opening",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_parried",
+      "english": "Attack parried",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_platform_crumbling",
+      "english": "Lava platform crumbling",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_platform_rising",
+      "english": "Platform rising",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_player",
+      "english": "Player",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_portalopen",
+      "english": "Portal opening",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_potion",
+      "english": "Potion consumed",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_projexploding",
+      "english": "projectile exploding",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_puking",
+      "english": "Puking",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_punching",
+      "english": "Punching",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_rattling",
+      "english": "rattling",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_ravencaw",
+      "english": "Raven cawing",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_ravenflap",
+      "english": "Raven flapping",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_recharging",
+      "english": "recharging",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_refilled",
+      "english": "refilled",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_refueled",
+      "english": "refueled",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_reloading",
+      "english": "reloading",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_repaired",
+      "english": "Item repaired",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_rising",
+      "english": "rising",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_rockdestroyed",
+      "english": "Rock breaking",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_ruminating",
+      "english": "ruminating",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_screeching",
+      "english": "screeching",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_seagull",
+      "english": "Seagull",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_shaking",
+      "english": "shaking",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_shattering",
+      "english": "shattering",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_shedding",
+      "english": "shedding",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_shivering",
+      "english": "shivering",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_shouting",
+      "english": "shouting",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_shuttingdown",
+      "english": "shutting down",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_sighing",
+      "english": "sighing",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_snarling",
+      "english": "snarling",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_spear",
+      "english": "Spear",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_spinning",
+      "english": "spinning",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_spitexploding",
+      "english": "spit exploding",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_spitting",
+      "english": "spitting",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_splashing",
+      "english": "splashing",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_sputtering",
+      "english": "sputtering",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_squawking",
+      "english": "squawking",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_startup",
+      "english": "starting up",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_stomping",
+      "english": "stomping",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_summoning",
+      "english": "summoning",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_sweeping",
+      "english": "sweeping",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_swiping",
+      "english": "swiping",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_swung",
+      "english": "being swung",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_takingdamage",
+      "english": "taking damage",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_takingoff",
+      "english": "taking off",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_talking",
+      "english": "talking",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_throwing",
+      "english": "throwing",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_thunder",
+      "english": "Distant thunder",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_tilling",
+      "english": "tilling",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_trading",
+      "english": "is pleased with a trade",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_treefall",
+      "english": "Tree falling",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "caption_used",
+      "english": "used",
+      "source_asset": "localization_captions"
+    }
+  ],
+  "missing_keys": []
+}

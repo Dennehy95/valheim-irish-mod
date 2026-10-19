@@ -19,8 +19,11 @@ Static dumps of **scoped** UI strings for translation pipeline work. These files
 | [`status-effects.json`](status-effects.json) | **Status effects** (`se_*`) | 223 |
 | [`fallen-warrior.json`](fallen-warrior.json) | **Fallen warrior** dialogue (`fallenwarrior_*`) | 202 |
 | [`tutorial.json`](tutorial.json) | **Tutorial** strings (`tutorial_*`) | 165 |
+| [`lore.json`](lore.json) | **Lore** text (`lore_*`) | 144 |
+| [`enemy-names.json`](enemy-names.json) | **Enemy** names (`enemy_*`) | 138 |
+| [`captions.json`](captions.json) | **Captions** (`caption_*`) | 132 |
 
-**Total scoped keys in extracts:** 4363 (4719 wired via matching `Translations/*.ga.json` as of v0.6.0).
+**Total scoped keys in extracts:** 4777 (5133 wired via matching `Translations/*.ga.json` as of v0.7.0).
 
 ### Scope rationale (`fejd-root-main-menu`)
 

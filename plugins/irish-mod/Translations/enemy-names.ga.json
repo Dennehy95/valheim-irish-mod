@@ -1,0 +1,837 @@
+{
+  "screen_id": "enemy-names",
+  "locale": "ga",
+  "pendingApiKey": true,
+  "machineAssisted": false,
+  "source_extract": "extracted/enemy-names.json",
+  "entries": [
+    {
+      "key": "enemy_abomination",
+      "english": "Abomination",
+      "irish": "Abomination",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_asksvin",
+      "english": "Asksvin",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_asksvin_hatchling",
+      "english": "Asksvin Hatchling",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_aspect_bonemass",
+      "english": "Aspect of the Writhing Dead",
+      "irish": "Aifreann ar an Dead Céim",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_aspect_dragon",
+      "english": "Aspect of the Dragon Mother",
+      "irish": "Aifreann an Máthair Dragon",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_aspect_eikthyr",
+      "english": "Aspect of the Lightning Stag",
+      "irish": "Gnéithe an Stag Lightning",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_aspect_fader",
+      "english": "Aspect of the Emerald Flame",
+      "irish": "Aifreann an Flame Emerald",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_aspect_gdking",
+      "english": "Aspect of the Living Forest",
+      "irish": "Ag súil leis an Foraoise Maireachtála",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_aspect_goblinking",
+      "english": "Aspect of the Twisted Soul",
+      "irish": "Gnéithe den Soul Twisted",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_aspect_seekerqueen",
+      "english": "Aspect of the Crawling Matriarch",
+      "irish": "Aspect an Matriarch Crawling",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_babyseeker",
+      "english": "Seeker Brood",
+      "irish": "Féach ar Bród",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_barka",
+      "english": "Barka",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_bat",
+      "english": "Bat",
+      "irish": "Sciatháin leathair",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_bigblob",
+      "english": "Hexahedric Pulp",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_bjorn",
+      "english": "Bear",
+      "irish": "Bearr",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_blob",
+      "english": "Blob",
+      "irish": "bláthanna cumhra: cumhráin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_blobelite",
+      "english": "Oozer",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_blobfrost",
+      "english": "Frost Blob",
+      "irish": "bláthanna cumhra: cumhráin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_bloblava",
+      "english": "Lava Blob",
+      "irish": "bláthanna cumhra: cumhráin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_blobmork",
+      "english": "Shapeless Pulp",
+      "irish": "cineál gas: in airde",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_blobmorkmini",
+      "english": "Tiny Pulp",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_blobtar",
+      "english": "Growth",
+      "irish": "Fás agus Fás",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_boar",
+      "english": "Boar",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_boarpiggy",
+      "english": "Piggy",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_bonemass",
+      "english": "Bonemass",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_bonemawserpent",
+      "english": "Bonemaw",
+      "irish": "An t-aonrú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_boss_bonemass_deathmessage",
+      "english": "The Mass ceases its writhing",
+      "irish": "An Aifreann scoirfidh a rithing",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_boss_bonemass_spawnmessage",
+      "english": "The Mass is moving",
+      "irish": "Tá an Aifreann ag gluaiseacht",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_boss_dragon_deathmessage",
+      "english": "Moder is in tears",
+      "irish": "Tá Moder i deora",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_boss_dragon_spawnmessage",
+      "english": "Moder is enraged",
+      "irish": "Tá moderaged",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_boss_fader_alertmessage",
+      "english": "The Emerald Flame ignites",
+      "irish": "An Emerald Flame ignites",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_boss_fader_deathmessage",
+      "english": "The Emerald Flame is extinguished",
+      "irish": "Tá an Flame Emerald múchta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_boss_frozenking_alertmessage",
+      "english": "His hatred corrupts all!",
+      "irish": "A fuath truaillithe go léir!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_boss_frozenking_deathmessage",
+      "english": "Peace settles over the world",
+      "irish": "Socraíonn Síochána ar fud an domhain",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_boss_goblinking_deathmessage",
+      "english": "Yagluth's soul has been defeated",
+      "irish": "Tá anam Yagluth curtha defeated",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_boss_goblinking_spawnmessage",
+      "english": "Yagluth's twisted soul has been summoned",
+      "irish": "Tá anam twisted Yagluth ar toghairm",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_boss_queen_alertmessage",
+      "english": "The Queen wants it all",
+      "irish": "Is mian leis an Banríon go léir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_boss_queen_deathmessage",
+      "english": "Long live the Queen",
+      "irish": "Fada beo na Banríona",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_charred",
+      "english": "Charred",
+      "irish": "Toir agus Crainn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_charred_archer",
+      "english": "Charred Marksman",
+      "irish": "Carred Marksman",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_charred_grunt",
+      "english": "Charred Grunt",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_charred_mage",
+      "english": "Charred Warlock",
+      "irish": "Cogaidh Charghais",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_charred_melee",
+      "english": "Charred Warrior",
+      "irish": "Carthanas Trodaire",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_charred_melee_Dyrnwyn",
+      "english": "<color=orange>Lord Reto</color>",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_charred_melee_Fader",
+      "english": "Summoned Charred Warrior",
+      "irish": "Trodaire Charraithe a thoghairm",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_charred_twitcher",
+      "english": "Charred Twitcher",
+      "irish": "Twitcher Carthanachta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_charred_twitcher_summoned",
+      "english": "Summoned Twitcher",
+      "irish": "Twitcher Summoned",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_charredspawnercross",
+      "english": "Effigy of Malice",
+      "irish": "Effigy of Malice",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_charredtwitcherspawner",
+      "english": "Monument of Torment",
+      "irish": "Séadchomhartha na Toraíochta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_chicken",
+      "english": "Chicken",
+      "irish": "cineál gas: in airde",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_deathsquito",
+      "english": "Deathsquito",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_deer",
+      "english": "Deer",
+      "irish": "Amharc ar gach eolas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_dragon",
+      "english": "Moder",
+      "irish": "Déan Teagmháil Linn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_drake",
+      "english": "Drake",
+      "irish": "Coscáin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_draugr",
+      "english": "Draugr",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_draugrelite",
+      "english": "Draugr Elite",
+      "irish": "Draugs mionlach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_draugrspawner",
+      "english": "Body Pile",
+      "irish": "Comhlacht Sile",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_dvergr",
+      "english": "Dvergr Rogue",
+      "irish": "Rogue Rogue",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_dvergr_deepnorth",
+      "english": "Imprisoned Dvergr",
+      "irish": "Dvergr príosúnaithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_dvergr_mage",
+      "english": "Dvergr Mage",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_dvergrs",
+      "english": "Dvergr",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_eikthyr",
+      "english": "Eikthyr",
+      "irish": "Eikthyr",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_eikthyr_alertmessage",
+      "english": "Eikthyr summons the storm",
+      "irish": "Eikthyr toghairm an stoirm",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_eikthyr_deathmessage",
+      "english": "Eikthyr is slain",
+      "irish": "Níl an Tweet seo ar fáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_elaking",
+      "english": "Elaking",
+      "irish": "Ísliúnna",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_elakingmole",
+      "english": "Eyeless One",
+      "irish": "Eyeless a hAon",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_fader",
+      "english": "Fader",
+      "irish": "Fader",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_fader_codename",
+      "english": "The Emerald Flame",
+      "irish": "An Flame Emerald",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_fallenvalkyrie",
+      "english": "Fallen Valkyrie",
+      "irish": "bláthanna cumhra: cumhráin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_fallenwarrior",
+      "english": "Fallen Warrior",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_fenring",
+      "english": "Fenring",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_fenringcultist",
+      "english": "Cultist",
+      "irish": "Cultistor",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_fenringcultist_hildir",
+      "english": "<color=orange>Geirrhafa</color>",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_frozenking",
+      "english": "Kall Fimbulbringer",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_frozenking_p3",
+      "english": "Kall Fimbulbringer",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_frysling",
+      "english": "Frysling",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_gdking",
+      "english": "The Elder",
+      "irish": "An Elder",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_gdking_alertmessage",
+      "english": "The Elder rises from the forest",
+      "irish": "Ardaíonn an Elder ón bhforaois",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_gdking_deathmessage",
+      "english": "The Elder has been felled",
+      "irish": "Tá an Elder leagtha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_gemgoblin",
+      "english": "Riktig Fuling",
+      "irish": "Uirlisí ilchuspóireacha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_ghost",
+      "english": "Ghost",
+      "irish": "Spiorad Naomh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_ghost_void",
+      "english": "The Void",
+      "irish": "An Void",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_gjall",
+      "english": "Gjall",
+      "irish": "Gluaisteán",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_goblin",
+      "english": "Fuling",
+      "irish": "Lá na Gaeilge",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_goblin_deepnorth",
+      "english": "Captive Fuling",
+      "irish": "Fuling Captive",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_goblin_hildir",
+      "english": "<color=orange>Zil</color> ",
+      "irish": "líofa = oráiste líthir / dath lí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_goblinbrute",
+      "english": "Fuling Berserker",
+      "irish": "Déan teagmháil Linn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_goblinbrute_hildir",
+      "english": "<color=orange>Thungr</color> ",
+      "irish": "líofa = oráiste líthir / dath lí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_goblinbrute_hildircombined",
+      "english": "<color=orange>Zil & Thungr</color>",
+      "irish": "líofa = oráiste líthir &amp; stráice / dath .",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_goblinking",
+      "english": "Yagluth",
+      "irish": "An bhfuil a fhios agat?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_goblinshaman",
+      "english": "Fuling Shaman",
+      "irish": "Comhleá Shaman",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_greydwarf",
+      "english": "Greydwarf",
+      "irish": "tréimhse saoil: ilbhliantúil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_greydwarfbrute",
+      "english": "Greydwarf Brute",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_greydwarfshaman",
+      "english": "Greydwarf Shaman",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_greydwarfspawner",
+      "english": "Greydwarf Nest",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_greyling",
+      "english": "Greyling",
+      "irish": "tréimhse saoil: ilbhliantúil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_hare",
+      "english": "Hare",
+      "irish": "Amharc ar gach eolas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_hen",
+      "english": "Hen",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_holespawner",
+      "english": "Wardrobe Shaft",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_jotun_warrior",
+      "english": "Krigen",
+      "irish": "cineál gas: in airde",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_jotun_witch",
+      "english": "Hexen",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_kvastur",
+      "english": "Kvastur",
+      "irish": "Déan teagmháil linn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_kvastur_lore",
+      "english": "A witch's companion must be made of sturdy stuff.",
+      "irish": "Ní mór do chompánach medicine a bheith déanta as stuif sturdy.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_leech",
+      "english": "Leech",
+      "irish": "Leech",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_lox",
+      "english": "Lox",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_loxcalf",
+      "english": "Lox Calf",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_mistile",
+      "english": "Mistile",
+      "irish": "Díroghnaigh gach rud",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_moose",
+      "english": "Moose",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_moosecalf",
+      "english": "Moose Calf",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_morgen",
+      "english": "Morgen",
+      "irish": "Toir agus Crainn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_neck",
+      "english": "Neck",
+      "irish": "Déan teagmháil linn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_root",
+      "english": "Root",
+      "irish": "cineál gas: in airde",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_seal",
+      "english": "Seal",
+      "irish": "Séala",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_seal_baby",
+      "english": "Baby Seal",
+      "irish": "Leanbh Séala",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_seeker",
+      "english": "Seeker",
+      "irish": "Féach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_seekerbrute",
+      "english": "Seeker Soldier",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_seekerqueen",
+      "english": "The Queen",
+      "irish": "Na Banríona",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_serpent",
+      "english": "Serpent",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_shadowperson",
+      "english": "Shadow",
+      "irish": "an Ríocht Aontaithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_skeleton",
+      "english": "Skeleton",
+      "irish": "Sraith an Domhain",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_skeleton_summoned",
+      "english": "Skelett",
+      "irish": "Naisc go dtí suíomhanna eile",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_skeletonfire",
+      "english": "<color=orange>Brenna</color>",
+      "irish": "líofa = raoin rÃ omhaire agus dath rÃ",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_skeletonpoison",
+      "english": "Rancid Remains",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_skeletonspawner",
+      "english": "Evil Bone Pile",
+      "irish": "Evil Bone Pile",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_stonegolem",
+      "english": "Stone Golem",
+      "irish": "Amharc ar gach eolas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_summonedroot",
+      "english": "Summoned Root",
+      "irish": "Fréamh Summoned",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_summonedtroll",
+      "english": "Summoned Troll",
+      "irish": "Trollaigh thoghairm",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_surtling",
+      "english": "Surtling",
+      "irish": "Amharc ar gach eolas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_tick",
+      "english": "Tick",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_troll",
+      "english": "Troll",
+      "irish": "Trollaigh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_trollfrost",
+      "english": "Gammeltroll",
+      "irish": "Clár na dToghthóirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_ulv",
+      "english": "Ulv",
+      "irish": "Déan Teagmháil Linn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_unbjorn",
+      "english": "Vile",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_volture",
+      "english": "Volture",
+      "irish": "Voltas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_wolf",
+      "english": "Wolf",
+      "irish": "cineál gas: in airde",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_wolfcub",
+      "english": "Wolf Cub",
+      "irish": "An tSraith Shinsearach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_wraith",
+      "english": "Wraith",
+      "irish": "Sraith an Domhain",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "enemy_writhan",
+      "english": "Writhan",
+      "irish": "Amharc ar gach eolas",
+      "translationMethod": "manual"
+    }
+  ]
+}

@@ -118,4 +118,19 @@ python tools/run_coverage_batch.py --scope tools/scopes/status-effects.keys.txt 
 
 (Same pattern for `fallen-warrior` and `tutorial`.)
 
+## Batch 7 — lore, enemy names, captions (`lore_*`, `enemy_*`, `caption_*`)
+
+| File | Prefix | Keys |
+|------|--------|------|
+| `lore.keys.txt` | `lore_` | 144 |
+| `enemy-names.keys.txt` | `enemy_` | 138 |
+| `captions.keys.txt` | `caption_` | 132 |
+
+```powershell
+python tools/generate_prefix_scope.py --prefix lore_ --out tools/scopes/lore.keys.txt
+python tools/run_coverage_batch.py --scope tools/scopes/lore.keys.txt --screen-id lore --screen-title "Lore text" --extract plugins/irish-mod/extracted/lore.json --irish-map tools/lore_irish_map.json --ga-out plugins/irish-mod/Translations/lore.ga.json
+```
+
+(Same pattern for `enemy-names` and `captions`.)
+
 Vanilla key census: `python tools/count_vanilla_keys.py`.
