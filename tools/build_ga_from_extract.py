@@ -25,9 +25,11 @@ def main() -> int:
     for row in extract["entries"]:
         key = row["key"]
         irish = irish_map.get(key)
-        if not irish:
+        if irish is None:
             missing.append(key)
             continue
+        if not irish and not row["english"].strip():
+            irish = ""
         entries.append(
             {
                 "key": key,

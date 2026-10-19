@@ -99,6 +99,6 @@ namespace IrishMod
     {
         public const string PLUGIN_GUID = "com.dennehy95.valheim.irishmod";
         public const string PLUGIN_NAME = "Valheim Irish Mod";
-        public const string PLUGIN_VERSION = "0.3.4";
+        public const string PLUGIN_VERSION = "0.4.0";
     }
 }

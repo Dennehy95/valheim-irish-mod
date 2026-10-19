@@ -12,7 +12,9 @@ Static dumps of **scoped** UI strings for translation pipeline work. These files
 | [`character-ui.json`](character-ui.json) | **Skills**, **stats**, and **character customization** labels | 150 (`skill_*`, `stat_*`, `customization_*`) |
 | [`building-ui.json`](building-ui.json) | Common **hammer / build menu** piece names (curated `piece_*`) | 100 |
 
-**Total scoped keys in extracts:** 452 (wired via matching `Translations/*.ga.json`).
+| [`item-names.json`](item-names.json) | **Item** display names, descriptions, lore (`item_*`) | 1959 |
+
+**Total scoped keys in extracts:** 2411 (2767 wired via matching `Translations/*.ga.json`, including batch 3 scopes).
 
 ### Scope rationale (`fejd-root-main-menu`)
 

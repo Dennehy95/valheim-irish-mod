@@ -59,4 +59,31 @@ python tools/discover_scope_keys.py --prefix msg_ `
   --out tools/scopes/gameplay-messages.keys.txt
 ```
 
+## Batch 4 — item names (`item_*`)
+
+| File | Prefix | Keys |
+|------|--------|------|
+| `item-names.keys.txt` | `item_` | ~1959 — all item display names, descriptions, and lore (no UI-length filter) |
+
+Regenerate scope + extract + translations:
+
+```powershell
+python tools/generate_item_names_scope.py
+
+python tools/extract_screen_strings.py `
+  --scope tools/scopes/item-names.keys.txt `
+  --screen-id item-names `
+  --screen-title "Item names and descriptions" `
+  --out plugins/irish-mod/extracted/item-names.json
+
+pip install argostranslate
+python tools/build_item_mt_cache.py
+python tools/generate_item_names_irish_map.py
+python tools/build_ga_from_extract.py `
+  --extract plugins/irish-mod/extracted/item-names.json `
+  --irish-map tools/item-names_irish_map.json `
+  --out plugins/irish-mod/Translations/item-names.ga.json `
+  --screen-id item-names
+```
+
 Vanilla key census: `python tools/count_vanilla_keys.py`.

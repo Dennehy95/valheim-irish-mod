@@ -32,6 +32,10 @@ artifacts/
 manifest.json.bak
 icon.png.bak
 
+# Python tooling (regenerate via tools/build_item_mt_cache.py)
+tools/__pycache__/
+tools/item-names_mt_cache.json
+
 # OS
 Thumbs.db
 Desktop.ini

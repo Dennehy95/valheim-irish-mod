@@ -1,9 +1,9 @@
 # Irish Mod (BepInEx plugin)
 
-Valheim BepInEx plugin for Irish (Gaeilge) on scoped UI keys (main menu + in-game inventory panel).
+Valheim BepInEx plugin for Irish (Gaeilge) on scoped localization keys (menus, HUD, settings, and item names).
 
 - **GUID:** `com.dennehy95.valheim.irishmod`
-- **Version:** `0.3.4`
+- **Version:** `0.4.0`
 
 ## Part 3 — scoped Irish (F8 display cycle)
 
@@ -16,7 +16,8 @@ Valheim BepInEx plugin for Irish (Gaeilge) on scoped UI keys (main menu + in-gam
 - Default **F8** avoids **F7**, which **ValheimPerformanceOverhaul** often binds on the same profile.
 - Config (`BepInEx/config/com.dennehy95.valheim.irishmod.cfg`): `Display.ToggleIrishKey`, `Display.IrishDisplayModeOnStart` (`0`–`2` matching the list above).
 - Pressing the toggle key calls `ReLocalizeAll` on the main menu (`FejdStartup`) and inventory UI (`InventoryGui`) when present so visible text updates immediately.
-- Translations ship as manual Gaeilge (`translationMethod: manual`, `pendingApiKey: true` in JSON) until an API batch pass is run.
+- Translations ship as manual Gaeilge (`translationMethod: manual`, `pendingApiKey: true`, `machineAssisted: false` in JSON) until an API batch pass is run.
+- **Item names batch (`item-names.ga.json`, v0.4.0):** ~1959 `item_*` keys. Initial Irish strings were produced with offline Argos `en→ga` plus glossary overrides; treat long descriptions as **placeholder-quality** until a human or API review pass.
 
 ## Prerequisites
 
@@ -29,7 +30,7 @@ Valheim BepInEx plugin for Irish (Gaeilge) on scoped UI keys (main menu + in-gam
 cd plugins/irish-mod
 dotnet build `
   -p:GamePath="A:\Steam\steamapps\common\Valheim" `
-  -p:BepInExPath="$env:APPDATA\Thunderstore Mod Manager\DataFolder\Valheim\profiles\WonPoyuntO_NetworkMods"
+  -p:BepInExPath="$env:APPDATA\Thunderstore Mod Manager\DataFolder\Valheim\profiles\Irish Mod Testing"
 ```
 
 `GamePath` is the Steam game folder; `BepInExPath` is the Thunderstore profile that holds BepInEx core on Dennehy-Desktop.
