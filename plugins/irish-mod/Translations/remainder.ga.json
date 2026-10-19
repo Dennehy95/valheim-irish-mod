@@ -1,0 +1,4095 @@
+{
+  "screen_id": "remainder",
+  "locale": "ga",
+  "pendingApiKey": true,
+  "machineAssisted": false,
+  "source_extract": "extracted/remainder.json",
+  "entries": [
+    {
+      "key": "#piece_sapcollector_check",
+      "english": "Check extractor",
+      "irish": "Seiceáil sliocht",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "NOT USED tutorial_stemple3_label",
+      "english": "",
+      "irish": "",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "NOT USED tutorial_stemple3_text",
+      "english": "",
+      "irish": "",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "OLD hud_altplace",
+      "english": "Alternative placement",
+      "irish": "Socrúchán eile",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "OLD inventory_stationlevel",
+      "english": "Station level",
+      "irish": "Leibhéal an Stáisiúin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "OLD inventory_stationlevelreq",
+      "english": "Required improvements",
+      "irish": "Feabhsuithe riachtanacha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "OLD inventory_upgrade",
+      "english": "Upgrade item",
+      "irish": "Mír Uasghrádú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "OLD menu_exit",
+      "english": "Exit",
+      "irish": "Déan Teagmháil Linn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "achievement_details",
+      "english": "Achievement details",
+      "irish": "Sonraí a bhaint amach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "achievements_cheated_item_inventory",
+      "english": "This item was summoned through cheating means.",
+      "irish": "Cuireadh thoghairm an mhír seo trí mheán cheating.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "achievements_confirm_cheat",
+      "english": "That command is a cheat, please enter 'confirmcheats' in the console to use cheats. <color=red>Using cheats will permanently disable the ability to unlock achievements for this character and this world.</color>",
+      "irish": "Is é sin ordú cheat, le do thoil dul isteach 'confirmcheats' sa console a úsáid cheats. dath = dearg Beidh ag baint úsáide cheats a dhíchumasú go buan ar an gcumas chun éachtaí a dhíghlasáil don charachtar agus an domhan seo r / dath .",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "achievements_dropped_cheated_item",
+      "english": "No more cheated items in inventory. Achievement progress is re-enabled.",
+      "irish": "Uimh míreanna níos cheated i fardal. Tá dul chun cinn a bhaint amach ath-inúsáidte.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "achievements_permanently_cheated_bypass",
+      "english": "Achievement progress is enabled for this character even though dev commands have been used.",
+      "irish": "Tá dul chun cinn a bhaint amach ar chumas an carachtar cé go bhfuil orduithe dev úsáid.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "achievements_permanently_cheated_character",
+      "english": "Achievement progress is permanently disabled for this character due to dev command usage.",
+      "irish": "Tá dul chun cinn a bhaint amach faoi mhíchumas go buan don charachtar mar gheall ar úsáid ordú dev.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "achievements_permanently_cheated_world",
+      "english": "Achievement progress is permanently disabled for this world due to using dev command world modifiers.",
+      "irish": "Tá dul chun cinn a bhaint amach faoi mhíchumas go buan don domhan seo mar gheall ar úsáid a bhaint as modifiers domhan ordú dev.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "achievements_picked_up_cheated_item",
+      "english": "Picked up cheated item. Achievement progress is temporarily disabled.",
+      "irish": "Picked suas mír cheated. Tá dul chun cinn a bhaint amach faoi mhíchumas go sealadach.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "achievements_temporarily_cheated",
+      "english": "Achievement progress is temporarily disabled for this character due to possession of cheated items.",
+      "irish": "Tá dul chun cinn a bhaint amach faoi mhíchumas go sealadach don charachtar mar gheall ar sheilbh míreanna cheated.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "alternate_key_label",
+      "english": "Alternate function: +",
+      "irish": "Feidhm Malartach: +",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ammo_arrows",
+      "english": "arrows",
+      "irish": "saigheada",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ammo_bolts",
+      "english": "bolts",
+      "irish": "boltaí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ammo_turretbolt",
+      "english": "Black Metal Missile",
+      "irish": "Diúracán Miotail Dhubh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ammo_turretboltwood",
+      "english": "Wooden Missile",
+      "irish": "An bhfuil a fhios agat na buntáistí a bhaineann...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ancient_chest",
+      "english": "Ancient Coffin",
+      "irish": "Coffin Árs",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "animal_fish",
+      "english": "Fish",
+      "irish": "Éisc Éisc",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "animal_fish1",
+      "english": "Perch",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "animal_fish10",
+      "english": "Northern Salmon",
+      "irish": "Breacachán an Tuaiscirt",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "animal_fish11",
+      "english": "Magmafish",
+      "irish": "iasc mara",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "animal_fish12",
+      "english": "Pufferfish",
+      "irish": "Pufferfish",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "animal_fish2",
+      "english": "Pike",
+      "irish": "cineál gas: in airde",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "animal_fish3",
+      "english": "Tuna",
+      "irish": "Túinéis",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "animal_fish4",
+      "english": "Tetra",
+      "irish": "Seachtain na Gaeilge",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "animal_fish5",
+      "english": "Trollfish",
+      "irish": "Trollaigh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "animal_fish6",
+      "english": "Giant Herring",
+      "irish": "Línéadaigh Ollmhór",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "animal_fish7",
+      "english": "Grouper",
+      "irish": "Grúpa an Aontais Fhorásach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "animal_fish8",
+      "english": "Coral Cod",
+      "irish": "Uisce agus Séarachas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "animal_fish9",
+      "english": "Anglerfish",
+      "irish": "Uisce agus Séarachas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "base_item_modifier",
+      "english": "Base item stamina use",
+      "irish": "Ábhar bonn stamina",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "biome_ashlands",
+      "english": "Ashlands",
+      "irish": "irl - Library Service",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "biome_blackforest",
+      "english": "Black Forest",
+      "irish": "Foraoise Dubh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "biome_darklands",
+      "english": "Darklands",
+      "irish": "Toir agus Crainn bláthanna",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "biome_deepnorth",
+      "english": "Deep North",
+      "irish": "Deep Thuaidh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "biome_edge",
+      "english": "Edge of the World",
+      "irish": "Edge an Domhain",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "biome_forest",
+      "english": "Forest",
+      "irish": "Foraoise",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "biome_heath",
+      "english": "Heath",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "biome_meadows",
+      "english": "Meadows",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "biome_mistlands",
+      "english": "Mistlands",
+      "irish": "An tIarthar",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "biome_mountain",
+      "english": "Mountain",
+      "irish": "cineál gas: in airde",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "biome_ocean",
+      "english": "Ocean",
+      "irish": "Ocean",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "biome_plains",
+      "english": "Plains",
+      "irish": "cineál gas: in airde",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "biome_swamp",
+      "english": "Swamp",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "black_ice_combo",
+      "english": "Malicious Ice",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "blackice_core",
+      "english": "Malicious Ice",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "blackice_triggeritem",
+      "english": "Malicious Ice",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "blocking_joined_world_with_blocked_player",
+      "english": "This world contains User Generated Content (UGC) by a player you have blocked. In order to play on this world, you must unblock them. Do you wish to unblock the following user: ",
+      "irish": "Tá an domhan Ábhar Úsáideoir Ginithe (UGC) ag imreoir a bhfuil tú bac. D'fhonn a imirt ar an saol seo, ní mór duit iad a dhíblocáil. An mian leat an t-úsáideoir seo a leanas a dhíbhlocáil:",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "boss_hive_end",
+      "english": "We are dispersed.",
+      "irish": "Táimid scaipthe.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "boss_hive_start",
+      "english": "We have gathered.",
+      "irish": "Táimid tar éis a bailíodh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "build_piece_author_built_by",
+      "english": "Built by:",
+      "irish": "Tógtha ag:",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "build_piece_author_unknown",
+      "english": "Unknown",
+      "irish": "Ar an eolas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "button_a",
+      "english": "A",
+      "irish": "Amharc ar gach eolas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "button_b",
+      "english": "B",
+      "irish": "B B B",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "button_back",
+      "english": "Back",
+      "irish": "Ar ais chuig clár",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "button_lalt",
+      "english": "L-Alt",
+      "irish": "L-Alt",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "button_lb",
+      "english": "LB",
+      "irish": "LB",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "button_lcommand",
+      "english": "L-Command",
+      "irish": "L-Commander",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "button_lctrl",
+      "english": "L-Ctrl",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "button_ls",
+      "english": "LS",
+      "irish": "LS",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "button_lshift",
+      "english": "L-Shift",
+      "irish": "L-Shift",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "button_mouse0",
+      "english": "Mouse-1",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "button_mouse1",
+      "english": "Mouse-2",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "button_mouse2",
+      "english": "Mouse-3",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "button_ps_a",
+      "english": "✕",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "button_ps_b",
+      "english": "○",
+      "irish": "○",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "button_ps_back",
+      "english": "Share",
+      "irish": "Roinn an leathanach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "button_ps_lb",
+      "english": "L1",
+      "irish": "Amharc ar gach eolas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "button_ps_ls",
+      "english": "L3",
+      "irish": "L3",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "button_ps_rb",
+      "english": "R1",
+      "irish": "RÃ ocht Aontaithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "button_ps_rs",
+      "english": "R3",
+      "irish": "R3 R3",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "button_ps_start",
+      "english": "Options",
+      "irish": "Roghanna eile",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "button_ps_x",
+      "english": "▫",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "button_ps_y",
+      "english": "△",
+      "irish": "△",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "button_ralt",
+      "english": "R-Alt",
+      "irish": "R-Alt",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "button_rb",
+      "english": "RB",
+      "irish": "RB",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "button_rcommand",
+      "english": "R-Command",
+      "irish": "R-Tráchtáil agus",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "button_rctrl",
+      "english": "R-Ctrl",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "button_return",
+      "english": "Return",
+      "irish": "Tuairisceán",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "button_rs",
+      "english": "RS",
+      "irish": "RS",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "button_rshift",
+      "english": "R-Shift",
+      "irish": "R-Shift",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "button_space",
+      "english": "Space",
+      "irish": "Spás sa spás",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "button_start",
+      "english": "Start",
+      "irish": "Tosaigh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "button_x",
+      "english": "X",
+      "irish": "X X X X",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "button_y",
+      "english": "Y",
+      "irish": "Y",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "charredfortress",
+      "english": "Charred Fortress",
+      "irish": "Fortress Charthanais",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "chat_entermessage",
+      "english": "Enter chat message",
+      "irish": "Cuir isteach teachtaireacht comhrá",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "chat_entertext",
+      "english": "Enter text...",
+      "irish": "Cuir isteach téacs...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "chat_kill",
+      "english": "Kill yourself",
+      "irish": "Kill tú féin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "chat_resetspawn",
+      "english": "Reset spawn point",
+      "irish": "pointe sceite athshocrú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "chat_shout",
+      "english": "Shout",
+      "irish": "Shochtadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "chat_whisper",
+      "english": "Whisper",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "cinematics_end_credits",
+      "english": "End Credits",
+      "irish": "Creidmheasanna deiridh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "cinematics_intro",
+      "english": "Intro",
+      "irish": "Introit",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "cinematics_outro",
+      "english": "Outro",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "codeofconduct_ban_appeals_body",
+      "english": "If you believe your ban was issued in error, you may contact our support for review. However, final decisions will be made in accordance with our policies and platform requirements.",
+      "irish": "Má chreideann tú gur eisíodh do toirmeasc i earráid, féadfaidh tú teagmháil a dhéanamh lenár dtacaíocht le haghaidh athbhreithnithe. Mar sin féin, déanfar cinntí críochnaitheacha de réir ár mbeartas agus ár riachtanais ardán.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "codeofconduct_ban_appeals_header",
+      "english": "Ban Appeals",
+      "irish": "Achomhairc Ban",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "codeofconduct_bodytext_first",
+      "english": "When playing via crossplay platforms, you’re expected to follow all rules and community guidelines set by us. Please behave at your best.",
+      "irish": "Agus tú ag imirt trí ardáin tras-imirt, táthar ag súil go leanfaidh tú na rialacha agus na treoirlínte pobail atá leagtha síos againn. Déan iompar ar do chuid is fearr.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "codeofconduct_enforcement_and_bans_body",
+      "english": "We reserve the right to take action against players violating these rules, including:\r\n• Temporary or permanent bans from playing online.\r\n• Restrictions on crossplay features.",
+      "irish": "Cúlchiste againn an ceart chun gníomh a ghlacadh i gcoinne imreoirí violating na rialacha, lena n-áirítear:\n• Cosc sealadach nó buan ó imirt ar líne.\n• Srianta ar ghnéithe tras-imirt.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "codeofconduct_enforcement_and_bans_header",
+      "english": "Enforcement & Bans",
+      "irish": "Seirbhísí ar líne",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "codeofconduct_header",
+      "english": "Player Conduct & Bans - Play Responsibly",
+      "irish": "Imreoir Iompar &amp; Bans - Seinn go freagrach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "codeofconduct_platform_specific_text_playstation",
+      "english": "You must also follow the PlayStation™Network’s Community Code of Conduct, which applies in addition to our rules.",
+      "irish": "Ní mór duit a leanúint freisin Cód Iompair Pobail PlaystationTMNetwork, a bhfuil feidhm aige chomh maith lenár rialacha.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "codeofconduct_platform_specific_text_xbox",
+      "english": "You must also follow Xbox's Community Standards, which applies in addition to our rules.",
+      "irish": "Ní mór duit Caighdeáin Phobail Xbox a leanúint, a bhfuil feidhm acu chomh maith lenár rialacha.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "codeofconduct_prohibited_behavior_body",
+      "english": "The following actions may result in temporary or permanent bans from playing online:\r\n• Harassment, hate speech, threats, or discrimination.\r\n• Sharing inappropriate or offensive content via chat, in-game building or other means.",
+      "irish": "D'fhéadfadh go mbeadh toirmeasc sealadach nó buan ar na gníomhaíochtaí seo a leanas ar líne a imirt:\n• Harassment, fuathchaint, bagairtí, nó idirdhealú.\nâ € ¢ Roinnt ábhar míchuí nó ionsaitheach trí comhrá, i-cluiche foirgneamh nó ar mhodh eile.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "codeofconduct_prohibited_behavior_header",
+      "english": "Prohibited Behavior",
+      "irish": "Iompar toirmiscthe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "codeofconduct_reporting_violations_body",
+      "english": "If you encounter unacceptable behavior:\r\n• In-game: Use the built-in \"Report Player\" function (Options->Player List->Report)\r\n• Outside the game: Please use this online form: https://valheim.com/report-a-player",
+      "irish": "Má bhíonn tú iompar do-ghlactha:\nâ € ¢ I-cluiche: Bain úsáid as an-tógtha i \"Report Player\" fheidhm (Roghanna-bhraise Liosta- ^Report)\n• Lasmuigh den chluiche: Bain úsáid as an bhfoirm ar líne seo: https://valheim.com/report-a-player",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "codeofconduct_reporting_violations_header",
+      "english": "Reporting Violations",
+      "irish": "Ag Tuairisciú Violations",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "deadspeak_bonemass",
+      "english": "Thank you, warrior. We who lived on in this shape were denied the peace of death for too long. We go now...",
+      "irish": "Go raibh maith agat, laoch. Shéanadh muid a bhí ina gcónaí ar an cruth seo an tsíocháin an bháis ar feadh ró-fhada. Táimid ag dul anois...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "deadspeak_eikthyr",
+      "english": "So you were my death? You look so small and soft… Tell Oden he may have broken this form but the wilderness will never submit to his rules...",
+      "irish": "Mar sin, bhí tú mo bháis? Breathnaíonn tú chomh beag agus bog... Déan teagmháil linn D'fhéadfadh sé a bheith briste an fhoirm seo ach ní bheidh an wilderness faoi bhráid a rialacha...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "deadspeak_elder",
+      "english": "Little thing of blood and bone, I should have snapped you like a twig! Now I wither and die, let the great tree have me...",
+      "irish": "Rud beag fola agus cnámh, ba chóir dom a bheith snapped tú cosúil le craobh! Anois wither mé agus bás, lig an crann mór dom...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "deadspeak_fader",
+      "english": "I followed a false destiny, and it gave me nothing but ruin. Forgive me, my love...",
+      "irish": "Lean mé destiny bréagach, agus thug sé dom rud ar bith ach ruin. Tabhair dom, mo ghrá...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "deadspeak_fish1",
+      "english": "I'm a perch, not a bass!",
+      "irish": "Tá mé perch, ní Bass!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "deadspeak_fish10",
+      "english": "Once I was free to jump upstream. But no longer.",
+      "irish": "Nuair a bhí mé saor in aisce chun léim upstream. Ach a thuilleadh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "deadspeak_fish11",
+      "english": "Please lay me to rest by the fire...",
+      "irish": "Le do thoil a leagan dom a gcuid eile ag an tine...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "deadspeak_fish12",
+      "english": "Have you seen my friend around? Her name is Anika.",
+      "irish": "An bhfaca tú mo chara timpeall? Tá a ainm Anika.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "deadspeak_fish2",
+      "english": "You're supposed to put heads on a pike, not put a pike on a wall...",
+      "irish": "Tá tú ceaptha chun cinnirí a chur ar pike, ní cuir pike ar bhalla...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "deadspeak_fish3",
+      "english": "I've got this tune stuck in my head...",
+      "irish": "Tá mé fuair an tune bhfostú i mo cheann...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "deadspeak_fish4",
+      "english": "It's so cold... And dark... But I like it that way.",
+      "irish": "Tá sé chomh fuar... Agus dorcha... Ach is maith liom é ar an mbealach sin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "deadspeak_fish5",
+      "english": "Stop it with the baiting already!",
+      "irish": "Stop é leis an bhaoite cheana féin!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "deadspeak_fish6",
+      "english": "What's that nasty smell? Surely it couldn't be me!",
+      "irish": "Cad é go boladh olc? Surely ní fhéadfadh sé a bheith dom!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "deadspeak_fish7",
+      "english": "I'm dead but not gone. Won't you free me from this cursed purgatory?",
+      "irish": "Tá mé marbh ach ní imithe. Ní bheidh tú saor in aisce dom as an purgatory cursed?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "deadspeak_fish8",
+      "english": "Do you ever wonder what lurks in the deepest parts of the ocean? Don't. It's better not to know.",
+      "irish": "An bhfuil tú Wonder riamh cad lurks sna codanna is doimhne de na farraige? Ná. Tá sé níos fearr gan a fhios.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "deadspeak_fish9",
+      "english": "Do you see the light? It beckons you...",
+      "irish": "An bhfeiceann tú an solas? Tá sé beckons tú...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "deadspeak_fish_shared1",
+      "english": "Don't worry. Be happy.",
+      "irish": "Ná bíodh imní ort. Bí sásta.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "deadspeak_fish_shared2",
+      "english": "Take me to the river... Drop me in the water...",
+      "irish": "Tóg dom go dtí an abhainn... Buail mé san uisce...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "deadspeak_hive",
+      "english": "You think you beat us? Think again... We are still, and forever will be the hive - and the hive is unbeatable.",
+      "irish": "Sílim go bhfuil tú buille dúinn? Smaoinigh arís... Táimid fós, agus go deo beidh an hive - agus tá an hive unbeatable.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "deadspeak_moder",
+      "english": "Sheathe your pride, creature of Oden! My long reign is at an end but those who come after me are greater still...",
+      "irish": "Sheathe do bród, creature Oden! Is é mo reign fada ag deireadh ach iad siúd a thagann tar éis dom níos mó fós...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "deadspeak_queen",
+      "english": "Tell Oden that my kin will bring forth another... A monarch never dies.",
+      "irish": "Déan teagmháil linn Óden go mbeidh mo gaol a thabhairt amach eile... Riamh monarc bás.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "deadspeak_yagluth",
+      "english": "Do you come to gloat, little thing? Do you know how many times I have been killed, broken, banished, burned and buried? You are not the first and you will not be the last.",
+      "irish": "An bhfuil tú ag teacht chun gloat, rud beag? An bhfuil a fhios agat cé mhéad uair a maraíodh mé, briste, banished, dóite agus curtha? Níl tú an chéad agus ní bheidh tú an ceann deireanach.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dedicated_server",
+      "english": "Dedicated server",
+      "irish": "freastalaí tiomnaithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_ashlands01",
+      "english": "You awaken within a dream of dark skies and boiling clouds. Night on the mountaintop, a rough cloak pulled tight around you. Thunder tears the sky and a rain of hot embers pours through the rift, destroying your dream body in an instant…",
+      "irish": "Dúisigh tú laistigh de bhrionglóid sciálaí dorcha agus scamaill fiuchphointe. Oíche ar an sliabhraonta, clóca garbh tharraing daingean timpeall ort. Thunder deoras an spéir agus báisteach de embers te pours tríd an rift, scriosadh do chorp aisling i toirt...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_ashlands02",
+      "english": "In your sleep, you crouch in the middle of a vast and gloomy cavern while a huge beast prowls in circles around you, dragging the darkness behind it. Emerald flames flicker at its edges and the growl of its throat lingers long into the waking day…",
+      "irish": "I do chodladh, crouch tú i lár an uaimh ollmhór agus gloomy agus prowls Beast ollmhór i ciorcail timpeall ort, dragging an dorchadas taobh thiar dó. lasracha Emerald flicker ag a imill agus an growl a lingers scornach fada isteach sa lá waking...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_ashlands03",
+      "english": "You dream of eating roast hog at a feast. It is a simple and delicious meal. If only all dreams could be like this.",
+      "irish": "Aisling tú ag ithe muc rósta ag féasta. Is béile simplí agus delicious. Má d'fhéadfadh ach gach aisling a bheith mar seo.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_ashlands04",
+      "english": "Nine maidens in robes of white dance barefoot at midnight. Nine wolves hunt a white hart in the greenwood. Nine bells ring out on the mountainside and you awake.",
+      "irish": "Naoi maidens i róbaí rince bán cosnochta ag meán oíche. Naoi wolves fiach hart bán sa greenwood. Naoi bells fáinne amach ar an sliabh agus awake tú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_bonemass01",
+      "english": "You dream of a hundred ghosts crowding thickly around your bedside, seeking warmth and life until something thumps deep below the ground and they jump like crumbs on a drumskin and are gone.",
+      "irish": "Aisling tú de chéad thaibhsí crowding thickly thart ar do bedside, ag lorg teas agus an saol go dtí rud éigin thumps domhain faoi bhun na talún agus léim siad cosúil le blúiríní ar drumaskin agus go bhfuil siad imithe.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_deepnorth01",
+      "english": "In your dream, you stand naked in the middle of a pool of water so clear it cannot be seen, only felt as a swaying girdle around your hips. Three figures stand at the water's edge, watching you in silence. When the lead figure touches the water's surface with her toe, the ripple dissolves the dream and you wake.",
+      "irish": "I do bhrionglóid, seasann tú naked i lár an linn snámha uisce chomh soiléir ní féidir é a fheiceáil, ach bhraith mar girdle swaying timpeall do cromáin. Seasann trí fhigiúr ar imeall an uisce, ag faire ort i tost. Nuair a bhíonn an figiúr luaidhe ag baint le dromchla an uisce lena ladhar, díscaoileann an ripple an aisling agus dúisigh tú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_deepnorth02",
+      "english": "You slide down the tunnel of a fretful dream into an absence so complete that no words will cling to it…",
+      "irish": "Sleamhnán tú síos an tollán aisling aisteach i neamhláithreacht chomh iomlán go mbeidh aon focail cling dó...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_deepnorth03",
+      "english": "You dream of a hall in winter, glittering with light and laughter in the midst of a snowy night. As you approach, the lights twist into tall flames and the laughter into screams. You run towards the hall but it sinks hissing into the snow as you approach.",
+      "irish": "Aisling tú halla sa gheimhreadh, glittering le solas agus gáire i measc oíche snowy. Mar cur chuige tú, na soilse casadh i lasracha ard agus an gáire isteach screams. Rith tú i dtreo an halla ach sinks sé hissing isteach sa sneachta mar a chuireann tú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_deepnorth04",
+      "english": "You run down an endless hill, your heart thumping for joy within your chest. Two dark shapes fly alongside you and the beat of their wings lingers into your waking hours.",
+      "irish": "Rith tú síos cnoc endless, do thumping croí le haghaidh áthas laistigh de do cófra. Dhá cruthanna dorcha eitilt taobh leat agus an buille a sciatháin lingers isteach i do uair an chloig waking.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_deepnorth05",
+      "english": "You see a child's face, laughing and crying at the same time. The eyes are clear and blue behind their tears, the mouth is a tumble of tiny teeth. In the dream, he tells you something, but the words are gone when you wake.",
+      "irish": "Feiceann tú aghaidh an linbh, ag gáire agus ag caoineadh ag an am céanna. Tá na súile soiléir agus gorm taobh thiar a gcuid deora, is é an béal tumble fiacla beag bídeach. Sa aisling, insíonn sé duit rud éigin, ach tá na focail imithe nuair a osclaíonn tú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_deepnorth06",
+      "english": "In your dream there is a door without pin or bolt. You feel it would open with a push but your body is frozen in a swirl of cold wind. Behind the door are the voices of the ones you love but cannot name. You strain forward into empty wakefulness.",
+      "irish": "I do bhrionglóid tá doras gan bioráin nó bolt. Braitheann tú go mbeadh sé ar oscailt le brú ach tá do chorp reoite i swirl gaoithe fuar. Taobh thiar den doras iad na guthanna de na cinn grá agat ach ní féidir ainm. Braitheann tú ar aghaidh i múscail folamh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_deepnorth07",
+      "english": "The ghosts of all those who have died at your hand come to you in your sleep and linger at the edges of your dreams. They want nothing, need nothing, say nothing.",
+      "irish": "Tagann taibhsí na ndaoine go léir a fuair bás ar do lámh leat i do chodladh agus linger ag imill do aisling. Ba mhaith leo rud ar bith, ní gá aon rud, a rá rud ar bith.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_deepnorth08",
+      "english": "You sink through layers of sleep to a vast chamber where a dark shape hunches beneath a snarl of heavy chains. As it shifts to face you, the blue orbs of its eyes pierce the dream and you wake, drenched in sweat.",
+      "irish": "Tá tú doirteal trí sraitheanna codlata go dtí seomra ollmhór ina hunches cruth dorcha faoi bhun snarl de slabhraí trom. Mar a aistríonn sé chun aghaidh a thabhairt ort, an orbs gorm a shúile Pierce an aisling agus dúisigh tú, drenched i allais.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_deepnorth09",
+      "english": "You remember nothing of this night's dream but its rainbow mood lifts you into the day with a smile on your lips.",
+      "irish": "Cuimhnigh tú rud ar bith ar an oíche aisling ach ardaitheoirí a giúmar tuar ceatha tú isteach sa lá le aoibh gháire ar do liopaí.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_deepnorth10",
+      "english": "Odin visits you in your dream and offers you a horn filled to the brim with a frothing draught. You drink deep and greet the new day feeling refreshed and alive.",
+      "irish": "Odin cuairt tú i do bhrionglóid agus cuireann tú adharc líonadh go dtí an brim le dréacht frothing. Deoch tú domhain agus beannú an lá nua mothú athnuachan agus beo.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_eikthyr01",
+      "english": "You dream of running through a meadow, the sky alight with pale fire. There is a thunder of hoofbeats behind you but when you turn, nothing is there.\n\nYou awaken with your heart pounding in your chest.",
+      "irish": "Aisling tú ag rith trí móinéir, an spéir solas le tine pale. Tá toirneach de hoofbeats taobh thiar duit ach nuair a chasann tú, tá rud ar bith ann.\n\nDúisigh tú le do chroí pounding i do cófra.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_elder01",
+      "english": "In your dream, the forest rises before you, dragging the trees upward like a cloak, its dark mass hiding the stars. At the mountain's peak, vast antlers frame the moon...",
+      "irish": "I do bhrionglóid, ardaíonn an foraoise roimh tú, dragging na crainn suas cosúil le clóca, a mais dorcha i bhfolach na réaltaí. Ag an sliabh buaic, antlers ollmhór fráma an ghealach...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_mistlands01",
+      "english": "In your dream, you walk through a hall of smiling warriors and gracious maidens. You join with their mirth until you realise that you are naked and the small bronze shield you are carrying is not enough to cover your shame.\n\nYou greet the morning with gratitude.",
+      "irish": "I do bhrionglóid, tú ag siúl trí halla de laochra miongháire agus maidens gracious. Tá tú páirteach lena mirth go dtí go realize tú go bhfuil tú naked agus nach bhfuil an sciath cré-umha beag atá tú ag iompar go leor a chlúdach do náire.\n\nbeannú tú ar maidin le buíochas.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_mistlands02",
+      "english": "Dark-eyed Loki approaches you in your dream and gifts you a ring for each hand. He tells you that as long as they stay on your fingers, you will never hear an insulting word again.\n\nYou wake with your fingers in your ears.",
+      "irish": "Dark-eyed Loki cur chuige tú i do bhrionglóid agus bronntanais tú fáinne do gach lámh. Insíonn sé duit chomh fada agus a fhanann siad ar do mhéara, ní bheidh tú ag éisteacht focal insulting arís.\n\nDúisigh tú le do mhéara i do chluasa.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_mistlands03",
+      "english": "You climb a winding staircase, curled tightly within a tall tower, until you arrive at the top and look out over an endless forest.\n\nThe wind blows green waves across the tree-tops and beneath the surface, dark shapes stir...",
+      "irish": "Dreapann tú staighre foirceannadh, chuir tú go docht laistigh de túr ard, go dtí go dtagann tú ar an mbarr agus féach amach thar foraoise endless.\n\nNa blows gaoithe tonnta glas ar fud na crainn-barr agus faoi bhun an dromchla, cruthanna dorcha stir...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_moder01",
+      "english": "You dream that you are flying over mountaintops, all of Valheim spread out below you.\n\nAs you wheel and dive in the cold air, a great shape soars up past you to block the sun. In the darkness, it speaks. \"Seek me.\"",
+      "irish": "Aisling tú go bhfuil tú ag eitilt thar sliabhraonta, gach ceann de Valheim scaipeadh amach thíos tú.\n\nMar tú roth agus Léim san aer fuar, soars cruth mór suas am atá caite tú chun bloc an ghrian. Sa dorchadas, labhraíonn sé. \"Seek dom.\"",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_random01",
+      "english": "You dream of a river running uphill, of green shoots turning downward into the earth…",
+      "irish": "Aisling tú abhainn ag rith suas an cnoc, de shoots glas ag casadh síos isteach sa domhan...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_random02",
+      "english": "Once again, you run at the head of your warriors, the weight of your father's axe in your hand.\n\nYou wake with the war-cry on your lips…",
+      "irish": "Arís eile, ritheann tú ag an ceann de do laochra, an meáchan axe do athar i do lámh.\n\nDúisigh tú leis an gcogadh-crip ar do liopaí...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_random03",
+      "english": "In your dream, you sit beside a fire in a great hall, surrounded by the chatter of familiar voices.\n\nTheir faces blur like smoke and their names slip your mind, but the warmth of their memory lingers…",
+      "irish": "I do bhrionglóid, suí tú in aice le tine i halla mór, timpeallaithe ag an comhrá guthanna ar an eolas.\n\nA n-aghaidh blur cosúil deataigh agus a n-ainmneacha duillín d'intinn, ach an teas a lingers cuimhne...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_random04",
+      "english": "You stand at the prow of a leaping ship, the salt spray before you and the joyful shriek of gulls above.\n\nFolded within a dream, you remember what it was like to be alive in the land of your birth.",
+      "irish": "Seasann tú ag an prow ar long leaping, an spraeála salann roimh tú féin agus an shriek joyful de lintéir thuas.\n\nFillte laistigh de bhrionglóid, cuimhin leat cad a bhí sé cosúil le bheith beo sa talamh ar do bhreith.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_random05",
+      "english": "You dream of a great tree reaching out through the night. One half of its branches crackle with flames, the others are green with leaves.",
+      "irish": "Aisling tú crann mór a bhaint amach tríd an oíche. Tá leath amháin dá mbrainsí scáinte le lasracha, tá na daoine eile glas le duilleoga.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_random06",
+      "english": "Amidst the crash of arms, on the dark and glimmering plain of sleep, a face swells snarling before you. Your shield arm hangs limp, your spear is broken. You welcome the cold blade when it comes.\n\nFrom a dream of death, you awaken to death itself.",
+      "irish": "I measc an tuairteála na n-arm, ar an plain dorcha agus glimmering codlata, swells aghaidh snarling roimh tú. Tá do lámh sciath hangs limp, tá do spear briste. Tá tú fáilte roimh an lann fuar nuair a thagann sé.\n\nÓ aisling an bháis, dúisigh tú chun báis féin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_random07",
+      "english": "You dream you are lying on your back in a meadow, gazing upward at the clouds. Your name is nothing, your mind is free of thought. But there is a warm hand in yours.\n\nIn the dream, you are laughing. But when you awaken, you find your face damp with tears.",
+      "irish": "Aisling tú go bhfuil tú suite ar do chúl i móinéir, gazing suas ag na scamaill. Tá d'ainm aon rud, tá d'intinn saor smaoinimh. Ach tá lámh te i mise.\n\nSa aisling, tá tú ag gáire. Ach nuair a dúisigh tú, gheobhaidh tú do taise aghaidh le deora.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_random08",
+      "english": "On a boat carved from dark wood, beneath ragged sails, you lie with your arms folded across your chest. Blurred faces, like thumbprints on the darkness, croon familiar songs as they push you out to float on a sea as black and flat as glass.",
+      "irish": "Ar bhád snoite ó adhmad dorcha, faoi bhun seolta ragged, luíonn tú le do arm fillte ar fud do cófra. Aghaidheanna Blurred, cosúil le thumbprints ar an dorchadas, croon amhráin ar an eolas mar a bhrú siad tú amach chun snámh ar farraige mar dubh agus cothrom mar ghloine.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_random09",
+      "english": "You lie on the battlefield, dreaming eyes turned upward to a sky veiled by smoke. The calls of your warriors grow fainter and your eyes close for a second time. Great talons slide beneath you and you feel yourself rising, lifted from your body like a babe from its crib…",
+      "irish": "Tá tú bréag ar an catha, súile dreaming iompú suas go dtí spéir veiled ag deataigh. Fásann glaonna do laochra níos laige agus do shúile gar don dara huair. Sleamhnán talons Mór faoi bhun tú féin agus bhraitheann tú féin ag ardú, thóg ó do chorp cosúil le babe as a crib...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_random10",
+      "english": "You fall into the deep well of sleep and dream only of darkness.",
+      "irish": "Tagann tú isteach an dea-domhain codlata agus aisling ach amháin an dorchadais.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_random11",
+      "english": "You dream of a bright hall filled with gracious warriors and fair maidens. The air hums with song, the boards groan under the weight of steaming dishes, the mead flows like water.\n\nYou awake slowly with the laughter still ringing in your ears…",
+      "irish": "Aisling tú ar halla geal líonadh le laochra gracious agus maidens cothrom. An hums aer le hamhrán, na boird groan faoi mheáchan na miasa steaming, sreabhadh an mead cosúil le huisce.\n\nAwake tú go mall leis an gáire fós ringing i do chluasa...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_random12",
+      "english": "You sleep in fits and fretful dreams, the weight of the nightmare heavy on your chest. When morning comes, you greet it with relief.",
+      "irish": "Codlaíonn tú i n-oireann agus aisling greannmhar, meáchan an trom nightmare ar do cófra. Nuair a thagann ar maidin, beannú tú é le faoiseamh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_random13",
+      "english": "Sleep is a river and dreams are live fish. You wake in the morning with your net empty.",
+      "irish": "Tá codladh abhainn agus aisling iasc beo. Dúisigh tú ar maidin le do glan folamh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_random14",
+      "english": "You dream you are hunting with your companions, running high over green hills and down through mist-haunted valleys. Ahead of you, your prey stumbles and you leap forward, sinking your teeth into warm flesh.\n\nWhen you wake, the taste of metal lingers in your mouth.",
+      "irish": "Aisling tú go bhfuil tú ag fiach le do companions, ag rith ard thar cnoic glas agus síos trí gleannta mist-haunted. Ahead de tú, do stumbles prey agus léim tú ar aghaidh, sinking do chuid fiacla i flesh te.\n\nNuair a osclaíonn tú, blas na lingers miotail i do bhéal.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_random15",
+      "english": "You dream you are walking in a snowy wood when you come upon a naked child, sitting against a tree with his eyes closed but his chest moving to breathe. As you kneel beside him, you know he has been sleeping here for many centuries, waiting for you. When you touch his shoulder, you both awaken.",
+      "irish": "Aisling tú go bhfuil tú ag siúl i adhmad snowy nuair a thagann tú ar leanbh naked, ina suí i gcoinne crann lena shúile dúnta ach a cófra ag gluaiseacht a breathe. Mar kneel tú in aice leis, tá a fhios agat go bhfuil sé ag codladh anseo ar feadh na gcéadta bliain go leor, ag fanacht leat. Nuair a dteagmháil leat a ghualainn, tú araon dúisigh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_random16",
+      "english": "You dream of a mighty bear, sleeping deep below the earth in the winter of the world. It turns in its sleep, folds upon folds of flesh and fur. It has no head, no limbs. A vast mass of bear flesh, mercifully quiet.",
+      "irish": "Aisling tú ar iompróidh mighty, codlata domhain faoi bhun an domhain i gheimhreadh an domhain. Casadh sé ina codladh, huaire ar huaire de flesh agus fionnadh. Tá sé aon cheann, aon géaga. A mais mór de flesh iompróidh, mercifully ciúin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_random17",
+      "english": "You fall asleep planning your next day's labor and in your dreams you complete it, hewing wood, foraging for food and hunting after swift deer. You return home exhausted but happy, only to awaken and find the day is still ahead of you...",
+      "irish": "Tagann tú ina chodladh pleanáil do lá dár gcionn saothair agus i do aisling a chríochnú tú é, adhmad hewing, foraging le haghaidh bia agus fiaigh tar éis fiaigh tapa. Tú ar ais abhaile ídithe ach sásta, ach amháin a mhúscailt agus teacht ar an lá go fóill ar aghaidh leat...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dream_yagluth01",
+      "english": "In a chamber hung with golden drapes, you kneel before the throne of a veiled king. \"Sleep is but a mask\", he tells you, lifting the veil slowly.\n\nYou wake screaming.",
+      "irish": "I seomra crochadh le drapes órga, tú kneel roimh an ríchathaoir rí veiled. \"Tá an chodladh ach masc\", insíonn sé duit, ag ardú an veil go mall.\n\nDúisigh tú screaming.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dvergr_buff",
+      "english": "Dvergr power",
+      "irish": "Cumhacht Dvergr",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "dvergr_buff_description",
+      "english": "You are infused with a strange Dvergr power which increases your strength.",
+      "irish": "Tá tú infused le cumhacht Dvergr aisteach a mhéadaíonn do neart.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "elaking_trashpile",
+      "english": "Pile of Rubble",
+      "irish": "Pile de Rubble",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "error_alreadyconnected",
+      "english": "Already connected",
+      "irish": "ceangailte cheana féin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "error_banned",
+      "english": "Banned",
+      "irish": "Toir agus Crainn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "error_cantrestorebackup",
+      "english": "Can't restore backup!",
+      "irish": "Ní féidir cúltaca ar ais!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "error_cantrestoremeta",
+      "english": "Can't restore meta file!",
+      "irish": "Ní féidir ar ais comhad meta!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "error_disconnected",
+      "english": "Disconnected",
+      "irish": "Dícheangal",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "error_failedconnect",
+      "english": "Failed to connect",
+      "irish": "Failed chun ceangal",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "error_incompatibleversion",
+      "english": "Incompatible version",
+      "irish": "Leagan neamhréireach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "error_kicked",
+      "english": "You have been kicked from the server.",
+      "irish": "Tá tú ag kicked as an bhfreastalaí.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "error_needslocalupdatetojoin",
+      "english": "You're running an older version of Valheim that is incompatible with this server. Please update your game to join this server.",
+      "irish": "Tá tú ag rith leagan níos sine de Valheim atá ag luí leis an bhfreastalaí. Tabhair cothrom le dáta do chluiche a bheith ar an bhfreastalaí.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "error_needsserverupdatetojoin",
+      "english": "This server is running an older version of Valheim that is incompatible with your version.",
+      "irish": "Tá an freastalaí ag rith leagan níos sine de Valheim go bhfuil ag luí le do leagan.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "error_nosuitablebackupfound",
+      "english": "No suitable backup was found!",
+      "irish": "Fuarthas aon cúltaca oiriúnach!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "error_password",
+      "english": "Wrong password",
+      "irish": "Focal faire mícheart",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "error_platformexcluded",
+      "english": "The server owner does not allow users from other platforms than their own to play on their server.",
+      "irish": "Ní chuireann an t-úinéir freastalaí ar chumas úsáideoirí ó ardáin eile ná a gcuid féin a imirt ar a bhfreastalaí.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "error_serverfull",
+      "english": "Server full",
+      "irish": "Freastalaí iomlán",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "error_worldfileload",
+      "english": "Error loading world file. Check backups!",
+      "irish": "Earráid luchtú comhad domhanda. Seiceáil cúltacaí!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "eula_acceptance",
+      "english": "BY SELECTING “ACCEPT,” OR BY USING THE PRODUCT, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THIS EULA.",
+      "irish": "AG SELECTING “ACCEPT,” NÓ AG ÚSÁID AN TÁIRG, TÚ ANOIS GO TAR ÉIS TÚ DÉANAMH, FAOISTOOD, AGUS COMHAONTÚ A DHÉANAMH AG AN EULA SEO.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "eula_header",
+      "english": "END-USER LICENSE AGREEMENT",
+      "irish": "END-USER COMHAONTú LICENSE",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "eula_important_first_text",
+      "english": "IMPORTANT: PLEASE READ THE AGREEMENT AT VALHEIM.COM/EULA CAREFULLY. BY DOWNLOADING, INSTALLING, OR USING “VALHEIM” (THE “PRODUCT”) ON A SYSTEM YOU OWN OR CONTROL, YOU AGREE TO BE BOUND BY THE TERMS OF THIS END‑USER LICENSE AGREEMENT (“EULA”). IF YOU DO NOT AGREE, DO NOT USE THE PRODUCT.",
+      "irish": "TÁBHACHTACH: PLEASE LÉIGH AN COMHAONTÚ AG VALHEIM.COM/EULA CAREFULLY. AG DÉANAMH, AG MEABHRÚ, NÓ A ÚSÁID \"VALHEIM\" (THE \"TÁIRGÍ\") AR CHÓRAS DO FHORBAIRT NÓ RIALÚ, DO CHOMHAONTAÍTEAR AG AN TÉARMAÍ SEO END-AONTÚ LICENSE ÚSÁIDE SEO (\"EULA\"). IF DO NACH COMHAONTÚ, NÁ ÚSÁID AN TÁIRGE.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "faderlocation_bellholder",
+      "english": "Bell Holder",
+      "irish": "cineál gas: in airde",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "feedback_bug",
+      "english": "Bug",
+      "irish": "cineál gas: in airde",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "feedback_feedback",
+      "english": "Feedback",
+      "irish": "Aiseolas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "feedback_idea",
+      "english": "Idea",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "feedback_send",
+      "english": "Send",
+      "irish": "Seol an nasc seo chugainn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "feedback_subject",
+      "english": "Subject",
+      "irish": "Ã ireannach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "feedback_text",
+      "english": "Write something",
+      "irish": "Scríobh rud éigin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "feedback_topic",
+      "english": "Feedback",
+      "irish": "Aiseolas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fimbulvinterorb",
+      "english": "Orb of Fimbulvinter",
+      "irish": "Orb de Fimbulvinter",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fimbulvinterorb_destroyed",
+      "english": "The Jotun Retreat",
+      "irish": "An Jotun Retreat",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fimbulvinterorb_start",
+      "english": "The Jotun Advance",
+      "irish": "An roimh ré Jotun",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fish10_description",
+      "english": "This fish likes the water to be almost freezing cold.",
+      "irish": "Is maith leis an iasc seo an t-uisce a bheith beagnach fuar.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fish11_description",
+      "english": "Some say this fish lays its eggs directly in molten lava!",
+      "irish": "Roinnt rá leagann an t-iasc a uibheacha go díreach i lava leáite!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fish12_description",
+      "english": "Tasty when cooked right, but the flavour has a bit of a sting.",
+      "irish": "Tasty nuair a cócaráilte ceart, ach tá an blas beagán de sting.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fish1_description",
+      "english": "A tasty whitemeat fish.",
+      "irish": "iasc feoil bán blasta.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fish2_description",
+      "english": "A freshwater fish that needs a lot of seasoning.",
+      "irish": "A iasc fíoruisce go bhfuil gá go leor de seasoning.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fish3_description",
+      "english": "Chicken of the sea...",
+      "irish": "sicín na farraige...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fish4_description",
+      "english": "Spending its whole life in the dark, it has no need for eyes.",
+      "irish": "Ag tabhairt a saol ar fad sa dorchadas, níl aon ghá le súile.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fish5_description",
+      "english": "This fish is a nuisance in the local streams.",
+      "irish": "Is núis é an t-iasc seo sna sruthanna áitiúla.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fish6_description",
+      "english": "Fermented, this fish will smell worse than the swamp it came from.",
+      "irish": "Fermented, beidh an t-iasc boladh níos measa ná an swamp tháinig sé ó.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fish7_description",
+      "english": "Best served with lots of carbs!",
+      "irish": "Fearr sheirbheáil le go leor de carbs!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fish8_description",
+      "english": "It has seen some things... Some very haunting things...",
+      "irish": "Tá sé le feiceáil roinnt rudaí... Roinnt rudaí an-haunting...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "fish9_description",
+      "english": "The dangling light makes it easier to see that pretty little face!",
+      "irish": "Déanann an solas dangling sé níos éasca a fheiceáil go bhfuil aghaidh beag go leor!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "guardianstone_bonemass_desc",
+      "english": "Wanderer, look to your feet\nThat tread upon our tomb\nOne thousand bones without their meat\nWill drag you to your doom",
+      "irish": "Wandererer, breathnú ar do chosa\nGo tread ar ár tuama\nMíle cnámha gan feoil\nAn mbeidh tú a tharraingt chuig do doom",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "guardianstone_eikthyr_desc",
+      "english": "His antlers are branches of iron\nThey crack the rocks and bring down mountains\nHis hooves are the sound of thunder\nHis voice a howling gale",
+      "irish": "Tá a chuid seanóirí brainsí iarainn\nSiad crack na carraigeacha agus a thabhairt síos sléibhte\nTá a crúba an fhuaim de thunder\nA guth gale howling",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "guardianstone_fader_desc",
+      "english": "A father noble and proud\nHe soared through skies of fire\nThen madness lowered its shroud\nAnd warped his heart's desire",
+      "irish": "A athair uasal agus bródúil\nChaith sé trí sciálaí dóiteáin\nAnsin ísliú madness a shroud\nAgus warped a chroí mhian",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "guardianstone_hook_activate",
+      "english": "Activate power",
+      "irish": "Cumhacht Gníomhacha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "guardianstone_hook_alreadyactive",
+      "english": "Current power",
+      "irish": "cumhacht reatha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "guardianstone_hook_deactivate",
+      "english": "Release power",
+      "irish": "cumhacht scaoilte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "guardianstone_hook_name",
+      "english": "Trophy Hook",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "guardianstone_hook_power_activate",
+      "english": "Activated",
+      "irish": "Achtú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "guardianstone_hook_power_deactivate",
+      "english": "Released",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "guardianstone_moder_desc",
+      "english": "Black wings across the moon and sun\nDown from the mountain our mother comes\nHer weeping tears will fall like rain\nHer voice will call us home again",
+      "irish": "Sciatháin dubh ar fud an ghealach agus an ghrian\nDown as an sliabh a thagann ár máthair\nBeidh a deora ag gol titim cosúil le báisteach\nBeidh a guth glaoch orainn abhaile arís",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "guardianstone_name",
+      "english": "Sacrificial Stone",
+      "irish": "Cloch Íobairt",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "guardianstone_theelder_desc",
+      "english": "First of the Forest, King-in-the-Wood\nLord over those who dwell at his feet\nHis roots will grow where cities once stood\nTheir blood his wine, their flesh his meat",
+      "irish": "An Chéad na Foraoise, Rí-i-an-Wood\nTiarna os cionn iad siúd a dwell ag a chosa\nBeidh a chuid fréamhacha ag fás nuair a bhí cathracha uair amháin\nA gcuid fola a fíon, a flesh a fheoil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "guardianstone_thequeen_desc",
+      "english": "Born in armour\nMother of many\nQueen without crown\nRuler beneath",
+      "irish": "A rugadh i armúr\nMáthair go leor\nBanríon gan choróin\nRialóir thíos",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "guardianstone_trophyplaced",
+      "english": "Forsaken sacrificed",
+      "irish": "Forsaken íobairt",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "guardianstone_yagluth_desc",
+      "english": "Long ages past, he wore a crown\nBeneath a blood-red sky\nNow naught is left of all he was\nBut his spirit cannot die",
+      "irish": "Aois fada anuas, chaith sé coróin\nBeneath spéir fola-dearg\nAnois tá dána fágtha ar fad a bhí sé\nAch ní féidir a spiorad bás",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hover_memorialstone",
+      "english": "Ancestral Memorial",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "interface_leftarrow",
+      "english": "<",
+      "irish": "r",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "interface_rightarrow",
+      "english": ">",
+      "irish": "ú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "invalid_keybind_header",
+      "english": "Invalid Input",
+      "irish": "Ionchur luachmhar",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "invalid_keybind_text",
+      "english": "This action can't be bound to selected key",
+      "irish": "Ní féidir an gníomh seo a bheith faoi cheangal eochair roghnaithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "jotuninvasion",
+      "english": "Jotun Invasion",
+      "irish": "ionradh Jotun",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "keyboard_ChatInput",
+      "english": "Enter message",
+      "irish": "Cuir isteach teachtaireacht",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "keyboard_FilterField",
+      "english": "Enter filter",
+      "irish": "Cuir isteach scagaire",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_abenaki",
+      "english": "Alnôbaôdwawôgan*",
+      "irish": "Féachaint ar Fholúntais",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_bulgarian",
+      "english": "български*",
+      "irish": "Arna dhéanamh sa Bhruiséil,",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_chinese",
+      "english": "简体中文",
+      "irish": "foirm duille: líneach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_chinese_trad",
+      "english": "繁體中文",
+      "irish": "Próifíl na Cuideachta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_croatian",
+      "english": "Croatian*",
+      "irish": "Cróitis *",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_czech",
+      "english": "Čeština*",
+      "irish": "Čeština *",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_danish",
+      "english": "Dansk*",
+      "irish": "Contúirteacha *",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_dutch",
+      "english": "Nederlands",
+      "irish": "irl - Library Service",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_english",
+      "english": "English",
+      "irish": "Gaeilge agus Béarla",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_estonian",
+      "english": "Estonian*",
+      "irish": "An Eastóin*",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_finnish",
+      "english": "Suomi*",
+      "irish": "Suomi *",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_french",
+      "english": "Français",
+      "irish": "Françoise",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_georgian",
+      "english": "ქართული*",
+      "irish": "Céim thábhachtach chun tosaigh *",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_german",
+      "english": "Deutsch",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_greek",
+      "english": "Ελληνικά*",
+      "irish": "Téigh go dtí na suíomhanna eile:",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_hindi",
+      "english": "हिन्दी*",
+      "irish": "Foirm Iarratais",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_hungarian",
+      "english": "Magyar*",
+      "irish": "Machaire *",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_icelandic",
+      "english": "íslenska*",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_italian",
+      "english": "Italiano",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_japanese",
+      "english": "日本語",
+      "irish": "bláthanna cumhra: cumhráin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_korean",
+      "english": "한국어",
+      "irish": "Uisce agus Séarachas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_latvian",
+      "english": "Latviski*",
+      "irish": "Lámhaigh *",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_lithuanian",
+      "english": "Lietuvių kalba*",
+      "irish": "Cuardaigh le haghaidh:",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_macedonian",
+      "english": "македонски*",
+      "irish": "IOMPAIR TEICNEOLAÍOCHTA *",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_norwegian",
+      "english": "Norsk*",
+      "irish": "Norsk *",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_polish",
+      "english": "Polski",
+      "irish": "Polasaithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_portuguese_brazilian",
+      "english": "Português (Brasil)",
+      "irish": "Toir agus Crainn bláthanna",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_portuguese_european",
+      "english": "Português europeu*",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_romanian",
+      "english": "Romanian*",
+      "irish": "An Rómáin*",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_russian",
+      "english": "Русский",
+      "irish": "Foinse do bhfianaise faoi stiúir glan",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_serbian",
+      "english": "Serbian*",
+      "irish": "An tSeirbia*",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_slovak",
+      "english": "Slovenčina*",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_spanish",
+      "english": "Español",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_swedish",
+      "english": "Svenska*",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_thai",
+      "english": "ไทย*",
+      "irish": "*",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_turkish",
+      "english": "Türkçe",
+      "irish": "Déan teagmháil linn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "language_ukrainian",
+      "english": "українська",
+      "irish": "Foinse do bhfianaise faoi stiúir glan",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "largebone",
+      "english": "Large Bone",
+      "irish": "Móra agus ceann",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "loading_healthwarning",
+      "english": "A very small percentage of individuals may experience epileptic seizures when exposed to certain visual images, including light patterns or flashing lights that may appear in video games or other video content. Exposure to certain patterns or backgrounds on a computer screen, or while playing video games, may induce an epileptic seizure in these individuals. Certain conditions may induce previously undetected epileptic symptoms even in persons who have no history of prior seizures or epilepsy.",
+      "irish": "D'fhéadfadh céatadán an-bheag de dhaoine aonair taithí taomanna epileptic nuair a nochtar le híomhánna amhairc áirithe, lena n-áirítear patrúin éadroma nó soilse gealánacha a d'fhéadfadh a bheith le feiceáil i cluichí físeáin nó ábhar físe eile. Nochtadh do phatrúin áirithe nó cúlraí ar scáileán ríomhaire, nó ag imirt cluichí físeáin, d'fhéadfadh a spreagadh urghabháil epileptic sna daoine aonair. D'fhéadfadh coinníollacha áirithe a aslú roimhe comharthaí epileptic undetected fiú i ndaoine nach bhfuil aon stair na taomanna roimh ré nó titimeas.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "loading_healthwarning2",
+      "english": "If you, or anyone in your family, have an epileptic condition, consult your physician prior to playing Valheim. If you experience any of the following symptoms while playing - dizziness, altered vision, eye or muscle twitches, loss of awareness, disorientation, any involuntary movement, or convulsions - discontinue IMMEDIATELY and consult your physician before resuming use of Valheim.",
+      "irish": "Má tá tú, nó duine ar bith i do theaghlach, tá riocht epileptic, i gcomhairle do dochtúir roimh imirt Valheim. Má bhíonn tú aon cheann de na comharthaí seo a leanas agus iad ag imirt - meadhrán, athrú fís, súl nó muscle twitches, caillteanas feasachta, disorientation, aon ghluaiseacht neamhdheonach, nó convulsions - scor IMMEDIATELY agus dul i gcomhairle le do dochtúir roimh úsáid a bhaint as Valheim.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "loading_healthwarningtitle",
+      "english": "PHOTOSENSITIVE SEIZURE WARNING: READ BEFORE PLAYING",
+      "irish": "SLÁNDÁLACHA PHOTOSENSITIVE BARÁNTA: LÉIGH ATHBHREITHNIÚ",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "loading_savenotification",
+      "english": "This game has an autosave feature. Please don't turn off the game or console when you see the autosave icon.",
+      "irish": "Tá an cluiche gné autosave. Ná cas amach an cluiche nó consól nuair a fheiceann tú an deilbhín autosave.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "loadscreen_tip01",
+      "english": "Don't forget to upgrade your crafting stations, weapons and armour.",
+      "irish": "Ná déan dearmad a uasghrádú do stáisiúin crafting, airm agus armúr.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "loadscreen_tip02",
+      "english": "Eating food increases your health and stamina pools. Try to balance your three food slots accordingly.",
+      "irish": "Eating bia méaduithe do shláinte agus stamina linnte. Bain triail as a chothromú do thrí sliotáin bia dá réir.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "loadscreen_tip03",
+      "english": "Upgraded stations enable various crafting options and let you improve your equipment.",
+      "irish": "Cuireann stáisiúin uasghrádaithe ar chumas roghanna éagsúla ceardaíochta agus lig duit do threalamh a fheabhsú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "loadscreen_tip04",
+      "english": "There are four principal crafting types: woodworking, masonry, smithing, and cooking.",
+      "irish": "Tá ceithre phríomhchineál crafting: adhmadóireachta, masonry, smithing, agus cócaireachta.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "loadscreen_tip05",
+      "english": "Enemies won't spawn near player built structures, such as crafting tables and camp fires.",
+      "irish": "Ní bheidh Enemies sceite in aice le struchtúir tógtha imreoir, mar shampla táblaí crafting agus tinte campa.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "loadscreen_tip06",
+      "english": "Sitting is the safest way to travel while on a boat.",
+      "irish": "Is é suí an bealach is sábháilte chun taisteal agus ar bhád.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "loadscreen_tip07",
+      "english": "Upon your arrival in Valheim, try to find stones and branches on the ground to build your first weapon.",
+      "irish": "Ar do theacht i Valheim, déan iarracht clocha agus brainsí a aimsiú ar an talamh chun do chéad arm a thógáil.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "loadscreen_tip08",
+      "english": "It is generally a bad idea to venture outside at night...",
+      "irish": "Tá sé i gcoitinne droch-smaoineamh chun fiontair taobh amuigh san oíche...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "loadscreen_tip09",
+      "english": "Hunting deer with a ranged weapon provides a good source of meat and skin.",
+      "irish": "Soláthraíonn fianna le arm raonta foinse mhaith feola agus craicinn.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "loadscreen_tip10",
+      "english": "Build a rudimentary shelter as soon as possible!",
+      "irish": "Tógáil foscadh rudimentary chomh luath agus is féidir!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "loadscreen_tip11",
+      "english": "Different enemies are weak to different damage types. For instance, Greydwarfs don't like fire.",
+      "irish": "Tá naimhde éagsúla lag do chineálacha damáiste éagsúla. Mar shampla, nach bhfuil Greydwarfs cosúil le tine.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "loadscreen_tip12",
+      "english": "When you have built a bed, do not forget to claim it.",
+      "irish": "Nuair a thóg tú leaba, ná déan dearmad é a éileamh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "loadscreen_tip13",
+      "english": "Attacking with knives and bows while sneaking confers a large damage bonus.",
+      "irish": "Ag ionsaí le sceana agus bows agus tugann sneaking bónas damáiste mór.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "loadscreen_tip14",
+      "english": "Birds are a good source of feathers. They will stay close to the ground while the weather is bad.",
+      "irish": "Is foinse mhaith cleití iad na héin. Beidh siad ag fanacht gar don talamh agus an aimsir dona.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "loadscreen_tip15",
+      "english": "Hugin the raven offers helpful hints.",
+      "irish": "Tugann Hugin an raven leideanna cabhrach.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "loadscreen_tip16",
+      "english": "Some resources require better gear to harvest them.",
+      "irish": "Éilíonn roinnt acmhainní fearas níos fearr chun iad a fhómhar.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "loadscreen_tip17",
+      "english": "Being rested helps to regenerate stamina and health faster.",
+      "irish": "Cuidíonn a bheith rested a athghiniúint stamina agus sláinte níos tapúla.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "loadscreen_tip18",
+      "english": "Yellow damage numbers indicate a weakness, grey numbers indicate a resistance.",
+      "irish": "Léiríonn uimhreacha damáiste buí laige, léiríonn uimhreacha liath friotaíocht.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "loadscreen_tip19",
+      "english": "The hoe can flatten the ground, which makes it much easier to construct buildings.",
+      "irish": "Is féidir leis an hoe an talamh a leacú, rud a fhágann go bhfuil sé i bhfad níos éasca foirgnimh a thógáil.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "loadscreen_tip20",
+      "english": "Build a cart to haul heavy goods over longer distances.",
+      "irish": "Tóg cart chun earraí troma a tharraingt thar achair níos faide.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "loadscreen_tip21",
+      "english": "Boats are controlled by interacting with the steering oar.",
+      "irish": "Boats á rialú ag idirghníomhú leis an oar stiúrtha.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "loadscreen_tip22",
+      "english": "Tin and copper can be found in the black forest.",
+      "irish": "Is féidir Tin agus copar a fháil san fhoraois dubh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "loadscreen_tip23",
+      "english": "Look for berries and mushrooms. They help to keep your stomach full.\n",
+      "irish": "Féach ar chaora agus beacáin. Cabhraíonn siad a choinneáil do bholg go hiomlán.\n",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "loadscreen_tip24",
+      "english": "You can filter map pins by type by right clicking on them. (DPad Right)",
+      "irish": "Is féidir leat a scagadh bioráin léarscáil de réir cineáil ag ceart cliceáil orthu. (Cearta PFS)",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "loadscreen_tip25",
+      "english": "If no arrow has been manually selected when using a bow, arrows are automatically selected in ascending order beginning from the leftmost column and going right.",
+      "irish": "Má tá aon arrow a roghnaíodh de láimh nuair a úsáid Bow, saigheada a roghnú go huathoibríoch in ord ardaitheach ag tosú as an colún leftmost agus ag dul ceart.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "location_bearcave",
+      "english": "Bear Cave",
+      "irish": "Bear Tonn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "location_darkesthole",
+      "english": "The Hole",
+      "irish": "An tIarthar",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "location_dnbossroom",
+      "english": "The First Prison",
+      "irish": "An Chéad Phríosúin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "location_dnbossroomnew",
+      "english": "The Prison",
+      "irish": "An Príosún",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "location_dvergrboss",
+      "english": "Infested Citadel",
+      "irish": "tréimhse saoil: ilbhliantúil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "location_dvergrtown",
+      "english": "Infested Mine",
+      "irish": "Mianaigh fhoirgnithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "location_enter",
+      "english": "Enter",
+      "irish": "Cuir isteach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "location_exit",
+      "english": "Exit",
+      "irish": "Déan Teagmháil Linn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "location_forestcave",
+      "english": "Troll Cave",
+      "irish": "Trollaigh uaimh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "location_forestcrypt",
+      "english": "Burial Chambers",
+      "irish": "Cruinnithe na Comhairle",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "location_mausoleum",
+      "english": "Tomb of Lord Reto",
+      "irish": "tuama an Tiarna Reto",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "location_morgenhole",
+      "english": "Putrid Hole",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "location_morkhalla",
+      "english": "Mörkhalla",
+      "irish": "Déan Teagmháil Linn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "location_mountaincave",
+      "english": "Frost Caves",
+      "irish": "Frost Caif",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "location_sunkencrypt",
+      "english": "Sunken Crypts",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "location_thehole",
+      "english": "Winding Tunnels",
+      "irish": "Tolláin Foirceannadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "mac_gamecenter_required_online_header",
+      "english": "Sign in to Game Center for online features",
+      "irish": "Sínigh isteach chun Ionad Cluiche le haghaidh gnéithe ar líne",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "mac_gamecenter_required_online_text",
+      "english": "Valheim uses Game Center for authentication - sign in to Game Center and restart Valheim in order to use online features. ",
+      "irish": "Valheim Úsáideann Ionad Cluiche le haghaidh fíordheimhnithe - comhartha i Ionad Cluiche agus atosú Valheim d'fhonn a úsáid gnéithe ar líne.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "memorialplace",
+      "english": "Memorial Place",
+      "irish": "irl - Library Service",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "message_dream",
+      "english": "You will dream tonight",
+      "irish": "Beidh tú aisling anocht",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "morkhalla_drawbridge",
+      "english": "Drawbridge",
+      "irish": "Dramhaíl Tí a Athchúrsáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "msg_worldsavewarningonserver",
+      "english": "The server is running out of disk space, consider clearing up space to be able to save in the future.",
+      "irish": "Tá an freastalaí ag rith amach as spás diosca, a mheas imréitigh suas spás a bheith in ann a shábháil sa todhchaí.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "name_mistlands_bosshint",
+      "english": "A mysterious text",
+      "irish": "téacs mistéireach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "online_kickedfromsession_header",
+      "english": "Kicked from session",
+      "irish": "Kicked ó sheisiún",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "online_kickedfromsession_suspendresume_xbox_text",
+      "english": "You were kicked from the online session due to the console going into Sleep mode, which suspends network activity.",
+      "irish": "Bhí kicked tú as an seisiún ar líne mar gheall ar an consól ag dul isteach i mód Codladh, a fhionraí gníomhaíocht líonra.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "placeofmystery",
+      "english": "Mysterious Location",
+      "irish": "tréimhse saoil: ilbhliantúil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "playfab_couldnotloadplayfabparty_header",
+      "english": "PlayFab could not load",
+      "irish": "Ní fhéadfadh PlayFab luchtú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "playfab_couldnotloadplayfabparty_text_linux",
+      "english": "It is necessary for using crossplay. Make sure you have installed the dependencies necessary for PlayFab Party on Linux, listed here: https://learn.microsoft.com/en-us/gaming/playfab/features/multiplayer/networking/linux-specific-requirements",
+      "irish": "Is gá tras-imirt a úsáid. Bí cinnte go bhfuil tú suiteáilte ar na spleáchais is gá do PlayFab Páirtí ar Linux, liostaithe anseo: https://learn.microsoft.com/en-us/gaming/playfab/features/il/networking/linux-sonrach-requirements",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "playfab_couldnotloadplayfabparty_text_linux_steamdeck",
+      "english": "It is necessary for using crossplay. Until a fix is available, you can use the Proton Compatibility layer on your Steam Deck to access crossplay features.",
+      "irish": "Is gá tras-imirt a úsáid. Go dtí go bhfuil a shocrú ar fáil, is féidir leat úsáid a bhaint as an ciseal Comhoiriúnacht Proton ar do Deic Gaile chun rochtain a fháil ar ghnéithe crossplay.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "playfab_couldnotloadplayfabparty_text_otherplatforms",
+      "english": "It is necessary for using crossplay. If this error persists, please report it as a bug.",
+      "irish": "Is gá tras-imirt a úsáid. Má leanann an earráid seo, tabhair tuairisc air mar bug.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "playfab_couldnotloadplayfabparty_text_windows",
+      "english": "It is necessary for using crossplay. This is usually because you do not have Microsoft Visual C++ redistributables installed. Download here: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist",
+      "irish": "Is gá tras-imirt a úsáid. Tá sé seo de ghnáth toisc nach bhfuil tú Microsoft Visual C ++ redistributables suiteáilte. Íoslódáil anseo: https://learn.microsoft.com/en-us/cpp/windows/latest-tacaíocht-vc-redist",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "playstation_activity_name",
+      "english": "Exploring the 10th world",
+      "irish": "Ag iniúchadh an domhain 10ú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "playstation_error_crossplayprivilege",
+      "english": "You've enabled the 'PlayStation™Network Only' setting in the Gameplay settings, which prevents you from playing on servers that allow crossplay with other platforms.",
+      "irish": "Tá tú ar chumas an 'PlayStationTMNetwork Amháin' leagan síos i suímh Gameplay, a chuireann cosc ort ó imirt ar fhreastalaithe a chuireann ar chumas crossplay le hardáin eile.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "playstation_settings_controller_layout",
+      "english": "Controller layout",
+      "irish": "leagan amach Rialaitheoir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "playstation_settings_controller_sensitivity",
+      "english": "Controller sensitivity",
+      "irish": "íogaireacht Rialaitheoir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "playstation_settings_gamepad",
+      "english": "Controller",
+      "irish": "Rialaitheoir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "playstation_trophy_set_online_only",
+      "english": "Multiplayer-only trophies",
+      "irish": "Trófaí il-amháin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "prop_ancienttree",
+      "english": "Ancient Tree",
+      "irish": "cineál gas: in airde",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "prop_ancienttreeroot",
+      "english": "Ancient Root",
+      "irish": "An tSeanfhréamh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "prop_ashlandstree",
+      "english": "Scorched Tree",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "prop_beech",
+      "english": "Beech",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "prop_beech_sapling",
+      "english": "Beech sapling",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "prop_beech_sapling_description",
+      "english": "A beech yields good old fashioned wood.",
+      "irish": "Tugann beech adhmad maith sean-aimseartha.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "prop_birch",
+      "english": "Birch",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "prop_birch_sapling",
+      "english": "Birch Sapling",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "prop_birch_sapling_description",
+      "english": "A prime source of finewood.",
+      "irish": "Príomhfhoinse de fíneáilwood.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "prop_dragonsummoningbowl_name",
+      "english": "Sacrificial Altar",
+      "irish": "Altar Íobairt",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "prop_eggcup",
+      "english": "Offering Bowl",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "prop_eldersummoningbowl_name",
+      "english": "Ancient Bowl",
+      "irish": "Seans go mbeidh ort:",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "prop_eldersummoningbowl_use",
+      "english": "Burn item",
+      "irish": "Amharc ar gach eolas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "prop_fir",
+      "english": "Fir",
+      "irish": "Gnó agus Gnó",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "prop_fir_big_sapling",
+      "english": "Timberwood Sapling",
+      "irish": "uainiú bláthanna: earrach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "prop_fir_big_sapling_description",
+      "english": "Though native to the northern regions, this tree can grow in most climates.",
+      "irish": "Cé dúchais do na réigiúin thuaidh, is féidir leis an gcrann seo fás i bhformhór na n-aeráid.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "prop_fir_sapling",
+      "english": "Fir Sapling",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "prop_fir_sapling_description",
+      "english": "A pretty tree, all year round.",
+      "irish": "A crann go leor, ar feadh na bliana.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "prop_oak",
+      "english": "Oak",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "prop_oak_sapling",
+      "english": "Oak Sapling",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "prop_oak_sapling_description",
+      "english": "With time, this will grow into a large oak.",
+      "irish": "Le himeacht ama, fásfaidh sé seo i darach mór.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "prop_offerbowl_makeoffer",
+      "english": "Offer sacrifice",
+      "irish": "íobairt Tairiscint",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "prop_pine",
+      "english": "Pine",
+      "irish": "cineál gas: in airde",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "prop_pine_sapling",
+      "english": "Pine Sapling",
+      "irish": "Pine Sapling",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "prop_pine_sapling_description",
+      "english": "These tall trees can be chopped down for corewood.",
+      "irish": "Is féidir na crainn ard seo a mhionghearrtha síos le haghaidh croí-adhmaid.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "prop_pine_snow",
+      "english": "Timber Tree",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "prop_timberwoodtree",
+      "english": "Timber Tree",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "prop_treelog",
+      "english": "Log",
+      "irish": "cineál gas: in airde",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "prop_treestump",
+      "english": "Stump",
+      "irish": "Déan teagmháil linn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "prop_yggashoot",
+      "english": "Yggdrasil Shoot",
+      "irish": "Shoot",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_codeofconduct_platform_specific_text",
+      "english": "You must also follow the PlayStation™Network’s Community Code of Conduct, which applies in addition to our rules.",
+      "irish": "Ní mór duit a leanúint freisin Cód Iompair Pobail PlaystationTMNetwork, a bhfuil feidhm aige chomh maith lenár rialacha.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_codeofconduct_reporting_violations_body",
+      "english": "If you encounter unacceptable behavior:\n• In-game: Use the built-in \"Report Player\" function (Options->Player List->Report)\n• Outside the game: Please use this online form: https://valheim.com/report-a-player\n• Via PlayStation™Network: See https://www.playstation.com/en-us/support/account/ps5-report-behaviour/",
+      "irish": "Má bhíonn tú iompar do-ghlactha:\nâ € ¢ I-cluiche: Bain úsáid as an-tógtha i \"Report Player\" fheidhm (Roghanna-bhraise Liosta- ^Report)\n• Lasmuigh den chluiche: Bain úsáid as an bhfoirm ar líne seo: https://valheim.com/report-a-player\nCóipeáil nasc leis an tweet Leabaigh an Tweet https://www.playstation.com/en-us/support/account/ps5-report-behaviour",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_crossplay_user_id_with_name",
+      "english": "Crossplay user ID: $1",
+      "irish": "ID úsáideora Crossplay: $1",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_error_crossplayprivilege",
+      "english": "You've enabled the 'PlayStation™Network Only' setting in the Gameplay settings, which prevents you from playing on servers that allow crossplay with other platforms.",
+      "irish": "Tá tú ar chumas an 'PlayStationTMNetwork Amháin' leagan síos i suímh Gameplay, a chuireann cosc ort ó imirt ar fhreastalaithe a chuireann ar chumas crossplay le hardáin eile.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_eula_important_first_text",
+      "english": "(Valheim – PlayStation®5 Edition)\nIMPORTANT: PLEASE READ THE AGREEMENT AT VALHEIM.COM/EULA CAREFULLY. BY DOWNLOADING, INSTALLING, OR USING “VALHEIM” (THE “PRODUCT”) ON A PLAYSTATION®5 CONSOLE YOU OWN OR CONTROL, YOU AGREE TO BE BOUND BY THE TERMS OF THIS END‑USER LICENSE AGREEMENT (“EULA”). IF YOU DO NOT AGREE, DO NOT USE THE PRODUCT.",
+      "irish": "(Valheim – PlayStation ®5 Edition)\nTÁBHACHTACH: PLEASE LÉIGH AN COMHAONTÚ AG VALHEIM.COM/EULA CAREFULLY. AG DÉANAMH, INSTA MEABHRÚ, NÓ A ÚSÁID \"VALHEIM\" (THE \"TÁIRGÍ\") MAIDIR LE LÁTHAIR®5 D'FHONN NÓ RIALÚ, DO CHOMHAONTAÍONN TÉARMAÍ AN CHOMHAONTAITHE SEO END-USER LICENSE (\"EULA\"). IF DO NACH COMHAONTÚ, NÁ ÚSÁID AN TÁIRGE.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_loading_savenotification",
+      "english": "This game has an autosave feature. Please don't turn off the game or console when you see the autosave icon.",
+      "irish": "Tá an cluiche gné autosave. Ná cas amach an cluiche nó consól nuair a fheiceann tú an deilbhín autosave.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_loadscreen_tip24",
+      "english": "You can filter map pins by type using the right directional button.",
+      "irish": "Is féidir leat a scagadh bioráin léarscáil de réir cineál ag baint úsáide as an cnaipe directional ceart.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_menu_cloudstoragefull",
+      "english": "Your console storage is full!",
+      "irish": "Tá do stóráil consól iomlán!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_menu_codeofconduct_button",
+      "english": "Code of Conduct",
+      "irish": "Cód Iompair",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_menu_crossplayserver",
+      "english": "Crossplay",
+      "irish": "Crossplay",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_menu_invite_friends",
+      "english": "Invite Friends",
+      "irish": "Cuireadh Cairde",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_menu_localstoragefullcharacterprompt",
+      "english": "You have run out of storage space, so the character could not be created.",
+      "irish": "Tá tú ag rith amach as spás stórála, mar sin ní fhéadfaí an carachtar a chruthú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_menu_localstoragefullworldprompt",
+      "english": "You have run out of storage space, so the world could not be created.",
+      "irish": "Tá tú ag rith amach as spás stórála, mar sin ní fhéadfaí an domhan a chruthú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_menu_storagefull",
+      "english": "Your console storage is full!",
+      "irish": "Tá do stóráil consól iomlán!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_menu_storagefulloperationfailed",
+      "english": "This operation failed because save data storage is full. Please remove unused save data and try again.",
+      "irish": "Theip ar an oibríocht seo toisc go bhfuil stóráil sonraí a shábháil iomlán. Bain úsáid as sonraí a shábháil agus déan iarracht arís.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_menu_storageused",
+      "english": "Console storage used: $1",
+      "irish": "stóráil Console a úsáidtear: $1",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_online_id_with_name",
+      "english": "Online ID: $1",
+      "irish": "ID ar líne: $1",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_online_kickedfromsession_suspendresume_text",
+      "english": "You were disconnected from the online session due to the PlayStation®5 console going into Rest mode, which suspends network activity.",
+      "irish": "Bhí tú dhícheangal ón seisiún ar líne mar gheall ar an PlayStation ®5 consól ag dul i mód Rest, a fhionraí gníomhaíocht líonra.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_online_kickedfromsession_text",
+      "english": "You were disconnected from the online session. Make sure you are logged in to PlayStation™Network and have a valid PlayStation®Plus subscription.",
+      "irish": "Dícheangal tú ón seisiún ar líne. Bí cinnte go bhfuil tú logáilte isteach chun PlayStationTMNetwork agus tá Playstation bailí ® Síntiús móide.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_report_user_banned_account",
+      "english": "Your account has been banned from playing online, due to breaking the terms of service as listed in the EULA and Code of Conduct. This action has been taken by Coffee Stain Publishing. See the EULA in the bottom left corner for more information.",
+      "irish": "Tá cosc curtha ar do chuntas ó imirt ar líne, mar gheall ar na téarmaí seirbhíse a bhriseadh mar atá liostaithe in EULA agus Cód Iompair. Tá an gníomh seo déanta ag Caife Stain Foilsitheoireacht. Féach an EULA sa chúinne clé bun le haghaidh tuilleadh eolais.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_settings_3d_audio",
+      "english": "3D audio",
+      "irish": "fuaime 3D",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_settings_controller",
+      "english": "Controller",
+      "irish": "Rialaitheoir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_settings_controller_enable_motion_sensor",
+      "english": "Enable motion sensor",
+      "irish": "braiteoir tairiscint cumasach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_settings_controller_layout",
+      "english": "Controller layout",
+      "irish": "leagan amach Rialaitheoir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_settings_controller_motion_sensor",
+      "english": "Motion sensor",
+      "irish": "braiteoir tairiscint",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_settings_controller_motion_sensor_settings_off",
+      "english": "Motion sensor is OFF! Check settings.",
+      "irish": "Tá braiteoir tairiscint OFF! Seiceáil socruithe.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_settings_controller_motion_sensor_toggled_off",
+      "english": "Toggled motion sensor to OFF",
+      "irish": "Braiteoir tairiscint scoránaigh chuig OFF",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_settings_controller_motion_sensor_toggled_on",
+      "english": "Toggled motion sensor to ON",
+      "irish": "braiteoir tairiscint scoránaigh a AR",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_settings_controller_motion_sensor_x_axis_sensitivity",
+      "english": "Motion sensor X axis sensitivity",
+      "irish": "Braiteoir tairiscint íogaireacht ais X",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_settings_controller_motion_sensor_y_axis_sensitivity",
+      "english": "Motion sensor Y axis sensitivity",
+      "irish": "Braiteoir tairiscint íogaireacht ais Y",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_settings_controller_sensitivity",
+      "english": "Controller sensitivity",
+      "irish": "íogaireacht Rialaitheoir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_settings_controller_speaker_volume",
+      "english": "Controller speaker volume",
+      "irish": "Rialaitheoir toirt cainteoir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_settings_controller_use_adaptive_triggers",
+      "english": "Use adaptive triggers",
+      "irish": "Úsáid truicir oiriúnaitheach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_settings_controller_use_controller_speaker",
+      "english": "Use controller speaker",
+      "irish": "Úsáid cainteoir rialtóir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_settings_controller_use_vibration",
+      "english": "Use vibration",
+      "irish": "Úsáid creathadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_settings_controller_vibration_strength",
+      "english": "Vibration strength",
+      "irish": "neart Chreathadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_settings_double_tap_descr",
+      "english": "Quickly tapping the stick towards the same element twice will interact with it.",
+      "irish": "Go tapa tapping an bata i dtreo an eilimint chéanna faoi dhó idirghníomhú leis.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_settings_flick_interact_descr",
+      "english": "Quickly moving the stick towards an element will interact with it.",
+      "irish": "Beidh go tapa ag bogadh an bata i dtreo eilimint idirghníomhú leis.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_settings_gamepadenabled",
+      "english": "Controller enabled",
+      "irish": "Rialaitheoir cumasaithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_settings_persistentbackbtn",
+      "english": "Persistent Back Button",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_settings_persistentbackbtn_descr",
+      "english": "When scrolling through a radial menu with multiple pages, the top-most element will always be a back button.",
+      "irish": "Nuair a scrollú trí roghchlár rada le leathanaigh iolracha, beidh an ghné is mó i gcónaí ar ais cnaipe.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_settings_same_online_platform_only",
+      "english": "PlayStation™Network only",
+      "irish": "PlayStation TMNetwork amháin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_settings_same_online_platform_only_desc",
+      "english": "Only play with players on PlayStation™Network. Disables all interaction with Cross-platform users. Can only be toggled in the main menu.",
+      "irish": "Ach imirt le himreoirí ar Playstation TMNetwork. Díchumasaigh gach idirghníomhaíocht le húsáideoirí Cross-platform. Ní féidir é a scoránaigh ach sa phríomh-roghchlár.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_settings_show_button_hints",
+      "english": "Show button hints",
+      "irish": "Taispeáin leideanna cnaipe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_settings_swap_triggers",
+      "english": "Swap R2 and L2 buttons",
+      "irish": "Babhtáil R2 agus L2 cnaipí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_ugc_character_name",
+      "english": "UGC character name",
+      "irish": "ainm carachtar UGC",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_ugc_server_name",
+      "english": "UGC server name",
+      "irish": "ainm freastalaí UGC",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_ugc_text",
+      "english": "UGC text",
+      "irish": "téacs UGC",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ps_ugc_world_name",
+      "english": "UGC world name",
+      "irish": "Ainm domhan UGC",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "radial_all",
+      "english": "All",
+      "irish": "Gach duine",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "radial_armor_utility",
+      "english": "Armor & Utilities",
+      "irish": "Láimhseáil agus Fóntais",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "radial_back",
+      "english": "Back",
+      "irish": "Ar ais chuig clár",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "radial_close",
+      "english": "Close",
+      "irish": "Dún na nGall",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "radial_consumables",
+      "english": "Consumables",
+      "irish": "Tomhaltas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "radial_drop",
+      "english": "Drop",
+      "irish": "Buail isteach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "radial_drop_multiple",
+      "english": "Drop Multiple",
+      "irish": "Buail Ilchodach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "radial_emotes",
+      "english": "Emotes",
+      "irish": "Amharc ar gach eolas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "radial_half",
+      "english": "Half",
+      "irish": "Leathanaigh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "radial_hammer",
+      "english": "Equip Hammer",
+      "irish": "Cothromóir Hammer",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "radial_handitems",
+      "english": "Hand Items",
+      "irish": "Lámh míreanna",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "radial_hold",
+      "english": "(Hold)",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "radial_hotbar",
+      "english": "Hotbar",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "radial_interact",
+      "english": "Use/Open",
+      "irish": "Úsáid / Oscailte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "radial_speed_fast",
+      "english": "Fast",
+      "irish": "Go tapa",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "radial_speed_medium",
+      "english": "Medium",
+      "irish": "Meán Fómhair 2014",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "radial_speed_off",
+      "english": "Off",
+      "irish": "Tairiscint",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "radial_speed_slow",
+      "english": "Slow",
+      "irish": "Sreabhadh Sreabhadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "radial_weapons_tools",
+      "english": "Weapons & Tools",
+      "irish": "Deontais do Mhic Léinn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "raven_interact",
+      "english": "Talk",
+      "irish": "Ag caint",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "report_server_window_explanation_text",
+      "english": "If this server contains User-Generated Content (UGC) that violates the Code of Conduct, it can be reported. Manually removing UGC via in-game means is recommended, though reporting the server is an alternative if that isn’t feasible.",
+      "irish": "Má tá an freastalaí Ábhar Úsáideora-Generated (UGC) a sháraíonn an Cód Iompair, is féidir é a thuairisciú. De láimh a bhaint UGC trí i-cluiche Ciallaíonn Moltar, cé go bhfuil tuairisciú an fhreastalaí rogha eile más rud é nach bhfuil sin indéanta.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "report_server_window_header",
+      "english": "Report server",
+      "irish": "Tuairisceán freastalaí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "report_user_already_reported_header",
+      "english": "Already reported",
+      "irish": "Tuairiscigh cheana féin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "report_user_already_reported_text",
+      "english": "You have already reported this user.",
+      "irish": "Thuairiscigh tú an t-úsáideoir seo cheana féin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "report_user_banned_account",
+      "english": "Your account has been banned from playing online, due to breaking the terms of service as listed in the EULA and Code of Conduct. This action has been taken by Coffee Stain Publishing. See the EULA in the bottom left corner for more information.",
+      "irish": "Tá cosc curtha ar do chuntas ó imirt ar líne, mar gheall ar na téarmaí seirbhíse a bhriseadh mar atá liostaithe in EULA agus Cód Iompair. Tá an gníomh seo déanta ag Caife Stain Foilsitheoireacht. Féach an EULA sa chúinne clé bun le haghaidh tuilleadh eolais.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "report_user_banned_account_steam",
+      "english": "Your account has been banned from playing on Crossplay servers, due to breaking the terms of service as listed in the EULA and Code of Conduct. This action has been taken by Coffee Stain Publishing. See the EULA in the bottom left corner for more information.",
+      "irish": "Tá toirmeasc ar do chuntas a imirt ar fhreastalaithe Crossplay, mar gheall ar na téarmaí seirbhíse mar atá liostaithe in EULA agus Cód Iompair a bhriseadh. Tá an gníomh seo déanta ag Caife Stain Foilsitheoireacht. Féach an EULA sa chúinne clé bun le haghaidh tuilleadh eolais.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "report_user_banned_bodytext_permanentBan",
+      "english": "This ban is permanent.",
+      "irish": "Tá an toirmeasc buan.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "report_user_banned_bodytext_unbannedLocalTime",
+      "english": "Your ban will expire at",
+      "irish": "Beidh do toirmeasc dul in éag ag",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "report_user_banned_header",
+      "english": "Banned.",
+      "irish": "Stánaithe.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "report_user_failed_header",
+      "english": "Report failed!",
+      "irish": "An Tuairisc theip!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "report_user_failed_text",
+      "english": "Report could not be sent! Please try again later.",
+      "irish": "Níorbh fhéidir Tuarascáil a sheoladh! Déan iarracht arís níos déanaí.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "report_user_send_report_cancel",
+      "english": "Cancel report",
+      "irish": "Cealaigh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "report_user_send_report_cant_send_not_enough_text",
+      "english": "Please write more details in the text field before sending the report!",
+      "irish": "Scríobh tuilleadh sonraí i réimse an téacs roimh sheoladh na tuarascála!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "report_user_send_report_failed",
+      "english": "Report failed",
+      "irish": "An Tuairisc",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "report_user_send_report_send",
+      "english": "Send report",
+      "irish": "Déan Teagmháil Linn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "report_user_successful_header",
+      "english": "Report sent!",
+      "irish": "Tuairisc sheoladh!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "report_user_successful_text",
+      "english": "Your report has been recorded. It will be acted upon soon.",
+      "irish": "Tá do thuairisc taifeadta. Beidh sé ag gníomhú go luath.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "report_user_window_explanation_text",
+      "english": "Chat history and name is automatically included. Please elaborate as to why you are reporting this user in the text window above. Do not include sensitive or irrelevant personal information.",
+      "irish": "Tá stair comhrá agus ainm san áireamh go huathoibríoch. Le do thoil ilchasta maidir le cén fáth go bhfuil tú ag tuairisciú an t-úsáideoir sa fhuinneog téacs thuas. Ná cuir faisnéis phearsanta íogair nó ábhartha san áireamh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "report_user_window_header",
+      "english": "Report user",
+      "irish": "Tuairisc úsáideora",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "rock_abyssalbarnacle",
+      "english": "Abyssal Barnacle",
+      "irish": "Abyssal Barnacle",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "rotate_build_mode",
+      "english": "Rotate (build mode)",
+      "irish": "Rotate (modh tógála)",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_animateradial_descr",
+      "english": "Adds animations when opening and closing the radial, and when selecting an element.",
+      "irish": "Cuir beochan nuair a oscailt agus a dhúnadh ar an gha, agus nuair a roghnú eilimint.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_autorun_descr",
+      "english": "After triggering sprint, the character will continue sprinting until coming to a halt or running out of stamina.",
+      "irish": "Tar éis sprint a spreagadh, leanfaidh an carachtar ar aghaidh ag sprinting go dtí teacht ar stad nó ag rith amach as stamina.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_bigpicturetext",
+      "english": "* Gamepad text input boxes and chat are only available when playing in the Big Picture Mode.",
+      "irish": "* Tá boscaí ionchur téacs Gamepad agus comhrá ar fáil ach amháin nuair a imirt sa Mód Big Picture.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_console_desc",
+      "english": "Enables opening the in-game console, used for accessing special debugging commands and features. The -console command line argument overrides this setting.",
+      "irish": "Cumasaigh oscailt an consól i-cluiche, a úsáidtear chun rochtain a fháil ar orduithe agus gnéithe debugging speisialta. An líne ordú -console overrides argóint an suíomh seo.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_deleteplayfabaccount_ingamewarning",
+      "english": "Can't delete PlayFab account while in a world. Please go to the main menu in order to delete your account.",
+      "irish": "Ní féidir a scriosadh cuntas PlayFab agus i saol. Téigh go dtí an príomh-roghchlár chun do chuntas a scriosadh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_deleteplayfabaccount_text",
+      "english": "Are you sure you want to delete your PlayFab account and all associated data? Your worlds, characters, and any User-Generated Content such as buildings will NOT be removed. You can easily create a new account next time you try to access online services inside Valheim.",
+      "irish": "An bhfuil tú cinnte gur mhaith leat a scriosadh do chuntas PlayFab agus na sonraí a bhaineann? Do shaol, carachtair, agus aon Ábhar Úsáideora-Generated ar nós foirgnimh NACH a bhaint. Is féidir leat a chruthú go héasca cuntas nua an chéad uair eile iarracht tú chun rochtain a fháil ar sheirbhísí ar líne taobh istigh Valheim.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_graphics_preset_balanced_description",
+      "english": "Targets 40 fps with higher graphics quality if 120 Hz is supported and enabled, otherwise uses the 60 fps preset",
+      "irish": "Spriocanna 40 fps le caighdeán grafaicí níos airde má tá 120 Hz tacaíocht agus ar chumas, ar shlí eile úsáideann an réamhshocraithe 60 fps",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_graphics_preset_high_description",
+      "english": "Stunning graphics for powerful systems",
+      "irish": "Grafaicí néalacha do chórais chumhachtacha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_graphics_preset_low_description",
+      "english": "Looks good and runs well even on weak systems",
+      "irish": "Breathnaíonn maith agus ritheann go maith fiú ar chórais lag",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_graphics_preset_medium_description",
+      "english": "Strikes a good balance between graphics quality and performance",
+      "irish": "Stailceanna cothromaíocht mhaith idir caighdeán grafaicí agus feidhmíocht",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_graphics_preset_performance_description",
+      "english": "Targets 60 fps with standard graphics quality",
+      "irish": "Spriocanna 60 fps le caighdeán grafaicí caighdeánach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_graphics_preset_quality_description",
+      "english": "Targets 30 fps with the highest graphics quality",
+      "irish": "Spriocanna 30 fps leis an gcaighdeán grafaicí is airde",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_hoverselectspd_descr",
+      "english": "How quickly an element is selected when hovering over it. Set to \"Off\" to disable hover selection.",
+      "irish": "Cé chomh tapa a roghnaítear eilimint nuair a bhíonn sé ag dul thar. Socraigh go \"Off\" a roghnú hover disable.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_persistentbackbtn_descr",
+      "english": "When scrolling through a radial menu with multiple pages, the top-most element will always be a back button.",
+      "irish": "Nuair a scrollú trí roghchlár rada le leathanaigh iolracha, beidh an ghné is mó i gcónaí ar ais cnaipe.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_quality_mode_balanced_description",
+      "english": "Balanced mode compromises between performance and quality.",
+      "irish": "Comhréitigh mód chothromaithe idir feidhmíocht agus cáilíocht.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_quality_mode_performance_description",
+      "english": "Performance mode favors smooth gameplay with higher frame rate.",
+      "irish": "Is fearr modh feidhmíochta gameplay réidh le ráta fráma níos airde.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_quality_mode_quality_description",
+      "english": "Quality mode favors the game's good looks over frame rate.",
+      "irish": "Mod cáilíochta favors Breathnaíonn an cluiche maith os cionn ráta fráma.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_quality_mode_very_low_description",
+      "english": "Very poor quality, but can be played on a weak system.",
+      "irish": "Caighdeán an-lag, ach is féidir a imirt ar chóras lag.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_renderscale_descr",
+      "english": "Resolution of the game elements other than UIs. Can be used either or both to increase performance or create a more retro look.",
+      "irish": "Rún na heilimintí cluiche seachas UIs. Is féidir é a úsáid ceachtar nó an dá feidhmíocht a mhéadú nó cuma níos retro a chruthú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_same_online_platform_only_desc_ps",
+      "english": "Only play with players on PlayStation™Network. Disables all interaction with Cross-platform users. Can only be toggled in the main menu.",
+      "irish": "Ach imirt le himreoirí ar Playstation TMNetwork. Díchumasaigh gach idirghníomhaíocht le húsáideoirí Cross-platform. Ní féidir é a scoránaigh ach sa phríomh-roghchlár.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "settings_spiraleffect_descr",
+      "english": "Determines instensity of the spiral effect. When scrolling through a radial menu with multiple pages, elements next to the selected one will be scaled and moved to create a spiral-staircase-like effect. If turned off, the elements will only fade in and out. Please note that this setting requires Animate Radial to be enabled.",
+      "irish": "Socraigh déine an éifeacht bíseach. Nuair a scrollú trí roghchlár rada le leathanaigh éagsúla, beidh eilimintí in aice leis an gceann roghnaithe a scála agus a bhogadh chun éifeacht bíseach-stairseach-mhaith a chruthú. Má iompú amach, ní bheidh na heilimintí céimnithe ach amháin i agus amach. Tabhair faoi deara go n-éilíonn an suíomh seo Animate Radial a chur ar chumas.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "sfx_arrow_hit",
+      "english": "Arrow thunking",
+      "irish": "cineál gas: in airde",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "sfx_bird_death",
+      "english": "Bird dying",
+      "irish": "Éan ag fáil bháis",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "sfx_crow_idle",
+      "english": "Crow cawing",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "sfx_piercing_dmg",
+      "english": "Weapon piercing",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "sfx_ship_impact",
+      "english": "Ship impact",
+      "irish": "Tionchar long",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "sfx_wishbone_closer",
+      "english": "ringing sharper",
+      "irish": "ringing sharper",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "sfx_wishbone_far",
+      "english": "giving off a dull ring",
+      "irish": "a thabhairt amach fáinne dull",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "sfx_wishbone_further",
+      "english": "ringing with a low tone",
+      "irish": "ringing le ton íseal",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "sfx_wishbone_med",
+      "english": "ringing",
+      "irish": "ringing",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "sfx_wishbone_near",
+      "english": "ringing sharply",
+      "irish": "ringing géar",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "shadowperson_randomtalk_01",
+      "english": "His blade was dipped in poison, I stood no chance...",
+      "irish": "Bhí tumtha a lann i nimh, sheas mé aon seans...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "shadowperson_randomtalk_02",
+      "english": "Pain, sharp and excruciating. And then nothing.",
+      "irish": "Péine, géar agus excruciating. Agus ansin rud ar bith.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "shadowperson_randomtalk_03",
+      "english": "Fire doesn't warm me any longer, nor does it offer any true light.",
+      "irish": "Ní Dóiteáin te dom a thuilleadh, ná ní chuireann sé ar fáil aon solas fíor.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "shadowperson_randomtalk_04",
+      "english": "I don't recall what it was like to not be numb and cold.",
+      "irish": "Ní féidir liom a thabhairt chun cuimhne cad a bhí sé cosúil le nach numb agus fuar.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "shadowperson_randomtalk_05",
+      "english": "Her knife found my heart just as I slit her throat. We died next to each other.",
+      "irish": "Fuair a scian mo chroí díreach mar scoilt mé a scornach. Fuaireamar bás in aice lena chéile.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "shadowperson_randomtalk_06",
+      "english": "This is not Valhalla, nor is it Hel. No, this is something far worse.",
+      "irish": "Níl an Tweet seo ar fáil. Níl, tá sé seo rud éigin i bhfad níos measa.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "shadowperson_randomtalk_07",
+      "english": "A dead man out of mind...",
+      "irish": "Fear marbh as aigne...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "shadowperson_randomtalk_08",
+      "english": "Father... I failed you. I'm sorry...",
+      "irish": "Athair... theip orm tú. Tá brón orm...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "shadowperson_randomtalk_09",
+      "english": "Forgive me, sister, for I could not follow in your footsteps.",
+      "irish": "logh dom, deirfiúr, do ní raibh mé in ann a leanúint i do footsteps.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "shadowperson_randomtalk_10",
+      "english": "I went with him until the end...",
+      "irish": "Chuaigh mé leis go dtí an deireadh...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "shadowperson_randomtalk_11",
+      "english": "Is someone there? I... I could have sworn I saw somebody.",
+      "irish": "An bhfuil duine éigin ann? D'fhéadfadh mé a bheith faoi mhionn chonaic mé duine éigin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "shadowperson_randomtalk_12",
+      "english": "Long forgotten... Lonely...",
+      "irish": "Long dearmad... Lonely...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "shadowperson_randomtalk_13",
+      "english": "Just one more step. Just one more.",
+      "irish": "Just céim amháin níos mó. Díreach amháin níos mó.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "shadowperson_randomtalk_14",
+      "english": "These were the last of the lands we knew...",
+      "irish": "Ba iad seo an ceann deireanach de na tailte a fhios againn...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "shadowperson_randomtalk_15",
+      "english": "This waste I know not, nor this dark night...",
+      "irish": "An dramhaíl Níl a fhios agam, ná an oíche dorcha...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "shadowperson_randomtalk_16",
+      "english": "I thought I saw someone walking beside me, but it was but a shadow.",
+      "irish": "Shíl mé chonaic mé duine éigin ag siúl in aice liom, ach bhí sé ach scáth.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "shadowperson_randomtalk_17",
+      "english": "I no longer feel the sun on my face, nor the ground beneath my feet.",
+      "irish": "Braitheann mé a thuilleadh ar an ghrian ar mo aghaidh, ná an talamh faoi bhun mo chosa.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "shadowperson_randomtalk_18",
+      "english": "I've... I've become so very numb.",
+      "irish": "Tá mé... Tá mé a bheith chomh an- numb.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "shadowperson_randomtalk_19",
+      "english": "My purpose has been served, yet no reward was given. Now I walk here, without a use...",
+      "irish": "Tá mo chuspóir a sheirbheáil, ach tugadh aon luaíocht. Anois siúl mé anseo, gan úsáid...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "shadowperson_randomtalk_20",
+      "english": "There is so much blood... How much can a person bleed before they are gone?",
+      "irish": "Tá an oiread sin fola... Cé mhéad is féidir le duine bleed sula bhfuil siad imithe?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "shadowperson_randomtalk_21",
+      "english": "The sorrow of my defeat, everlasting...",
+      "irish": "An brón ar mo defeat, everlasting...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "shadowperson_randomtalk_22",
+      "english": "I still feel the sharp antlers piercing my chest. When will I be free of this pain?",
+      "irish": "Braitheann mé fós ar an antlers géar piercing mo cófra. Cathain a bheidh mé saor ón bpian seo?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "shadowperson_randomtalk_23",
+      "english": "I thought she was reaching out to me, but then lightning spilled from her fingertips.",
+      "irish": "Shíl mé go raibh sí a bhaint amach dom, ach ansin doirte tintreach as a fingertips.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "shadowperson_randomtalk_24",
+      "english": "Such strange creatures there are to be found here. I had hoped they were friendly.",
+      "irish": "Tá créatúir aisteach den sórt sin le fáil anseo. Bhí súil agam go raibh siad cairdiúil.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "shadowperson_randomtalk_25",
+      "english": "Can you hear their voices? They still remain...",
+      "irish": "An féidir leat a chloisteáil a gcuid guthanna? Tá siad fós...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "shadowperson_randomtalk_26",
+      "english": "I came so far, only for it to be over in the blink of an eye.",
+      "irish": "Tháinig mé go dtí seo, ach amháin chun é a bheith os a chionn i blink na súl.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "shadowperson_randomtalk_27",
+      "english": "Such beautiful shifting, undulating colours... Why can't I reach them?",
+      "irish": "Aistriú álainn den sórt sin, dathanna míchuí... Cén fáth nach féidir liom iad a bhaint amach?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "shadowperson_randomtalk_28",
+      "english": "Was this my destiny? To fall before I ever reached my goal?",
+      "irish": "An raibh sé seo mo cinniúint? Chun titim sula shroich mé riamh mo sprioc?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "shadowperson_randomtalk_29",
+      "english": "So much blood spilled, and for what?",
+      "irish": "An oiread sin fola doirte, agus cad?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "shadowperson_randomtalk_30",
+      "english": "Who shall tell my tale?",
+      "irish": "Cé a insint mo scéal?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ship_ashlandocean_warning",
+      "english": "The sizzling waters are eating through your hull, turn back!",
+      "irish": "Na huiscí sizzling ag ithe trí do chabhail, cas ar ais!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ship_cargo",
+      "english": "Cargo",
+      "irish": "Go raibh maith agat",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ship_holdfast",
+      "english": "Hold fast",
+      "irish": "Coinnigh go tapa",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ship_karve",
+      "english": "Karve",
+      "irish": "Déan teagmháil linn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ship_karve_description",
+      "english": "A small and sleek ship, ready to set sail.",
+      "irish": "A long beag agus sleek, réidh a leagtar seol.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ship_longship",
+      "english": "Longship",
+      "irish": "Fad an chúrsa",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ship_longship_ashlands",
+      "english": "Drakkar",
+      "irish": "Déan teagmháil linn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ship_longship_ashlands_description",
+      "english": "A massive ship, sturdy enough to sail on even the most dangerous seas.",
+      "irish": "A long ollmhór, sturdy go leor chun dul ar fiú na farraigí is contúirtí.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ship_longship_description",
+      "english": "A mighty viking ship for sailing to distant shores.",
+      "irish": "A long inmharthana mighty do seoltóireacht go dtí cladaigh i bhfad i gcéin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ship_raft",
+      "english": "Raft",
+      "irish": "Rafta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ship_raft_description",
+      "english": "It may not look like much, but a raft will get you farther than swimming!",
+      "irish": "Ní fhéadfadh sé cuma mhaith i bhfad, ach beidh rafta a fháil tú níos faide ná snámh!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_axes_description",
+      "english": "Damage with axes.",
+      "irish": "Damáiste le haiseanna.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_blocking_description",
+      "english": "Damage absorbed when blocking with a weapon or shield.",
+      "irish": "Damáiste absorbed nuair a blocáil le arm nó sciath.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_bloodmagic_description",
+      "english": "Damage, eitr and health drain when using blood magic.",
+      "irish": "Damáiste, eitinn agus draein sláinte nuair a úsáid draíocht fola.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_bows_description",
+      "english": "Damage with bows.",
+      "irish": "Damáiste le bows.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_clubs_description",
+      "english": "Damage with clubs.",
+      "irish": "Damáiste le clubanna.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_cooking_description",
+      "english": "Cooking speed, serving tray wear and chance for bonus yields.",
+      "irish": "Luas cócaireachta, ag freastal ar chaitheamh tráidire agus seans do thorthaí bónas.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_crafting_description",
+      "english": "Crafting speed, hammer wear and building stamina use.",
+      "irish": "Luas Ceardaíochta, caitheamh casúr agus a thógáil stamina úsáid.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_crossbows_description",
+      "english": "Accuracy and damage with crossbows.",
+      "irish": "Cruinneas agus damáiste le crosbhoghtha.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_dodge_description",
+      "english": "Stamina drain when dodging.",
+      "irish": "Stamina draein nuair dodging.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_elementalmagic_description",
+      "english": "Damage and eitr usage when using elemental magic.",
+      "irish": "Damáiste agus úsáid eite nuair a úsáid draíocht eiliminteach.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_farming_description",
+      "english": "Stamina use, cultivator wear, harvest radius and chance for bonus yields.",
+      "irish": "Úsáid Stamina, caitheamh saothruitheoir, gathacha fómhar agus seans do thorthaí bónas.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_firemagic_description",
+      "english": "Write something",
+      "irish": "Scríobh rud éigin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_fishing_description",
+      "english": "Stamina drain and pull speed when fishing.",
+      "irish": "Stamina draein agus luas tarraingt nuair a iascaireacht.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_frostmagic_description",
+      "english": "Write something",
+      "irish": "Scríobh rud éigin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_jump_description",
+      "english": "Jump height.",
+      "irish": "Léim airde.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_knives_description",
+      "english": "Damage with knives.",
+      "irish": "Damáiste le sceana.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_pickaxes_description",
+      "english": "Damage with pickaxes.",
+      "irish": "Damáiste le pickaxes.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_polearms_description",
+      "english": "Damage with polearms.",
+      "irish": "Damáiste le cuaillí.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_ride_description",
+      "english": "Animal speed and stamina drain.",
+      "irish": "Luas ainmhithe agus stamina draein.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_run_description",
+      "english": "Speed and stamina drain when running.",
+      "irish": "Luas agus stamina draein nuair a rith.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_shields_description",
+      "english": "not used.",
+      "irish": "nach n-úsáidtear.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_sneak_description",
+      "english": "Stamina drain and stealthiness when sneaking.",
+      "irish": "Stamina draein agus stealthiness nuair sneaking.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_spears_description",
+      "english": "Damage with spears.",
+      "irish": "Damáiste le spears.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_swim_description",
+      "english": "Stamina drain when swimming.",
+      "irish": "Stamina draein nuair snámh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_swords_description",
+      "english": "Damage with swords.",
+      "irish": "Damáiste le claimhte.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_unarmed_description",
+      "english": "Damage when unarmed.",
+      "irish": "Damáiste nuair a bheidh sé gan airm.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_woodcutting_description",
+      "english": "Axe damage when hitting trees.",
+      "irish": "Damáiste Axe nuair a bualadh crainn.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "spiritcaller_bjorn",
+      "english": "",
+      "irish": "",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "spiritcaller_boar",
+      "english": "",
+      "irish": "",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "spiritcaller_moose",
+      "english": "",
+      "irish": "",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "spiritcaller_wolf",
+      "english": "",
+      "irish": "",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stonecircle_hook_name",
+      "english": "Chiselled Platform",
+      "irish": "Ardán Chiselled",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stonecircle_itemplaced",
+      "english": "You are worthy",
+      "irish": "Tá tú fiú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "store_buy",
+      "english": "Buy",
+      "irish": "Ceannaigh Ceannaigh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "store_sell",
+      "english": "Sell",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "store_topic",
+      "english": "Store",
+      "irish": "Store a dhíol",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_codeofconduct_prohibited_behavior_body",
+      "english": "The following actions may result in temporary or permanent bans from playing online:\n• Harassment, hate speech, threats, or discrimination.\n• Sharing inappropriate or offensive content via chat, in-game building or other means.",
+      "irish": "D'fhéadfadh go mbeadh toirmeasc sealadach nó buan ar na gníomhaíochtaí seo a leanas ar líne a imirt:\n• Harassment, fuathchaint, bagairtí, nó idirdhealú.\nâ € ¢ Roinnt ábhar míchuí nó ionsaitheach trí comhrá, i-cluiche foirgneamh nó ar mhodh eile.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_eula_header",
+      "english": "END-USER LICENSE AGREEMENT",
+      "irish": "END-USER COMHAONTú LICENSE",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_eula_important_first_text",
+      "english": "(Valheim – Nintendo Switch 2)\nIMPORTANT: PLEASE READ THE AGREEMENT AT VALHEIM.COM/EULA CAREFULLY. BY DOWNLOADING, INSTALLING, OR USING “VALHEIM” (THE “PRODUCT”) ON A NINTENDO SWITCH 2 SYSTEM YOU OWN OR CONTROL, YOU AGREE TO BE BOUND BY THE TERMS OF THIS END‑USER LICENSE AGREEMENT (“EULA”). IF YOU DO NOT AGREE, DO NOT USE THE PRODUCT.",
+      "irish": "(Valheim – Nintendo Switch 2)\nTÁBHACHTACH: PLEASE LÉIGH AN COMHAONTÚ AG VALHEIM.COM/EULA CAREFULLY. AG DÉANAMH, AG MEABHRÚ, NÓ A ÚSÁID \"VALHEIM\" (THE \"TÁIRGÍ\") MAIDIR LE CÓRAS NINTENDO SÓCMHAINNÍ 2 NÓ RIALÚ, DO COMHAONTÚ A BHUNÚ AG TÉARMAÍ AN CHOMHAONTÚ SEO END-USER LICENSE (\"EULA\"). IF DO NACH COMHAONTÚ, NÁ ÚSÁID AN TÁIRGE.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_loading_savenotification",
+      "english": "This game has an autosave feature. Please don't turn off the game or console when you see the autosave icon.",
+      "irish": "Tá an cluiche gné autosave. Ná cas amach an cluiche nó consól nuair a fheiceann tú an deilbhín autosave.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_loadscreen_tip24",
+      "english": "You can filter map pins by type with the Right Button (ZR Button with Joy-Con 2 mouse controls)",
+      "irish": "Is féidir leat a scagadh bioráin léarscáil de réir cineáil leis an Button Ceart (ZR Button le Joy-Con 2 rialuithe luch)",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_menu_cloudstoragefull",
+      "english": "Your system memory is full!",
+      "irish": "Tá do chuimhne córas iomlán!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_menu_friendinvite_accepted_header",
+      "english": "Friend invite accepted",
+      "irish": "Cairde cuireadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_menu_friends",
+      "english": "Friends",
+      "irish": "Amharc ar gach eolas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_menu_invite_friends",
+      "english": "Invite Friends",
+      "irish": "Cuireadh Cairde",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_menu_localstoragefullcharacterprompt",
+      "english": "You have run out of system memory, so the character could not be created.",
+      "irish": "Tá tú ag rith amach as cuimhne an chórais, mar sin ní fhéadfaí an carachtar a chruthú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_menu_localstoragefullworldprompt",
+      "english": "You have run out of system memory, so the world could not be created.",
+      "irish": "Tá tú ag rith amach as cuimhne an chórais, mar sin ní fhéadfaí an domhan a chruthú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_menu_storagefull",
+      "english": "Your system memory is full!",
+      "irish": "Tá do chuimhne córas iomlán!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_menu_storagefulloperationfailed",
+      "english": "This operation failed because system memory is full. Please remove unused save data and try again.",
+      "irish": "Theip ar an oibríocht seo toisc go bhfuil cuimhne an chórais iomlán. Bain úsáid as sonraí a shábháil agus déan iarracht arís.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_menu_storageused",
+      "english": "System memory used: $1",
+      "irish": "cuimhne an chórais a úsáidtear: $1",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_online_kickedfromsession_suspendresume_text",
+      "english": "You were kicked from the online session due to the Nintendo Switch 2 console going into sleep mode, which suspends network activity.",
+      "irish": "Cuireadh kicked tú as an seisiún ar líne mar gheall ar an Nintendo Switch 2 consól ag dul i mód codlata, a fhionraí gníomhaíocht líonra.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_settings_controller",
+      "english": "Controller",
+      "irish": "Rialaitheoir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_settings_controller_default",
+      "english": "Console",
+      "irish": "Console",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_settings_controller_enable_motion_sensor",
+      "english": "Enable motion controls",
+      "irish": "Rialuithe tairiscint Cumasaigh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_settings_controller_layout",
+      "english": "Controller layout",
+      "irish": "leagan amach Rialaitheoir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_settings_controller_motion_sensor",
+      "english": "Motion controls",
+      "irish": "An tSraith Shinsearach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_settings_controller_motion_sensor_settings_off",
+      "english": "Motion controls are OFF! Check settings.",
+      "irish": "Tá rialuithe tairiscint OFF! Seiceáil socruithe.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_settings_controller_motion_sensor_toggled_off",
+      "english": "Toggled motion controls to OFF",
+      "irish": "Rialuithe tairiscint scoránaigh chuig OFF",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_settings_controller_motion_sensor_toggled_on",
+      "english": "Toggled motion controls to ON",
+      "irish": "Rialuithe tairiscint scoránaigh a AR",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_settings_controller_motion_sensor_x_axis_sensitivity",
+      "english": "Motion controls X axis sensitivity",
+      "irish": "Rialú tairiscint íogaireacht ais X",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_settings_controller_motion_sensor_y_axis_sensitivity",
+      "english": "Motion controls Y axis sensitivity",
+      "irish": "Rialuithe tairiscint íogaireacht ais Y",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_settings_controller_sensitivity",
+      "english": "Controller sensitivity",
+      "irish": "íogaireacht Rialaitheoir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_settings_controller_use_vibration",
+      "english": "Use rumble",
+      "irish": "Úsáid rumble",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_settings_controller_vibration_strength",
+      "english": "Rumble strength",
+      "irish": "neart shiúil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_settings_double_tap_descr",
+      "english": "Quickly tapping the stick towards the same element twice will interact with it.",
+      "irish": "Go tapa tapping an bata i dtreo an eilimint chéanna faoi dhó idirghníomhú leis.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_settings_flick_interact_descr",
+      "english": "Quickly moving the stick towards an element will interact with it.",
+      "irish": "Beidh go tapa ag bogadh an bata i dtreo eilimint idirghníomhú leis.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_settings_gamepadenabled",
+      "english": "Controller enabled",
+      "irish": "Rialaitheoir cumasaithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_settings_mouse_layout",
+      "english": "Mouse controls layout",
+      "irish": "leagan amach rialuithe Luiche",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_settings_mouse_layout_controller",
+      "english": "Console mouse controls",
+      "irish": "Rialuithe luiche Console",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_settings_mouse_layout_pc",
+      "english": "PC mouse controls",
+      "irish": "rialuithe luch ríomhaire",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_settings_mouse_sensitivity",
+      "english": "Mouse controls sensitivity",
+      "irish": "íogaireacht rialuithe Luch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_settings_mouse_tab",
+      "english": "Joy-Con 2 mouse controls",
+      "irish": "Joy-Con 2 rialuithe luch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_settings_persistentbackbtn",
+      "english": "Persistent Back Button",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_settings_persistentbackbtn_descr",
+      "english": "When scrolling through a radial menu with multiple pages, the top-most element will always be a back button.",
+      "irish": "Nuair a scrollú trí roghchlár rada le leathanaigh iolracha, beidh an ghné is mó i gcónaí ar ais cnaipe.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_settings_show_button_hints",
+      "english": "Show button hints",
+      "irish": "Taispeáin leideanna cnaipe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_settings_swap_triggers",
+      "english": "Swap ZR and ZL buttons",
+      "irish": "Swap ZR agus ZL cnaipí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_settings_switch_mouse_enabled",
+      "english": "Mouse controls enabled",
+      "irish": "Rialuithe úsáid ar chumas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_ugc_character_name",
+      "english": "UGC character name",
+      "irish": "ainm carachtar UGC",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_ugc_server_name",
+      "english": "UGC server name",
+      "irish": "ainm freastalaí UGC",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_ugc_text",
+      "english": "UGC text",
+      "irish": "téacs UGC",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "switch_ugc_world_name",
+      "english": "UGC world name",
+      "irish": "Ainm domhan UGC",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tag_architecture",
+      "english": "Architecture",
+      "irish": "Ailtireacht",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tag_building",
+      "english": "Building",
+      "irish": "Amharc ar gach eolas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tag_crafting",
+      "english": "Crafting",
+      "irish": "An tSraith Shinsearach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tag_decor",
+      "english": "Decor",
+      "irish": "Déan teagmháil Linn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tag_defense",
+      "english": "Defence",
+      "irish": "Cosaint Sonraí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tag_doors",
+      "english": "Doors and Windows",
+      "irish": "Doirse agus Windows",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tag_feasts",
+      "english": "Feasts",
+      "irish": "Feasts",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tag_floor",
+      "english": "Flooring",
+      "irish": "Uisce agus Séarachas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tag_food",
+      "english": "Food",
+      "irish": "Bia bia",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tag_furniture",
+      "english": "Furniture",
+      "irish": "Troscán",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tag_lighting",
+      "english": "Lighting",
+      "irish": "Soilsiú Poiblí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tag_mead",
+      "english": "Mead",
+      "irish": "Meadrán",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tag_misc",
+      "english": "Misc.",
+      "irish": "Misc.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tag_roof",
+      "english": "Roofing",
+      "irish": "Díroghnaigh gach rud",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tag_seasonal",
+      "english": "Seasonal Items",
+      "irish": "Míreanna Séasúracha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tag_stacks",
+      "english": "Piles and Stacks",
+      "irish": "Piles agus Stacks",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tag_stairs",
+      "english": "Stairs",
+      "irish": "Stair na Staire",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tag_storage",
+      "english": "Storage",
+      "irish": "Stóráil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tag_transport",
+      "english": "Transportation",
+      "irish": "Iompar agus Iompar",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tag_wall",
+      "english": "Walls",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tamed_name_01",
+      "english": "Your best pal",
+      "irish": "Do phaill is fearr",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "text_hidden_notification_muted",
+      "english": "TEXT HIDDEN, AUTHOR IS MUTED",
+      "irish": "TEXT HIDDEN, AUTHOR IS MUTED",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "text_hidden_notification_ugc_settings",
+      "english": "TEXT HIDDEN, CHECK UGC SETTINGS",
+      "irish": "TEXT HIDDEN, CHECK UGC SETTINGs",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "text_mistlands_bosshint",
+      "english": "The gate is sealed. The key is scattered and hidden, deep in the mines, so it might never again be unsealed. The gate is sealed.",
+      "irish": "Tá an geata séalaithe. Tá an eochair scaipthe agus i bhfolach, domhain sna mianaigh, mar sin d'fhéadfadh sé a bheith riamh arís unsealed. Tá an geata séalaithe.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "text_player_arrived",
+      "english": "I have arrived!",
+      "irish": "Mé tháinig!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tinyrom_download_patch_to_play",
+      "english": "Please download patch to play",
+      "irish": "Le do thoil íoslódáil paiste a imirt",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tool_batteringram",
+      "english": "Battering Ram",
+      "irish": "Cadhnraí Ram",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tool_batteringram_description",
+      "english": "This is a force to be reckoned with. Fuel it up and bring it to your enemies' stronghold for a greater chance of success.",
+      "irish": "Is fórsa atá le háireamh leis. Breosla sé suas agus é a thabhairt chuig do naimhde' láidir le haghaidh seans níos mó de rath.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tool_cart",
+      "english": "Cart",
+      "irish": "Cart na Cartlainne",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tool_cart_description",
+      "english": "Convenient when you need to move a lot of resources around.",
+      "irish": "Áisiúil nuair is gá duit a bhogadh go leor acmhainní timpeall.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tool_catapult",
+      "english": "Catapult",
+      "irish": "Catalógach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "tool_catapult_description",
+      "english": "If you can't go through it, perhaps you can go over it...",
+      "irish": "Más rud é nach féidir leat dul tríd, b'fhéidir gur féidir leat dul os a chionn...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "ui_hold",
+      "english": "Hold",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "wolf_statue",
+      "english": "Fenris Shrine",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "xbox_codeofconduct_platform_specific_text",
+      "english": "You must also follow Xbox's Community Standards, which applies in addition to our rules.",
+      "irish": "Ní mór duit Caighdeáin Phobail Xbox a leanúint, a bhfuil feidhm acu chomh maith lenár rialacha.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "xbox_codeofconduct_reporting_violations_body",
+      "english": "If you encounter unacceptable behavior:\n• In-game: Use the built-in \"Report Player\" function (Options->Player List->Report)\n• Outside the game: Please use this online form: https://valheim.com/report-a-player\n• Via Xbox: See https://support.xbox.com/en-US/help/family-online-safety/enforcement/file-a-complaint-on-xbox-app",
+      "irish": "Má bhíonn tú iompar do-ghlactha:\nâ € ¢ I-cluiche: Bain úsáid as an-tógtha i \"Report Player\" fheidhm (Roghanna-bhraise Liosta- ^Report)\n• Lasmuigh den chluiche: Bain úsáid as an bhfoirm ar líne seo: https://valheim.com/report-a-player\nCóipeáil nasc leis an tweet Leabaigh an Tweet https://support.xbox.com/en-US/help/family-online-safety/enforcement/file-complaint-on-xbox-app",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "xbox_error_crossplayprivilege",
+      "english": "Your platform privilege settings prevent you from playing on servers that allow crossplay with other platforms.",
+      "irish": "Do suímh pribhléid ardán cosc tú ó imirt ar fhreastalaithe a cheadaíonn crossplay le ardáin eile.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "xbox_eula_important_first_text",
+      "english": "(Valheim – Xbox® Edition)\nIMPORTANT: PLEASE READ THE AGREEMENT AT VALHEIM.COM/EULA CAREFULLY. BY DOWNLOADING, INSTALLING, OR USING “VALHEIM” (THE “PRODUCT”) ON AN XBOX CONSOLE YOU OWN OR CONTROL, YOU AGREE TO BE BOUND BY THE TERMS OF THIS END‑USER LICENSE AGREEMENT (“EULA”). IF YOU DO NOT AGREE, DO NOT USE THE PRODUCT.",
+      "irish": "(Valheim – Xbox ® Edition)\nTÁBHACHTACH: PLEASE LÉIGH AN COMHAONTÚ AG VALHEIM.COM/EULA CAREFULLY. AG DÉANAMH, AG MEABHRÚ, NÓ A ÚSÁID \"VALHEIM\" (THE \"TÁIRGÍ\") AR AN XBOX DÉANAMH NÓ RIALÚ, DO CHOMHAONTAÍTEAR AG AN TÉARMAÍ SEO END-CHISTEACH COMHAONTÚ AONTAITHE (\"EULA\"). IF DO NACH COMHAONTÚ, NÁ ÚSÁID AN TÁIRGE.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "xbox_loading_savenotification",
+      "english": "This game has an autosave feature. Please don't turn off the game or console when you see the autosave icon.",
+      "irish": "Tá an cluiche gné autosave. Ná cas amach an cluiche nó consól nuair a fheiceann tú an deilbhín autosave.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "xbox_menu_resolve_privilege",
+      "english": "Resolve privilege issue?",
+      "irish": "Eisiúint pribhléide a réiteach?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "xbox_menu_storagefull",
+      "english": "Your storage is full!",
+      "irish": "Tá do stóráil iomlán!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "xbox_menu_storagefulloperationfailed",
+      "english": "This operation failed because save data storage is full. Please remove unused save data and try again.",
+      "irish": "Theip ar an oibríocht seo toisc go bhfuil stóráil sonraí a shábháil iomlán. Bain úsáid as sonraí a shábháil agus déan iarracht arís.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "xbox_menu_storageused",
+      "english": "Storage used: $1",
+      "irish": "Stóráil a úsáidtear: $1",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "xbox_online_kickedfromsession_suspendresume_text",
+      "english": "You were kicked from the online session due to the console going into Sleep mode, which suspends network activity.",
+      "irish": "Bhí kicked tú as an seisiún ar líne mar gheall ar an consól ag dul isteach i mód Codladh, a fhionraí gníomhaíocht líonra.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "xbox_settings_controller",
+      "english": "Controller",
+      "irish": "Rialaitheoir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "xbox_settings_controller_default",
+      "english": "Console",
+      "irish": "Console",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "xbox_settings_controller_layout",
+      "english": "Controller layout",
+      "irish": "leagan amach Rialaitheoir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "xbox_settings_controller_sensitivity",
+      "english": "Controller sensitivity",
+      "irish": "íogaireacht Rialaitheoir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "xbox_settings_controller_use_vibration",
+      "english": "Use vibration",
+      "irish": "Úsáid creathadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "xbox_settings_controller_vibration_strength",
+      "english": "Vibration strength",
+      "irish": "neart Chreathadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "xbox_settings_double_tap_descr",
+      "english": "Quickly tapping the stick towards the same element twice will interact with it.",
+      "irish": "Go tapa tapping an bata i dtreo an eilimint chéanna faoi dhó idirghníomhú leis.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "xbox_settings_flick_interact_descr",
+      "english": "Quickly moving the stick towards an element will interact with it.",
+      "irish": "Beidh go tapa ag bogadh an bata i dtreo eilimint idirghníomhú leis.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "xbox_settings_gamepad",
+      "english": "Controller",
+      "irish": "Rialaitheoir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "xbox_settings_gamepadenabled",
+      "english": "Controller enabled",
+      "irish": "Rialaitheoir cumasaithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "xbox_settings_joysens",
+      "english": "Controller sensitivity",
+      "irish": "íogaireacht Rialaitheoir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "xbox_settings_persistentbackbtn",
+      "english": "Persistent Back Button",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "xbox_settings_persistentbackbtn_descr",
+      "english": "When scrolling through a radial menu with multiple pages, the top-most element will always be a back button.",
+      "irish": "Nuair a scrollú trí roghchlár rada le leathanaigh iolracha, beidh an ghné is mó i gcónaí ar ais cnaipe.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "xbox_settings_show_button_hints",
+      "english": "Show button hints",
+      "irish": "Taispeáin leideanna cnaipe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "xbox_ugc_character_name",
+      "english": "UGC character name",
+      "irish": "ainm carachtar UGC",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "xbox_ugc_server_name",
+      "english": "UGC server name",
+      "irish": "ainm freastalaí UGC",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "xbox_ugc_text",
+      "english": "UGC text",
+      "irish": "téacs UGC",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "xbox_ugc_world_name",
+      "english": "UGC world name",
+      "irish": "Ainm domhan UGC",
+      "translationMethod": "manual"
+    }
+  ]
+}

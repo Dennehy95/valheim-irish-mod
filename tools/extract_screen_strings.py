@@ -12,6 +12,10 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
+_TOOLS = Path(__file__).resolve().parent
+if str(_TOOLS) not in sys.path:
+    sys.path.insert(0, str(_TOOLS))
+
 try:
     import UnityPy
 except ImportError:
@@ -27,14 +31,7 @@ def sha256_file(path: Path) -> str:
     return h.hexdigest()
 
 
-def load_scope_keys(scope_file: Path) -> list[str]:
-    keys: list[str] = []
-    for line in scope_file.read_text(encoding="utf-8").splitlines():
-        line = line.strip()
-        if not line or line.startswith("#"):
-            continue
-        keys.append(line)
-    return keys
+from scope_io import load_scope_keys  # noqa: E402
 
 
 def load_localization_tables(resources_assets: Path) -> dict[str, dict[str, str]]:

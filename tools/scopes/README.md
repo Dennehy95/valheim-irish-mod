@@ -150,4 +150,16 @@ python tools/run_coverage_batch.py --scope tools/scopes/achievements.keys.txt --
 
 (Same pattern for `fallen` and `events`.)
 
+## Batch 9 — final sweep (remainder)
+
+| File | Scope | Keys |
+|------|--------|------|
+| `remainder.keys.txt` | All vanilla keys not wired after v0.8.0 | 681 |
+
+```powershell
+python tools/run_final_sweep.py
+```
+
+Writes `remainder.ga.json`, `extracted/remainder.json`, and `tools/remainder_irish_map.json`. Scope parsing treats `# ...` lines as comments only (keys like `#piece_sapcollector_check` are valid).
+
 Vanilla key census: `python tools/count_vanilla_keys.py`.

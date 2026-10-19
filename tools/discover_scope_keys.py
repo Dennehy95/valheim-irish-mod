@@ -9,6 +9,12 @@ import io
 import sys
 from pathlib import Path
 
+_TOOLS = Path(__file__).resolve().parent
+if str(_TOOLS) not in sys.path:
+    sys.path.insert(0, str(_TOOLS))
+
+from scope_io import is_scope_header_comment
+
 try:
     import UnityPy
 except ImportError:
@@ -81,7 +87,7 @@ def main() -> int:
     for path in args.exclude_file:
         for line in path.read_text(encoding="utf-8").splitlines():
             line = line.strip()
-            if line and not line.startswith("#"):
+            if line and not is_scope_header_comment(line):
                 exclude.add(line)
 
     tables = load_tables(resources)

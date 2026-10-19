@@ -25,8 +25,9 @@ Static dumps of **scoped** UI strings for translation pipeline work. These files
 | [`achievements.json`](achievements.json) | **Achievements** (`ach_*`) | 110 |
 | [`fallen.json`](fallen.json) | **Fallen** (`fallen_*`, not `fallenwarrior_*`) | 80 |
 | [`events.json`](events.json) | **World events** (`event_*`) | 54 |
+| [`remainder.json`](remainder.json) | **Final sweep** — all keys not covered by earlier batches | 681 |
 
-**Total scoped keys in extracts:** 5021 (5377 wired via matching `Translations/*.ga.json` as of v0.8.0).
+**Total scoped keys in extracts:** 5702 (6058 wired via matching `Translations/*.ga.json` as of v1.0.0 — 100% vanilla key census).
 
 ### Scope rationale (`fejd-root-main-menu`)
 

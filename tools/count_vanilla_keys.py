@@ -13,6 +13,12 @@ import sys
 from collections import Counter
 from pathlib import Path
 
+_TOOLS = Path(__file__).resolve().parent
+if str(_TOOLS) not in sys.path:
+    sys.path.insert(0, str(_TOOLS))
+
+from scope_io import is_scope_header_comment
+
 try:
     import UnityPy
 except ImportError:
@@ -82,7 +88,7 @@ def load_wired_keys(repo: Path) -> set[str]:
     for path in (repo / "tools" / "scopes").glob("*.keys.txt"):
         for line in path.read_text(encoding="utf-8").splitlines():
             line = line.strip()
-            if line and not line.startswith("#"):
+            if line and not is_scope_header_comment(line):
                 wired.add(line)
     trans = repo / "plugins" / "irish-mod" / "Translations"
     for ga in trans.glob("*.ga.json"):

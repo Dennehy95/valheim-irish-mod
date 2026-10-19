@@ -1,0 +1,3419 @@
+{
+  "screen_id": "remainder",
+  "screen_title": "Remaining vanilla localization keys",
+  "scope_notes": "Keys from scope file tools/scopes/remainder.keys.txt.",
+  "scope_keys_file": "tools/scopes/remainder.keys.txt",
+  "extracted_at_utc": "2026-10-19T18:57:42.318383+00:00",
+  "method": "static",
+  "game_path": "A:\\Steam\\steamapps\\common\\Valheim",
+  "resources_assets_sha256": "f0274fe60c807842352a049f3762b7a08965bdbfe759dfbb16f90272e51c6bdb",
+  "key_count": 681,
+  "entries": [
+    {
+      "key": "#piece_sapcollector_check",
+      "english": "Check extractor",
+      "source_asset": "localization"
+    },
+    {
+      "key": "NOT USED tutorial_stemple3_label",
+      "english": "",
+      "source_asset": "localization"
+    },
+    {
+      "key": "NOT USED tutorial_stemple3_text",
+      "english": "",
+      "source_asset": "localization"
+    },
+    {
+      "key": "OLD hud_altplace",
+      "english": "Alternative placement",
+      "source_asset": "localization"
+    },
+    {
+      "key": "OLD inventory_stationlevel",
+      "english": "Station level",
+      "source_asset": "localization"
+    },
+    {
+      "key": "OLD inventory_stationlevelreq",
+      "english": "Required improvements",
+      "source_asset": "localization"
+    },
+    {
+      "key": "OLD inventory_upgrade",
+      "english": "Upgrade item",
+      "source_asset": "localization"
+    },
+    {
+      "key": "OLD menu_exit",
+      "english": "Exit",
+      "source_asset": "localization"
+    },
+    {
+      "key": "achievement_details",
+      "english": "Achievement details",
+      "source_asset": "localization"
+    },
+    {
+      "key": "achievements_cheated_item_inventory",
+      "english": "This item was summoned through cheating means.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "achievements_confirm_cheat",
+      "english": "That command is a cheat, please enter 'confirmcheats' in the console to use cheats. <color=red>Using cheats will permanently disable the ability to unlock achievements for this character and this world.</color>",
+      "source_asset": "localization"
+    },
+    {
+      "key": "achievements_dropped_cheated_item",
+      "english": "No more cheated items in inventory. Achievement progress is re-enabled.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "achievements_permanently_cheated_bypass",
+      "english": "Achievement progress is enabled for this character even though dev commands have been used.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "achievements_permanently_cheated_character",
+      "english": "Achievement progress is permanently disabled for this character due to dev command usage.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "achievements_permanently_cheated_world",
+      "english": "Achievement progress is permanently disabled for this world due to using dev command world modifiers.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "achievements_picked_up_cheated_item",
+      "english": "Picked up cheated item. Achievement progress is temporarily disabled.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "achievements_temporarily_cheated",
+      "english": "Achievement progress is temporarily disabled for this character due to possession of cheated items.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "alternate_key_label",
+      "english": "Alternate function: +",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ammo_arrows",
+      "english": "arrows",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ammo_bolts",
+      "english": "bolts",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ammo_turretbolt",
+      "english": "Black Metal Missile",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ammo_turretboltwood",
+      "english": "Wooden Missile",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ancient_chest",
+      "english": "Ancient Coffin",
+      "source_asset": "localization"
+    },
+    {
+      "key": "animal_fish",
+      "english": "Fish",
+      "source_asset": "localization"
+    },
+    {
+      "key": "animal_fish1",
+      "english": "Perch",
+      "source_asset": "localization"
+    },
+    {
+      "key": "animal_fish10",
+      "english": "Northern Salmon",
+      "source_asset": "localization"
+    },
+    {
+      "key": "animal_fish11",
+      "english": "Magmafish",
+      "source_asset": "localization"
+    },
+    {
+      "key": "animal_fish12",
+      "english": "Pufferfish",
+      "source_asset": "localization"
+    },
+    {
+      "key": "animal_fish2",
+      "english": "Pike",
+      "source_asset": "localization"
+    },
+    {
+      "key": "animal_fish3",
+      "english": "Tuna",
+      "source_asset": "localization"
+    },
+    {
+      "key": "animal_fish4",
+      "english": "Tetra",
+      "source_asset": "localization"
+    },
+    {
+      "key": "animal_fish5",
+      "english": "Trollfish",
+      "source_asset": "localization"
+    },
+    {
+      "key": "animal_fish6",
+      "english": "Giant Herring",
+      "source_asset": "localization"
+    },
+    {
+      "key": "animal_fish7",
+      "english": "Grouper",
+      "source_asset": "localization"
+    },
+    {
+      "key": "animal_fish8",
+      "english": "Coral Cod",
+      "source_asset": "localization"
+    },
+    {
+      "key": "animal_fish9",
+      "english": "Anglerfish",
+      "source_asset": "localization"
+    },
+    {
+      "key": "base_item_modifier",
+      "english": "Base item stamina use",
+      "source_asset": "localization"
+    },
+    {
+      "key": "biome_ashlands",
+      "english": "Ashlands",
+      "source_asset": "localization"
+    },
+    {
+      "key": "biome_blackforest",
+      "english": "Black Forest",
+      "source_asset": "localization"
+    },
+    {
+      "key": "biome_darklands",
+      "english": "Darklands",
+      "source_asset": "localization"
+    },
+    {
+      "key": "biome_deepnorth",
+      "english": "Deep North",
+      "source_asset": "localization"
+    },
+    {
+      "key": "biome_edge",
+      "english": "Edge of the World",
+      "source_asset": "localization"
+    },
+    {
+      "key": "biome_forest",
+      "english": "Forest",
+      "source_asset": "localization"
+    },
+    {
+      "key": "biome_heath",
+      "english": "Heath",
+      "source_asset": "localization"
+    },
+    {
+      "key": "biome_meadows",
+      "english": "Meadows",
+      "source_asset": "localization"
+    },
+    {
+      "key": "biome_mistlands",
+      "english": "Mistlands",
+      "source_asset": "localization"
+    },
+    {
+      "key": "biome_mountain",
+      "english": "Mountain",
+      "source_asset": "localization"
+    },
+    {
+      "key": "biome_ocean",
+      "english": "Ocean",
+      "source_asset": "localization"
+    },
+    {
+      "key": "biome_plains",
+      "english": "Plains",
+      "source_asset": "localization"
+    },
+    {
+      "key": "biome_swamp",
+      "english": "Swamp",
+      "source_asset": "localization"
+    },
+    {
+      "key": "black_ice_combo",
+      "english": "Malicious Ice",
+      "source_asset": "localization"
+    },
+    {
+      "key": "blackice_core",
+      "english": "Malicious Ice",
+      "source_asset": "localization"
+    },
+    {
+      "key": "blackice_triggeritem",
+      "english": "Malicious Ice",
+      "source_asset": "localization"
+    },
+    {
+      "key": "blocking_joined_world_with_blocked_player",
+      "english": "This world contains User Generated Content (UGC) by a player you have blocked. In order to play on this world, you must unblock them. Do you wish to unblock the following user: ",
+      "source_asset": "localization"
+    },
+    {
+      "key": "boss_hive_end",
+      "english": "We are dispersed.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "boss_hive_start",
+      "english": "We have gathered.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "build_piece_author_built_by",
+      "english": "Built by:",
+      "source_asset": "localization"
+    },
+    {
+      "key": "build_piece_author_unknown",
+      "english": "Unknown",
+      "source_asset": "localization"
+    },
+    {
+      "key": "button_a",
+      "english": "A",
+      "source_asset": "localization"
+    },
+    {
+      "key": "button_b",
+      "english": "B",
+      "source_asset": "localization"
+    },
+    {
+      "key": "button_back",
+      "english": "Back",
+      "source_asset": "localization"
+    },
+    {
+      "key": "button_lalt",
+      "english": "L-Alt",
+      "source_asset": "localization"
+    },
+    {
+      "key": "button_lb",
+      "english": "LB",
+      "source_asset": "localization"
+    },
+    {
+      "key": "button_lcommand",
+      "english": "L-Command",
+      "source_asset": "localization"
+    },
+    {
+      "key": "button_lctrl",
+      "english": "L-Ctrl",
+      "source_asset": "localization"
+    },
+    {
+      "key": "button_ls",
+      "english": "LS",
+      "source_asset": "localization"
+    },
+    {
+      "key": "button_lshift",
+      "english": "L-Shift",
+      "source_asset": "localization"
+    },
+    {
+      "key": "button_mouse0",
+      "english": "Mouse-1",
+      "source_asset": "localization"
+    },
+    {
+      "key": "button_mouse1",
+      "english": "Mouse-2",
+      "source_asset": "localization"
+    },
+    {
+      "key": "button_mouse2",
+      "english": "Mouse-3",
+      "source_asset": "localization"
+    },
+    {
+      "key": "button_ps_a",
+      "english": "✕",
+      "source_asset": "localization"
+    },
+    {
+      "key": "button_ps_b",
+      "english": "○",
+      "source_asset": "localization"
+    },
+    {
+      "key": "button_ps_back",
+      "english": "Share",
+      "source_asset": "localization"
+    },
+    {
+      "key": "button_ps_lb",
+      "english": "L1",
+      "source_asset": "localization"
+    },
+    {
+      "key": "button_ps_ls",
+      "english": "L3",
+      "source_asset": "localization"
+    },
+    {
+      "key": "button_ps_rb",
+      "english": "R1",
+      "source_asset": "localization"
+    },
+    {
+      "key": "button_ps_rs",
+      "english": "R3",
+      "source_asset": "localization"
+    },
+    {
+      "key": "button_ps_start",
+      "english": "Options",
+      "source_asset": "localization"
+    },
+    {
+      "key": "button_ps_x",
+      "english": "▫",
+      "source_asset": "localization"
+    },
+    {
+      "key": "button_ps_y",
+      "english": "△",
+      "source_asset": "localization"
+    },
+    {
+      "key": "button_ralt",
+      "english": "R-Alt",
+      "source_asset": "localization"
+    },
+    {
+      "key": "button_rb",
+      "english": "RB",
+      "source_asset": "localization"
+    },
+    {
+      "key": "button_rcommand",
+      "english": "R-Command",
+      "source_asset": "localization"
+    },
+    {
+      "key": "button_rctrl",
+      "english": "R-Ctrl",
+      "source_asset": "localization"
+    },
+    {
+      "key": "button_return",
+      "english": "Return",
+      "source_asset": "localization"
+    },
+    {
+      "key": "button_rs",
+      "english": "RS",
+      "source_asset": "localization"
+    },
+    {
+      "key": "button_rshift",
+      "english": "R-Shift",
+      "source_asset": "localization"
+    },
+    {
+      "key": "button_space",
+      "english": "Space",
+      "source_asset": "localization"
+    },
+    {
+      "key": "button_start",
+      "english": "Start",
+      "source_asset": "localization"
+    },
+    {
+      "key": "button_x",
+      "english": "X",
+      "source_asset": "localization"
+    },
+    {
+      "key": "button_y",
+      "english": "Y",
+      "source_asset": "localization"
+    },
+    {
+      "key": "charredfortress",
+      "english": "Charred Fortress",
+      "source_asset": "localization"
+    },
+    {
+      "key": "chat_entermessage",
+      "english": "Enter chat message",
+      "source_asset": "localization"
+    },
+    {
+      "key": "chat_entertext",
+      "english": "Enter text...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "chat_kill",
+      "english": "Kill yourself",
+      "source_asset": "localization"
+    },
+    {
+      "key": "chat_resetspawn",
+      "english": "Reset spawn point",
+      "source_asset": "localization"
+    },
+    {
+      "key": "chat_shout",
+      "english": "Shout",
+      "source_asset": "localization"
+    },
+    {
+      "key": "chat_whisper",
+      "english": "Whisper",
+      "source_asset": "localization"
+    },
+    {
+      "key": "cinematics_end_credits",
+      "english": "End Credits",
+      "source_asset": "localization"
+    },
+    {
+      "key": "cinematics_intro",
+      "english": "Intro",
+      "source_asset": "localization"
+    },
+    {
+      "key": "cinematics_outro",
+      "english": "Outro",
+      "source_asset": "localization"
+    },
+    {
+      "key": "codeofconduct_ban_appeals_body",
+      "english": "If you believe your ban was issued in error, you may contact our support for review. However, final decisions will be made in accordance with our policies and platform requirements.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "codeofconduct_ban_appeals_header",
+      "english": "Ban Appeals",
+      "source_asset": "localization"
+    },
+    {
+      "key": "codeofconduct_bodytext_first",
+      "english": "When playing via crossplay platforms, you’re expected to follow all rules and community guidelines set by us. Please behave at your best.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "codeofconduct_enforcement_and_bans_body",
+      "english": "We reserve the right to take action against players violating these rules, including:\r\n• Temporary or permanent bans from playing online.\r\n• Restrictions on crossplay features.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "codeofconduct_enforcement_and_bans_header",
+      "english": "Enforcement & Bans",
+      "source_asset": "localization"
+    },
+    {
+      "key": "codeofconduct_header",
+      "english": "Player Conduct & Bans - Play Responsibly",
+      "source_asset": "localization"
+    },
+    {
+      "key": "codeofconduct_platform_specific_text_playstation",
+      "english": "You must also follow the PlayStation™Network’s Community Code of Conduct, which applies in addition to our rules.",
+      "source_asset": "localization_platformspecific"
+    },
+    {
+      "key": "codeofconduct_platform_specific_text_xbox",
+      "english": "You must also follow Xbox's Community Standards, which applies in addition to our rules.",
+      "source_asset": "localization_platformspecific"
+    },
+    {
+      "key": "codeofconduct_prohibited_behavior_body",
+      "english": "The following actions may result in temporary or permanent bans from playing online:\r\n• Harassment, hate speech, threats, or discrimination.\r\n• Sharing inappropriate or offensive content via chat, in-game building or other means.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "codeofconduct_prohibited_behavior_header",
+      "english": "Prohibited Behavior",
+      "source_asset": "localization"
+    },
+    {
+      "key": "codeofconduct_reporting_violations_body",
+      "english": "If you encounter unacceptable behavior:\r\n• In-game: Use the built-in \"Report Player\" function (Options->Player List->Report)\r\n• Outside the game: Please use this online form: https://valheim.com/report-a-player",
+      "source_asset": "localization"
+    },
+    {
+      "key": "codeofconduct_reporting_violations_header",
+      "english": "Reporting Violations",
+      "source_asset": "localization"
+    },
+    {
+      "key": "deadspeak_bonemass",
+      "english": "Thank you, warrior. We who lived on in this shape were denied the peace of death for too long. We go now...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "deadspeak_eikthyr",
+      "english": "So you were my death? You look so small and soft… Tell Oden he may have broken this form but the wilderness will never submit to his rules...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "deadspeak_elder",
+      "english": "Little thing of blood and bone, I should have snapped you like a twig! Now I wither and die, let the great tree have me...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "deadspeak_fader",
+      "english": "I followed a false destiny, and it gave me nothing but ruin. Forgive me, my love...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "deadspeak_fish1",
+      "english": "I'm a perch, not a bass!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "deadspeak_fish10",
+      "english": "Once I was free to jump upstream. But no longer.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "deadspeak_fish11",
+      "english": "Please lay me to rest by the fire...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "deadspeak_fish12",
+      "english": "Have you seen my friend around? Her name is Anika.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "deadspeak_fish2",
+      "english": "You're supposed to put heads on a pike, not put a pike on a wall...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "deadspeak_fish3",
+      "english": "I've got this tune stuck in my head...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "deadspeak_fish4",
+      "english": "It's so cold... And dark... But I like it that way.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "deadspeak_fish5",
+      "english": "Stop it with the baiting already!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "deadspeak_fish6",
+      "english": "What's that nasty smell? Surely it couldn't be me!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "deadspeak_fish7",
+      "english": "I'm dead but not gone. Won't you free me from this cursed purgatory?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "deadspeak_fish8",
+      "english": "Do you ever wonder what lurks in the deepest parts of the ocean? Don't. It's better not to know.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "deadspeak_fish9",
+      "english": "Do you see the light? It beckons you...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "deadspeak_fish_shared1",
+      "english": "Don't worry. Be happy.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "deadspeak_fish_shared2",
+      "english": "Take me to the river... Drop me in the water...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "deadspeak_hive",
+      "english": "You think you beat us? Think again... We are still, and forever will be the hive - and the hive is unbeatable.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "deadspeak_moder",
+      "english": "Sheathe your pride, creature of Oden! My long reign is at an end but those who come after me are greater still...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "deadspeak_queen",
+      "english": "Tell Oden that my kin will bring forth another... A monarch never dies.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "deadspeak_yagluth",
+      "english": "Do you come to gloat, little thing? Do you know how many times I have been killed, broken, banished, burned and buried? You are not the first and you will not be the last.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dedicated_server",
+      "english": "Dedicated server",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_ashlands01",
+      "english": "You awaken within a dream of dark skies and boiling clouds. Night on the mountaintop, a rough cloak pulled tight around you. Thunder tears the sky and a rain of hot embers pours through the rift, destroying your dream body in an instant…",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_ashlands02",
+      "english": "In your sleep, you crouch in the middle of a vast and gloomy cavern while a huge beast prowls in circles around you, dragging the darkness behind it. Emerald flames flicker at its edges and the growl of its throat lingers long into the waking day…",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_ashlands03",
+      "english": "You dream of eating roast hog at a feast. It is a simple and delicious meal. If only all dreams could be like this.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_ashlands04",
+      "english": "Nine maidens in robes of white dance barefoot at midnight. Nine wolves hunt a white hart in the greenwood. Nine bells ring out on the mountainside and you awake.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_bonemass01",
+      "english": "You dream of a hundred ghosts crowding thickly around your bedside, seeking warmth and life until something thumps deep below the ground and they jump like crumbs on a drumskin and are gone.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_deepnorth01",
+      "english": "In your dream, you stand naked in the middle of a pool of water so clear it cannot be seen, only felt as a swaying girdle around your hips. Three figures stand at the water's edge, watching you in silence. When the lead figure touches the water's surface with her toe, the ripple dissolves the dream and you wake.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_deepnorth02",
+      "english": "You slide down the tunnel of a fretful dream into an absence so complete that no words will cling to it…",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_deepnorth03",
+      "english": "You dream of a hall in winter, glittering with light and laughter in the midst of a snowy night. As you approach, the lights twist into tall flames and the laughter into screams. You run towards the hall but it sinks hissing into the snow as you approach.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_deepnorth04",
+      "english": "You run down an endless hill, your heart thumping for joy within your chest. Two dark shapes fly alongside you and the beat of their wings lingers into your waking hours.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_deepnorth05",
+      "english": "You see a child's face, laughing and crying at the same time. The eyes are clear and blue behind their tears, the mouth is a tumble of tiny teeth. In the dream, he tells you something, but the words are gone when you wake.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_deepnorth06",
+      "english": "In your dream there is a door without pin or bolt. You feel it would open with a push but your body is frozen in a swirl of cold wind. Behind the door are the voices of the ones you love but cannot name. You strain forward into empty wakefulness.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_deepnorth07",
+      "english": "The ghosts of all those who have died at your hand come to you in your sleep and linger at the edges of your dreams. They want nothing, need nothing, say nothing.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_deepnorth08",
+      "english": "You sink through layers of sleep to a vast chamber where a dark shape hunches beneath a snarl of heavy chains. As it shifts to face you, the blue orbs of its eyes pierce the dream and you wake, drenched in sweat.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_deepnorth09",
+      "english": "You remember nothing of this night's dream but its rainbow mood lifts you into the day with a smile on your lips.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_deepnorth10",
+      "english": "Odin visits you in your dream and offers you a horn filled to the brim with a frothing draught. You drink deep and greet the new day feeling refreshed and alive.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_eikthyr01",
+      "english": "You dream of running through a meadow, the sky alight with pale fire. There is a thunder of hoofbeats behind you but when you turn, nothing is there.\n\nYou awaken with your heart pounding in your chest.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_elder01",
+      "english": "In your dream, the forest rises before you, dragging the trees upward like a cloak, its dark mass hiding the stars. At the mountain's peak, vast antlers frame the moon...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_mistlands01",
+      "english": "In your dream, you walk through a hall of smiling warriors and gracious maidens. You join with their mirth until you realise that you are naked and the small bronze shield you are carrying is not enough to cover your shame.\n\nYou greet the morning with gratitude.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_mistlands02",
+      "english": "Dark-eyed Loki approaches you in your dream and gifts you a ring for each hand. He tells you that as long as they stay on your fingers, you will never hear an insulting word again.\n\nYou wake with your fingers in your ears.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_mistlands03",
+      "english": "You climb a winding staircase, curled tightly within a tall tower, until you arrive at the top and look out over an endless forest.\n\nThe wind blows green waves across the tree-tops and beneath the surface, dark shapes stir...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_moder01",
+      "english": "You dream that you are flying over mountaintops, all of Valheim spread out below you.\n\nAs you wheel and dive in the cold air, a great shape soars up past you to block the sun. In the darkness, it speaks. \"Seek me.\"",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_random01",
+      "english": "You dream of a river running uphill, of green shoots turning downward into the earth…",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_random02",
+      "english": "Once again, you run at the head of your warriors, the weight of your father's axe in your hand.\n\nYou wake with the war-cry on your lips…",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_random03",
+      "english": "In your dream, you sit beside a fire in a great hall, surrounded by the chatter of familiar voices.\n\nTheir faces blur like smoke and their names slip your mind, but the warmth of their memory lingers…",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_random04",
+      "english": "You stand at the prow of a leaping ship, the salt spray before you and the joyful shriek of gulls above.\n\nFolded within a dream, you remember what it was like to be alive in the land of your birth.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_random05",
+      "english": "You dream of a great tree reaching out through the night. One half of its branches crackle with flames, the others are green with leaves.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_random06",
+      "english": "Amidst the crash of arms, on the dark and glimmering plain of sleep, a face swells snarling before you. Your shield arm hangs limp, your spear is broken. You welcome the cold blade when it comes.\n\nFrom a dream of death, you awaken to death itself.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_random07",
+      "english": "You dream you are lying on your back in a meadow, gazing upward at the clouds. Your name is nothing, your mind is free of thought. But there is a warm hand in yours.\n\nIn the dream, you are laughing. But when you awaken, you find your face damp with tears.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_random08",
+      "english": "On a boat carved from dark wood, beneath ragged sails, you lie with your arms folded across your chest. Blurred faces, like thumbprints on the darkness, croon familiar songs as they push you out to float on a sea as black and flat as glass.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_random09",
+      "english": "You lie on the battlefield, dreaming eyes turned upward to a sky veiled by smoke. The calls of your warriors grow fainter and your eyes close for a second time. Great talons slide beneath you and you feel yourself rising, lifted from your body like a babe from its crib…",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_random10",
+      "english": "You fall into the deep well of sleep and dream only of darkness.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_random11",
+      "english": "You dream of a bright hall filled with gracious warriors and fair maidens. The air hums with song, the boards groan under the weight of steaming dishes, the mead flows like water.\n\nYou awake slowly with the laughter still ringing in your ears…",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_random12",
+      "english": "You sleep in fits and fretful dreams, the weight of the nightmare heavy on your chest. When morning comes, you greet it with relief.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_random13",
+      "english": "Sleep is a river and dreams are live fish. You wake in the morning with your net empty.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_random14",
+      "english": "You dream you are hunting with your companions, running high over green hills and down through mist-haunted valleys. Ahead of you, your prey stumbles and you leap forward, sinking your teeth into warm flesh.\n\nWhen you wake, the taste of metal lingers in your mouth.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_random15",
+      "english": "You dream you are walking in a snowy wood when you come upon a naked child, sitting against a tree with his eyes closed but his chest moving to breathe. As you kneel beside him, you know he has been sleeping here for many centuries, waiting for you. When you touch his shoulder, you both awaken.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_random16",
+      "english": "You dream of a mighty bear, sleeping deep below the earth in the winter of the world. It turns in its sleep, folds upon folds of flesh and fur. It has no head, no limbs. A vast mass of bear flesh, mercifully quiet.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_random17",
+      "english": "You fall asleep planning your next day's labor and in your dreams you complete it, hewing wood, foraging for food and hunting after swift deer. You return home exhausted but happy, only to awaken and find the day is still ahead of you...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dream_yagluth01",
+      "english": "In a chamber hung with golden drapes, you kneel before the throne of a veiled king. \"Sleep is but a mask\", he tells you, lifting the veil slowly.\n\nYou wake screaming.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dvergr_buff",
+      "english": "Dvergr power",
+      "source_asset": "localization"
+    },
+    {
+      "key": "dvergr_buff_description",
+      "english": "You are infused with a strange Dvergr power which increases your strength.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "elaking_trashpile",
+      "english": "Pile of Rubble",
+      "source_asset": "localization"
+    },
+    {
+      "key": "error_alreadyconnected",
+      "english": "Already connected",
+      "source_asset": "localization"
+    },
+    {
+      "key": "error_banned",
+      "english": "Banned",
+      "source_asset": "localization"
+    },
+    {
+      "key": "error_cantrestorebackup",
+      "english": "Can't restore backup!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "error_cantrestoremeta",
+      "english": "Can't restore meta file!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "error_disconnected",
+      "english": "Disconnected",
+      "source_asset": "localization"
+    },
+    {
+      "key": "error_failedconnect",
+      "english": "Failed to connect",
+      "source_asset": "localization"
+    },
+    {
+      "key": "error_incompatibleversion",
+      "english": "Incompatible version",
+      "source_asset": "localization"
+    },
+    {
+      "key": "error_kicked",
+      "english": "You have been kicked from the server.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "error_needslocalupdatetojoin",
+      "english": "You're running an older version of Valheim that is incompatible with this server. Please update your game to join this server.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "error_needsserverupdatetojoin",
+      "english": "This server is running an older version of Valheim that is incompatible with your version.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "error_nosuitablebackupfound",
+      "english": "No suitable backup was found!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "error_password",
+      "english": "Wrong password",
+      "source_asset": "localization"
+    },
+    {
+      "key": "error_platformexcluded",
+      "english": "The server owner does not allow users from other platforms than their own to play on their server.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "error_serverfull",
+      "english": "Server full",
+      "source_asset": "localization"
+    },
+    {
+      "key": "error_worldfileload",
+      "english": "Error loading world file. Check backups!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "eula_acceptance",
+      "english": "BY SELECTING “ACCEPT,” OR BY USING THE PRODUCT, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THIS EULA.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "eula_header",
+      "english": "END-USER LICENSE AGREEMENT",
+      "source_asset": "localization"
+    },
+    {
+      "key": "eula_important_first_text",
+      "english": "IMPORTANT: PLEASE READ THE AGREEMENT AT VALHEIM.COM/EULA CAREFULLY. BY DOWNLOADING, INSTALLING, OR USING “VALHEIM” (THE “PRODUCT”) ON A SYSTEM YOU OWN OR CONTROL, YOU AGREE TO BE BOUND BY THE TERMS OF THIS END‑USER LICENSE AGREEMENT (“EULA”). IF YOU DO NOT AGREE, DO NOT USE THE PRODUCT.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "faderlocation_bellholder",
+      "english": "Bell Holder",
+      "source_asset": "localization"
+    },
+    {
+      "key": "feedback_bug",
+      "english": "Bug",
+      "source_asset": "localization"
+    },
+    {
+      "key": "feedback_feedback",
+      "english": "Feedback",
+      "source_asset": "localization"
+    },
+    {
+      "key": "feedback_idea",
+      "english": "Idea",
+      "source_asset": "localization"
+    },
+    {
+      "key": "feedback_send",
+      "english": "Send",
+      "source_asset": "localization"
+    },
+    {
+      "key": "feedback_subject",
+      "english": "Subject",
+      "source_asset": "localization"
+    },
+    {
+      "key": "feedback_text",
+      "english": "Write something",
+      "source_asset": "localization"
+    },
+    {
+      "key": "feedback_topic",
+      "english": "Feedback",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fimbulvinterorb",
+      "english": "Orb of Fimbulvinter",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fimbulvinterorb_destroyed",
+      "english": "The Jotun Retreat",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fimbulvinterorb_start",
+      "english": "The Jotun Advance",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fish10_description",
+      "english": "This fish likes the water to be almost freezing cold.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fish11_description",
+      "english": "Some say this fish lays its eggs directly in molten lava!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fish12_description",
+      "english": "Tasty when cooked right, but the flavour has a bit of a sting.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fish1_description",
+      "english": "A tasty whitemeat fish.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fish2_description",
+      "english": "A freshwater fish that needs a lot of seasoning.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fish3_description",
+      "english": "Chicken of the sea...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fish4_description",
+      "english": "Spending its whole life in the dark, it has no need for eyes.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fish5_description",
+      "english": "This fish is a nuisance in the local streams.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fish6_description",
+      "english": "Fermented, this fish will smell worse than the swamp it came from.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fish7_description",
+      "english": "Best served with lots of carbs!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fish8_description",
+      "english": "It has seen some things... Some very haunting things...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "fish9_description",
+      "english": "The dangling light makes it easier to see that pretty little face!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "guardianstone_bonemass_desc",
+      "english": "Wanderer, look to your feet\nThat tread upon our tomb\nOne thousand bones without their meat\nWill drag you to your doom",
+      "source_asset": "localization"
+    },
+    {
+      "key": "guardianstone_eikthyr_desc",
+      "english": "His antlers are branches of iron\nThey crack the rocks and bring down mountains\nHis hooves are the sound of thunder\nHis voice a howling gale",
+      "source_asset": "localization"
+    },
+    {
+      "key": "guardianstone_fader_desc",
+      "english": "A father noble and proud\nHe soared through skies of fire\nThen madness lowered its shroud\nAnd warped his heart's desire",
+      "source_asset": "localization"
+    },
+    {
+      "key": "guardianstone_hook_activate",
+      "english": "Activate power",
+      "source_asset": "localization"
+    },
+    {
+      "key": "guardianstone_hook_alreadyactive",
+      "english": "Current power",
+      "source_asset": "localization"
+    },
+    {
+      "key": "guardianstone_hook_deactivate",
+      "english": "Release power",
+      "source_asset": "localization"
+    },
+    {
+      "key": "guardianstone_hook_name",
+      "english": "Trophy Hook",
+      "source_asset": "localization"
+    },
+    {
+      "key": "guardianstone_hook_power_activate",
+      "english": "Activated",
+      "source_asset": "localization"
+    },
+    {
+      "key": "guardianstone_hook_power_deactivate",
+      "english": "Released",
+      "source_asset": "localization"
+    },
+    {
+      "key": "guardianstone_moder_desc",
+      "english": "Black wings across the moon and sun\nDown from the mountain our mother comes\nHer weeping tears will fall like rain\nHer voice will call us home again",
+      "source_asset": "localization"
+    },
+    {
+      "key": "guardianstone_name",
+      "english": "Sacrificial Stone",
+      "source_asset": "localization"
+    },
+    {
+      "key": "guardianstone_theelder_desc",
+      "english": "First of the Forest, King-in-the-Wood\nLord over those who dwell at his feet\nHis roots will grow where cities once stood\nTheir blood his wine, their flesh his meat",
+      "source_asset": "localization"
+    },
+    {
+      "key": "guardianstone_thequeen_desc",
+      "english": "Born in armour\nMother of many\nQueen without crown\nRuler beneath",
+      "source_asset": "localization"
+    },
+    {
+      "key": "guardianstone_trophyplaced",
+      "english": "Forsaken sacrificed",
+      "source_asset": "localization"
+    },
+    {
+      "key": "guardianstone_yagluth_desc",
+      "english": "Long ages past, he wore a crown\nBeneath a blood-red sky\nNow naught is left of all he was\nBut his spirit cannot die",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hover_memorialstone",
+      "english": "Ancestral Memorial",
+      "source_asset": "localization"
+    },
+    {
+      "key": "interface_leftarrow",
+      "english": "<",
+      "source_asset": "localization"
+    },
+    {
+      "key": "interface_rightarrow",
+      "english": ">",
+      "source_asset": "localization"
+    },
+    {
+      "key": "invalid_keybind_header",
+      "english": "Invalid Input",
+      "source_asset": "localization"
+    },
+    {
+      "key": "invalid_keybind_text",
+      "english": "This action can't be bound to selected key",
+      "source_asset": "localization"
+    },
+    {
+      "key": "jotuninvasion",
+      "english": "Jotun Invasion",
+      "source_asset": "localization"
+    },
+    {
+      "key": "keyboard_ChatInput",
+      "english": "Enter message",
+      "source_asset": "localization"
+    },
+    {
+      "key": "keyboard_FilterField",
+      "english": "Enter filter",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_abenaki",
+      "english": "Alnôbaôdwawôgan*",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_bulgarian",
+      "english": "български*",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_chinese",
+      "english": "简体中文",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_chinese_trad",
+      "english": "繁體中文",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_croatian",
+      "english": "Croatian*",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_czech",
+      "english": "Čeština*",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_danish",
+      "english": "Dansk*",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_dutch",
+      "english": "Nederlands",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_english",
+      "english": "English",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_estonian",
+      "english": "Estonian*",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_finnish",
+      "english": "Suomi*",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_french",
+      "english": "Français",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_georgian",
+      "english": "ქართული*",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_german",
+      "english": "Deutsch",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_greek",
+      "english": "Ελληνικά*",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_hindi",
+      "english": "हिन्दी*",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_hungarian",
+      "english": "Magyar*",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_icelandic",
+      "english": "íslenska*",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_italian",
+      "english": "Italiano",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_japanese",
+      "english": "日本語",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_korean",
+      "english": "한국어",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_latvian",
+      "english": "Latviski*",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_lithuanian",
+      "english": "Lietuvių kalba*",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_macedonian",
+      "english": "македонски*",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_norwegian",
+      "english": "Norsk*",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_polish",
+      "english": "Polski",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_portuguese_brazilian",
+      "english": "Português (Brasil)",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_portuguese_european",
+      "english": "Português europeu*",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_romanian",
+      "english": "Romanian*",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_russian",
+      "english": "Русский",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_serbian",
+      "english": "Serbian*",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_slovak",
+      "english": "Slovenčina*",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_spanish",
+      "english": "Español",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_swedish",
+      "english": "Svenska*",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_thai",
+      "english": "ไทย*",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_turkish",
+      "english": "Türkçe",
+      "source_asset": "localization"
+    },
+    {
+      "key": "language_ukrainian",
+      "english": "українська",
+      "source_asset": "localization"
+    },
+    {
+      "key": "largebone",
+      "english": "Large Bone",
+      "source_asset": "localization"
+    },
+    {
+      "key": "loading_healthwarning",
+      "english": "A very small percentage of individuals may experience epileptic seizures when exposed to certain visual images, including light patterns or flashing lights that may appear in video games or other video content. Exposure to certain patterns or backgrounds on a computer screen, or while playing video games, may induce an epileptic seizure in these individuals. Certain conditions may induce previously undetected epileptic symptoms even in persons who have no history of prior seizures or epilepsy.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "loading_healthwarning2",
+      "english": "If you, or anyone in your family, have an epileptic condition, consult your physician prior to playing Valheim. If you experience any of the following symptoms while playing - dizziness, altered vision, eye or muscle twitches, loss of awareness, disorientation, any involuntary movement, or convulsions - discontinue IMMEDIATELY and consult your physician before resuming use of Valheim.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "loading_healthwarningtitle",
+      "english": "PHOTOSENSITIVE SEIZURE WARNING: READ BEFORE PLAYING",
+      "source_asset": "localization"
+    },
+    {
+      "key": "loading_savenotification",
+      "english": "This game has an autosave feature. Please don't turn off the game or console when you see the autosave icon.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "loadscreen_tip01",
+      "english": "Don't forget to upgrade your crafting stations, weapons and armour.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "loadscreen_tip02",
+      "english": "Eating food increases your health and stamina pools. Try to balance your three food slots accordingly.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "loadscreen_tip03",
+      "english": "Upgraded stations enable various crafting options and let you improve your equipment.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "loadscreen_tip04",
+      "english": "There are four principal crafting types: woodworking, masonry, smithing, and cooking.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "loadscreen_tip05",
+      "english": "Enemies won't spawn near player built structures, such as crafting tables and camp fires.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "loadscreen_tip06",
+      "english": "Sitting is the safest way to travel while on a boat.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "loadscreen_tip07",
+      "english": "Upon your arrival in Valheim, try to find stones and branches on the ground to build your first weapon.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "loadscreen_tip08",
+      "english": "It is generally a bad idea to venture outside at night...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "loadscreen_tip09",
+      "english": "Hunting deer with a ranged weapon provides a good source of meat and skin.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "loadscreen_tip10",
+      "english": "Build a rudimentary shelter as soon as possible!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "loadscreen_tip11",
+      "english": "Different enemies are weak to different damage types. For instance, Greydwarfs don't like fire.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "loadscreen_tip12",
+      "english": "When you have built a bed, do not forget to claim it.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "loadscreen_tip13",
+      "english": "Attacking with knives and bows while sneaking confers a large damage bonus.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "loadscreen_tip14",
+      "english": "Birds are a good source of feathers. They will stay close to the ground while the weather is bad.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "loadscreen_tip15",
+      "english": "Hugin the raven offers helpful hints.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "loadscreen_tip16",
+      "english": "Some resources require better gear to harvest them.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "loadscreen_tip17",
+      "english": "Being rested helps to regenerate stamina and health faster.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "loadscreen_tip18",
+      "english": "Yellow damage numbers indicate a weakness, grey numbers indicate a resistance.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "loadscreen_tip19",
+      "english": "The hoe can flatten the ground, which makes it much easier to construct buildings.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "loadscreen_tip20",
+      "english": "Build a cart to haul heavy goods over longer distances.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "loadscreen_tip21",
+      "english": "Boats are controlled by interacting with the steering oar.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "loadscreen_tip22",
+      "english": "Tin and copper can be found in the black forest.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "loadscreen_tip23",
+      "english": "Look for berries and mushrooms. They help to keep your stomach full.\n",
+      "source_asset": "localization"
+    },
+    {
+      "key": "loadscreen_tip24",
+      "english": "You can filter map pins by type by right clicking on them. (DPad Right)",
+      "source_asset": "localization"
+    },
+    {
+      "key": "loadscreen_tip25",
+      "english": "If no arrow has been manually selected when using a bow, arrows are automatically selected in ascending order beginning from the leftmost column and going right.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "location_bearcave",
+      "english": "Bear Cave",
+      "source_asset": "localization"
+    },
+    {
+      "key": "location_darkesthole",
+      "english": "The Hole",
+      "source_asset": "localization"
+    },
+    {
+      "key": "location_dnbossroom",
+      "english": "The First Prison",
+      "source_asset": "localization"
+    },
+    {
+      "key": "location_dnbossroomnew",
+      "english": "The Prison",
+      "source_asset": "localization"
+    },
+    {
+      "key": "location_dvergrboss",
+      "english": "Infested Citadel",
+      "source_asset": "localization"
+    },
+    {
+      "key": "location_dvergrtown",
+      "english": "Infested Mine",
+      "source_asset": "localization"
+    },
+    {
+      "key": "location_enter",
+      "english": "Enter",
+      "source_asset": "localization"
+    },
+    {
+      "key": "location_exit",
+      "english": "Exit",
+      "source_asset": "localization"
+    },
+    {
+      "key": "location_forestcave",
+      "english": "Troll Cave",
+      "source_asset": "localization"
+    },
+    {
+      "key": "location_forestcrypt",
+      "english": "Burial Chambers",
+      "source_asset": "localization"
+    },
+    {
+      "key": "location_mausoleum",
+      "english": "Tomb of Lord Reto",
+      "source_asset": "localization"
+    },
+    {
+      "key": "location_morgenhole",
+      "english": "Putrid Hole",
+      "source_asset": "localization"
+    },
+    {
+      "key": "location_morkhalla",
+      "english": "Mörkhalla",
+      "source_asset": "localization"
+    },
+    {
+      "key": "location_mountaincave",
+      "english": "Frost Caves",
+      "source_asset": "localization"
+    },
+    {
+      "key": "location_sunkencrypt",
+      "english": "Sunken Crypts",
+      "source_asset": "localization"
+    },
+    {
+      "key": "location_thehole",
+      "english": "Winding Tunnels",
+      "source_asset": "localization"
+    },
+    {
+      "key": "mac_gamecenter_required_online_header",
+      "english": "Sign in to Game Center for online features",
+      "source_asset": "localization"
+    },
+    {
+      "key": "mac_gamecenter_required_online_text",
+      "english": "Valheim uses Game Center for authentication - sign in to Game Center and restart Valheim in order to use online features. ",
+      "source_asset": "localization"
+    },
+    {
+      "key": "memorialplace",
+      "english": "Memorial Place",
+      "source_asset": "localization"
+    },
+    {
+      "key": "message_dream",
+      "english": "You will dream tonight",
+      "source_asset": "localization"
+    },
+    {
+      "key": "morkhalla_drawbridge",
+      "english": "Drawbridge",
+      "source_asset": "localization"
+    },
+    {
+      "key": "msg_worldsavewarningonserver",
+      "english": "The server is running out of disk space, consider clearing up space to be able to save in the future.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "name_mistlands_bosshint",
+      "english": "A mysterious text",
+      "source_asset": "localization"
+    },
+    {
+      "key": "online_kickedfromsession_header",
+      "english": "Kicked from session",
+      "source_asset": "localization"
+    },
+    {
+      "key": "online_kickedfromsession_suspendresume_xbox_text",
+      "english": "You were kicked from the online session due to the console going into Sleep mode, which suspends network activity.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "placeofmystery",
+      "english": "Mysterious Location",
+      "source_asset": "localization"
+    },
+    {
+      "key": "playfab_couldnotloadplayfabparty_header",
+      "english": "PlayFab could not load",
+      "source_asset": "localization"
+    },
+    {
+      "key": "playfab_couldnotloadplayfabparty_text_linux",
+      "english": "It is necessary for using crossplay. Make sure you have installed the dependencies necessary for PlayFab Party on Linux, listed here: https://learn.microsoft.com/en-us/gaming/playfab/features/multiplayer/networking/linux-specific-requirements",
+      "source_asset": "localization"
+    },
+    {
+      "key": "playfab_couldnotloadplayfabparty_text_linux_steamdeck",
+      "english": "It is necessary for using crossplay. Until a fix is available, you can use the Proton Compatibility layer on your Steam Deck to access crossplay features.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "playfab_couldnotloadplayfabparty_text_otherplatforms",
+      "english": "It is necessary for using crossplay. If this error persists, please report it as a bug.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "playfab_couldnotloadplayfabparty_text_windows",
+      "english": "It is necessary for using crossplay. This is usually because you do not have Microsoft Visual C++ redistributables installed. Download here: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist",
+      "source_asset": "localization"
+    },
+    {
+      "key": "playstation_activity_name",
+      "english": "Exploring the 10th world",
+      "source_asset": "localization_extra"
+    },
+    {
+      "key": "playstation_error_crossplayprivilege",
+      "english": "You've enabled the 'PlayStation™Network Only' setting in the Gameplay settings, which prevents you from playing on servers that allow crossplay with other platforms.",
+      "source_asset": "localization_platformspecific"
+    },
+    {
+      "key": "playstation_settings_controller_layout",
+      "english": "Controller layout",
+      "source_asset": "localization_platformspecific"
+    },
+    {
+      "key": "playstation_settings_controller_sensitivity",
+      "english": "Controller sensitivity",
+      "source_asset": "localization_platformspecific"
+    },
+    {
+      "key": "playstation_settings_gamepad",
+      "english": "Controller",
+      "source_asset": "localization_platformspecific"
+    },
+    {
+      "key": "playstation_trophy_set_online_only",
+      "english": "Multiplayer-only trophies",
+      "source_asset": "localization_extra"
+    },
+    {
+      "key": "prop_ancienttree",
+      "english": "Ancient Tree",
+      "source_asset": "localization"
+    },
+    {
+      "key": "prop_ancienttreeroot",
+      "english": "Ancient Root",
+      "source_asset": "localization"
+    },
+    {
+      "key": "prop_ashlandstree",
+      "english": "Scorched Tree",
+      "source_asset": "localization"
+    },
+    {
+      "key": "prop_beech",
+      "english": "Beech",
+      "source_asset": "localization"
+    },
+    {
+      "key": "prop_beech_sapling",
+      "english": "Beech sapling",
+      "source_asset": "localization"
+    },
+    {
+      "key": "prop_beech_sapling_description",
+      "english": "A beech yields good old fashioned wood.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "prop_birch",
+      "english": "Birch",
+      "source_asset": "localization"
+    },
+    {
+      "key": "prop_birch_sapling",
+      "english": "Birch Sapling",
+      "source_asset": "localization"
+    },
+    {
+      "key": "prop_birch_sapling_description",
+      "english": "A prime source of finewood.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "prop_dragonsummoningbowl_name",
+      "english": "Sacrificial Altar",
+      "source_asset": "localization"
+    },
+    {
+      "key": "prop_eggcup",
+      "english": "Offering Bowl",
+      "source_asset": "localization"
+    },
+    {
+      "key": "prop_eldersummoningbowl_name",
+      "english": "Ancient Bowl",
+      "source_asset": "localization"
+    },
+    {
+      "key": "prop_eldersummoningbowl_use",
+      "english": "Burn item",
+      "source_asset": "localization"
+    },
+    {
+      "key": "prop_fir",
+      "english": "Fir",
+      "source_asset": "localization"
+    },
+    {
+      "key": "prop_fir_big_sapling",
+      "english": "Timberwood Sapling",
+      "source_asset": "localization"
+    },
+    {
+      "key": "prop_fir_big_sapling_description",
+      "english": "Though native to the northern regions, this tree can grow in most climates.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "prop_fir_sapling",
+      "english": "Fir Sapling",
+      "source_asset": "localization"
+    },
+    {
+      "key": "prop_fir_sapling_description",
+      "english": "A pretty tree, all year round.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "prop_oak",
+      "english": "Oak",
+      "source_asset": "localization"
+    },
+    {
+      "key": "prop_oak_sapling",
+      "english": "Oak Sapling",
+      "source_asset": "localization"
+    },
+    {
+      "key": "prop_oak_sapling_description",
+      "english": "With time, this will grow into a large oak.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "prop_offerbowl_makeoffer",
+      "english": "Offer sacrifice",
+      "source_asset": "localization"
+    },
+    {
+      "key": "prop_pine",
+      "english": "Pine",
+      "source_asset": "localization"
+    },
+    {
+      "key": "prop_pine_sapling",
+      "english": "Pine Sapling",
+      "source_asset": "localization"
+    },
+    {
+      "key": "prop_pine_sapling_description",
+      "english": "These tall trees can be chopped down for corewood.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "prop_pine_snow",
+      "english": "Timber Tree",
+      "source_asset": "localization"
+    },
+    {
+      "key": "prop_timberwoodtree",
+      "english": "Timber Tree",
+      "source_asset": "localization"
+    },
+    {
+      "key": "prop_treelog",
+      "english": "Log",
+      "source_asset": "localization"
+    },
+    {
+      "key": "prop_treestump",
+      "english": "Stump",
+      "source_asset": "localization"
+    },
+    {
+      "key": "prop_yggashoot",
+      "english": "Yggdrasil Shoot",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ps_codeofconduct_platform_specific_text",
+      "english": "You must also follow the PlayStation™Network’s Community Code of Conduct, which applies in addition to our rules.",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_codeofconduct_reporting_violations_body",
+      "english": "If you encounter unacceptable behavior:\n• In-game: Use the built-in \"Report Player\" function (Options->Player List->Report)\n• Outside the game: Please use this online form: https://valheim.com/report-a-player\n• Via PlayStation™Network: See https://www.playstation.com/en-us/support/account/ps5-report-behaviour/",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_crossplay_user_id_with_name",
+      "english": "Crossplay user ID: $1",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_error_crossplayprivilege",
+      "english": "You've enabled the 'PlayStation™Network Only' setting in the Gameplay settings, which prevents you from playing on servers that allow crossplay with other platforms.",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_eula_important_first_text",
+      "english": "(Valheim – PlayStation®5 Edition)\nIMPORTANT: PLEASE READ THE AGREEMENT AT VALHEIM.COM/EULA CAREFULLY. BY DOWNLOADING, INSTALLING, OR USING “VALHEIM” (THE “PRODUCT”) ON A PLAYSTATION®5 CONSOLE YOU OWN OR CONTROL, YOU AGREE TO BE BOUND BY THE TERMS OF THIS END‑USER LICENSE AGREEMENT (“EULA”). IF YOU DO NOT AGREE, DO NOT USE THE PRODUCT.",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_loading_savenotification",
+      "english": "This game has an autosave feature. Please don't turn off the game or console when you see the autosave icon.",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_loadscreen_tip24",
+      "english": "You can filter map pins by type using the right directional button.",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_menu_cloudstoragefull",
+      "english": "Your console storage is full!",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_menu_codeofconduct_button",
+      "english": "Code of Conduct",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_menu_crossplayserver",
+      "english": "Crossplay",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_menu_invite_friends",
+      "english": "Invite Friends",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_menu_localstoragefullcharacterprompt",
+      "english": "You have run out of storage space, so the character could not be created.",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_menu_localstoragefullworldprompt",
+      "english": "You have run out of storage space, so the world could not be created.",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_menu_storagefull",
+      "english": "Your console storage is full!",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_menu_storagefulloperationfailed",
+      "english": "This operation failed because save data storage is full. Please remove unused save data and try again.",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_menu_storageused",
+      "english": "Console storage used: $1",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_online_id_with_name",
+      "english": "Online ID: $1",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_online_kickedfromsession_suspendresume_text",
+      "english": "You were disconnected from the online session due to the PlayStation®5 console going into Rest mode, which suspends network activity.",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_online_kickedfromsession_text",
+      "english": "You were disconnected from the online session. Make sure you are logged in to PlayStation™Network and have a valid PlayStation®Plus subscription.",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_report_user_banned_account",
+      "english": "Your account has been banned from playing online, due to breaking the terms of service as listed in the EULA and Code of Conduct. This action has been taken by Coffee Stain Publishing. See the EULA in the bottom left corner for more information.",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_settings_3d_audio",
+      "english": "3D audio",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_settings_controller",
+      "english": "Controller",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_settings_controller_enable_motion_sensor",
+      "english": "Enable motion sensor",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_settings_controller_layout",
+      "english": "Controller layout",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_settings_controller_motion_sensor",
+      "english": "Motion sensor",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_settings_controller_motion_sensor_settings_off",
+      "english": "Motion sensor is OFF! Check settings.",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_settings_controller_motion_sensor_toggled_off",
+      "english": "Toggled motion sensor to OFF",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_settings_controller_motion_sensor_toggled_on",
+      "english": "Toggled motion sensor to ON",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_settings_controller_motion_sensor_x_axis_sensitivity",
+      "english": "Motion sensor X axis sensitivity",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_settings_controller_motion_sensor_y_axis_sensitivity",
+      "english": "Motion sensor Y axis sensitivity",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_settings_controller_sensitivity",
+      "english": "Controller sensitivity",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_settings_controller_speaker_volume",
+      "english": "Controller speaker volume",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_settings_controller_use_adaptive_triggers",
+      "english": "Use adaptive triggers",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_settings_controller_use_controller_speaker",
+      "english": "Use controller speaker",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_settings_controller_use_vibration",
+      "english": "Use vibration",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_settings_controller_vibration_strength",
+      "english": "Vibration strength",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_settings_double_tap_descr",
+      "english": "Quickly tapping the stick towards the same element twice will interact with it.",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_settings_flick_interact_descr",
+      "english": "Quickly moving the stick towards an element will interact with it.",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_settings_gamepadenabled",
+      "english": "Controller enabled",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_settings_persistentbackbtn",
+      "english": "Persistent Back Button",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_settings_persistentbackbtn_descr",
+      "english": "When scrolling through a radial menu with multiple pages, the top-most element will always be a back button.",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_settings_same_online_platform_only",
+      "english": "PlayStation™Network only",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_settings_same_online_platform_only_desc",
+      "english": "Only play with players on PlayStation™Network. Disables all interaction with Cross-platform users. Can only be toggled in the main menu.",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_settings_show_button_hints",
+      "english": "Show button hints",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_settings_swap_triggers",
+      "english": "Swap R2 and L2 buttons",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_ugc_character_name",
+      "english": "UGC character name",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_ugc_server_name",
+      "english": "UGC server name",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_ugc_text",
+      "english": "UGC text",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "ps_ugc_world_name",
+      "english": "UGC world name",
+      "source_asset": "localization_ps"
+    },
+    {
+      "key": "radial_all",
+      "english": "All",
+      "source_asset": "localization"
+    },
+    {
+      "key": "radial_armor_utility",
+      "english": "Armor & Utilities",
+      "source_asset": "localization"
+    },
+    {
+      "key": "radial_back",
+      "english": "Back",
+      "source_asset": "localization"
+    },
+    {
+      "key": "radial_close",
+      "english": "Close",
+      "source_asset": "localization"
+    },
+    {
+      "key": "radial_consumables",
+      "english": "Consumables",
+      "source_asset": "localization"
+    },
+    {
+      "key": "radial_drop",
+      "english": "Drop",
+      "source_asset": "localization"
+    },
+    {
+      "key": "radial_drop_multiple",
+      "english": "Drop Multiple",
+      "source_asset": "localization"
+    },
+    {
+      "key": "radial_emotes",
+      "english": "Emotes",
+      "source_asset": "localization"
+    },
+    {
+      "key": "radial_half",
+      "english": "Half",
+      "source_asset": "localization"
+    },
+    {
+      "key": "radial_hammer",
+      "english": "Equip Hammer",
+      "source_asset": "localization"
+    },
+    {
+      "key": "radial_handitems",
+      "english": "Hand Items",
+      "source_asset": "localization"
+    },
+    {
+      "key": "radial_hold",
+      "english": "(Hold)",
+      "source_asset": "localization"
+    },
+    {
+      "key": "radial_hotbar",
+      "english": "Hotbar",
+      "source_asset": "localization"
+    },
+    {
+      "key": "radial_interact",
+      "english": "Use/Open",
+      "source_asset": "localization"
+    },
+    {
+      "key": "radial_speed_fast",
+      "english": "Fast",
+      "source_asset": "localization"
+    },
+    {
+      "key": "radial_speed_medium",
+      "english": "Medium",
+      "source_asset": "localization"
+    },
+    {
+      "key": "radial_speed_off",
+      "english": "Off",
+      "source_asset": "localization"
+    },
+    {
+      "key": "radial_speed_slow",
+      "english": "Slow",
+      "source_asset": "localization"
+    },
+    {
+      "key": "radial_weapons_tools",
+      "english": "Weapons & Tools",
+      "source_asset": "localization"
+    },
+    {
+      "key": "raven_interact",
+      "english": "Talk",
+      "source_asset": "localization"
+    },
+    {
+      "key": "report_server_window_explanation_text",
+      "english": "If this server contains User-Generated Content (UGC) that violates the Code of Conduct, it can be reported. Manually removing UGC via in-game means is recommended, though reporting the server is an alternative if that isn’t feasible.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "report_server_window_header",
+      "english": "Report server",
+      "source_asset": "localization"
+    },
+    {
+      "key": "report_user_already_reported_header",
+      "english": "Already reported",
+      "source_asset": "localization"
+    },
+    {
+      "key": "report_user_already_reported_text",
+      "english": "You have already reported this user.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "report_user_banned_account",
+      "english": "Your account has been banned from playing online, due to breaking the terms of service as listed in the EULA and Code of Conduct. This action has been taken by Coffee Stain Publishing. See the EULA in the bottom left corner for more information.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "report_user_banned_account_steam",
+      "english": "Your account has been banned from playing on Crossplay servers, due to breaking the terms of service as listed in the EULA and Code of Conduct. This action has been taken by Coffee Stain Publishing. See the EULA in the bottom left corner for more information.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "report_user_banned_bodytext_permanentBan",
+      "english": "This ban is permanent.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "report_user_banned_bodytext_unbannedLocalTime",
+      "english": "Your ban will expire at",
+      "source_asset": "localization"
+    },
+    {
+      "key": "report_user_banned_header",
+      "english": "Banned.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "report_user_failed_header",
+      "english": "Report failed!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "report_user_failed_text",
+      "english": "Report could not be sent! Please try again later.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "report_user_send_report_cancel",
+      "english": "Cancel report",
+      "source_asset": "localization"
+    },
+    {
+      "key": "report_user_send_report_cant_send_not_enough_text",
+      "english": "Please write more details in the text field before sending the report!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "report_user_send_report_failed",
+      "english": "Report failed",
+      "source_asset": "localization"
+    },
+    {
+      "key": "report_user_send_report_send",
+      "english": "Send report",
+      "source_asset": "localization"
+    },
+    {
+      "key": "report_user_successful_header",
+      "english": "Report sent!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "report_user_successful_text",
+      "english": "Your report has been recorded. It will be acted upon soon.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "report_user_window_explanation_text",
+      "english": "Chat history and name is automatically included. Please elaborate as to why you are reporting this user in the text window above. Do not include sensitive or irrelevant personal information.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "report_user_window_header",
+      "english": "Report user",
+      "source_asset": "localization"
+    },
+    {
+      "key": "rock_abyssalbarnacle",
+      "english": "Abyssal Barnacle",
+      "source_asset": "localization"
+    },
+    {
+      "key": "rotate_build_mode",
+      "english": "Rotate (build mode)",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_animateradial_descr",
+      "english": "Adds animations when opening and closing the radial, and when selecting an element.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_autorun_descr",
+      "english": "After triggering sprint, the character will continue sprinting until coming to a halt or running out of stamina.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_bigpicturetext",
+      "english": "* Gamepad text input boxes and chat are only available when playing in the Big Picture Mode.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_console_desc",
+      "english": "Enables opening the in-game console, used for accessing special debugging commands and features. The -console command line argument overrides this setting.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_deleteplayfabaccount_ingamewarning",
+      "english": "Can't delete PlayFab account while in a world. Please go to the main menu in order to delete your account.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_deleteplayfabaccount_text",
+      "english": "Are you sure you want to delete your PlayFab account and all associated data? Your worlds, characters, and any User-Generated Content such as buildings will NOT be removed. You can easily create a new account next time you try to access online services inside Valheim.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_graphics_preset_balanced_description",
+      "english": "Targets 40 fps with higher graphics quality if 120 Hz is supported and enabled, otherwise uses the 60 fps preset",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_graphics_preset_high_description",
+      "english": "Stunning graphics for powerful systems",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_graphics_preset_low_description",
+      "english": "Looks good and runs well even on weak systems",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_graphics_preset_medium_description",
+      "english": "Strikes a good balance between graphics quality and performance",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_graphics_preset_performance_description",
+      "english": "Targets 60 fps with standard graphics quality",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_graphics_preset_quality_description",
+      "english": "Targets 30 fps with the highest graphics quality",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_hoverselectspd_descr",
+      "english": "How quickly an element is selected when hovering over it. Set to \"Off\" to disable hover selection.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_persistentbackbtn_descr",
+      "english": "When scrolling through a radial menu with multiple pages, the top-most element will always be a back button.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_quality_mode_balanced_description",
+      "english": "Balanced mode compromises between performance and quality.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_quality_mode_performance_description",
+      "english": "Performance mode favors smooth gameplay with higher frame rate.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_quality_mode_quality_description",
+      "english": "Quality mode favors the game's good looks over frame rate.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_quality_mode_very_low_description",
+      "english": "Very poor quality, but can be played on a weak system.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_renderscale_descr",
+      "english": "Resolution of the game elements other than UIs. Can be used either or both to increase performance or create a more retro look.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "settings_same_online_platform_only_desc_ps",
+      "english": "Only play with players on PlayStation™Network. Disables all interaction with Cross-platform users. Can only be toggled in the main menu.",
+      "source_asset": "localization_platformspecific"
+    },
+    {
+      "key": "settings_spiraleffect_descr",
+      "english": "Determines instensity of the spiral effect. When scrolling through a radial menu with multiple pages, elements next to the selected one will be scaled and moved to create a spiral-staircase-like effect. If turned off, the elements will only fade in and out. Please note that this setting requires Animate Radial to be enabled.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "sfx_arrow_hit",
+      "english": "Arrow thunking",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "sfx_bird_death",
+      "english": "Bird dying",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "sfx_crow_idle",
+      "english": "Crow cawing",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "sfx_piercing_dmg",
+      "english": "Weapon piercing",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "sfx_ship_impact",
+      "english": "Ship impact",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "sfx_wishbone_closer",
+      "english": "ringing sharper",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "sfx_wishbone_far",
+      "english": "giving off a dull ring",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "sfx_wishbone_further",
+      "english": "ringing with a low tone",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "sfx_wishbone_med",
+      "english": "ringing",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "sfx_wishbone_near",
+      "english": "ringing sharply",
+      "source_asset": "localization_captions"
+    },
+    {
+      "key": "shadowperson_randomtalk_01",
+      "english": "His blade was dipped in poison, I stood no chance...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "shadowperson_randomtalk_02",
+      "english": "Pain, sharp and excruciating. And then nothing.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "shadowperson_randomtalk_03",
+      "english": "Fire doesn't warm me any longer, nor does it offer any true light.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "shadowperson_randomtalk_04",
+      "english": "I don't recall what it was like to not be numb and cold.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "shadowperson_randomtalk_05",
+      "english": "Her knife found my heart just as I slit her throat. We died next to each other.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "shadowperson_randomtalk_06",
+      "english": "This is not Valhalla, nor is it Hel. No, this is something far worse.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "shadowperson_randomtalk_07",
+      "english": "A dead man out of mind...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "shadowperson_randomtalk_08",
+      "english": "Father... I failed you. I'm sorry...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "shadowperson_randomtalk_09",
+      "english": "Forgive me, sister, for I could not follow in your footsteps.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "shadowperson_randomtalk_10",
+      "english": "I went with him until the end...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "shadowperson_randomtalk_11",
+      "english": "Is someone there? I... I could have sworn I saw somebody.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "shadowperson_randomtalk_12",
+      "english": "Long forgotten... Lonely...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "shadowperson_randomtalk_13",
+      "english": "Just one more step. Just one more.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "shadowperson_randomtalk_14",
+      "english": "These were the last of the lands we knew...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "shadowperson_randomtalk_15",
+      "english": "This waste I know not, nor this dark night...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "shadowperson_randomtalk_16",
+      "english": "I thought I saw someone walking beside me, but it was but a shadow.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "shadowperson_randomtalk_17",
+      "english": "I no longer feel the sun on my face, nor the ground beneath my feet.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "shadowperson_randomtalk_18",
+      "english": "I've... I've become so very numb.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "shadowperson_randomtalk_19",
+      "english": "My purpose has been served, yet no reward was given. Now I walk here, without a use...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "shadowperson_randomtalk_20",
+      "english": "There is so much blood... How much can a person bleed before they are gone?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "shadowperson_randomtalk_21",
+      "english": "The sorrow of my defeat, everlasting...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "shadowperson_randomtalk_22",
+      "english": "I still feel the sharp antlers piercing my chest. When will I be free of this pain?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "shadowperson_randomtalk_23",
+      "english": "I thought she was reaching out to me, but then lightning spilled from her fingertips.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "shadowperson_randomtalk_24",
+      "english": "Such strange creatures there are to be found here. I had hoped they were friendly.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "shadowperson_randomtalk_25",
+      "english": "Can you hear their voices? They still remain...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "shadowperson_randomtalk_26",
+      "english": "I came so far, only for it to be over in the blink of an eye.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "shadowperson_randomtalk_27",
+      "english": "Such beautiful shifting, undulating colours... Why can't I reach them?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "shadowperson_randomtalk_28",
+      "english": "Was this my destiny? To fall before I ever reached my goal?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "shadowperson_randomtalk_29",
+      "english": "So much blood spilled, and for what?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "shadowperson_randomtalk_30",
+      "english": "Who shall tell my tale?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ship_ashlandocean_warning",
+      "english": "The sizzling waters are eating through your hull, turn back!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ship_cargo",
+      "english": "Cargo",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ship_holdfast",
+      "english": "Hold fast",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ship_karve",
+      "english": "Karve",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ship_karve_description",
+      "english": "A small and sleek ship, ready to set sail.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ship_longship",
+      "english": "Longship",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ship_longship_ashlands",
+      "english": "Drakkar",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ship_longship_ashlands_description",
+      "english": "A massive ship, sturdy enough to sail on even the most dangerous seas.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ship_longship_description",
+      "english": "A mighty viking ship for sailing to distant shores.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ship_raft",
+      "english": "Raft",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ship_raft_description",
+      "english": "It may not look like much, but a raft will get you farther than swimming!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_axes_description",
+      "english": "Damage with axes.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_blocking_description",
+      "english": "Damage absorbed when blocking with a weapon or shield.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_bloodmagic_description",
+      "english": "Damage, eitr and health drain when using blood magic.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_bows_description",
+      "english": "Damage with bows.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_clubs_description",
+      "english": "Damage with clubs.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_cooking_description",
+      "english": "Cooking speed, serving tray wear and chance for bonus yields.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_crafting_description",
+      "english": "Crafting speed, hammer wear and building stamina use.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_crossbows_description",
+      "english": "Accuracy and damage with crossbows.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_dodge_description",
+      "english": "Stamina drain when dodging.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_elementalmagic_description",
+      "english": "Damage and eitr usage when using elemental magic.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_farming_description",
+      "english": "Stamina use, cultivator wear, harvest radius and chance for bonus yields.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_firemagic_description",
+      "english": "Write something",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_fishing_description",
+      "english": "Stamina drain and pull speed when fishing.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_frostmagic_description",
+      "english": "Write something",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_jump_description",
+      "english": "Jump height.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_knives_description",
+      "english": "Damage with knives.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_pickaxes_description",
+      "english": "Damage with pickaxes.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_polearms_description",
+      "english": "Damage with polearms.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_ride_description",
+      "english": "Animal speed and stamina drain.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_run_description",
+      "english": "Speed and stamina drain when running.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_shields_description",
+      "english": "not used.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_sneak_description",
+      "english": "Stamina drain and stealthiness when sneaking.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_spears_description",
+      "english": "Damage with spears.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_swim_description",
+      "english": "Stamina drain when swimming.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_swords_description",
+      "english": "Damage with swords.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_unarmed_description",
+      "english": "Damage when unarmed.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_woodcutting_description",
+      "english": "Axe damage when hitting trees.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "spiritcaller_bjorn",
+      "english": "",
+      "source_asset": "localization"
+    },
+    {
+      "key": "spiritcaller_boar",
+      "english": "",
+      "source_asset": "localization"
+    },
+    {
+      "key": "spiritcaller_moose",
+      "english": "",
+      "source_asset": "localization"
+    },
+    {
+      "key": "spiritcaller_wolf",
+      "english": "",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stonecircle_hook_name",
+      "english": "Chiselled Platform",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stonecircle_itemplaced",
+      "english": "You are worthy",
+      "source_asset": "localization"
+    },
+    {
+      "key": "store_buy",
+      "english": "Buy",
+      "source_asset": "localization"
+    },
+    {
+      "key": "store_sell",
+      "english": "Sell",
+      "source_asset": "localization"
+    },
+    {
+      "key": "store_topic",
+      "english": "Store",
+      "source_asset": "localization"
+    },
+    {
+      "key": "switch_codeofconduct_prohibited_behavior_body",
+      "english": "The following actions may result in temporary or permanent bans from playing online:\n• Harassment, hate speech, threats, or discrimination.\n• Sharing inappropriate or offensive content via chat, in-game building or other means.",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_eula_header",
+      "english": "END-USER LICENSE AGREEMENT",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_eula_important_first_text",
+      "english": "(Valheim – Nintendo Switch 2)\nIMPORTANT: PLEASE READ THE AGREEMENT AT VALHEIM.COM/EULA CAREFULLY. BY DOWNLOADING, INSTALLING, OR USING “VALHEIM” (THE “PRODUCT”) ON A NINTENDO SWITCH 2 SYSTEM YOU OWN OR CONTROL, YOU AGREE TO BE BOUND BY THE TERMS OF THIS END‑USER LICENSE AGREEMENT (“EULA”). IF YOU DO NOT AGREE, DO NOT USE THE PRODUCT.",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_loading_savenotification",
+      "english": "This game has an autosave feature. Please don't turn off the game or console when you see the autosave icon.",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_loadscreen_tip24",
+      "english": "You can filter map pins by type with the Right Button (ZR Button with Joy-Con 2 mouse controls)",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_menu_cloudstoragefull",
+      "english": "Your system memory is full!",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_menu_friendinvite_accepted_header",
+      "english": "Friend invite accepted",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_menu_friends",
+      "english": "Friends",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_menu_invite_friends",
+      "english": "Invite Friends",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_menu_localstoragefullcharacterprompt",
+      "english": "You have run out of system memory, so the character could not be created.",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_menu_localstoragefullworldprompt",
+      "english": "You have run out of system memory, so the world could not be created.",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_menu_storagefull",
+      "english": "Your system memory is full!",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_menu_storagefulloperationfailed",
+      "english": "This operation failed because system memory is full. Please remove unused save data and try again.",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_menu_storageused",
+      "english": "System memory used: $1",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_online_kickedfromsession_suspendresume_text",
+      "english": "You were kicked from the online session due to the Nintendo Switch 2 console going into sleep mode, which suspends network activity.",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_settings_controller",
+      "english": "Controller",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_settings_controller_default",
+      "english": "Console",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_settings_controller_enable_motion_sensor",
+      "english": "Enable motion controls",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_settings_controller_layout",
+      "english": "Controller layout",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_settings_controller_motion_sensor",
+      "english": "Motion controls",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_settings_controller_motion_sensor_settings_off",
+      "english": "Motion controls are OFF! Check settings.",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_settings_controller_motion_sensor_toggled_off",
+      "english": "Toggled motion controls to OFF",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_settings_controller_motion_sensor_toggled_on",
+      "english": "Toggled motion controls to ON",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_settings_controller_motion_sensor_x_axis_sensitivity",
+      "english": "Motion controls X axis sensitivity",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_settings_controller_motion_sensor_y_axis_sensitivity",
+      "english": "Motion controls Y axis sensitivity",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_settings_controller_sensitivity",
+      "english": "Controller sensitivity",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_settings_controller_use_vibration",
+      "english": "Use rumble",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_settings_controller_vibration_strength",
+      "english": "Rumble strength",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_settings_double_tap_descr",
+      "english": "Quickly tapping the stick towards the same element twice will interact with it.",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_settings_flick_interact_descr",
+      "english": "Quickly moving the stick towards an element will interact with it.",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_settings_gamepadenabled",
+      "english": "Controller enabled",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_settings_mouse_layout",
+      "english": "Mouse controls layout",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_settings_mouse_layout_controller",
+      "english": "Console mouse controls",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_settings_mouse_layout_pc",
+      "english": "PC mouse controls",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_settings_mouse_sensitivity",
+      "english": "Mouse controls sensitivity",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_settings_mouse_tab",
+      "english": "Joy-Con 2 mouse controls",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_settings_persistentbackbtn",
+      "english": "Persistent Back Button",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_settings_persistentbackbtn_descr",
+      "english": "When scrolling through a radial menu with multiple pages, the top-most element will always be a back button.",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_settings_show_button_hints",
+      "english": "Show button hints",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_settings_swap_triggers",
+      "english": "Swap ZR and ZL buttons",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_settings_switch_mouse_enabled",
+      "english": "Mouse controls enabled",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_ugc_character_name",
+      "english": "UGC character name",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_ugc_server_name",
+      "english": "UGC server name",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_ugc_text",
+      "english": "UGC text",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "switch_ugc_world_name",
+      "english": "UGC world name",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "tag_architecture",
+      "english": "Architecture",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tag_building",
+      "english": "Building",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tag_crafting",
+      "english": "Crafting",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tag_decor",
+      "english": "Decor",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tag_defense",
+      "english": "Defence",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tag_doors",
+      "english": "Doors and Windows",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tag_feasts",
+      "english": "Feasts",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tag_floor",
+      "english": "Flooring",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tag_food",
+      "english": "Food",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tag_furniture",
+      "english": "Furniture",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tag_lighting",
+      "english": "Lighting",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tag_mead",
+      "english": "Mead",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tag_misc",
+      "english": "Misc.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tag_roof",
+      "english": "Roofing",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tag_seasonal",
+      "english": "Seasonal Items",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tag_stacks",
+      "english": "Piles and Stacks",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tag_stairs",
+      "english": "Stairs",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tag_storage",
+      "english": "Storage",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tag_transport",
+      "english": "Transportation",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tag_wall",
+      "english": "Walls",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tamed_name_01",
+      "english": "Your best pal",
+      "source_asset": "localization"
+    },
+    {
+      "key": "text_hidden_notification_muted",
+      "english": "TEXT HIDDEN, AUTHOR IS MUTED",
+      "source_asset": "localization"
+    },
+    {
+      "key": "text_hidden_notification_ugc_settings",
+      "english": "TEXT HIDDEN, CHECK UGC SETTINGS",
+      "source_asset": "localization"
+    },
+    {
+      "key": "text_mistlands_bosshint",
+      "english": "The gate is sealed. The key is scattered and hidden, deep in the mines, so it might never again be unsealed. The gate is sealed.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "text_player_arrived",
+      "english": "I have arrived!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tinyrom_download_patch_to_play",
+      "english": "Please download patch to play",
+      "source_asset": "localization_switch"
+    },
+    {
+      "key": "tool_batteringram",
+      "english": "Battering Ram",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tool_batteringram_description",
+      "english": "This is a force to be reckoned with. Fuel it up and bring it to your enemies' stronghold for a greater chance of success.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tool_cart",
+      "english": "Cart",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tool_cart_description",
+      "english": "Convenient when you need to move a lot of resources around.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tool_catapult",
+      "english": "Catapult",
+      "source_asset": "localization"
+    },
+    {
+      "key": "tool_catapult_description",
+      "english": "If you can't go through it, perhaps you can go over it...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "ui_hold",
+      "english": "Hold",
+      "source_asset": "localization"
+    },
+    {
+      "key": "wolf_statue",
+      "english": "Fenris Shrine",
+      "source_asset": "localization"
+    },
+    {
+      "key": "xbox_codeofconduct_platform_specific_text",
+      "english": "You must also follow Xbox's Community Standards, which applies in addition to our rules.",
+      "source_asset": "localization_xbox"
+    },
+    {
+      "key": "xbox_codeofconduct_reporting_violations_body",
+      "english": "If you encounter unacceptable behavior:\n• In-game: Use the built-in \"Report Player\" function (Options->Player List->Report)\n• Outside the game: Please use this online form: https://valheim.com/report-a-player\n• Via Xbox: See https://support.xbox.com/en-US/help/family-online-safety/enforcement/file-a-complaint-on-xbox-app",
+      "source_asset": "localization_xbox"
+    },
+    {
+      "key": "xbox_error_crossplayprivilege",
+      "english": "Your platform privilege settings prevent you from playing on servers that allow crossplay with other platforms.",
+      "source_asset": "localization_xbox"
+    },
+    {
+      "key": "xbox_eula_important_first_text",
+      "english": "(Valheim – Xbox® Edition)\nIMPORTANT: PLEASE READ THE AGREEMENT AT VALHEIM.COM/EULA CAREFULLY. BY DOWNLOADING, INSTALLING, OR USING “VALHEIM” (THE “PRODUCT”) ON AN XBOX CONSOLE YOU OWN OR CONTROL, YOU AGREE TO BE BOUND BY THE TERMS OF THIS END‑USER LICENSE AGREEMENT (“EULA”). IF YOU DO NOT AGREE, DO NOT USE THE PRODUCT.",
+      "source_asset": "localization_xbox"
+    },
+    {
+      "key": "xbox_loading_savenotification",
+      "english": "This game has an autosave feature. Please don't turn off the game or console when you see the autosave icon.",
+      "source_asset": "localization_xbox"
+    },
+    {
+      "key": "xbox_menu_resolve_privilege",
+      "english": "Resolve privilege issue?",
+      "source_asset": "localization_xbox"
+    },
+    {
+      "key": "xbox_menu_storagefull",
+      "english": "Your storage is full!",
+      "source_asset": "localization_xbox"
+    },
+    {
+      "key": "xbox_menu_storagefulloperationfailed",
+      "english": "This operation failed because save data storage is full. Please remove unused save data and try again.",
+      "source_asset": "localization_xbox"
+    },
+    {
+      "key": "xbox_menu_storageused",
+      "english": "Storage used: $1",
+      "source_asset": "localization_xbox"
+    },
+    {
+      "key": "xbox_online_kickedfromsession_suspendresume_text",
+      "english": "You were kicked from the online session due to the console going into Sleep mode, which suspends network activity.",
+      "source_asset": "localization_xbox"
+    },
+    {
+      "key": "xbox_settings_controller",
+      "english": "Controller",
+      "source_asset": "localization_xbox"
+    },
+    {
+      "key": "xbox_settings_controller_default",
+      "english": "Console",
+      "source_asset": "localization_xbox"
+    },
+    {
+      "key": "xbox_settings_controller_layout",
+      "english": "Controller layout",
+      "source_asset": "localization_xbox"
+    },
+    {
+      "key": "xbox_settings_controller_sensitivity",
+      "english": "Controller sensitivity",
+      "source_asset": "localization_xbox"
+    },
+    {
+      "key": "xbox_settings_controller_use_vibration",
+      "english": "Use vibration",
+      "source_asset": "localization_xbox"
+    },
+    {
+      "key": "xbox_settings_controller_vibration_strength",
+      "english": "Vibration strength",
+      "source_asset": "localization_xbox"
+    },
+    {
+      "key": "xbox_settings_double_tap_descr",
+      "english": "Quickly tapping the stick towards the same element twice will interact with it.",
+      "source_asset": "localization_xbox"
+    },
+    {
+      "key": "xbox_settings_flick_interact_descr",
+      "english": "Quickly moving the stick towards an element will interact with it.",
+      "source_asset": "localization_xbox"
+    },
+    {
+      "key": "xbox_settings_gamepad",
+      "english": "Controller",
+      "source_asset": "localization_platformspecific"
+    },
+    {
+      "key": "xbox_settings_gamepadenabled",
+      "english": "Controller enabled",
+      "source_asset": "localization_xbox"
+    },
+    {
+      "key": "xbox_settings_joysens",
+      "english": "Controller sensitivity",
+      "source_asset": "localization_platformspecific"
+    },
+    {
+      "key": "xbox_settings_persistentbackbtn",
+      "english": "Persistent Back Button",
+      "source_asset": "localization_xbox"
+    },
+    {
+      "key": "xbox_settings_persistentbackbtn_descr",
+      "english": "When scrolling through a radial menu with multiple pages, the top-most element will always be a back button.",
+      "source_asset": "localization_xbox"
+    },
+    {
+      "key": "xbox_settings_show_button_hints",
+      "english": "Show button hints",
+      "source_asset": "localization_xbox"
+    },
+    {
+      "key": "xbox_ugc_character_name",
+      "english": "UGC character name",
+      "source_asset": "localization_xbox"
+    },
+    {
+      "key": "xbox_ugc_server_name",
+      "english": "UGC server name",
+      "source_asset": "localization_xbox"
+    },
+    {
+      "key": "xbox_ugc_text",
+      "english": "UGC text",
+      "source_asset": "localization_xbox"
+    },
+    {
+      "key": "xbox_ugc_world_name",
+      "english": "UGC world name",
+      "source_asset": "localization_xbox"
+    }
+  ],
+  "missing_keys": []
+}
