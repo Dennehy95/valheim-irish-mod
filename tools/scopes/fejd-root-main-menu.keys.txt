@@ -1,0 +1,17 @@
+# FejdStartup root main menu (title screen primary navigation).
+# One UI panel only — not character/world select, settings, or loading overlays.
+# Keys are the dictionary ids (no leading $) used by Localization.Translate.
+menu_startgame
+menu_joingame
+menu_settings
+menu_credits
+menu_exit
+menu_continue
+menu_changelog
+menu_feedback
+menu_mod_notice
+menu_managesaves
+menu_cinematics
+menu_codeofconduct_button
+menu_invite_friends_macos
+menu_logout

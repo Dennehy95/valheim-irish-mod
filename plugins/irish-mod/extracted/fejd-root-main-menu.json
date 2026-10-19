@@ -1,0 +1,84 @@
+{
+  "screen_id": "fejd-root-main-menu",
+  "screen_title": "FejdStartup root main menu",
+  "scope_notes": "Primary title-screen button row and same-view footer links (changelog, feedback, mod notice, etc.). Excludes character/world select, settings panels, and loading health-warning overlays.",
+  "scope_keys_file": "tools/scopes/fejd-root-main-menu.keys.txt",
+  "extracted_at_utc": "2026-10-19T13:47:17.656459+00:00",
+  "method": "static",
+  "game_path": "A:\\Steam\\steamapps\\common\\Valheim",
+  "resources_assets_sha256": "f0274fe60c807842352a049f3762b7a08965bdbfe759dfbb16f90272e51c6bdb",
+  "key_count": 14,
+  "entries": [
+    {
+      "key": "menu_startgame",
+      "english": "Start Game",
+      "source_asset": "localization"
+    },
+    {
+      "key": "menu_joingame",
+      "english": "Join Game",
+      "source_asset": "localization"
+    },
+    {
+      "key": "menu_settings",
+      "english": "Settings",
+      "source_asset": "localization"
+    },
+    {
+      "key": "menu_credits",
+      "english": "Credits",
+      "source_asset": "localization"
+    },
+    {
+      "key": "menu_exit",
+      "english": "Quit",
+      "source_asset": "localization"
+    },
+    {
+      "key": "menu_continue",
+      "english": "Continue",
+      "source_asset": "localization"
+    },
+    {
+      "key": "menu_changelog",
+      "english": "Changelog",
+      "source_asset": "localization"
+    },
+    {
+      "key": "menu_feedback",
+      "english": "Do you have any bugs, cool ideas or general feedback you want to give us? Send us a message using this fancy mail button.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "menu_mod_notice",
+      "english": "You are playing a modded version of Valheim.\nPlease note that this may change the original game experience. If you are experiencing any issues, please first uninstall all mods before reporting it. If there has been a patch recently, some mods that previously worked may be broken until they are updated.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "menu_managesaves",
+      "english": "Manage saves",
+      "source_asset": "localization"
+    },
+    {
+      "key": "menu_cinematics",
+      "english": "Cinematics",
+      "source_asset": "localization"
+    },
+    {
+      "key": "menu_codeofconduct_button",
+      "english": "Code of Conduct",
+      "source_asset": "localization"
+    },
+    {
+      "key": "menu_invite_friends_macos",
+      "english": "Invite Friends",
+      "source_asset": "localization"
+    },
+    {
+      "key": "menu_logout",
+      "english": "Log Out",
+      "source_asset": "localization"
+    }
+  ],
+  "missing_keys": []
+}
