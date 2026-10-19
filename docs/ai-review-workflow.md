@@ -9,8 +9,11 @@ Use **slim** exports when asking an AI to review Irish copy: each row is only `k
 | Large batches | `tools/split_slim_chunks.py` | `exports/chunks/chunk-001.json`, … |
 | Apply fixes | `tools/merge_slim_translations.py` | Updates `*.ga.json` in place |
 | Refresh snapshot | `tools/export_all_translations.py` | Regenerate full export after merge |
+| **Automated LLM batch QA** | `tools/llm_review_pipeline.py` | `exports/llm-review/audit.jsonl`, corrected slim |
 
 See also [translation-qa-guide.md](translation-qa-guide.md) for heuristics and human QA; this doc is the **slim round-trip** only.
+
+For hands-off batch grading (Good / Needs Improvement / Wrong), checkpoints, and Grok-on-OpenRouter setup, see **[llm-batch-review-blueprint.md](llm-batch-review-blueprint.md)**.
 
 ---
 

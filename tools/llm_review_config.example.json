@@ -1,0 +1,14 @@
+{
+  "provider": "openrouter",
+  "model": "x-ai/grok-4.7",
+  "_model_note": "Verify slug at run time on https://openrouter.ai/x-ai/grok-4.7 — dated canonical: x-ai/grok-4.7-20260916",
+  "reasoning_effort": "high",
+  "temperature": 0.2,
+  "max_retries": 4,
+  "retry_backoff_seconds": 2.0,
+  "request_delay_seconds": 0.5,
+  "timeout_seconds": 180,
+  "openrouter_base_url": "https://openrouter.ai/api/v1/chat/completions",
+  "groq_base_url": "https://api.groq.com/openai/v1/chat/completions",
+  "groq_model": "llama-3.3-70b-versatile"
+}
