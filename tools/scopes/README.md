@@ -86,4 +86,21 @@ python tools/build_ga_from_extract.py `
   --screen-id item-names
 ```
 
+## Batch 5 — piece names, NPC dialogue, menus (`piece_*`, `npc_*`, `menu_*`)
+
+| File | Prefix | Keys |
+|------|--------|------|
+| `piece-names.keys.txt` | `piece_` | ~786 — remaining after `building-ui.ga.json` |
+| `npc-dialogue.keys.txt` | `npc_` | ~350 |
+| `menus-rest.keys.txt` | `menu_` | ~226 — excludes `fejd-root-main-menu` |
+
+Regenerate scopes + full pipeline per batch:
+
+```powershell
+python tools/generate_prefix_scope.py --prefix piece_ --out tools/scopes/piece-names.keys.txt
+python tools/run_coverage_batch.py --scope tools/scopes/piece-names.keys.txt --screen-id piece-names --screen-title "Building piece names" --extract plugins/irish-mod/extracted/piece-names.json --irish-map tools/piece-names_irish_map.json --ga-out plugins/irish-mod/Translations/piece-names.ga.json
+```
+
+(Same pattern for `npc-dialogue` and `menus-rest`.)
+
 Vanilla key census: `python tools/count_vanilla_keys.py`.

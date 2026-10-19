@@ -1,0 +1,1764 @@
+{
+  "screen_id": "npc-dialogue",
+  "screen_title": "NPC dialogue",
+  "scope_notes": "Keys from scope file tools/scopes/npc-dialogue.keys.txt.",
+  "scope_keys_file": "tools/scopes/npc-dialogue.keys.txt",
+  "extracted_at_utc": "2026-10-19T15:54:47.155208+00:00",
+  "method": "static",
+  "game_path": "A:\\Steam\\steamapps\\common\\Valheim",
+  "resources_assets_sha256": "f0274fe60c807842352a049f3762b7a08965bdbfe759dfbb16f90272e51c6bdb",
+  "key_count": 350,
+  "entries": [
+    {
+      "key": "npc_blabar",
+      "english": "Blåbär",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_bogwitch",
+      "english": "The Bog Witch",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_bogwitch_random_buy1",
+      "english": "Lhm!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_bogwitch_random_buy2",
+      "english": "Lhm gkr tlk.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_bogwitch_random_buy3",
+      "english": "Gkr, gkr!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_bogwitch_random_goodbye1",
+      "english": "Gnk.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_bogwitch_random_goodbye2",
+      "english": "Gnk-nk.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_bogwitch_random_goodbye3",
+      "english": "Nk. Ktrr!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_bogwitch_random_greet1",
+      "english": "Gk!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_bogwitch_random_greet2",
+      "english": "Kgk.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_bogwitch_random_greet3",
+      "english": "Krrgk.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_bogwitch_random_sell1",
+      "english": "Mm, lpr...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_bogwitch_random_sell2",
+      "english": "Lkm.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_bogwitch_random_sell3",
+      "english": "Kng.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_bogwitch_random_starttrade1",
+      "english": "Mg, lhm?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_bogwitch_random_starttrade2",
+      "english": "Ptl mgg.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_bogwitch_random_starttrade3",
+      "english": "Hk! Mg, mg.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_bogwitch_random_talk1",
+      "english": "Hm...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_bogwitch_random_talk2",
+      "english": "Mhm...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_bogwitch_random_talk3",
+      "english": "Ngk...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_aggravated1",
+      "english": "You really shouldn't have done that!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_aggravated2",
+      "english": "I'll get you for that!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_aggravated3",
+      "english": "You're going down!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_aggravated4",
+      "english": "I'll feed you to a bloody asksvin!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_aggravated5",
+      "english": "Oh you little–",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_goodbye1",
+      "english": "Take care now.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_goodbye2",
+      "english": "Careful out there.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_goodbye3",
+      "english": "Until next time.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_goodbye4",
+      "english": "See you around. Or not.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_goodbye5",
+      "english": "Tettå.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_greet1",
+      "english": "Who goes there?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_greet2",
+      "english": "A living person, huh? That's a nice change of pace.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_greet3",
+      "english": "Hello there.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_greet4",
+      "english": "Greetings.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_greet5",
+      "english": "Are you friend or foe?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_private_area_alarm1",
+      "english": "Hey!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_private_area_alarm2",
+      "english": "Stop that.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_private_area_alarm3",
+      "english": "Keep your hands to yourself.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_private_area_alarm4",
+      "english": "That's a good way to get yourself thrown into the lava.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_private_area_alarm5",
+      "english": "I really wouldn't do that if I were you.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk1",
+      "english": "I think I'm going to sweat my beard off.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk10",
+      "english": "I could really use a mug of cold ale right now...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk11",
+      "english": "When you think about it, this heat isn't worse than the heat from a good forge.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk12",
+      "english": "Don't forget to wipe off that sweat! Or else a morgen might smell you and decide you're its dinner.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk13",
+      "english": "Bloodstone, bloodstone, bloodstone, bloodstone...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk14",
+      "english": "Be careful if you see a big pile of bones. It usually means one of those morgen creatures is nearby.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk15",
+      "english": "Those undead bastards sure hoard some pretty gemstones...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk16",
+      "english": "This place is astonishing! So much land still to explore!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk17",
+      "english": "It may be warm, but the discoveries we make are their own reward.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk18",
+      "english": "Ha! A Whitebeard would never dare to venture here.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk19",
+      "english": "The Whitebeards could never withstand this heat. They just don't have the stones for it!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk2",
+      "english": "I was made for dwelling below ground, among the cool rocks. Not this blistering heat.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk20",
+      "english": "I came upon a ruin with a whole flock of asksvin yesterday! They were there to search for food, methinks.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk3",
+      "english": "Careful, even the water here is boiling hot.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk4",
+      "english": "My cousin is stationed in the lands of fog. Lucky Whitebeard...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk5",
+      "english": "I wonder if there's any shade around here. Not that it'd help...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk6",
+      "english": "Hm. Smells like rotten eggs.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk7",
+      "english": "Mind your step. My brother lost a toe to the lava a while back.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk8",
+      "english": "My sister tried to tame an asksvin, you know. It bit off her hand, even though they don't even eat meat!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk9",
+      "english": "Vineberries, vineberries... I know I saw some around here...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base1",
+      "english": "I should never have bet on that dice game...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base10",
+      "english": "I've been thinking of getting a pet. It would be nice, don't you think?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base11",
+      "english": "A bit of sweat is good for you, my mother always said!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base12",
+      "english": "Ladi dadi dadi dada.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base13",
+      "english": "I hope the children are doing alright back home. It's been so long now since I last saw them...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base14",
+      "english": "When we get back home I think I'm going to pick up a new hobby.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base15",
+      "english": "I think my boot needs mending.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base16",
+      "english": "Ah, to feel the cool relief of mist on my face... I was a fool to leave that post behind.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base17",
+      "english": "I wonder what discoveries tomorrow will bring. Those Whitebeards don't know what they're missing!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base18",
+      "english": "I could never remain stationed at just one excavation for months. Us Redbeards are meant to explore!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base19",
+      "english": "The Whitebeards will be jealous when they hear of our success, I'm sure!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base2",
+      "english": "Then again, the heat isn't too bad!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base20",
+      "english": "I don't care much for those smokepuff mushrooms myself. Only fit for asksvin food, really!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base3",
+      "english": "I saw someone run around in just their underpants and some belts, seemed nice and cool...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base4",
+      "english": "Those siblings had the right idea. Imagine being off on your very own business venture in a cool forest!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base5",
+      "english": "I wonder what we'll find out here. Surely it must be worth it.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base6",
+      "english": "I wish I could have a nice, cool bath.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base7",
+      "english": "What do you suppose we'll find out here?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base8",
+      "english": "We sure hit those charred hard yesterday, didn't we?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base9",
+      "english": "They used to worship the Emerald Flame in these parts. Makes you wonder what kind of patron that is...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_deepnorth_random_goodbye1",
+      "english": "Don't worry about me, I'll be fine without you.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_deepnorth_random_goodbye2",
+      "english": "I suppose I'll find my own way out.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_deepnorth_random_goodbye3",
+      "english": "Slay all the giantkind you can!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_deepnorth_random_goodbye4",
+      "english": "Until we meet again, then.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_deepnorth_random_goodbye5",
+      "english": "What are you looking at?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_deepnorth_random_goodbye6",
+      "english": "I'm so far from home...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_deepnorth_random_goodbye7",
+      "english": "Are you leaving?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_deepnorth_random_greet1",
+      "english": "Who goes there?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_deepnorth_random_greet2",
+      "english": "Are you friend or foe?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_deepnorth_random_greet3",
+      "english": "Hey! You there!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_deepnorth_random_greet4",
+      "english": "Help me get out of here!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_deepnorth_random_greet5",
+      "english": "A hand, perhaps?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_deepnorth_random_greet6",
+      "english": "Over here!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergr_deepnorth_random_greet7",
+      "english": "I'll help you if you help me.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_aggravated1",
+      "english": "I'll show you what magic can do!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_aggravated10",
+      "english": "Oden can't help you now!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_aggravated11",
+      "english": "We warned you!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_aggravated2",
+      "english": "Damn you to Hel!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_aggravated3",
+      "english": "You really shouldn't have done that!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_aggravated4",
+      "english": "Dvergr, to me!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_aggravated5",
+      "english": "The boiled pork has been fried now, alright!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_aggravated6",
+      "english": "I'll teach you not to mess with us!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_aggravated7",
+      "english": "I'll send you to where the pipe bends!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_aggravated8",
+      "english": "Human scum!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_aggravated9",
+      "english": "To Nidhögg with you!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_goodbye1",
+      "english": "Farewell.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_goodbye2",
+      "english": "Always watch out for the gjall.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_goodbye3",
+      "english": "Goodbye for now.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_goodbye4",
+      "english": "Maybe we'll meet again, maybe not.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_goodbye5",
+      "english": "Safe journey to you.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_greet1",
+      "english": "You're taller than I remember.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_greet2",
+      "english": "So you're the one who's been causing such a ruckus.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_greet3",
+      "english": "Hi there.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_greet4",
+      "english": "Is that a human?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_greet5",
+      "english": "Hello. You've travelled a long way.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_private_area_alarm1",
+      "english": "Hey! Be careful with that.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_private_area_alarm2",
+      "english": "Cut that out!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_private_area_alarm3",
+      "english": "None of that, stop it!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_private_area_alarm4",
+      "english": "We're only good hosts as long as you're a good guest.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_private_area_alarm5",
+      "english": "You're close to overstaying your welcome, Norseman.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_private_area_alarm6",
+      "english": "Stop that!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_private_area_alarm7",
+      "english": "If you do that again, you won't like what happens.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_private_area_alarm8",
+      "english": "You're on thin ice.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk1",
+      "english": "I hope this mine isn't as infested as the last.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk10",
+      "english": "Is it true that there's no magic in Midgard?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk2",
+      "english": "I wonder if we can bring this shipment home soon.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk3",
+      "english": "Do you ever wonder what happened to Haldor?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk4",
+      "english": "Those seekers are not to be messed with...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk5",
+      "english": "La-di-di, la-di-da...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk6",
+      "english": "I remember yet, the giants of yore...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk7",
+      "english": "We built these mines, you know? And now look at us...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk8",
+      "english": "These pests have spread further than I feared. At this rate, all our old mines will be overtaken.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk9",
+      "english": "It must be strange, being human. Imagine having to crawl through small spaces!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk_in_faction_base1",
+      "english": "I hope this mine isn't as infested as the last.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk_in_faction_base10",
+      "english": "It's damp as a troll's armpit here, but at least it's not as painfully hot as the south.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk_in_faction_base2",
+      "english": "I wonder if we can bring this shipment home soon.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk_in_faction_base3",
+      "english": "We built these mines, you know? And now look at us...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk_in_faction_base4",
+      "english": "Do you ever wonder what happened to Haldor?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk_in_faction_base5",
+      "english": "Sometimes I wonder if the eitr is worth all of this.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk_in_faction_base6",
+      "english": "I look forward to seeing what the fire will show me next.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk_in_faction_base7",
+      "english": "Now where did I put that bottle...?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk_in_faction_base8",
+      "english": "I swear we had a spare Extractor here somewhere...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk_in_faction_base9",
+      "english": "Just a bit more of this mining, and then we can take it back to Myrkheim.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_aggravated1",
+      "english": "I'll make you bleed!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_aggravated10",
+      "english": "Into formation!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_aggravated11",
+      "english": "You're going down!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_aggravated2",
+      "english": "Kill the Norseman!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_aggravated3",
+      "english": "Do you feel lucky?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_aggravated4",
+      "english": "You'll regret this!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_aggravated5",
+      "english": "You've planted your last turnip!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_aggravated6",
+      "english": "I'll kick your arse!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_aggravated7",
+      "english": "Enjoying shooting yourself in the foot, eh? I can help with that!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_aggravated8",
+      "english": "So it's a fight you're after, then?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_aggravated9",
+      "english": "I'll mop the floors with your guts!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_goodbye1",
+      "english": "Until next time.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_goodbye2",
+      "english": "Be careful out there!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_goodbye3",
+      "english": "Goodbye then.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_goodbye4",
+      "english": "Don't get lost.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_goodbye5",
+      "english": "Keep that wisplight close, you don't want to lose it.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_goodbye6",
+      "english": "Tettå",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_greet1",
+      "english": "Who goes there?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_greet2",
+      "english": "Norseman.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_greet3",
+      "english": "Greetings.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_greet4",
+      "english": "Hello.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_greet5",
+      "english": "Welcome.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_greet6",
+      "english": "Åtett.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_private_area_alarm1",
+      "english": "I wouldn't do that if I were you.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_private_area_alarm2",
+      "english": "Keep your hands to yourself!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_private_area_alarm3",
+      "english": "We were here first!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_private_area_alarm4",
+      "english": "Hands off!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_private_area_alarm5",
+      "english": "Touch that again and I'll chop your hand off.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_private_area_alarm6",
+      "english": "I'm warning you!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_private_area_alarm7",
+      "english": "We're not to be trifled with!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_private_area_alarm8",
+      "english": "You'd best be real careful. Or things will go badly for you.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk1",
+      "english": "You never know what you'll find out there in the mist.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk10",
+      "english": "If we could come through to here, it makes you wonder what else might...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk2",
+      "english": "Best be on your guard.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk3",
+      "english": "What's Midgard like, then? I've only ever heard the tales.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk4",
+      "english": "Do all humans look like you? You're so... Nevermind.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk5",
+      "english": "It's easy to lose track of the days out here...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk6",
+      "english": "Us dvergr watch out for our own kin.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk7",
+      "english": "Blasted seekers! I wish they'd all just shrivel up and die.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk8",
+      "english": "I almost got completely drained by a tick once... But dvergr don't die that easily.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk9",
+      "english": "It's a bit strange to think this was all once a great battlefield...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk_in_faction_base1",
+      "english": "My knees are aching, but at least we have food and a warm fire.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk_in_faction_base10",
+      "english": "I heard we're venturing down south again. Maybe I'll apply for the expedition this time.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk_in_faction_base2",
+      "english": "If you work and keep tidy, Friday brings money.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk_in_faction_base3",
+      "english": "This little fort is nothing compared to our strongholds at home...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk_in_faction_base4",
+      "english": "When is it dinner time? I'm hungry.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk_in_faction_base5",
+      "english": "Are we running out of ale? I think we're running out of ale...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk_in_faction_base6",
+      "english": "Some repairs to this place wouldn't hurt.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk_in_faction_base7",
+      "english": "I don't get why they didn't just take everything when they left the mines. Why leave the cores there?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk_in_faction_base8",
+      "english": "Damned seekers smashed our black cores! Back into the deep then, I guess...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk_in_faction_base9",
+      "english": "This world has changed so much since our people were here last. Imagine what it'll look like in another couple of centuries!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_giveitem",
+      "english": "Give item",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_giveitem_no1",
+      "english": "Thanks, but I don't need that.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_giveitem_no10",
+      "english": "NO!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_giveitem_no11",
+      "english": "I'm gonna have to say... no.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_giveitem_no12",
+      "english": "A definite no on that one.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_giveitem_no2",
+      "english": "Thanks but no.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_giveitem_no3",
+      "english": "Not sure what I'd do with that.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_giveitem_no4",
+      "english": "I wouldn't touch that with a ten foot iron beam.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_giveitem_no5",
+      "english": "Just...no.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_giveitem_no6",
+      "english": "That's not what I'm looking for.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_giveitem_no7",
+      "english": "You can do better than that.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_giveitem_no8",
+      "english": "I think you misunderstood my needs.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_giveitem_no9",
+      "english": "No, and no.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor",
+      "english": "Haldor",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_buy01",
+      "english": "These are fine items, not the sort of things you can just pick up.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_buy02",
+      "english": "Don't touch anything unless you're prepared to pay for it.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_buy03",
+      "english": "Cast your eyes over my goods but keep your hands to yourself.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_buy04",
+      "english": "Something here might keep you alive a little longer. Though I don't know why you'd bother.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_goodbye01",
+      "english": "Try not to wander too far. I want your things when you get killed.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_goodbye02",
+      "english": "Away with you. I have things to do.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_goodbye03",
+      "english": "Off you go then.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_greeting01",
+      "english": "Humph! Another scrap of flesh from the Valkyries...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_greeting02",
+      "english": "Well?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_greeting03",
+      "english": "What do you want?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_random_buy1",
+      "english": "Good choice!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_random_buy2",
+      "english": "That fits you!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_random_buy3",
+      "english": "It's yours.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_random_buy4",
+      "english": "Happy to do business with you.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_random_buy5",
+      "english": "Use it well.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_random_goodbye1",
+      "english": "Come again!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_random_goodbye2",
+      "english": "Bye!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_random_goodbye3",
+      "english": "Don't die out there.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_random_greet1",
+      "english": "Hi there.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_random_greet2",
+      "english": "Well hello there!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_random_greet3",
+      "english": "Welcome to my neck of the woods, as it were.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_random_greet4",
+      "english": "Oh! A customer!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_random_sell1",
+      "english": "Good deal.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_random_sell2",
+      "english": "Here you go.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_random_sell3",
+      "english": "That's worth some gold.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_random_sell4",
+      "english": "I'll take it.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_random_starttrade1",
+      "english": "Take a look at my wares.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_random_starttrade2",
+      "english": "Check this stuff out!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_random_starttrade3",
+      "english": "I'm sure I've got what you need.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_random_starttrade4",
+      "english": "I've got a little bit of everything.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_random_starttrade5",
+      "english": "My wares aren't exactly bespoke, but they'll do the job.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_random_talk1",
+      "english": "I'm short for a dwarf.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_random_talk2",
+      "english": "Radjdadaj...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_random_talk3",
+      "english": "I've met your kind before.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_random_talk4",
+      "english": "What are you looking at? Have you never seen a dwarf before?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_random_talk5",
+      "english": "Halstein, did you fart again?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_random_talk6",
+      "english": "Mining is just so boring! Fortunately I come from a family of entrepreneurs.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_random_talk7",
+      "english": "I don't really go in for the fancy stuff, that's my sister's area of expertise.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_sell01",
+      "english": "Let's see what scraps you've picked up...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_sell02",
+      "english": "Hmm, what have we here?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_sell03",
+      "english": "I wonder if anything sparkles amongst all this muck you carry...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_sell04",
+      "english": "Show me what you have.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_smalltalk01",
+      "english": "We're all lost here. The Gods turned their eyes from Valheim a long time ago.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_smalltalk02",
+      "english": "I suppose you're here to hunt the Forsaken Ones? I don't bother them and they don't bother me.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_smalltalk03",
+      "english": "Fight, build, explore. It all ends in the grave.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_smalltalk04",
+      "english": "You're no different to all the others that came before you, warrior. And you'll end the same way.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_smalltalk05",
+      "english": "Commerce is the only thing that separates us from the beasts.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_trade01",
+      "english": "I'm interested in trade, not chatter. Do you want to buy something or not?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_trade02",
+      "english": "Come, let us make a deal.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_haldor_trade03",
+      "english": "You're fortunate to have caught me in a good mood. Let us trade.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hallon",
+      "english": "Hallon",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_halstein",
+      "english": "Halstein",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir",
+      "english": "Hildir",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_chest1_recieved",
+      "english": "Yay, you found it! Now check out my wares!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_chest2_recieved",
+      "english": "That one must have been a challenge, but you won't regret it!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_chest3_recieved",
+      "english": "I didn't think you would manage that one. Colour me impressed!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_alreadyhavechest1",
+      "english": "You've already given me that.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_alreadyhavechest2",
+      "english": "Nice replica. It's not mine though.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_alreadyhavechest3",
+      "english": "Keep it. I have no use for that.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_alreadyhavechest4",
+      "english": "But...you already gave me this chest. Where did you get this?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_alreadyhavechest5",
+      "english": "That's...not mine. I guess someone really just likes my style, huh?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_anylockedchest1",
+      "english": "Thanks for the help, I really appreciate it. There's still more of my stuff out there though, if you have time.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_anylockedchest2",
+      "english": "You know, this place was more peaceful in the past. A lady could travel here without being robbed of all her things.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_anylockedchest3",
+      "english": "It's nice to have some of my stock back. But I really would appreciate it if I could get all of it.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_anylockedchest4",
+      "english": "It's not too much trouble, right? To find my stolen things. It's really sweet of you to help.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_anylockedchest5",
+      "english": "The big lox is Hallon and the small one is Blåbär.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_anylockedchest6",
+      "english": "She warned me it wasn't a good idea to go here... But I went anyway, and now part of my stock is rotting away in some dungeon.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_anylockedchest7",
+      "english": "There are rumours about you, you know? I wonder if they match reality.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_anylockedchest8",
+      "english": "Making progress, I hope? I have this fabric I'd love to see on you, but I'd need you to bring it back first.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_anylockedchest9",
+      "english": "It's nice that the shop isn't entirely empty anymore, at least.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_buy1",
+      "english": "Ooh, that'll look great on you!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_buy2",
+      "english": "That's one of my finest works.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_buy3",
+      "english": "Tailored just for you.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_buy4",
+      "english": "I had a lot of fun making this.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_buy5",
+      "english": "You've got good taste.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_goodbye1",
+      "english": "See you again soon, I hope!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_goodbye2",
+      "english": "Don't be a stranger.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_goodbye3",
+      "english": "I'll be here a while, in case you're in need of anything else.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_goodbye4",
+      "english": "Take care.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_greet1",
+      "english": "Welcome to my shop. It's a tad bit more elegant than my brother's.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_greet2",
+      "english": "Hi there.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_greet3",
+      "english": "You look like your wardrobe could do with a bit of an upgrade.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_greet4",
+      "english": "Well, well, girls, look what the neck dragged in.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_greet5",
+      "english": "Greetings, viking.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_lockedchest1",
+      "english": "Almost all of my wares, stolen! What use is a shop if it doesn't even have anything to sell?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_lockedchest2",
+      "english": "Don't try to open the chests yourself if you find them. Dwarven locks can't be picked, and the chests themselves could withstand an explosion...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_lockedchest3",
+      "english": "Do you know how frustrating it is to have so much hard work just... stolen from you?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_lockedchest4",
+      "english": "I'll sell you what I have at a discount, if you just get my things back to me. Like a finder's fee.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_lockedchest5",
+      "english": "Bring my chests back to me when you find them. I'll unlock them and we can do good business.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_lockedchest6",
+      "english": "Don't even think about keeping the chests to yourself, now that you know where they are. You can't open them without the right key.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_map1",
+      "english": "Most of my stuff was stolen from me. I've marked out where it was on the map, in case you'd like to help me look for it.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_map2",
+      "english": "If you'd help me get some things back, I'd be happy to do business with you.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_map3",
+      "english": "I'd go get my things back myself, but I'm not willing to risk losing anything else. Help a girl out?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_map4",
+      "english": "I got away, but my goods weren't so lucky. At least I know where it happened, whatever good that does me.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_map5",
+      "english": "That's where they ambushed me, the greedy little bastards. You wouldn't want to go after them for me, would you?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_sell1",
+      "english": "Sure, I'll take it.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_sell2",
+      "english": "Hm, I might be able to use that for something.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_sell3",
+      "english": "You know what they say, one person's trash is another one's treasure.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_sell4",
+      "english": "Why not? I'm sure I can pawn that off at some point.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_sell5",
+      "english": "Deal.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_starttrade1",
+      "english": "Take a look, why don't you?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_starttrade2",
+      "english": "I'm sure I've got something that'll tickle your fancy.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_starttrade3",
+      "english": "If you're looking for worms and eggs, you've come to the wrong shop.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_starttrade4",
+      "english": "Let me know if you find anything you like!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_starttrade5",
+      "english": "My wares are made out of the finest cloth.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_starttrade6",
+      "english": "You'll only find products of the highest quality in my shop, I assure you.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_talk1",
+      "english": "It's okay, you can pet the lox if you want.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_talk10",
+      "english": "As fun as these sojourns are, it'll be nice to get back home to my kin.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_talk2",
+      "english": "You know, this place was more peaceful in the past. A lady could travel here without being robbed of all her things.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_talk3",
+      "english": "The big lox is Hallon and the small one is Blåbär.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_talk4",
+      "english": "The wagon's off limits, sorry. A girl's gotta keep some trade secrets to herself.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_talk5",
+      "english": "There are rumours about you, you know? I wonder if they match reality.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_talk6",
+      "english": "I don't do repairs, sorry.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_talk7",
+      "english": "Hm... I'd love to tailor you a custom piece sometime.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_talk8",
+      "english": "Back in the day I thought about setting up shop here permanently. But there aren't really enough customers for that.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hildir_random_talk9",
+      "english": "This place isn't too bad, all things considered. Maybe I'll bring someone else along next time.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_hugin",
+      "english": "Hugin",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_munin",
+      "english": "Munin",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_munin_ashlands_bellshard",
+      "english": "Kraa! A sad memory lingers here... A faint echo in the air... Once these rang for joy to celebrate his passing but now he cannot bear the sound nor the reminder. If you seek to bring him give them voice once more.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_munin_ashlands_general01",
+      "english": "Kraa! Poor pickings here. Empty skulls scoured clean by the flames. Barely a trace of memory left…",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_munin_ashlands_general02",
+      "english": "Well met little swordling! Look around you this is the Waste of the Emerald Flame… This is the end of all pride the fire that consumes itself… Tread carefully!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_munin_ashlands_general03",
+      "english": "Kraa! I bring a message from the Allfather. Honor is forged in flame. Strike hard upon the anvil spare not the steel!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_munin_ashlands_general04",
+      "english": "Kraahaha! A fellow carrion bird! Look at you picking over these poor dead remains…",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_munin_ashlands_general05",
+      "english": "Hmmm... How do you yet live warrior? Perhaps you have found your element here in the furnace? Curious...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_munin_deepnorth_general01",
+      "english": "This is a place of transformation. Certain creatures find a new purpose here, becoming something more than they once were. Are you one of these creatures, I wonder?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_munin_deepnorth_general02",
+      "english": "Kraa! Those who first ventured here did not know about the underground thieves. If they had known, they would certainly have chosen better places to build their homesteads.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_munin_deepnorth_general03",
+      "english": "Watch these lands for memorials in the honour of the warriors who came before you. They may bestow a boon upon you, should you prove yourself worthy in their eyes.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_munin_deepnorth_general04",
+      "english": "Long before the Allfather summoned you, others were tasked to guard this world. Even though many years have gone by since their passing, they still can't seem to find peace. Be kind, and do not disturb them.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_munin_deepnorth_morkborg",
+      "english": "Kraa! Strange folk dwell here, created from the very evil itself...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_munin_deepnorth_ship",
+      "english": "Long ago, others attempted to sail to these lands. It appears they made it here, but that there was no way for them to make the return journey...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_munin_general01",
+      "english": "Kraa! Well met, wanderer… I am Munin, brother to Hugin. I bring greetings from the Allfather. His eye sees through mine, I carry his words beneath my tongue. Keep his ways and I will come to you again…",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_munin_general02",
+      "english": "Kraa! All eyes are on this one. Big eyes, little eyes, eyes from above and eyes from below. Even the trees have eyes…",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_munin_general03",
+      "english": "Still you live, warrior? I had hoped for some little snack from your corpse, some morsel of carrion… Still, the Allfather will be pleased.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_munin_general04",
+      "english": "Are you lost in the fog, warrior? I see things your eyes once knew, paths you trod and faces you loved. Poor warrior…",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_munin_general05",
+      "english": "Kraa! Do not forget your quest, wanderer! Remember why the Allfather sent you here. The Forsaken Ones must be destroyed. Remember!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_munin_general06",
+      "english": "Ah, you have grown into a fine warrior! As a courtesy, I should tell you that when you die, we have agreed that Hugin will have your left eye as a treat and I will have your right. But we wish you well!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_munin_general07",
+      "english": "Kraa! Serve the Allfather well and he has given me leave to restore your memories. Do you remember the life you had before this one? It yet remembers you...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_munin_general08",
+      "english": "I had not thought you would survive so long… But guard against pride, friend. Battlefields are banquets to me, I know how all great warriors end...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_munin_general09",
+      "english": "Kraa! Hear me now, I'll riddle you no longer. I am great Munin, the treasure-house of memory. I sit on the left shoulder of the Allfather and do his bidding in the ten worlds. I have seen many great warriors rise and fall but you are among the greatest. Know that Oden himself is watching you...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_munin_general10",
+      "english": "Kraa! The Allfather sends tidings! He waits on your word to send the great bridge. Kill the Forsaken Ones and clear the way!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_valkyrie_end",
+      "english": "Valkyrie",
+      "source_asset": "localization"
+    },
+    {
+      "key": "npc_valkyrie_end_interact",
+      "english": "Journey to Valhalla",
+      "source_asset": "localization"
+    }
+  ],
+  "missing_keys": []
+}

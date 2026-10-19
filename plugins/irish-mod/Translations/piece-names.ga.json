@@ -1,0 +1,4725 @@
+{
+  "screen_id": "piece-names",
+  "locale": "ga",
+  "pendingApiKey": true,
+  "machineAssisted": false,
+  "source_extract": "extracted/piece-names.json",
+  "entries": [
+    {
+      "key": "piece_BlackwoodStakewall",
+      "english": "Ashwood Stakewall",
+      "irish": "Balla an Iontógála",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_BlackwoodStakewall_description",
+      "english": "Pointy stakes, guaranteed to hurt.",
+      "irish": "Geallta Pointe, ráthaithe a ghortú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_UnstableMine",
+      "english": "Unstable Mine",
+      "irish": "Mianaigh Neamhstábla",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ancient_pot",
+      "english": "Ancient Pot",
+      "irish": "cineál gas: in airde",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ancientmetalbarstack",
+      "english": "Ancient Metal Stack",
+      "irish": "Stack Miotal Ársa",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ancientmetalbarstack_description",
+      "english": "It's unclear what this could be used for...",
+      "irish": "Níl sé soiléir cad a d'fhéadfaí é seo a úsáid le haghaidh...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_archerytarget",
+      "english": "Archery Target",
+      "irish": "Sprioc Boghdóireacht",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_archerytarget_description",
+      "english": "Aim for the center.",
+      "irish": "Aidhm don ionad.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_archerytarget_hits",
+      "english": "hits",
+      "irish": "amas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_archerytarget_lastscores",
+      "english": "Hits",
+      "irish": "Hitseoga",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_archerytarget_reset",
+      "english": "Take arrows and reset",
+      "irish": "Tóg saigheada agus athshocrú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_archerytarget_total",
+      "english": "Total",
+      "irish": "Iomlán",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_armorstand",
+      "english": "Armour Stand",
+      "irish": "Armour Seas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_armorstand_cantattach",
+      "english": "That item doesn't fit there",
+      "irish": "Nach bhfuil an mhír oiriúnach ann",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_armorstand_description",
+      "english": "Some clothes are just too nice to fold away. Why not put them on display instead?",
+      "irish": "Tá roinnt éadaí ach ró-deas a huaire ar shiúl. Cén fáth nach iad a chur ar taispeáint ina ionad sin?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_artisan_ext1",
+      "english": "Artisan Press",
+      "irish": "Amharc ar gach eolas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_artisan_ext1_description",
+      "english": "This intricate tool is needed for crafting more advanced designs.",
+      "irish": "Tá an uirlis intricate ag teastáil le haghaidh crafting dearaí níos airde.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_artisanstation",
+      "english": "Artisan Table",
+      "irish": "Tábla Artisan",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_artisanstation_description",
+      "english": "To build machinery and craft complicated designs, an artisan table is required.",
+      "irish": "A thógáil innealra agus ceardaíochta dearaí casta, tá tábla artisan ag teastáil.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwood_archedwall",
+      "english": "Ashwood Arched Wall",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwood_beam_1m",
+      "english": "Ashwood Beam 1 m",
+      "irish": "Sraith 1 m",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwood_beam_2m",
+      "english": "Ashwood Beam 2 m",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwood_bed",
+      "english": "Ashwood Bed",
+      "irish": "bláthanna cumhra: cumhráin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwood_bed_description",
+      "english": "Rest easy on this finely crafted bed, with asksvin hides to insulate you from heat and cold alike.",
+      "irish": "Rest éasca ar an leaba crafted mín, le seithí asksvin a insulate tú ó teas agus fuar araon.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwood_decowall",
+      "english": "Ashwood Decorative Wall",
+      "irish": "Balla Maisiúil Ashwood",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwood_decowall_description",
+      "english": "You could watch this pattern for hours...",
+      "irish": "D'fhéadfá féachaint ar an bpatrún le haghaidh uair an chloig...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwood_decowall_divider",
+      "english": "Ashwood Divider",
+      "irish": "Díbhinní adhmaid",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwood_decowall_divider_description",
+      "english": "Adds a nice detail to any room.",
+      "irish": "Cuireann mion deas le haon seomra.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwood_decowall_tree",
+      "english": "Ashwood Decorative Window",
+      "irish": "Fuinneog maisiúil Ashwood",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwood_decowall_tree_description",
+      "english": "Are you looking out the window or at the window? Nobody needs to know.",
+      "irish": "An bhfuil tú ag lorg amach an fhuinneog nó ag an fhuinneog? Ní mór aon duine a fhios.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwood_door",
+      "english": "Ashwood Door",
+      "irish": "Uisce agus Séarachas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwood_door_description",
+      "english": "The detailed decorations might make you stop and look instead of actually going through.",
+      "irish": "D'fhéadfadh na maisiúcháin mionsonraithe a dhéanamh tú a stopadh agus breathnú in ionad dul i ndáiríre tríd.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwood_floor_1x1",
+      "english": "Ashwood Floor 1x1",
+      "irish": "Uisce agus Séarachas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwood_floor_2x2",
+      "english": "Ashwood Floor 2x2",
+      "irish": "Uisce agus Séarachas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwood_floor_deco",
+      "english": "Ashwood Decorative Floor",
+      "irish": "Urlár maisiúil Ashwood",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwood_floor_deco_description",
+      "english": "Patterns work great on the floor as well.",
+      "irish": "Patrúin ag obair go hiontach ar an urlár chomh maith.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwood_floor_description",
+      "english": "Ashwood floorboards, laid diagonally.",
+      "irish": "Leag floorboards Ashwood, go trasnánach.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwood_halfwall",
+      "english": "Ashwood Half Wall",
+      "irish": "cineál gas: in airde",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwood_pole_1m",
+      "english": "Ashwood Pole 1 m",
+      "irish": "cineál gas: in airde",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwood_pole_2m",
+      "english": "Ashwood Pole 2 m",
+      "irish": "cineál gas: in airde",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwood_poles_description",
+      "english": "These supports are always warm to the touch.",
+      "irish": "Tá na tacaíochtaí seo i gcónaí te don teagmháil.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwood_quarterwall",
+      "english": "Ashwood Quarter Wall",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwood_wall",
+      "english": "Ashwood Wall",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwoodarch_big",
+      "english": "Ashwood Arch",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwoodarch_bottom",
+      "english": "Ashwood Bottom Arch",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwoodarch_top",
+      "english": "Ashwood Top Arch",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwoodbeam26",
+      "english": "Ashwood Beam 26°",
+      "irish": "Fuinseoige Beam 26 °",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwoodbeam45",
+      "english": "Ashwood Beam 45°",
+      "irish": "Fuinneog Beam 45 °",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwoodbeam67",
+      "english": "Ashwood Beam 67°",
+      "irish": "Fuinseoige Beam 67 °",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwoodcross26",
+      "english": "Ashwood Roof Cross 26°",
+      "irish": "Scannáin torainn 26 °",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwoodcross45",
+      "english": "Ashwood Roof Cross 45°",
+      "irish": "Scannáin torainn 45 °",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwoodstair",
+      "english": "Ashwood Stair",
+      "irish": "Uisce agus Séarachas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwoodstair_description",
+      "english": "These stairs are sturdier than they might appear.",
+      "irish": "Tá na staighre sturdier ná d'fhéadfadh siad le feiceáil.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwoodwall_description",
+      "english": "Both sides of this wall have their own charm. The choice is yours!",
+      "irish": "Tá a charm féin ag an dá thaobh den bhalla seo. Is é an rogha mise!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwoodwallroof67",
+      "english": "Ashwood Wall 67°",
+      "irish": "Balla Ashwood 67 °",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwoodwallroof67upsidedown",
+      "english": "Ashwood Wall 67° (Inverted)",
+      "irish": "Ashwood Wall 67 ° (Inverted)",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwoodwallroof_26",
+      "english": "Ashwood Wall 26°",
+      "irish": "Balla Ashwood 26 °",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwoodwallroof_26_upsidedown",
+      "english": "Ashwood Wall 26° (Inverted)",
+      "irish": "Ashwood Wall 26 ° (Inverted)",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwoodwallroof_45",
+      "english": "Ashwood Wall 45°",
+      "irish": "Balla Ashwood 45 °",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwoodwallroof_45_upsidedown",
+      "english": "Ashwood Wall 45° (Inverted)",
+      "irish": "Balla Ashwood 45 ° (Inverted)",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ashwoodwallrooftop67",
+      "english": "Ashwood Roof Cross 67°",
+      "irish": "Scannáin torainn 67 °",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_asksvinskeleton",
+      "english": "Asksvin Skeleton",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_asksvinskeleton_description",
+      "english": "Gruesome or decorative? That is up to you.",
+      "irish": "Gruesome nó maisiúil? Is é sin suas chun tú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_banner01",
+      "english": "Black Banner",
+      "irish": "Dubh Banner",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_banner01_description",
+      "english": "A black banner, like the depths of Hel.",
+      "irish": "A banner dubh, cosúil leis an doimhneacht de Hel.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_banner02",
+      "english": "Blue Banner",
+      "irish": "Gorm Banner",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_banner02_description",
+      "english": "A blue banner, like the oceans around Midgard.",
+      "irish": "A banner gorm, cosúil leis na haigéin ar fud Midgard.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_banner03",
+      "english": "White and Red Striped Banner",
+      "irish": "Bán agus Red Striped Banner",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_banner03_description",
+      "english": "A red striped banner, like a sail for a ship.",
+      "irish": "A banner striped dearg, cosúil le seol do long.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_banner04",
+      "english": "Red Banner",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_banner04_description",
+      "english": "A red banner, like the blood of Odin's foes.",
+      "irish": "A banner dearg, cosúil leis an fhuil na foes Odin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_banner05",
+      "english": "Green Banner",
+      "irish": "Plean Gníomhaíochta don Oideachas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_banner05_description",
+      "english": "A green banner, like the lush forests of Alfheim.",
+      "irish": "A banner glas, cosúil leis na foraoisí lush de Alfheim.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_banner06",
+      "english": "Blue, Red and White Banner",
+      "irish": "Gorm, Dearg agus Bán Banner",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_banner06_description",
+      "english": "A red and blue striped banner, because sometimes you can't pick a colour.",
+      "irish": "A banner dearg agus gorm striped, mar gheall ar uaireanta ní féidir leat a phiocadh dath.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_banner07",
+      "english": "White and Blue Striped Banner",
+      "irish": "Bán agus Gorm Striped Banner",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_banner07_description",
+      "english": "A blue striped banner, like a sail for a ship.",
+      "irish": "A banner striped gorm, cosúil le seol do long.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_banner08",
+      "english": "Yellow Banner",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_banner08_description",
+      "english": "A yellow banner, like the golden fields of Vanaheim.",
+      "irish": "A banner buí, cosúil leis na réimsí órga de Vanaheim.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_banner09",
+      "english": "Purple Banner",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_banner09_description",
+      "english": "A purple banner, like strange magics.",
+      "irish": "A banner corcra, cosúil le draíocht aisteach.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_banner10",
+      "english": "Orange Banner",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_banner10_description",
+      "english": "An orange banner, like the fires of Muspelheim.",
+      "irish": "An banner oráiste, cosúil leis an tinte de Muspelheim.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_banner11",
+      "english": "White Banner",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_banner11_description",
+      "english": "A white banner, like the snow in Niflheim.",
+      "irish": "A banner bán, cosúil leis an sneachta i Niflheim.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_barber",
+      "english": "Barber Station",
+      "irish": "Stáisiún Barber",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_barber_description",
+      "english": "Helps you stay up to date with the latest viking fashion.",
+      "irish": "Cuidíonn tú fanacht suas chun dáta leis an bhealach inmharthana is déanaí.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_bathtub",
+      "english": "Hot Tub",
+      "irish": "Te Tub",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_bathtub_description",
+      "english": "Respectable vikings bathe as often as once per week!",
+      "irish": "Boinn inmharthana chomh minic agus is uair sa tseachtain!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_bed02",
+      "english": "Dragon Bed",
+      "irish": "Dragon Bed",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_bed02_description",
+      "english": "Draped in furs, this bed is sure to give you a good night's sleep.",
+      "irish": "Draped i fionnaidh, tá an leaba cinnte a thabhairt duit oíche maith codlata.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_bed_claim",
+      "english": "Claim",
+      "irish": "Déan teagmháil linn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_bed_currentspawn",
+      "english": "Current spawn point",
+      "irish": "Pointe sceite reatha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_bed_description",
+      "english": "When night falls, you'll want somewhere to sleep.",
+      "irish": "Nuair a thiteann an oíche, beidh tú ag iarraidh áit éigin a chodladh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_bed_setspawn",
+      "english": "Set spawn point",
+      "irish": "Socraigh pointe sceite",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_bed_sleep",
+      "english": "Sleep",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_bed_unclaimed",
+      "english": "Unclaimed Bed",
+      "irish": "Leaba gan éileamh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_beehive_area",
+      "english": "The bees don't like this biome",
+      "irish": "Níl an beacha cosúil leis an biome",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_beehive_check",
+      "english": "Check the bees",
+      "irish": "Seiceáil an beacha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_beehive_description",
+      "english": "When they're happy, the bees will produce tasty honey.",
+      "irish": "Nuair a bhíonn siad sásta, beidh na beacha a tháirgeadh mil blasta.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_beehive_extract",
+      "english": "Extract",
+      "irish": "Sliocht as Sliocht",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_beehive_freespace",
+      "english": "The bees need more open space",
+      "irish": "An gá beacha spás níos oscailte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_beehive_happy",
+      "english": "The bees are happy",
+      "irish": "Tá na beacha sásta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_beehive_sleep",
+      "english": "The bees are sleeping",
+      "irish": "Is iad na beacha codlata",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_bench01",
+      "english": "Wood Bench",
+      "irish": "Uisce agus Séarachas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_bench01_description",
+      "english": "If there is room in your heart, there is room for your butt.",
+      "irish": "Má tá seomra i do chroí, tá seomra do Butt.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_bench_runed",
+      "english": "Carved Bench",
+      "irish": "Carved Bench",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_bench_runed_description",
+      "english": "A rustic yet comfortable place to sit.",
+      "irish": "Áit rustic fós compordach chun suí.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_benchlog",
+      "english": "Sitting Log",
+      "irish": "Logáil isteach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_benchlog_description",
+      "english": "It's nothing fancy, but it's better than sitting on the ground.",
+      "irish": "Tá sé rud ar bith mhaisiúil, ach tá sé níos fearr ná suí ar an talamh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_birdnest",
+      "english": "Birds' Nest",
+      "irish": "Éin Nest",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_birdnest_area",
+      "english": "The birds don't like it here",
+      "irish": "Ní maith leis na héin anseo",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_birdnest_check",
+      "english": "Check Birds' Nest",
+      "irish": "Seiceáil Éin' Nest",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_birdnest_description",
+      "english": "Healthy and happy birds might shed a feather or two.",
+      "irish": "D'fhéadfadh éin Sláintiúil agus sásta a chaillfidh cleite nó dhó.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_birdnest_extract",
+      "english": "Pick up feathers",
+      "irish": "Pioc suas cleití",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_birdnest_freespace",
+      "english": "The birds need more open space",
+      "irish": "Ní mór na héin spás níos oscailte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_birdnest_happy",
+      "english": "The birds are roosting",
+      "irish": "Na héin atá roosting",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_birdnest_sleep",
+      "english": "The birds are sleeping",
+      "irish": "Tá na héin ag codladh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackforge_description",
+      "english": "Certain metals, especially combined with other materials, need to be worked at a more advanced forge.",
+      "irish": "Ní mór miotail áirithe, go háirithe in éineacht le hábhair eile, a bheith ag obair ag forge níos airde.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackforge_ext1",
+      "english": "Black Forge Cooler",
+      "irish": "Dubh bhrionnú with",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackforge_ext1_description",
+      "english": "Let your new creations cool off before you touch them.",
+      "irish": "Lig do bunú nua cool as sula dteagmháil leat iad.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackforge_ext2",
+      "english": "Vice",
+      "irish": "Leas-Chathaoirleach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackforge_ext2_description",
+      "english": "It's convenient to have your project be held in place while you work.",
+      "irish": "Tá sé áisiúil go mbeadh do thionscadal ar siúl agus tú ag obair.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackforge_ext3",
+      "english": "Metal Cutter",
+      "irish": "Miotal cutter",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackforge_ext3_description",
+      "english": "For precise splitting of metal. Mind the sharp edges!",
+      "irish": "Chun scoilteadh beacht de mhiotal. Mind an imill géar!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackforge_ext4",
+      "english": "Gem Cutter",
+      "irish": "Gem cutter",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackforge_ext4_description",
+      "english": "To work with gems, you need specific tools.",
+      "irish": "A bheith ag obair le GEMS, is gá duit uirlisí ar leith.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackforge_ext5",
+      "english": "Smith's Aprons",
+      "irish": "Aibreoga Smith ar",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackforge_ext5_description",
+      "english": "When dealing with extreme temperatures, workplace safety is of the highest import.",
+      "irish": "Agus é ag déileáil le teochtaí foircneacha, tá sábháilteacht san ionad oibre ar an iompórtáil is airde.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble1x1",
+      "english": "Black Marble 1x1x1",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble2x1x1",
+      "english": "Black Marble 2x1x1",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble2x2_enforced",
+      "english": "Enforced Black Marble",
+      "irish": "Treisithe Marble Dubh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble2x2x1",
+      "english": "Black Marble 2x2x1",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble2x2x2",
+      "english": "Black Marble 2x2x2",
+      "irish": "Dubh Marmar 2x2x2",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_arch",
+      "english": "Black Marble Arch",
+      "irish": "Dubh Marble Ar ais",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_base1",
+      "english": "Black Marble Plinth",
+      "irish": "Sorcóir Dubh Marble",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_base2",
+      "english": "Black Marble Wide Plinth",
+      "irish": "Sorcóir Leathan Dubh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_basecorner",
+      "english": "Black Marble Plinth Corner",
+      "irish": "Cúinne Plinth Dubh Marble",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_bench",
+      "english": "Black Marble Bench",
+      "irish": "Dubh Marble Bench",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_bench_description",
+      "english": "Sit with dignity on this bench, finely carved from black marble.",
+      "irish": "Suigh le dínit ar an mbinse seo, snoite go mín ó marmair dubh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_bronze_head1",
+      "english": "Bronze Head 1",
+      "irish": "Ceann na gréine 1",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_bronze_head2",
+      "english": "Bronze Head 2",
+      "irish": "Bronze Ceann 2",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_column_1",
+      "english": "Black Marble Column Small",
+      "irish": "Dubh Marmar Colún Beaga",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_column_2",
+      "english": "Black Marble Column Wide",
+      "irish": "riachtanais uisce: measartha Leathanaigh Leathanaigh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_column_3",
+      "english": "Black Marble Column Tall",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_equilateral_triangle_floor",
+      "english": "Black Marble Floor Equilateral Triangle",
+      "irish": "Urlár Marble Dubh Triantán cliathánach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_floor",
+      "english": "Black Marble Floor",
+      "irish": "Urlár Marble Dubh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_floor4x4",
+      "english": "Black Marble Floor 4x4",
+      "irish": "Dubh Marble Urlár 4x4",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_floor_description",
+      "english": "Dark floors prevent stains.",
+      "irish": "Cosc urlár dorcha stains.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_floor_triangle",
+      "english": "Black Marble Floor Triangle",
+      "irish": "Triantán Urlár Dubh Marble",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_head_big1",
+      "english": "Black Marble Large Head 1",
+      "irish": "Dubh Marble Ceann Móra 1",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_head_big2",
+      "english": "Black Marble Large Head 2",
+      "irish": "Dubh Marble Ceann Móra 2",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_inverted_slope1x2",
+      "english": "Black Marble Slope (Inverted)",
+      "irish": "Slope Marble Dubh (Inverted)",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_out1",
+      "english": "Black Marble Cornice",
+      "irish": "Cúinne Marble Dubh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_out2",
+      "english": "Black Marble Cornice Wide",
+      "irish": "Cúinne Marble Dubh Leathan",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_outcorner",
+      "english": "Black Marble Cornice Corner",
+      "irish": "Cúinne Marble Dubh Cúinne",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_slope1x2",
+      "english": "Black Marble Slope",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_stair",
+      "english": "Black Marble Stair",
+      "irish": "Dubh Marmar Staighre",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_stair_corner_left",
+      "english": "Black Marble Stair Left",
+      "irish": "Dubh Marble Staighre chlé",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_stair_corner_right",
+      "english": "Black Marble Stair Right",
+      "irish": "dubh Marble Staighre Ceart",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_stair_description",
+      "english": "Can be used for going both up and down. How convenient!",
+      "irish": "Is féidir é a úsáid chun dul araon suas agus síos. Cé chomh áisiúil!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_table",
+      "english": "Black Marble Table",
+      "irish": "Dubh Tábla Marble",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_table_description",
+      "english": "Dine like a dwarf at this table!",
+      "irish": "Dine cosúil le dwarf ag an tábla seo!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_throne",
+      "english": "Black Marble Throne",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_throne_description",
+      "english": "A throne carved in authentic dvergr style, yet large enough for a human to sit comfortably upon.",
+      "irish": "A ríchathaoir snoite i stíl dvergr barántúla, ach mór go leor do dhaoine chun suí go compordach ar.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_tile_floor_1x1",
+      "english": "Black Marble Floor Tile Small",
+      "irish": "Dubh Marble Urlár Sile Beaga",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_tile_floor_2x2",
+      "english": "Black Marble Floor Tile Large",
+      "irish": "Dubh Marble Urlár Sile Mór",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_tile_wall_1x1",
+      "english": "Black Marble Wall Tile Small",
+      "irish": "Dubh Marble Wall Aonair Beaga",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_tile_wall_2x2",
+      "english": "Black Marble Wall Tile Large",
+      "irish": "Dubh Marble Balla Móra",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_tile_wall_2x4",
+      "english": "Black Marble Wall Tile Tall",
+      "irish": "Dubh Marble Balla Tuile",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarble_tip",
+      "english": "Black Marble Quarter Spire",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmarbleblock_description",
+      "english": "A black marble piece inspired by dwarven architecture. The only limit is your own creativity.",
+      "irish": "A píosa marmair dubh spreagtha ag ailtireacht dwarven. Is é an teorainn amháin do chruthaitheacht féin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmetalbarstack",
+      "english": "Black Metal Stack",
+      "irish": "Black Miotal Stack",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackmetalbarstack_description",
+      "english": "Sure to be the envy of all fulings!",
+      "irish": "Cinnte a bheith ar an envy de gach fulings!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackwoodbench01",
+      "english": "Ashwood Bench",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackwoodbench01_description",
+      "english": "This bench has an elegant curve to it, to facilitate conversation.",
+      "irish": "Tá cuar galánta ag an mbinse seo dó, chun comhrá a éascú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackwoodstack",
+      "english": "Ashwood Stack",
+      "irish": "Uisce agus Séarachas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackwoodstack_description",
+      "english": "No matter what, this stack of wood always feels warm.",
+      "irish": "Is cuma cad, mothaíonn an Stack adhmaid i gcónaí te.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blastfurnace_description",
+      "english": "Some metals need higher temperatures to melt.",
+      "irish": "Ní mór roinnt miotail teochtaí níos airde a leá.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_bloodgoldbarstack",
+      "english": "Bloodgold Stack",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_bloodgoldbarstack_description",
+      "english": "This metal does have a more sinister air than others, doesn't it?",
+      "irish": "Ní dhéanann an miotail seo aer níos sinister ná daoine eile, nach bhfuil sé?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_bone_throne",
+      "english": "Bone Throne",
+      "irish": "Toir agus Crainn bláthanna",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_bone_throne_description",
+      "english": "This throne is sure to invoke respect in friends and foes alike.",
+      "irish": "Tá an ríchathaoir cinnte a agairt meas i gcairde agus foes araon.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_bonestack",
+      "english": "Bone Stack",
+      "irish": "Déan teagmháil Linn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_bonestack_description",
+      "english": "You never know when these might come in handy!",
+      "irish": "Tá a fhios agat riamh nuair a d'fhéadfadh na teacht i handy!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_bonfire_description",
+      "english": "For when a regular campfire just isn't impressive enough!",
+      "irish": "Le haghaidh nuair nach bhfuil campfire rialta ach go hiontach go leor!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_brazierceiling01",
+      "english": "Hanging Brazier",
+      "irish": "Crochta Brazier",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_brazierceiling01_description",
+      "english": "If your fire hangs from the ceiling, you can't accidentally stumble into it.",
+      "irish": "Má hangs do dóiteáin as an uasteorainn, ní féidir leat stumble thaisme isteach é.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_brazierfloor01",
+      "english": "Standing Brazier",
+      "irish": "Buan Brazier",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_brazierfloor01_description",
+      "english": "A classy way to light up the room.",
+      "irish": "Bealach classy chun solais suas an seomra.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_brazierfloor02",
+      "english": "Blue Standing Brazier",
+      "irish": "Gorm Buan Brazier",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_brazierfloor02_description",
+      "english": "It's hard to tell whether this flame burns incredibly hot or incredibly cold.",
+      "irish": "Tá sé deacair a rá an dóitear an lasair seo thar a bheith te nó thar a bheith fuar.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_bronzebarstack_description",
+      "english": "Beautiful, versatile... Now also stackable!",
+      "irish": "Álainn, versatile... Anois freisin stackable!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_candle",
+      "english": "Resin Candle",
+      "irish": "Candle roisín",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_candle_description",
+      "english": "A small but incredibly cosy lightsource.",
+      "irish": "A beag ach thar a bheith cosy lightsource.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_cartographytable_description",
+      "english": "Mark your discoveries on this map and share them with your friends.",
+      "irish": "Marcáil do fionnachtana ar an léarscáil seo agus iad a roinnt le do chairde.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_catapult_legsdown",
+      "english": "Lower legs",
+      "irish": "cosa níos ísle",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_catapult_legsup",
+      "english": "Raise legs",
+      "irish": "cosa a ardú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_catapult_placeitem",
+      "english": "Place item",
+      "irish": "Mír a chur isteach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_catapult_wontfit",
+      "english": "That doesn't fit in the catapult",
+      "irish": "Ní sin oiriúnach sa catapult",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_cauldron",
+      "english": "Cauldron",
+      "irish": "Toir agus Crainn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_cauldron_description",
+      "english": "Combine ingredients and cook yourself a tasty meal, important for all vikings!",
+      "irish": "Comhábhair agus cócaireacht tú féin béile blasta, tábhachtach do gach vikings!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_cauldron_ext1_spice",
+      "english": "Spice Rack",
+      "irish": "Spice Rack",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_cauldron_ext1_spice_description",
+      "english": "You need many ingredients for a varied and delicious diet.",
+      "irish": "Ní mór duit go leor comhábhair le haghaidh aiste bia éagsúil agus delicious.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_cauldron_ext3_butchertable",
+      "english": "Butcher's Table",
+      "irish": "Tábla Butcher",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_cauldron_ext3_butchertable_description",
+      "english": "The finest dishes require the finest cuts.",
+      "irish": "Éilíonn na miasa is fearr na gearrthacha is fearr.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_cauldron_ext4_pans",
+      "english": "Pots and Pans",
+      "irish": "Potaí agus Pans",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_cauldron_ext4_pans_description",
+      "english": "Sometimes just a cauldron simply isn't enough.",
+      "irish": "Uaireanta níl ach cauldron ach go leor.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_cauldron_ext5_mortarandpestle",
+      "english": "Mortar and Pestle",
+      "irish": "Mortar agus Pestle",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_cauldron_ext5_mortarandpestle_description",
+      "english": "Some ingredients need to be ground into a fine powder before they can be used for cooking.",
+      "irish": "Ní mór roinnt comhábhair a bheith talamh i púdar fíneáil sular féidir iad a úsáid le haghaidh cócaireachta.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_cauldron_ext6_rollingpins",
+      "english": "Rolling Pins and Cutting Boards",
+      "irish": "Rolling Pins agus Boird Gearradh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_cauldron_ext6_rollingpins_description",
+      "english": "These always come in handy, particularly for baking.",
+      "irish": "Na teacht i gcónaí i handy, go háirithe le haghaidh bácála.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_cauldron_ext7_smoker",
+      "english": "Smoker",
+      "irish": "Smoker",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_cauldron_ext7_smoker_description",
+      "english": "Smoked food will keep longer and taste better!",
+      "irish": "Beidh bia deataithe a choinneáil níos faide agus blas níos fearr!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_celebrationgarland",
+      "english": "Flower Garland",
+      "irish": "Bláthanna Gairdín",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_celebrationgarland_description",
+      "english": "Some flowers to brighten up your day!",
+      "irish": "Roinnt bláthanna a brighten suas do lá!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_chair_description",
+      "english": "Lean back and relax.",
+      "irish": "Lean ar ais agus scíth a ligean.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_chair_runed",
+      "english": "Carved Chair",
+      "irish": "Cathaoirleach snoite",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_chair_runed_description",
+      "english": "The shape of this chair might be simple, but its decorations are not.",
+      "irish": "D'fhéadfadh cruth an chathaoir seo a bheith simplí, ach níl a chuid maisiúcháin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_charcoalkiln",
+      "english": "Charcoal Kiln",
+      "irish": "Inis dúinn, le do thoil...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_charcoalkiln_description",
+      "english": "Useful for turning any kind of wood into coal.",
+      "irish": "Úsáideacha chun aon chineál adhmaid a chasadh ina ghual.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_charredballista",
+      "english": "Skugg",
+      "irish": "Scátála",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_charredchest",
+      "english": "Charred Chest",
+      "irish": "Carachtair rompu",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_chest_description",
+      "english": "A sturdier chest, with room for more storage.",
+      "irish": "A cófra sturdier, le seomra le haghaidh níos mó stórála.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_chestbarrel",
+      "english": "Barrel",
+      "irish": "Uisce agus Séarachas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_chestbarrel_description",
+      "english": "A barrel is good for storing lots of things, including food and drink.",
+      "irish": "Tá bairille maith do stóráil go leor de na rudaí, lena n-áirítear bia agus deoch.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_chestblackmetal",
+      "english": "Black Metal Chest",
+      "irish": "Dubh Miotal Chic",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_chestblackmetal_description",
+      "english": "The sturdy black metal that holds this chest together lets you put almost anything inside.",
+      "irish": "An miotail dubh sturdy go bhfuil an cófra le chéile ligeann tú a chur beagnach aon rud taobh istigh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_chestgrausten",
+      "english": "Grausten Chest",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_chestgrausten_description",
+      "english": "Stone and metal are sure to keep your belongings safe. The charred skulls help too.",
+      "irish": "Tá cloch agus miotail cinnte a choinneáil do belongings sábháilte. An skulls charred cabhrú freisin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_chestprivate",
+      "english": "Personal Chest",
+      "irish": "Déan Teagmháil Linn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_chestprivate_description",
+      "english": "Some things you would rather lock away and keep for yourself.",
+      "irish": "Roinnt rudaí a bheadh tú glas in áit ar shiúl agus a choinneáil ar do shon féin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_chesttreasure",
+      "english": "Treasure Chest",
+      "irish": "Treasure rompu",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_chesttreasure_description",
+      "english": "What better way to display your wealth than a treasure chest spilling over with gold and jewels?",
+      "irish": "Cad bealach níos fearr a thaispeáint do saibhreas ná cófra Treasure doirteadh thar le hór agus jewels?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_chestwarderobe",
+      "english": "Wardrobe",
+      "irish": "Amharc ar gach eolas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_chestwarderobe_description",
+      "english": "An elegant place for storage.",
+      "irish": "Áit galánta le haghaidh stórála.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_chestwood",
+      "english": "Chest",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_chestwood_description",
+      "english": "A good place to store any items you don't need to carry with you.",
+      "irish": "Áit mhaith a stóráil aon míreanna nach gá duit a dhéanamh leat.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_clothdoor",
+      "english": "Red Jute Curtain",
+      "irish": "Red Jut Curtain",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_clothdoor_description",
+      "english": "Heavy curtains of red jute, excellent for draping.",
+      "irish": "Cuirtíní trom de jute dearg, den scoth le haghaidh draping.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_coalpile",
+      "english": "Coal Pile",
+      "irish": "Comhghuaillíocht",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_coalpile_description",
+      "english": "It never hurts to have a lot of fuel on hand.",
+      "irish": "Riamh hurts sé go bhfuil a lán de breosla ar láimh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_container_empty",
+      "english": "EMPTY",
+      "irish": "EMPTY",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_container_open",
+      "english": "Open",
+      "irish": "Oscailt Oscailte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_cookingstation_description",
+      "english": "Perfect for grilling raw meat.",
+      "irish": "Foirfe le haghaidh feoil amh grilling.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_cookingstation_iron",
+      "english": "Iron Cooking Station",
+      "irish": "Stáisiún Cócaireachta Iarann",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_cookingstation_iron_description",
+      "english": "Sturdy, with room to cook meat from larger creatures.",
+      "irish": "Sturdy, le seomra chun feoil a chócaráil ó créatúir níos mó.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_copperbarstack_description",
+      "english": "Premium quality copper. Nothing to complain about!",
+      "irish": "copar chaighdeán Préimh. Ní dhéanfaidh aon ní gearán faoi!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_crate",
+      "english": "Crate",
+      "irish": "Cliathbhosca",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_crate_long",
+      "english": "Dvergr Component Crate",
+      "irish": "Dvergr Comhpháirteanna",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_crystalwall_description",
+      "english": "Beautiful and fragile.",
+      "irish": "Álainn agus leochaileach.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_cstand_cook",
+      "english": "Cook item",
+      "irish": "mír cócaireachta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_cultivate",
+      "english": "Cultivate",
+      "irish": "Cultivate",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_cultivate_description",
+      "english": "Make the soil ready for planting.",
+      "irish": "Déan an ithir réidh le plandáil.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_darkwoodarch",
+      "english": "Darkwood Arch",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_darkwoodbeam",
+      "english": "Darkwood Beam 2 m",
+      "irish": "tréimhse saoil: ilbhliantúil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_darkwoodbeam4",
+      "english": "Darkwood Beam 4 m",
+      "irish": "Toir agus Crainn bláthanna",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_darkwoodbeam_26",
+      "english": "Darkwood Beam 26°",
+      "irish": "Darkwood Beam 26 °",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_darkwoodbeam_45",
+      "english": "Darkwood Beam 45°",
+      "irish": "Darkwood Beam 45 °",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_darkwoodchair",
+      "english": "Darkwood Chair",
+      "irish": "Cathaoirleach Darkwood",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_darkwoodchair_description",
+      "english": "This chair is padded with furs, suitable for esteemed guests.",
+      "irish": "Tá an cathaoirleach padded le fionnaidh, oiriúnach do aíonna esteemed.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_darkwooddecowall",
+      "english": "Carved Darkwood Divider",
+      "irish": "Carved Darkwood Roinnte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_darkwooddecowall_description",
+      "english": "An elegant design for decorating your home, and for keeping prying eyes away.",
+      "irish": "Dearadh galánta le haghaidh maisiú do theach, agus le haghaidh a choinneáil súile prying ar shiúl.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_darkwoodgate",
+      "english": "Darkwood Gate",
+      "irish": "An tSraith Shinsearach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_darkwoodgate_description",
+      "english": "A fancy and sturdy gate. To use by itself or as part of a pair.",
+      "irish": "A geata mhaisiúil agus sturdy. Le húsáid aige féin nó mar chuid de péire.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_darkwoodpole",
+      "english": "Darkwood Pole 2m",
+      "irish": "Uirlisí ilchuspóireacha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_darkwoodpole4",
+      "english": "Darkwood Pole 4m",
+      "irish": "Sraith retro clasaiceach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_darkwoodpoles_description",
+      "english": "Intricate designs run along this support structure.",
+      "irish": "Riarann dearaí diana feadh an struchtúir tacaíochta seo.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_darkwoodraven",
+      "english": "Raven Adornment",
+      "irish": "Amharc ar gach eolas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_darkwoodraven_description",
+      "english": "The ravens are trusted companions of the Allfather, of course you would want one in your home as well.",
+      "irish": "Is iad na ravens companions iontaofa an Allfather, ar ndóigh, ba mhaith leat ceann i do theach chomh maith.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_darkwoodroof26",
+      "english": "Shingle Roof 26°",
+      "irish": "Línéadaigh Roof 26 °",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_darkwoodroof26_description",
+      "english": "This shallow roof is sure to keep the rain out, and look good doing it.",
+      "irish": "Tá an díon éadomhain cinnte a choinneáil ar an báisteach amach, agus breathnú maith ag déanamh é.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_darkwoodroof45",
+      "english": "Shingle Roof 45°",
+      "irish": "Láimhseáil 45 °",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_darkwoodroof45_description",
+      "english": "This steeper roof is sure to keep the rain out, and look good doing it.",
+      "irish": "Is é seo an díon níos géire cinnte a choinneáil ar an báisteach amach, agus breathnú maith ag déanamh air.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_darkwoodroof67",
+      "english": "Shingle Roof 67°",
+      "irish": "Línéadaigh 67 °",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_darkwoodroof67_description",
+      "english": "This very steep roof is sure to keep the rain out, and look good doing it.",
+      "irish": "Tá an díon an-ghéar cinnte a choinneáil ar an báisteach amach, agus breathnú maith ag déanamh é.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_darkwoodrooficorner",
+      "english": "Shingle Roof Inner Corner 26°",
+      "irish": "Shingle Roof Inner Corner 26 °",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_darkwoodrooficorner45",
+      "english": "Shingle Roof Inner Corner 45°",
+      "irish": "Shingle Roof Inner Corner 45 °",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_darkwoodrooficorner67",
+      "english": "Shingle Roof Inner Corner 67°",
+      "irish": "Shingle Roof Inner Corner 67 °",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_darkwoodroofocorner",
+      "english": "Shingle Roof Outer Corner 26°",
+      "irish": "Shingle Roof Outer Corner 26 °",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_darkwoodroofocorner45",
+      "english": "Shingle Roof Outer Corner 45°",
+      "irish": "Shingle Roof Outer Corner 45 °",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_darkwoodroofocorner67",
+      "english": "Shingle Roof Outer Corner 67°",
+      "irish": "Shingle Roof Outer Corner 67 °",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_darkwoodrooftop",
+      "english": "Shingle Roof Ridge 26°",
+      "irish": "Línéadaigh Ridge 26 °",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_darkwoodrooftop45",
+      "english": "Shingle Roof Ridge 45°",
+      "irish": "Línéadaigh Ridge 45 °",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_darkwoodrooftop67",
+      "english": "Shingle Roof Ridge 67°",
+      "irish": "Línéadaigh Ridge 67 °",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_darkwoodwolf",
+      "english": "Wolf Adornment",
+      "irish": "Adhmad Mac Tíre",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_darkwoodwolf_description",
+      "english": "Wolves are pack animals, but this one seems happy enough by itself.",
+      "irish": "Tá Wolves ainmhithe pacáiste, ach is cosúil an ceann seo sásta go leor aige féin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_deco_stave_wall",
+      "english": "Lathed Timber Wall",
+      "irish": "tréimhse saoil: ilbhliantúil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_deco_stave_wall_description",
+      "english": "This wall won't do much to keep out the cold, but it's very pretty to look at.",
+      "irish": "Ní bheidh an bhalla a dhéanamh i bhfad a choinneáil amach an fuar, ach tá sé an-go leor chun breathnú ar.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_deposit_copper",
+      "english": "Copper Deposit",
+      "irish": "Taisce Copair",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_deposit_goldvein",
+      "english": "Petrified Gammeltroll",
+      "irish": "Petrified Gammeltroll",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_deposit_obsidian",
+      "english": "Obsidian Deposit",
+      "irish": "Taiscí Taiscí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_deposit_silver",
+      "english": "Silver Deposit",
+      "irish": "Taisce Silver",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_deposit_silvervein",
+      "english": "Silver Vein",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_deposit_tin",
+      "english": "Tin Deposit",
+      "irish": "Taiscí stáin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_door_close",
+      "english": "Close",
+      "irish": "Dún na nGall",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_door_open",
+      "english": "Open",
+      "irish": "Oscailt Oscailte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_drawbridge",
+      "english": "Drawbridge",
+      "irish": "Dramhaíl Tí a Athchúrsáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_drawbridge_description",
+      "english": "Both a bridge and a gate, how clever!",
+      "irish": "An dá droichead agus geata, cé chomh cliste!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_drawbridge_dn",
+      "english": "Timberwood Drawbridge",
+      "irish": "Inis dúinn, le do thoil...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_drawbridge_log",
+      "english": "Rustic Drawbridge",
+      "irish": "Nuacht agus Imeachtaí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_drawbridge_log_description",
+      "english": "Convenient for crossing chasms, or for keeping enemies out.",
+      "irish": "Áisiúil do chasms trasnú, nó do naimhde a choinneáil amach.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_dv_gate",
+      "english": "Old Dvergr Gate",
+      "irish": "Sean Geata Dvergr",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_dvergr_door",
+      "english": "Dvergr Door",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_dvergr_lantern",
+      "english": "Dvergr Wall Lantern",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_dvergr_lantern_description",
+      "english": "A finely wrought lantern, crafted by a true artisan. The wall mount is easy enough to figure out though!",
+      "irish": "A laindéir fíneáil wrought, crafted ag ceardaí fíor. Is é an mount balla éasca go leor chun an figiúr amach cé!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_dvergr_lantern_pole",
+      "english": "Dvergr Pole Lantern",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_dvergr_lantern_pole_description",
+      "english": "You can build a pole easy enough, but the lantern can only have been made by a true master.",
+      "irish": "Is féidir leat a thógáil cuaille éasca go leor, ach is féidir leis an laindéir a bheith déanta ach ag máistir fíor.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_dvergr_metal_wall",
+      "english": "Dvergr Metal Wall",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_dvergr_metal_wall_description",
+      "english": "Dvergr design is all the rage these days.",
+      "irish": "Tá dearadh Dvergr go léir an rage na laethanta.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_dvergr_pole",
+      "english": "Dvergr Pole",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_dvergr_sharpstakes",
+      "english": "Dvergr Sharp Stakes",
+      "irish": "Dvergr Sharp Stakes",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_dvergr_sharpstakes_description",
+      "english": "The dvergr know how to keep unwanted visitors away.",
+      "irish": "Tá a fhios ag an dvergr conas cuairteoirí nach dteastaíonn a choinneáil ar shiúl.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_dvergr_spiralstair",
+      "english": "Dvergr Spiral Staircase Left",
+      "irish": "Dvergr Spiral Clé Stair",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_dvergr_spiralstair_description",
+      "english": "Up and around it goes!",
+      "irish": "Suas agus thart téann sé!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_dvergr_spiralstair_right",
+      "english": "Dvergr Spiral Staircase Right",
+      "irish": "Dvergr Spiral Staighre Ceart",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_dvergr_stake_wall",
+      "english": "Dvergr Stakewall",
+      "irish": "Dvergr balla",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_dvergr_stake_wall_description",
+      "english": "Reinforced with metal, this is sure to be a sturdy defence.",
+      "irish": "Treisithe le miotail, tá sé seo cinnte a bheith ina chosaint sturdy.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_dvergr_woodwall",
+      "english": "Dvergr Wall",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_dvergrchest",
+      "english": "Dvergr Treasure Chest",
+      "irish": "Dvergr Treasure rompu",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_eitrrefinery_description",
+      "english": "This machine will turn soft tissue into the magical substance eitr. The process is quite volatile, however, so stand back!",
+      "irish": "Cuirfidh an meaisín seo fíochán bog isteach san eitéar substainte draíochta. Tá an próiseas so-ghalaithe go leor, áfach, mar sin seasamh ar ais!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_faderember",
+      "english": "Eternal Pyre",
+      "irish": "Pirimid Eternal",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_faderember_description",
+      "english": "His rage and regret are at war with each other, and their struggle will fuel this fire until the very end.",
+      "irish": "Tá a rage agus aiféala ag cogadh lena chéile, agus beidh a streachailt breosla an tine go dtí an deireadh an-.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_faderember_full",
+      "english": "The embers are burning bright",
+      "irish": "An embers ag dó geal",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_faderember_light",
+      "english": "The embers are catching",
+      "irish": "Na embers ag teacht",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_faderember_nospace",
+      "english": "The embers are suffocating",
+      "irish": "Is iad na embers suffocating",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_faderember_ok",
+      "english": "The embers are catching",
+      "irish": "Na embers ag teacht",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_fairylightgarland",
+      "english": "Fey Lights",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_fairylightgarland_description",
+      "english": "Lends a gentle light to your festivities.",
+      "irish": "Lends solas milis le do festivities.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_fermenter",
+      "english": "Fermenter",
+      "irish": "Uisce agus Séarachas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_fermenter_add",
+      "english": "Add item",
+      "irish": "Cuir isteach mír",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_fermenter_description",
+      "english": "Mead needs to sit and ferment for a while, for all its intended properties to emerge.",
+      "irish": "Ní mór don mhoth suí agus coipeadh ar feadh tamaill, as a chuid maoine beartaithe go léir chun teacht chun cinn.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_fermenter_exposed",
+      "english": "Too exposed",
+      "irish": "Too nochtadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_fermenter_fermenting",
+      "english": "Fermenting",
+      "irish": "An t-eolas úsáideach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_fermenter_needroof",
+      "english": "Requires a roof",
+      "irish": "Éilíonn díon",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_fermenter_ready",
+      "english": "Done",
+      "irish": "Arna dhéanamh in Strasbourg",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_fermenter_tap",
+      "english": "Tap",
+      "irish": "Beartaíonn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_fire",
+      "english": "Fire",
+      "irish": "Dóiteáin agus Dóiteáin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_fire_fuel",
+      "english": "Fuel",
+      "irish": "Breosla Breosla",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_firepit",
+      "english": "Campfire",
+      "irish": "An tSeirbhís Dóiteáin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_firepit_description",
+      "english": "Useful for cooking, warmth, or just resting for a bit.",
+      "irish": "Úsáideacha le haghaidh cócaireachta, teas, nó díreach resting le haghaidh beagán.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_firepit_iron",
+      "english": "Iron Fire Pit",
+      "irish": "Iarann Dóiteáin Pit",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_firepit_iron_description",
+      "english": "If you don't want to place a campfire directly onto the ground, this is a classy alternative.",
+      "irish": "Más rud é nach bhfuil tú ag iarraidh a chur ar campfire díreach ar an talamh, tá sé seo ina rogha malartach classy.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_flametal_beam",
+      "english": "Flametal Beam",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_flametal_pillar",
+      "english": "Flametal Pillar",
+      "irish": "Flametal Pillar",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_flametal_pillar_description",
+      "english": "Pure flamin' metal.",
+      "irish": "flamin íon 'mhiotal.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_flametalbarstack",
+      "english": "Flametal Stack",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_flametalbarstack_description",
+      "english": "The heat is practically radiating from this stack...",
+      "irish": "Is é an teas radiating praiticiúil as an chairn...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_flametalgate",
+      "english": "Flametal Gate",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_flametalgate_description",
+      "english": "An impressive way to welcome your friends, or to ward off your foes.",
+      "irish": "Bealach iontach chun fáilte a chur roimh do chairde, nó chun bharda as do foes.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_flintpile",
+      "english": "Flint Pile",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_flintpile_description",
+      "english": "Watch your step!",
+      "irish": "Féach ar do chéim!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_forge_description",
+      "english": "When you want to work with metal, you need a forge.",
+      "irish": "Nuair is mian leat a bheith ag obair le miotail, is gá duit a chruthú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_forge_ext1",
+      "english": "Forge Bellows",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_forge_ext1_description",
+      "english": "Pressing down on these bellows generates more heat, which is very helpful for smithing.",
+      "irish": "Ag brú síos ar na bellows Gineann teas níos mó, atá an-chabhrach do smithing.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_forge_ext2",
+      "english": "Anvils",
+      "irish": "bláthanna cumhra: cumhráin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_forge_ext2_description",
+      "english": "For more detailed work, multiple kinds of anvils can come in handy.",
+      "irish": "Le haghaidh obair níos mionsonraithe, is féidir le cineálacha éagsúla anvils teacht i handy.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_forge_ext3",
+      "english": "Grinding Wheel",
+      "irish": "Roth Meilt",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_forge_ext3_description",
+      "english": "A grinding wheel is necessary for sharpening any kind of sword.",
+      "irish": "Tá roth meilt is gá chun géarú aon chineál claíomh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_forge_ext4",
+      "english": "Smith's Anvil",
+      "irish": "Anvil Smith ar",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_forge_ext4_description",
+      "english": "A large anvil for working large items. Make sure it doesn't fall on your feet.",
+      "irish": "A anvil mór le haghaidh obair míreanna móra. Bí cinnte nach dtagann sé ar do chosa.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_forge_ext5",
+      "english": "Forge Cooler",
+      "irish": "Forge Cooler",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_forge_ext5_description",
+      "english": "Once a creation is done, this barrel of water will bring the metal down to a manageable temperature.",
+      "irish": "Chomh luath agus a chruthú a dhéanamh, beidh an bairille uisce a thabhairt ar an miotail síos go dtí teocht inbhainistithe.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_forge_ext6",
+      "english": "Forge Tool Rack",
+      "irish": "Uirlisí bácála",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_forge_ext6_description",
+      "english": "You need lots of different tools to work with. These conveniently come with a rack for storage.",
+      "irish": "Ní mór duit go leor de na huirlisí éagsúla a bheith ag obair leis. Na teacht go caothúil le raca le haghaidh stórála.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_frostfoundry",
+      "english": "Frost Foundry",
+      "irish": "Frost Bunaitheoir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_frostfoundry_additem",
+      "english": "Place Cast",
+      "irish": "Plás réitigh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_frostfoundry_description",
+      "english": "This foundry can be used to harden casts into proper items.",
+      "irish": "Is féidir an teilgean seo a úsáid chun teilgin a chruachadh i míreanna cuí.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_frostfoundry_takeitem",
+      "english": "Take Item",
+      "irish": "Tóg Mír",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_frostkiln",
+      "english": "Frigid Kiln",
+      "irish": "Uisce agus Séarachas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_frostkiln_description",
+      "english": "A strange and chilling process happens within this kiln, to produce a most potent fuel...",
+      "irish": "Tarlaíonn próiseas aisteach agus fuaraithe laistigh den kiln seo, chun breosla is potent a tháirgeadh...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_giant_bone",
+      "english": "Petrified Bone",
+      "irish": "Petrified Bone",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_giant_brain",
+      "english": "Soft Tissue",
+      "irish": "Fíocháin Bog",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_giant_helmet",
+      "english": "Ancient Armour",
+      "irish": "An tIomlán Ársa",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_giant_sword",
+      "english": "Ancient Sword",
+      "irish": "Seans go mbeidh ort:",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_grausten_archmedium",
+      "english": "Grausten Medium Arch",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_grausten_archsmall",
+      "english": "Grausten Small Arch",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_grausten_beammedium",
+      "english": "Grausten Medium Beam",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_grausten_beamsmall",
+      "english": "Grausten Small Beam",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_grausten_floor1x1",
+      "english": "Grausten Floor 1x1",
+      "irish": "Urláir 1x1",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_grausten_floor2x2",
+      "english": "Grausten Floor 2x2",
+      "irish": "Urlár 2x2 Urlár",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_grausten_floor4x4",
+      "english": "Grausten Floor 4x4",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_grausten_floor_description",
+      "english": "These thin floor tiles are deceptively sturdy.",
+      "irish": "Tá na tíleanna urláir tanaí deceptively sturdy.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_grausten_pillarmedium",
+      "english": "Grausten Medium Pillar",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_grausten_pillars_description",
+      "english": "Strong enough to withstand a land of fire.",
+      "irish": "Láidir go leor chun talamh tine a sheasamh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_grausten_pillarsmall",
+      "english": "Grausten Small Pillar",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_grausten_pillartapered",
+      "english": "Grausten Tapered Pillar",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_grausten_pillartaperedinverted",
+      "english": "Grausten Tapered Pillar (Inverted)",
+      "irish": "Colún Tapered Grausten (Inverted)",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_grausten_roof45",
+      "english": "Grausten Roof",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_grausten_roof45_arch",
+      "english": "Grausten Arched Roof",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_grausten_roof45_archcorner",
+      "english": "Grausten Arched Roof Corner",
+      "irish": "Monaróir a tháirgtear: Uimh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_grausten_roof45_archcorner2",
+      "english": "Grausten Arched Roof Corner",
+      "irish": "Monaróir a tháirgtear: Uimh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_grausten_roof45_corner",
+      "english": "Grausten Roof Corner",
+      "irish": "ghrian nochtadh: ghrian go hiomlán",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_grausten_roof45_corner2",
+      "english": "Grausten Roof Corner",
+      "irish": "ghrian nochtadh: ghrian go hiomlán",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_grausten_roof_description",
+      "english": "A roof design fit for the mightiest of halls.",
+      "irish": "A oiriúnach dearadh díon don mightiest de hallaí.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_grausten_stair",
+      "english": "Grausten Stairs",
+      "irish": "Liosta de na hábhair:",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_grausten_stair_description",
+      "english": "Just take one step after the other.",
+      "irish": "Just a ghlacadh céim amháin tar éis an ceann eile.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_grausten_stoneladder",
+      "english": "Grausten Steep Stairs",
+      "irish": "Stairsigh géar",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_grausten_stoneladder_description",
+      "english": "Good for getting to higher levels.",
+      "irish": "Dea chun dul go dtí leibhéil níos airde.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_grausten_wall1x2",
+      "english": "Grausten Wall 1x2",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_grausten_wall2x2",
+      "english": "Grausten Wall 2x2",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_grausten_wall4x2",
+      "english": "Grausten Wall 4x2",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_grausten_wall_description",
+      "english": "Stone walls inspired by a long-gone civilisation.",
+      "irish": "Ballaí cloiche spreagtha ag sibhialtacht fhada.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_grausten_wallarch",
+      "english": "Grausten Wall Arch",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_grausten_wallarchinv",
+      "english": "Grausten Wall Arch (Inverted)",
+      "irish": "Grausten Wall Arch (Inverted)",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_grausten_window2x2",
+      "english": "Grausten Window 2x2",
+      "irish": "2) anailís cheimiceach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_grausten_window4x2",
+      "english": "Grausten Window 4x2",
+      "irish": "Ard-Fuinneamh 4x2",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_graustenpile",
+      "english": "Grausten Pile",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_graustenpile_description",
+      "english": "Grausten, carefully placed into a pile.",
+      "irish": "Grausten, a chur go cúramach isteach i carn.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_groundtorch",
+      "english": "Standing Iron Torch",
+      "irish": "Buan Iarann Torch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_groundtorch_description",
+      "english": "A sturdy iron torch to light up your surroundings.",
+      "irish": "A torch iarainn sturdy chun solais suas do thimpeallacht.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_groundtorchblue",
+      "english": "Standing Blue-burning Iron Torch",
+      "irish": "Buan Gorm-dó Torch Iarann",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_groundtorchblue_description",
+      "english": "A sturdy iron torch, emitting an eerie blue light.",
+      "irish": "A torch iarainn sturdy, astú solas gorm eerie.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_groundtorchdemister",
+      "english": "Wisp Torch",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_groundtorchdemister_description",
+      "english": "Bind the wisp to a fixed spot, to ensure the place is always free of mist.",
+      "irish": "Ceangail an wisp ar an láthair seasta, chun a chinntiú go bhfuil an áit i gcónaí saor ó olc.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_groundtorchgreen",
+      "english": "Standing Green-burning Iron Torch",
+      "irish": "Buan Glas-dó Iarann Torch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_groundtorchgreen_description",
+      "english": "A sturdy iron torch, burning with a green flame.",
+      "irish": "A torch iarainn sturdy, dhó le lasair glas.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_groundtorchwood",
+      "english": "Standing Wood Torch",
+      "irish": "Torch adhmaid Buan",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_groundtorchwood_description",
+      "english": "A torch to stick in the ground, for when you need your hands free.",
+      "irish": "A torch a bata sa talamh, le haghaidh nuair is gá duit do lámha saor in aisce.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_guardstone",
+      "english": "Ward",
+      "irish": "Bhí an t-eolas úsáideach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_guardstone_activate",
+      "english": "Activate",
+      "irish": "Achtú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_guardstone_active",
+      "english": "Active",
+      "irish": "Gníomhachtaigh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_guardstone_add",
+      "english": "Opt-in",
+      "irish": "Rogha-i",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_guardstone_additional",
+      "english": "Permitted",
+      "irish": "Ceadaithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_guardstone_deactivate",
+      "english": "Deactivate",
+      "irish": "An bhfuil a fhios agat...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_guardstone_description",
+      "english": "Emits a magic seal on the nearby surroundings which prevents other players from constructing buildings or opening doors.",
+      "irish": "Emits séala draíochta ar an timpeallacht in aice láimhe a chuireann cosc ar imreoirí eile ó thógáil foirgnimh nó doirse a oscailt.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_guardstone_inactive",
+      "english": "Inactive",
+      "irish": "Go gníomhach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_guardstone_owner",
+      "english": "Owner",
+      "irish": "Amharc ar gach eolas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_guardstone_remove",
+      "english": "Opt-out",
+      "irish": "Opt-out",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_hanging_cloth_blue1",
+      "english": "Blue Jute Drapes",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_hanging_cloth_blue1_description",
+      "english": "Blue jute makes any building look official and important.",
+      "irish": "Déanann jute gorm aon fhoirgneamh cuma oifigiúil agus tábhachtach.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_hanging_cloth_blue2",
+      "english": "Blue Jute Curtain",
+      "irish": "Blue Jut Curtain",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_harvest",
+      "english": "Harvest",
+      "irish": "Fómhair",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_hearth",
+      "english": "Hearth",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_hearth_description",
+      "english": "A central part of any homestead.",
+      "irish": "Cuid lárnach d'aon áit chónaithe.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_hexagonalgate",
+      "english": "Hexagonal Gate",
+      "irish": "Gheata Heicsagánach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_hexagonalgate_description",
+      "english": "This dwarven design is excellent for keeping unwanted guests out.",
+      "irish": "Tá an dearadh dwarven den scoth le haghaidh aíonna nach dteastaíonn a choinneáil amach.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_hoodedlantern",
+      "english": "Hooded Lantern",
+      "irish": "tréimhse saoil: ilbhliantúil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_hoodedlantern_description",
+      "english": "Aimed in just one direction, the light grows more potent. Convenient for sneak thieves, or those who wish to leave a trail.",
+      "irish": "Aimed i díreach treo amháin, fásann an solas níos potent. Áisiúil do thieves sneak, nó iad siúd ar mian leo a fhágáil rian.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_horizontal",
+      "english": "Horizontal",
+      "irish": "Cothrománach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_icecube",
+      "english": "Ice Block",
+      "irish": "Déan teagmháil Linn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_icecube_description",
+      "english": "A solid chunk of ice.",
+      "irish": "Smután soladach oighir.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_incinerator",
+      "english": "Obliterator",
+      "irish": "Aiseolas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_incinerator_conversion",
+      "english": "Thor bestows a gift upon you!",
+      "irish": "Thor bestows bronntanas ar tú!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_incinerator_description",
+      "english": "Reduce, reuse, obliterate.",
+      "irish": "Laghdú, athúsáid, scriosta.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_incinerator_empty",
+      "english": "Thor frowns upon you",
+      "irish": "frowns Thor ar tú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_incinerator_fail",
+      "english": "Obliterator is in use",
+      "irish": "Is Obliterator in úsáid",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_incinerator_success",
+      "english": "Items obliterated!",
+      "irish": "Míreanna scriosta!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ironbarstack_description",
+      "english": "If you have iron, you have everything.",
+      "irish": "Má tá tú iarainn, tá gach rud agat.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ironcage_description",
+      "english": "Finely crafted iron bars, sure to be rattle-proof!",
+      "irish": "barraí iarainn crafted Finely, cinnte a bheith ramhar-cruthúnas!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_irongate_description",
+      "english": "A very important gate.",
+      "irish": "A geata an-tábhachtach.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_itemstand",
+      "english": "Item Stand",
+      "irish": "Mír Stand",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_itemstand_attach",
+      "english": "Attach item",
+      "irish": "Mír scoite",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_itemstand_cantattach",
+      "english": "You can't attach this item",
+      "irish": "Ní féidir leat an mhír seo a cheangal",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_itemstand_h_description",
+      "english": "Place items on horizontal surfaces with this item stand.",
+      "irish": "Cuir míreanna ar dhromchlaí cothrománacha leis an seastán mír seo.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_itemstand_missingitem",
+      "english": "Missing required item",
+      "irish": "Ag iarraidh mír riachtanach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_itemstand_take",
+      "english": "Take item",
+      "irish": "Tóg mír",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_itemstand_v_description",
+      "english": "Mount items on vertical surfaces with this item stand.",
+      "irish": "Míreanna Mount ar dhromchlaí ingearach leis an seastán mír.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_jackoturnip",
+      "english": "Jack-o-turnip",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_jackoturnip_description",
+      "english": "The face carved into this vegetable...is it spooky or friendly?",
+      "irish": "An aghaidh snoite isteach sa glasraí...is spooky nó cairdiúil é?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_jotunchest",
+      "english": "Jotun's Chest",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_jotungate",
+      "english": "Gates of Mörkhalla",
+      "irish": "Geata de Mörkhalla",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_jute_carpet",
+      "english": "Red Jute Carpet",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_jute_carpet_description",
+      "english": "This coarse fabric is excellent for keeping the cold at bay.",
+      "irish": "Tá an creatlach garbh seo den scoth chun an fuar a choinneáil ag bá.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_juteblue_carpet",
+      "english": "Blue Jute Carpet",
+      "irish": "ghrian nochtadh: ghrian go hiomlán",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_juteblue_carpet_description",
+      "english": "No matter how misty the air is, this carpet doesn't appear to get damp.",
+      "irish": "Is cuma cé chomh olc go bhfuil an t-aer, nach bhfuil an cairpéad dealraitheach a fháil taise.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_lavalantern",
+      "english": "Lava Lantern",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_lavalantern_description",
+      "english": "It's...hypnotising to look at...",
+      "irish": "Tá sé...hypnotising chun breathnú ar...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_levelground",
+      "english": "Level Ground",
+      "irish": "An tSraith Shinsearach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_levelground_description",
+      "english": "If the terrain is too lumpy, you can just flatten it.",
+      "irish": "Má tá an tír-raon ró-chnapánach, is féidir leat é a leacú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_logbeam2",
+      "english": "Log Beam 2 m",
+      "irish": "Logáil isteach 2 m",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_logbeam4",
+      "english": "Log Beam 4 m",
+      "irish": "Logáil isteach 4 m",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_logpole2",
+      "english": "Log Pole 2 m",
+      "irish": "Logáil Pole 2 m",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_logpole4",
+      "english": "Log Pole 4 m",
+      "irish": "Logáil isteach 4 m",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_lorestone",
+      "english": "Runestone",
+      "irish": "Uisce agus Séarachas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_magetable_description",
+      "english": "Mysterious galdr forces gather upon this altar. It's up to you to harness them...",
+      "irish": "fórsaí réaltra mistéireach bhailiú ar an altóir. Tá sé suas chun tú chun leas a bhaint astu...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_magetable_ext",
+      "english": "Rune Table",
+      "irish": "Tábla Rith",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_magetable_ext2",
+      "english": "Unfading Candles",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_magetable_ext2_description",
+      "english": "These candles emit a strange light, urging more potent magic to coalesce around them.",
+      "irish": "Na coinnle astaíonn solas aisteach, lorg draíochta níos potent a coalesce timpeall orthu.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_magetable_ext3",
+      "english": "Feathery Wreath",
+      "irish": "An Saol ó Dheas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_magetable_ext3_description",
+      "english": "An offering to the mysterious powers scattered across the realms. Perhaps they will lend themselves to you.",
+      "irish": "tairiscint do na cumhachtaí mistéireach scaipthe ar fud na realms. B'fhéidir go mbeidh siad ar iasacht iad féin a thabhairt duit.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_magetable_ext4",
+      "english": "Standing Loom",
+      "irish": "Amharc ar gach eolas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_magetable_ext4_description",
+      "english": "The Norns weave the threads of fate together in a magical tapestry. What shall you weave?",
+      "irish": "Na Norns weave na snáitheanna de cinniúint le chéile i téipeanna draíochta. Cad a fhífidh tú?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_magetable_ext_description",
+      "english": "Runes are a well-known tool for channeling magic, if one knows how to read them.",
+      "irish": "Tá Runes uirlis-aitheanta go maith le haghaidh draíocht cainéalú, má tá a fhios ag duine conas iad a léamh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_maptable_hildir",
+      "english": "Hildir's Map Table",
+      "irish": "Tábla Léarscáil Hildir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_maptable_hildir_use",
+      "english": "Register chest locations",
+      "irish": "Aimsigh áiteanna cófra",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_marblepile_description",
+      "english": "Perfect for Dvergr inspired construction.",
+      "irish": "Foirfe do Dvergr spreagadh tógála.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_maypole_description",
+      "english": "On the longest day of the year, let this monument stretch towards the sun!",
+      "irish": "Ar an lá is faide den bhliain, lig an séadchomhartha síneadh i dtreo an ghrian!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_meadcauldron",
+      "english": "Mead Ketill",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_meadcauldron_description",
+      "english": "This copper pot holds the perfect temperature for mixing mead.",
+      "irish": "Tá an pota copair an teocht foirfe do mead mheascadh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_mistletoe",
+      "english": "Mistletoe",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_mistletoe_description",
+      "english": "You can't help but to feel like there's something romantic about this...",
+      "irish": "Ní féidir leat cabhrú ach a bhraitheann cosúil go bhfuil rud éigin rómánsúil mar gheall ar seo...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_moose_throne",
+      "english": "Antler Throne",
+      "irish": "Amharc ar ár liosta iomlán de shuíomhanna",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_moose_throne_description",
+      "english": "Though rustic and sturdy, this throne is well suited even for the most noble of royalty.",
+      "irish": "Cé rustic agus sturdy, tá an ríchathaoir oiriúnach go maith fiú don chuid is mó uasal de ríchíosa.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_morkborg_gate",
+      "english": "Gates of Mörkhalla",
+      "irish": "Geata de Mörkhalla",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_morkhallachestancient",
+      "english": "Ancient Chest",
+      "irish": "Ársa Chest",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_mudpile",
+      "english": "Muddy Scrap Pile",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_noaccess",
+      "english": "No access",
+      "irish": "Níl aon rochtain",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_obsidianpile",
+      "english": "Obsidian Pile",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_obsidianpile_description",
+      "english": "A pile as dark as the night itself.",
+      "irish": "A carn chomh dorcha mar an oíche féin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_offerbowl_bonemass",
+      "english": "Boiling Death",
+      "irish": "Bás a bhrostú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_offerbowl_eikthyr",
+      "english": "Mystical Altar",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_offerbowl_fader",
+      "english": "Altar of The Emerald Flame",
+      "irish": "Altar an Flame Emerald",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_offerbowl_frozenking",
+      "english": "Strange Bowl",
+      "irish": "cineál gas: leathadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_offerbowl_hive",
+      "english": "Hive seat",
+      "irish": "Suíochán Hive",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_offerbowl_makeoffer",
+      "english": "Make offering",
+      "irish": "Déan tairiscint",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_offerbowl_memorial",
+      "english": "Ancient Altar",
+      "irish": "Seans go mbeidh ort:",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_offerbowl_offeritem",
+      "english": "Offer item",
+      "irish": "Mír a thairiscint",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_offerbowl_offeritem_fader",
+      "english": "Ring the bells",
+      "irish": "Fáinne na bells",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_offerbowl_offeritem_memorial",
+      "english": "Light the altar",
+      "irish": "Solas an altóir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_offerbowl_yagluth",
+      "english": "Mystical Altar",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_oven",
+      "english": "Stone Oven",
+      "irish": "Cloch an Fhómhair",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_oven_additem",
+      "english": "Bake item",
+      "irish": "Bac mír",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_oven_description",
+      "english": "For all your baking needs.",
+      "irish": "I gcás gach do riachtanais bácála.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_path",
+      "english": "Pathen",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_path_description",
+      "english": "Mark out the best way forward.",
+      "irish": "Marcáil amach an bealach is fearr ar aghaidh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_pavedroad",
+      "english": "Paved Road",
+      "irish": "Bóithre agus Taisteal",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_pavedroad_description",
+      "english": "A sure mark of civilisation.",
+      "irish": "Marc cinnte de shibhialtacht.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_plant_healthy",
+      "english": "Healthy",
+      "irish": "tréimhse saoil: ilbhliantúil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_plant_nospace",
+      "english": "Needs more room to grow",
+      "irish": "Riachtanais seomra níos mó ag fás",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_plant_nosun",
+      "english": "Needs an open sky",
+      "irish": "Riachtanais spéir oscailte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_plant_notcultivated",
+      "english": "Needs cultivated ground",
+      "irish": "Riachtanais talamh saothraithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_plant_nowall",
+      "english": "Needs nearby wall",
+      "irish": "Riachtanais balla in aice láimhe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_plant_toocold",
+      "english": "Too cold",
+      "irish": "Too fuar",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_plant_toohot",
+      "english": "Too hot",
+      "irish": "Too te",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_plant_wrongbiome",
+      "english": "Can't grow in this environment",
+      "irish": "Ní féidir fás sa timpeallacht seo",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_portal_censored_warning",
+      "english": "Censored words found, potential crossplay issue.",
+      "irish": "Focail chinsithe le fáil, eisiúint tras-imirt féideartha.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_portal_connected",
+      "english": "CONNECTED",
+      "irish": "A BHAINEANN LEIS",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_portal_description",
+      "english": "Connects to another portal with equal or no tag.",
+      "irish": "Ceangail le tairseach eile le clib comhionann nó gan aon.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_portal_settag",
+      "english": "Set tag",
+      "irish": "Clib Socraigh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_portal_stone",
+      "english": "Portal – Stone",
+      "irish": "Portal – Cloch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_portal_stone_description",
+      "english": "The powerful energy source lets you pass through even with the most valuable of items.",
+      "irish": "Ligeann an fhoinse fuinnimh cumhachtach duit pas a fháil trí fiú leis an chuid is mó luachmhar na n-ítimí.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_portal_tag",
+      "english": "Tag",
+      "irish": "Clib Clib",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_portal_unconnected",
+      "english": "UNCONNECTED",
+      "irish": "UNCONNECTED",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_pot_large_cracked",
+      "english": "Large Clay Pot",
+      "irish": "Potaí Éileamh Móra",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_pot_large_green",
+      "english": "Large Green Pot",
+      "irish": "Pot Glas Mór",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_pot_large_green_description",
+      "english": "A large statement piece of a pot! You could almost fit an entire viking in there.",
+      "irish": "Tá píosa ráiteas mór de phota! D'fhéadfá a d'oirfeadh beagnach inmharthana ar fad ann.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_pot_large_red",
+      "english": "Large Red Pot",
+      "irish": "Potaí Dearg Móra",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_pot_medium_cracked",
+      "english": "Medium Clay Pot",
+      "irish": "Roghnaigh gach rud",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_pot_medium_green",
+      "english": "Medium Green Pot",
+      "irish": "Roghnaigh gach rud",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_pot_medium_green_description",
+      "english": "A piece of ceramic, deep enough to fit a thing or two inside.",
+      "irish": "Tá píosa ceirmeach, domhain go leor a d'oirfeadh rud nó dhá taobh istigh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_pot_medium_red",
+      "english": "Medium Red Pot",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_pot_small_cracked",
+      "english": "Small Clay Pot",
+      "irish": "Plocóidí beaga",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_pot_small_green",
+      "english": "Small Green Pot",
+      "irish": "Pot Glas Beaga",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_pot_small_green_description",
+      "english": "A small piece of earthenware, with room for something inside.",
+      "irish": "Tá píosa beag de cré-earraí, le seomra le haghaidh rud éigin taobh istigh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_pot_small_red",
+      "english": "Small Red Pot",
+      "irish": "Pot Dearg Beaga",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_preptable",
+      "english": "Food Preparation Table",
+      "irish": "Tábla Ullmhúcháin Bia",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_preptable_description",
+      "english": "Not everything can be poured directly into the cauldron, so you need a good surface to work on!",
+      "irish": "Ní féidir gach rud a dhoirteadh go díreach isteach sa chauldron, mar sin ní mór duit dromchla maith a bheith ag obair ar!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_pulllever",
+      "english": "Pull lever",
+      "irish": "Tarraingt siar",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_queendoor",
+      "english": "Dvergr Vault",
+      "irish": "Diver agus rásaíocht",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_raise",
+      "english": "Raise Ground",
+      "irish": "An tSeirbhís Dóiteáin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_raise_description",
+      "english": "Fill holes and create elevated platforms.",
+      "irish": "Poill líonadh agus ardáin ardaithe a chruthú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_readmap",
+      "english": "Read map",
+      "irish": "Léigh léarscáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_register_location",
+      "english": "Register location",
+      "irish": "Suíomh an Chláir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_repair",
+      "english": "Repair",
+      "irish": "irl - Library Service",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_replant",
+      "english": "Grass",
+      "irish": "Plandaí faoi dhíon",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_replant_description",
+      "english": "Restore the ground to its original vegetation.",
+      "irish": "Athchóirigh an talamh ar a fásra bunaidh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_rock_01",
+      "english": "Ornamental Boulder",
+      "irish": "bláthanna cumhra: cumhráin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_rock_01_description",
+      "english": "Adds a rustic touch to any garden.",
+      "irish": "Cuireann sé teagmháil rustic le haon ghairdín.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_rock_02",
+      "english": "Decorative Boulder",
+      "irish": "Boulder maisiúil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_rock_02_description",
+      "english": "That is a nice boulder.",
+      "irish": "Is é sin boulder deas.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_rug_asksvin",
+      "english": "Asksvin Rug",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_rug_asksvin_description",
+      "english": "With how lumpy asksvin hide is, it's hard to make anything useful from a single piece. Some assembly is required.",
+      "irish": "Leis an gcaoi a n-iarrann lumpy i bhfolach, tá sé deacair rud ar bith a dhéanamh úsáideach ó phíosa amháin. Tá roinnt tionól ag teastáil.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_rug_bjorn",
+      "english": "Bearskin Rug",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_rug_bjorn_description",
+      "english": "The fur is soft, though the teeth are still sharp.",
+      "irish": "Is é an fionnaidh bog, cé go bhfuil na fiacla fós géar.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_rug_deer",
+      "english": "Deer Rug",
+      "irish": "De réir Rug",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_rug_deer_description",
+      "english": "Protects your feet from wood splinters.",
+      "irish": "Cosain do chosa ó splinters adhmaid.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_rug_hare",
+      "english": "Hare Rug",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_rug_hare_description",
+      "english": "It's a strange texture, but a very interesting piece of decor.",
+      "irish": "Is uigeacht aisteach é, ach píosa maisiú an-suimiúil.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_rug_lox",
+      "english": "Lox Rug",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_rug_lox_description",
+      "english": "It's incredibly fluffy!",
+      "irish": "Tá sé thar a bheith fluffy!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_rug_moose",
+      "english": "Moose Hide Carpet",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_rug_moose_description",
+      "english": "This carpet is neatly sewn together, to ensure a large, soft surface.",
+      "irish": "Tá an cairpéad sewn go néata le chéile, chun dromchla mór, bog a chinntiú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_rug_seal",
+      "english": "Sealskin Rug",
+      "irish": "cineál gas: leathadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_rug_seal_description",
+      "english": "This rug is so soft, soft like innocence.",
+      "irish": "Tá an rug chomh bog, bog cosúil le innocence.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_rug_straw",
+      "english": "Straw",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_rug_straw_description",
+      "english": "Your animals will love this.",
+      "irish": "Beidh do ainmhithe grá seo.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_rug_wolf",
+      "english": "Wolf Rug",
+      "irish": "Tíreolaíocht Rug",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_rug_wolf_description",
+      "english": "Warm and cosy, especially up in the mountains.",
+      "irish": "Te agus Cosy, go háirithe suas sna sléibhte.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_rune_read",
+      "english": "Read",
+      "irish": "Léigh ar aghaidh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapcollector",
+      "english": "Sap Extractor",
+      "irish": "Púdar triomaithe spraeála",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapcollector_description",
+      "english": "Extract sap from mysterious branches.",
+      "irish": "Sliocht sap ó bhrainsí mistéireach.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapcollector_draining",
+      "english": "Extracting",
+      "irish": "An bhfuil a fhios agat...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapcollector_drainingslow",
+      "english": "Extracting slowly",
+      "irish": "Sliocht go mall",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapcollector_extract",
+      "english": "Collect",
+      "irish": "Bailigh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapcollector_isfull",
+      "english": "Full",
+      "irish": "Iomlán na gCeantar Tuaithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapcollector_notconnected",
+      "english": "Nothing to extract",
+      "irish": "Ní dhéanfaidh aon ní a bhaint",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapling_barley",
+      "english": "Barley",
+      "irish": "Eorna",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapling_barley_description",
+      "english": "A robust grain that can be ground into flour.",
+      "irish": "Grán láidir is féidir a bheith ina phlúr.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapling_carrot",
+      "english": "Carrot",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapling_carrot_description",
+      "english": "Plant carrot seeds to grow carrots",
+      "irish": "Síolta cairéad plandaí ag fás cairéid",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapling_flax",
+      "english": "Flax",
+      "irish": "Scriú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapling_flax_description",
+      "english": "Pretty flowers with fibres that can be spun into thread.",
+      "irish": "Bláthanna roimh le snáithíní is féidir a spun isteach sa snáithe.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapling_jotunpuffs",
+      "english": "Jotun Puffs Primordia",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapling_kale",
+      "english": "Kale",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapling_kale_description",
+      "english": "A hardy and nutritious plant.",
+      "irish": "Plandaí crua agus cothaitheach.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapling_magecap",
+      "english": "Magecap Primordia",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapling_oat",
+      "english": "Oat Straw",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapling_oat_description",
+      "english": "Plant to grow oats.",
+      "irish": "Gléasra chun coirce a fhás.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapling_onion",
+      "english": "Onion",
+      "irish": "Ã ireannach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapling_onion_description",
+      "english": "Useful for many cooking recipes.",
+      "irish": "Úsáideacha le haghaidh oidis cócaireachta go leor.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapling_poteitr",
+      "english": "Poteitr",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapling_poteitr_description",
+      "english": "A potent, otherworldly spud.",
+      "irish": "A potent, otherworldly spud.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapling_seedcarrot",
+      "english": "Seed-carrot",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapling_seedcarrot_description",
+      "english": "Plant a carrot to get more seeds",
+      "irish": "Plandaí cairéad chun níos mó síolta a fháil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapling_seedkale",
+      "english": "Seed Kale",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapling_seedkale_description",
+      "english": "Plant kale seeds to get even more seeds.",
+      "irish": "Síolta plandaí a fháil síolta níos mó.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapling_seedonion",
+      "english": "Seed-onion",
+      "irish": "Seed-onion",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapling_seedonion_description",
+      "english": "Plant an onion to get more seeds.",
+      "irish": "Plandaí oinniún chun níos mó síolta a fháil.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapling_seedturnip",
+      "english": "Seed-turnip",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapling_seedturnip_description",
+      "english": "Plant a turnip to get more seeds",
+      "irish": "Gléasra torna a fháil síolta níos mó",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapling_turnip",
+      "english": "Turnip",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapling_turnip_description",
+      "english": "A hearty vegetable used for cooking.",
+      "irish": "A glasraí hearty a úsáidtear le haghaidh cócaireachta.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapling_vineash",
+      "english": "Ashvine",
+      "irish": "Bláthanna faoi dhíon",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapling_vineash_description",
+      "english": "Needs something to cling to.",
+      "irish": "Riachtanais rud éigin a cling go.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapling_vinegreen",
+      "english": "Ivy",
+      "irish": "Tobhach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sapling_vinegreen_description",
+      "english": "Needs something to cling to.",
+      "irish": "Riachtanais rud éigin a cling go.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_scale_26",
+      "english": "Scalewood Wall 26° Left",
+      "irish": "Scalewood Wall 26 ° Clé",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_scale_26_flipped",
+      "english": "Scalewood Wall 26° Right",
+      "irish": "Scalewood Wall 26 ° Ceart",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_scale_26_upsidedown",
+      "english": "Scalewood Wall 26° Right (Inverted)",
+      "irish": "Scálawood Balla 26 ° Ceart (Inverted)",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_scale_26_upsidedown_flipped",
+      "english": "Scalewood Wall 26° Left (Inverted)",
+      "irish": "Scalewood Wall 26 ° Clé (Inbhéartaithe)",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_scale_45",
+      "english": "Scalewood Wall 45° Left",
+      "irish": "Scalewood Wall 45 ° Clé",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_scale_45_flipped",
+      "english": "Scalewood Wall 45° Right",
+      "irish": "Scalewood Wall 45 ° Ceart",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_scale_45_upsidedown",
+      "english": "Scalewood Wall 45° Right (Inverted)",
+      "irish": "Scálawood Balla 45 ° Ceart (Inverted)",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_scale_45_upsidedown_flipped",
+      "english": "Scalewood Wall 45° Left (Inverted)",
+      "irish": "Scálawood Balla 45 ° Clé (Inverted)",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_scale_67",
+      "english": "Scalewood Wall 67° Left",
+      "irish": "Scalewood Wall 67 ° Clé",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_scale_67_flipped",
+      "english": "Scalewood Wall 67° Right",
+      "irish": "Scalewood Wall 67 ° Ceart",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_scale_67_upsidedown",
+      "english": "Scalewood Wall 67° Right (Inverted)",
+      "irish": "Scálawood Wall 67° Ceart (Inbhéartaithe)",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_scale_67_upsidedown_flipped",
+      "english": "Scalewood Wall 67° Left (Inverted)",
+      "irish": "Scálawood Wall 67 ° Clé (Inbhéartaithe)",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_scale_halfwall",
+      "english": "Scalewood Half Wall",
+      "irish": "tréimhse de chuid eile: aon",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_scale_quarterwall",
+      "english": "Scalewood Quarter Wall",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_scale_wall",
+      "english": "Scalewood Wall",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_scale_walls_description",
+      "english": "The overlapping wood of these walls provide excellent protection against the elements.",
+      "irish": "Soláthraíonn adhmad forluí de na ballaí seo cosaint den scoth i gcoinne na n-eilimintí.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sconce",
+      "english": "Sconce",
+      "irish": "Sconce",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sconce_description",
+      "english": "Why stick a torch in the ground when you can hang it on your wall?",
+      "irish": "Cén fáth bata torch sa talamh nuair is féidir leat é a chrochadh ar do bhalla?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_secretdoor",
+      "english": "Hidden Door",
+      "irish": "Doirse i bhfolach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sharpstakes_description",
+      "english": "If someone comes too close, they'll get poked.",
+      "irish": "Má thagann duine éigin ró-dlúth, beidh siad poked.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_shieldgenerator",
+      "english": "Shield Generator",
+      "irish": "Gineadóir Shield",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_shieldgenerator_add",
+      "english": "Add bones",
+      "irish": "Cuir cnámha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_shieldgenerator_charging",
+      "english": "Charging",
+      "irish": "Muirearú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_shieldgenerator_description",
+      "english": "Creates a shield to protect against weather and incoming projectiles. Fuelled by bones of any kind.",
+      "irish": "Cruthaigh sciath a chosaint i gcoinne aimsir agus diúracáin ag teacht isteach. Breosla ag cnámha d'aon chineál.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_shieldgenerator_fuelname",
+      "english": "bones",
+      "irish": "cnámha cnámha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_shieldgenerator_ready",
+      "english": "Armed and ready",
+      "irish": "Armtha agus réidh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_shieldgenerator_use",
+      "english": "Activate",
+      "irish": "Achtú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_shieldgenerator_waiting",
+      "english": "Needs fuel",
+      "irish": "An breosla Riachtanach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ship_ladder",
+      "english": "Ladder",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ship_rudder",
+      "english": "Use rudder",
+      "irish": "Bain úsáid as rudder",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sign_description",
+      "english": "Disorder is a survivalist's worst enemy. Defend yourself against it by putting up signs.",
+      "irish": "Is disorder namhaid is measa marthanóir. Cosain tú féin ina choinne trí comharthaí a chur suas.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sign_input",
+      "english": "Enter text",
+      "irish": "Cuir isteach téacs",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_silverbarstack",
+      "english": "Silver Stack",
+      "irish": "Cruach dhosmálta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_silverbarstack_description",
+      "english": "A tidy way of displaying your wealth.",
+      "irish": "Bealach slachtmhar a thaispeáint do saibhreas.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_skullpile",
+      "english": "Pile of Skulls",
+      "irish": "Pile de Skulls",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_skullpile_description",
+      "english": "A certain proof of your prowess in combat.",
+      "irish": "A cruthúnas áirithe de do prowess i chomhrac.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_smelter_add",
+      "english": "Add",
+      "irish": "Déan teagmháil linn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_smelter_additem",
+      "english": "Add item",
+      "irish": "Cuir isteach mír",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_smelter_description",
+      "english": "Fuel and ore go in, beautiful metal ingots come out.",
+      "irish": "Breosla agus ore dul i, ingots miotail álainn teacht amach.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_smelter_empty",
+      "english": "Empty",
+      "irish": "Folamh folamh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_smelter_ready",
+      "english": "Processed",
+      "irish": "Próiseáilte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_smelter_reqroof",
+      "english": "Requires a roof",
+      "irish": "Éilíonn díon",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_snowlantern",
+      "english": "Snow Lantern",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_snowlantern_description",
+      "english": "Adds a cosy touch to a wintry landscape.",
+      "irish": "Cuireann teagmháil chosy le tírdhreach wintry.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_spinningwheel_description",
+      "english": "This automated machine makes spinning fibres into thread a remarkably quick process.",
+      "irish": "Déanann an meaisín uathoibrithe snáithíní sníomh isteach snáithe próiseas thar cuimse tapaidh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stakewall",
+      "english": "Stakewall",
+      "irish": "Balla a thógáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stakewall_description",
+      "english": "Good for keeping intruders out.",
+      "irish": "Dea chun intruders a choinneáil amach.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stave_deco_beam_2m",
+      "english": "Decorated Timber Beam 2m",
+      "irish": "tréimhse de chuid eile: aon",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stave_deco_beams_description",
+      "english": "These supports add a tasteful and decorative touch.",
+      "irish": "Cuireann na tacaíochtaí seo teagmháil tasteful agus maisiúil.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stave_deco_pole_2m",
+      "english": "Decorated Timber Pole 2m",
+      "irish": "Toir ornáideacha agus Crainn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stave_pole_2m",
+      "english": "Timber Pole 2m",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stave_pole_4m",
+      "english": "Timber Pole 4m",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stave_wall",
+      "english": "Timber Wall",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stave_walls_description",
+      "english": "Heavy timber walls are good for keeping out the cold.",
+      "irish": "Tá ballaí adhmaid trom maith chun an fuar a choinneáil amach.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stavebeam2",
+      "english": "Timber Beam 2m",
+      "irish": "Uisce agus Séarachas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stavebeam26",
+      "english": "Timber Beam 26°",
+      "irish": "Timber Beam 26 °",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stavebeam4",
+      "english": "Timber Beam 4m",
+      "irish": "Déan teagmháil linn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stavebeam45",
+      "english": "Timber Beam 45°",
+      "irish": "Timber Beam 45 °",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stavebeam67",
+      "english": "Timber Beam 67°",
+      "irish": "Timber Beam 67 °",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stavebeams_description",
+      "english": "These thick chunks of wood are sure to support your constructions.",
+      "irish": "Tá na smutáin tiubh adhmaid cinnte chun tacú le do tógálacha.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stavecross26",
+      "english": "Timber Roof Cross 26°",
+      "irish": "Timber Roof Cross 26 °",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stavecross45",
+      "english": "Timber Roof Cross 45°",
+      "irish": "Timber Roof Cross 45 °",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stavedecobeam26",
+      "english": "Decorated Timber Beam 26°",
+      "irish": "Timber Decorated Beam 26 °",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stavedecobeam45",
+      "english": "Decorated Timber Beam 45°",
+      "irish": "Amber maisithe 45 °",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stavedecobeam67",
+      "english": "Decorated Timber Beam 67°",
+      "irish": "Amber Maisithe 67 °",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stavegate",
+      "english": "Timberwood Gate",
+      "irish": "Féach ar Léarscáileanna",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stavegate_description",
+      "english": "Not quite as glorious as the gates of Valhalla, but awfully close!",
+      "irish": "Ní leor mar glorious mar na geataí Valhalla, ach awfully gar!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stavewallrooftop67",
+      "english": "Timber Roof Cross 67°",
+      "irish": "Timber Roof Cross 67 °",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stonearch_description",
+      "english": "Stable as a rock.",
+      "irish": "Stable mar charraig.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stonecutter_description",
+      "english": "If you want to build with stone, you'll need a stonecutter to work the material.",
+      "irish": "Más mian leat a thógáil le cloch, beidh ort stonecutter chun an t-ábhar a oibriú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stonefence_description",
+      "english": "Stones carefully pieced together into a sturdy fence.",
+      "irish": "Clocha le chéile go cúramach i fál sturdy.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stonefloor_description",
+      "english": "Best to put a rug on it, or it might get cold!",
+      "irish": "Is fearr rug a chur air, nó d'fhéadfadh sé fuar a fháil!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stonepile_description",
+      "english": "It's a big pile of stone.",
+      "irish": "Tá sé ina carn mór de chloch.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stonestair_description",
+      "english": "Useful for getting around in a large fortress.",
+      "irish": "Úsáideacha chun dul timpeall i fortress mór.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stonethrone_description",
+      "english": "A good leader must be firm like stone, yet they also need to know when to be soft like furs...",
+      "irish": "Ní mór do cheannaire maith a bheith daingean cosúil le cloch, ach ní mór dóibh freisin a fhios nuair a bheith bog cosúil le fionnaidh...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stonewalls_description",
+      "english": "A roughly hewn block of stone.",
+      "irish": "A bloc garbh hewn de chloch.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stool",
+      "english": "Stool",
+      "irish": "Sraith an Domhain",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stool_description",
+      "english": "A place to sit.",
+      "irish": "Áit chun suí.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_table_description",
+      "english": "A small but sturdy table.",
+      "irish": "Tá tábla beag ach sturdy.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_table_oak",
+      "english": "Long Heavy Table",
+      "irish": "Tábla Trom Fada",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_table_oak_description",
+      "english": "This table is perfect for a large feast, with room for many different dishes!",
+      "irish": "Tá an tábla seo foirfe le haghaidh féasta mór, le seomra le haghaidh go leor miasa éagsúla!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_table_round",
+      "english": "Round Table",
+      "irish": "Tábla Babhta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_table_round_description",
+      "english": "At a round table, no seat is more important than any other.",
+      "irish": "Ag bord cruinn, níl aon suíochán níos tábhachtaí ná aon cheann eile.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_table_runed",
+      "english": "Long Carved Table",
+      "irish": "Tábla Fada Carbtha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_table_runed_description",
+      "english": "The story carved into this table is excellent to read during long feasts.",
+      "irish": "Is é an scéal snoite isteach sa tábla seo den scoth a léamh le linn féastaí fada.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_table_runed_small",
+      "english": "Square Carved Table",
+      "irish": "Cearnóg Tábla",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_table_runed_small_description",
+      "english": "A table for more intimate gatherings.",
+      "irish": "Tá tábla le haghaidh cruinnithe níos pearsanta.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_tarpile",
+      "english": "Tar Barrel",
+      "irish": "Tar bairille",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_throne01",
+      "english": "Raven Throne",
+      "irish": "Roghnaigh gach rud",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_throne01_description",
+      "english": "Perhaps this is what Odin's throne in Valhalla looks like... Either way, it's comfortable!",
+      "irish": "B'fhéidir gurb é seo an méid a Breathnaíonn ríchathaoir Odin i Valhalla cosúil le... Ceachtar slí, tá sé compordach!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_tinbarstack",
+      "english": "Tin Stack",
+      "irish": "Stáin Stack",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_tinbarstack_description",
+      "english": "You can make a lot of bronze with this...",
+      "irish": "Is féidir leat a lán cré-umha a dhéanamh leis seo...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_tombstone",
+      "english": "Here rests",
+      "irish": "Seo sosanna",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_tombstone_container",
+      "english": "Grave",
+      "irish": "Uisce agus Séarachas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_tombstone_recovered",
+      "english": "Items recovered",
+      "irish": "Míreanna a aisghabháil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_toofar",
+      "english": "Too far",
+      "irish": "Too i bhfad",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_trainingdummy",
+      "english": "T.W.I.G.",
+      "irish": "Inis dúinn, le do thoil...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_trainingdummy_description",
+      "english": "Step close at your own risk!",
+      "irish": "Céim gar ar do riosca féin!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_trap",
+      "english": "Trap",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_trap_arm",
+      "english": "Arm trap",
+      "irish": "Gaiste armú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_trap_armed",
+      "english": "Armed",
+      "irish": "Armtha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_trap_cooldown",
+      "english": "Trap is not ready yet",
+      "irish": "Níl an Trap réidh go fóill",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_trap_description",
+      "english": "This trap will clamp down on whatever steps on it. Careful!",
+      "irish": "Beidh an gaiste clamp síos ar cibé céimeanna ar sé. Cúramach!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_treasure_pile",
+      "english": "Coin Pile",
+      "irish": "Coincíoll",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_treasure_pile_description",
+      "english": "A small fortune, gleaming and glittering.",
+      "irish": "A fortune beag, gleaming agus glittering.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_treasure_stack",
+      "english": "Coin Stack",
+      "irish": "Déan teagmháil linn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_treasure_stack_description",
+      "english": "It's important to keep count of your coins.",
+      "irish": "Tá sé tábhachtach a choinneáil ar chomhaireamh de do boinn.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_turret",
+      "english": "Ballista",
+      "irish": "Ballista",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_turret_addammo",
+      "english": "Add missile",
+      "irish": "Cuir diúracán",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_turret_armed",
+      "english": "Armed and ready",
+      "irish": "Armtha agus réidh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_turret_description",
+      "english": "Defensive structure that shoots missiles at anything that gets in its way.",
+      "irish": "Struchtúr cosanta go diúracáin shoots ag aon rud a fhaigheann ar a bhealach.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_turret_noammo",
+      "english": "No ammunition",
+      "irish": "Níl an Tweet seo ar fáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_turret_target",
+      "english": "Target:",
+      "irish": "Sprioc:",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_turret_target_everything",
+      "english": "everything",
+      "irish": "gach rud",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_turret_target_set",
+      "english": "Set target with trophy",
+      "irish": "Socraigh sprioc le trófaí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_turret_target_set_msg",
+      "english": "Ballista targets",
+      "irish": "Spriocanna Ballista",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_upgrade",
+      "english": "improvement",
+      "irish": "feabhas a chur ar",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_upgradestation",
+      "english": "Forge of Potential",
+      "irish": "Forge an Fhéidearthachta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_use",
+      "english": "Use",
+      "irish": "Úsáid Úsáid Úsáidte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_useitem",
+      "english": "Use item",
+      "irish": "Bain úsáid as mír",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_vegvisir",
+      "english": "Vegvisir",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_vertical",
+      "english": "Vertical",
+      "irish": "Ingearach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_windmill_description",
+      "english": "Turns grain into flour. Works best on windy days!",
+      "irish": "Casann gráin isteach i plúr. Oibríonn sé is fearr ar laethanta na gaoithe!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_wisplure",
+      "english": "Wisp Fountain",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_wisplure_description",
+      "english": "Attracts wisps. They mostly come at night... mostly.",
+      "irish": "Caitheamh aimsire. Tagann siad den chuid is mó san oíche... den chuid is mó.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_wisplure_full",
+      "english": "The wisps are dancing",
+      "irish": "Is iad na wisps damhsa",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_wisplure_light",
+      "english": "The wisps demand darkness",
+      "irish": "An wisps éileamh dorchadas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_wisplure_nospace",
+      "english": "The wisps want more open space",
+      "irish": "An wisps ag iarraidh spás níos oscailte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_wisplure_ok",
+      "english": "The wisps are coming",
+      "irish": "An wisps ag teacht",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodcorestack_description",
+      "english": "A big pile of logs, fresh from the forest.",
+      "irish": "A carn mór de logs, úr ó na foraoise.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_wooddoor_description",
+      "english": "A simple door for opening and closing.",
+      "irish": "Doras simplí le haghaidh oscailt agus dúnadh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_wooddragon_description",
+      "english": "Make your home legendary by decorating it with a dragon.",
+      "irish": "Déan do bhaile legendary ag maisiú sé le Dragon.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodfence_description",
+      "english": "A good fence, for livestock and crops alike!",
+      "irish": "Fál maith, le haghaidh beostoic agus barra araon!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodfencegate_description",
+      "english": "A gate is far more practical than jumping over the fence every time.",
+      "irish": "Tá geata i bhfad níos praiticiúla ná léim thar an fál gach uair.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodfinestack_description",
+      "english": "This pile of wood is waiting to be turned into furniture.",
+      "irish": "Tá an carn adhmaid ag fanacht le iompú isteach i troscán.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodfloor_description",
+      "english": "A solid bit of wooden flooring.",
+      "irish": "Tá beagán soladach de flooring adhmaid.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodfroststack_description",
+      "english": "It's as if fresh snow just fell upon it...",
+      "irish": "Tá sé mar má thit sneachta úr díreach air...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodgate_description",
+      "english": "A simple wooden gate. To use by itself or as part of a pair.",
+      "irish": "A geata adhmaid simplí. Le húsáid aige féin nó mar chuid de péire.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodironpoles_description",
+      "english": "The strongest support you've ever built.",
+      "irish": "An tacaíocht is láidre atá tógtha agat riamh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodlogs_description",
+      "english": "Support your constructions in this rustic style.",
+      "irish": "Tacaíocht do tógálacha sa stíl rustic.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodpoles_description",
+      "english": "A sturdy wooden support.",
+      "irish": "Tacaíocht láidir adhmaid.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodroof26_description",
+      "english": "A simple roof to keep the rain out, built at a shallow angle.",
+      "irish": "Tá díon simplí a choinneáil ar an bháisteach amach, tógtha ag uillinn éadomhain.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodroof45_description",
+      "english": "A simple roof to keep the rain out, with a steeper angle.",
+      "irish": "Tá díon simplí a choinneáil ar an bháisteach amach, le uillinn níos géire.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodroof67_description",
+      "english": "A simple roof to keep the rain out, built at a very steep angle.",
+      "irish": "Tá díon simplí a choinneáil ar an bháisteach amach, tógtha ag uillinn an-ghéar.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodstack_description",
+      "english": "Put all that hard work on display!",
+      "irish": "Cuir go léir go obair chrua ar taispeáint!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodstair_description",
+      "english": "Good for getting off the ground.",
+      "irish": "Dea chun dul as an talamh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodstepladder_description",
+      "english": "Convenient for climbing higher.",
+      "irish": "áisiúil le haghaidh dreapadóireachta níos airde.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodwall_description",
+      "english": "Walls are an important part of any house!",
+      "irish": "Tá ballaí mar chuid thábhachtach d'aon teach!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodwindowshutter_description",
+      "english": "Open or closed, keep it the way you prefer or switch things up whenever you feel like it!",
+      "irish": "Oscailte nó dúnta, é a choinneáil ar an mbealach is fearr leat nó rudaí a athrú suas aon uair a bhraitheann tú mhaith é!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_workbench_description",
+      "english": "A workbench is necessary for any home. You need it to build wooden structures and craft new tools.",
+      "irish": "Tá gá le binse oibre le haghaidh aon bhaile. Ní mór duit é a thógáil struchtúir adhmaid agus uirlisí nua ceardaíochta.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_workbench_ext1",
+      "english": "Chopping Block",
+      "irish": "Siopadóireacht Bloc",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_workbench_ext1_description",
+      "english": "An axe is a very versatile tool for crafting.",
+      "irish": "Is axe uirlis an-versatile le haghaidh crafting.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_workbench_ext2",
+      "english": "Tanning Rack",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_workbench_ext2_description",
+      "english": "Leathers and hides need proper treatment before they can be used.",
+      "irish": "Ní mór cóireáil chuí a bheith ag leathar agus ag seithí sula bhféadfar iad a úsáid.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_workbench_ext3",
+      "english": "Adze",
+      "irish": "Amharc ar gach eolas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_workbench_ext3_description",
+      "english": "Sometimes you need to work the problem from a different angle.",
+      "irish": "Uaireanta is gá duit a bheith ag obair ar an bhfadhb ó uillinn éagsúla.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_workbench_ext4",
+      "english": "Tool Shelf",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_workbench_ext4_description",
+      "english": "Fine detail work requires fine tools to match.",
+      "irish": "Éilíonn obair mion Fine uirlisí fíneáil a mheaitseáil.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_writemap",
+      "english": "Record discoveries",
+      "irish": "Fiosruithe taifead",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_yggdrasilstack",
+      "english": "Yggdrasil Wood Stack",
+      "irish": "Déan teagmháil anois",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_yggdrasilstack_description",
+      "english": "Fine branches, thrumming with mysterious energy.",
+      "irish": "brainsí fíneáil, ag dul le fuinneamh mistéireach.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_yulecrown",
+      "english": "Yule Wreath",
+      "irish": "cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_yulecrown_description",
+      "english": "It's hard to think of anything more festive than a wreath!",
+      "irish": "Tá sé deacair smaoineamh ar rud ar bith níos féile ná fleasc!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_yulegarland",
+      "english": "Yule Garland",
+      "irish": "tréimhse saoil: ilbhliantúil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_yulegarland_description",
+      "english": "Deck the halls!",
+      "irish": "Déan na hallaí!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_yuleklapp_description1",
+      "english": "A small gift for someone you like.",
+      "irish": "Tá bronntanas beag do dhuine is mian leat.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_yuleklapp_description2",
+      "english": "A gift for someone who was nice this year.",
+      "irish": "Tá bronntanas do dhuine a bhí deas i mbliana.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_yuleklapp_description3",
+      "english": "A large gift for someone you appreciate a lot.",
+      "irish": "Tá bronntanas mór do dhuine meas tú a lán.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_yuletree_description",
+      "english": "This fir tree has been given festive decorative lights.",
+      "irish": "Tá an crann lámhaigh tugtha soilse maisiúil Fhéile.",
+      "translationMethod": "manual"
+    }
+  ]
+}

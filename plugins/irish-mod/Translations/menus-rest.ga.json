@@ -1,0 +1,1365 @@
+{
+  "screen_id": "menus-rest",
+  "locale": "ga",
+  "pendingApiKey": true,
+  "machineAssisted": false,
+  "source_extract": "extracted/menus-rest.json",
+  "entries": [
+    {
+      "key": "menu_acceptedinvite",
+      "english": "You accepted an invite.",
+      "irish": "Ghlac tú cuireadh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_addserver",
+      "english": "Add server",
+      "irish": "Cuir freastalaí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_addserverfailed",
+      "english": "Failed to add server!",
+      "irish": "Failed a chur freastalaí!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_addserverfaileddnslookup",
+      "english": "DNS lookup failed!",
+      "irish": "DNS Lookup theip!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_addserverfailedincorrectformatting",
+      "english": "The input is not a valid IP, URL or invite code!",
+      "irish": "Níl an t-ionchur IP bailí, URL nó cód cuireadh!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_addserverfailedresolvejoincode",
+      "english": "Couldn't resolve join code",
+      "irish": "Níorbh fhéidir réiteach cód bheith páirteach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_back",
+      "english": "Back",
+      "irish": "Ar ais chuig clár",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_backupcount",
+      "english": "$1 backups",
+      "irish": "$1 cúltacaí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_backuprestorefailedheader",
+      "english": "Failed to restore backup!",
+      "irish": "Failed a chur ar ais cúltaca!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_backuprestorepromptheader",
+      "english": "Restore backup?",
+      "irish": "Athchóirigh cúltaca?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_backuprestorepromptrecover",
+      "english": "Deleted file $1 will be restored from $2.",
+      "irish": "Beidh comhad a scriosadh $1 a chur ar ais ó $ 2.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_backuprestorepromptreplace",
+      "english": "The current version of $1 will be backed up and replaced by $2.",
+      "irish": "Beidh an leagan reatha de $ 1 a tacaíocht suas agus in ionad $.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_barber_title",
+      "english": "Barber Station",
+      "irish": "Stáisiún Barber",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_beard",
+      "english": "Beard",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_blondness",
+      "english": "Blondness",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_cancel",
+      "english": "Cancel",
+      "irish": "Cealaigh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_characterexist",
+      "english": "A character with this name already exists",
+      "irish": "Tá carachtar leis an ainm seo ann cheana féin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_characters",
+      "english": "Characters",
+      "irish": "Carachtair",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_checklogfile",
+      "english": "Please check the Player.log file for more information.",
+      "irish": "Seiceáil an comhad Player.log le haghaidh tuilleadh eolais.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_close",
+      "english": "Close",
+      "irish": "Dún na nGall",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_closemenu",
+      "english": "Close Menu",
+      "irish": "Dún Roghchlár",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_cloudsavesdisabled",
+      "english": "You have disabled Cloud saves in your preferences. Any worlds and characters saved on the Cloud will not be visible here. Enable Cloud saves to access them again.",
+      "irish": "Tá tú Sábhálann Cloud faoi mhíchumas i do roghanna. Ní bheidh aon domhan agus carachtair a shábháil ar an Cloud le feiceáil anseo. Sábhálann Cloud Cumasaigh chun rochtain a fháil orthu arís.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_cloudstoragefull",
+      "english": "Your cloud storage is full!",
+      "irish": "Tá do stóráil scamall iomlán!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_cloudstoragefullcharacterprompt",
+      "english": "Would you like to save this character to local storage instead?",
+      "irish": "Ar mhaith leat an carachtar seo a shábháil chuig stóráil áitiúil ina ionad sin?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_cloudstoragefullmovingsave",
+      "english": "To prevent data loss, save data for the current session may be moved to local storage.",
+      "irish": "Chun caillteanas sonraí a chosc, féadfar sonraí a shábháil don seisiún reatha a aistriú chuig stóráil áitiúil.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_cloudstoragefulloperationfailed",
+      "english": "This operation failed because your cloud storage is full. Please move some worlds to local storage and try again.",
+      "irish": "Theip ar an oibríocht seo toisc go bhfuil do stóráil scamall iomlán. Téigh roinnt saol chuig stóráil áitiúil agus déan iarracht arís.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_cloudstoragefullworldprompt",
+      "english": "Would you like to save this world to local storage instead?",
+      "irish": "Ar mhaith leat a shábháil ar fud an domhain a stóráil áitiúil ina ionad sin?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_cloudstoragelow",
+      "english": "Cloud storage low",
+      "irish": "Stóráil scamall íseal",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_cloudstoragelownextsave",
+      "english": "We can't guarantee future saves of your world or your character as you run low on cloud storage. Please free up some space. This can be done from 'Manage saves' in the main menu.",
+      "irish": "Ní féidir linn a ráthú sa todhchaí Sábhálann de do domhan nó do charachtar mar a ritheann tú íseal ar stóráil scamall. Tabhair saor in aisce suas roinnt spás. Is féidir é seo a dhéanamh ó 'Sábháil Manage' sa roghchlár is mó.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_cloudstorageused",
+      "english": "Cloud storage used: $1",
+      "irish": "Stóráil scamall a úsáidtear: $1",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_collapse",
+      "english": "Collapse",
+      "irish": "Collapse",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_combat",
+      "english": "Combat",
+      "irish": "Chomhrac na Comhraic",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_combat_tooltip",
+      "english": "Governs how much damage you give and take. Also governs how likely you are to encounter higher leveled enemies, and how dangerous they are.",
+      "irish": "Rialuithe cé mhéad damáiste a thabhairt duit agus a ghlacadh. Chomh maith leis sin rialaíonn conas is dócha go bhfuil tú chun teacht ar naimhde leveled níos airde, agus cé chomh contúirteach go bhfuil siad.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_community",
+      "english": "Community",
+      "irish": "Pobail agus Fiontair",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_communityserver",
+      "english": "Community Server",
+      "irish": "Freastalaí Pobail",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_connect",
+      "english": "Connect",
+      "irish": "Nasc le nasc",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_connecting",
+      "english": "Connecting",
+      "irish": "Ag nascadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_corruptsaverestore",
+      "english": "This world save is corrupt. Would you like to restore it from the most recent backup?",
+      "irish": "Is é seo a shábháil domhan truaillithe. Ar mhaith leat a chur ar ais ó na cúltaca is déanaí?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_craft_tab",
+      "english": "CRAFT",
+      "irish": "irl - Library Service",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_crossplayserver",
+      "english": "Crossplay",
+      "irish": "Crossplay",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_customize",
+      "english": "Customize",
+      "irish": "Saincheaptha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_death_casual_tooltip",
+      "english": "You do not drop equipped gear, and skills are reduced a lot less than on normal mode.",
+      "irish": "Ní gá duit titim fearas feistithe, agus scileanna a laghdú go leor níos lú ná ar mhodh gnáth.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_death_easy_tooltip",
+      "english": "You drop all items, and skills are reduced less than on normal mode.",
+      "irish": "Tá tú titim gach míreanna, agus scileanna a laghdú níos lú ná ar mhodh gnáth.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_death_hard_tooltip",
+      "english": "Equipped items are dropped, the rest of your inventory is lost permanently, and skills are reduced faster.",
+      "irish": "Míreanna feistithe a thit, an chuid eile de do fardal caillte go buan, agus tá scileanna a laghdú níos tapúla.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_death_hardcore_tooltip",
+      "english": "You lose all carried items and skills permanently.",
+      "irish": "Caillfidh tú na míreanna agus na scileanna go léir a dhéantar go buan.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_death_normal_tooltip",
+      "english": "You drop all items, and skills are reduced normally.",
+      "irish": "Tá tú titim gach míreanna, agus scileanna a laghdú de ghnáth.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_death_veryeasy_tooltip",
+      "english": "You drop all items, and skills are reduced a lot less than on normal mode.",
+      "irish": "Tá tú titim gach míreanna, agus scileanna a laghdú a lán níos lú ná ar mhodh gnáth.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_deathpenalty",
+      "english": "Death penalty",
+      "irish": "Pionós an bháis",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_deathpenalty_tooltip",
+      "english": "Governs what happens when you die.",
+      "irish": "Rialuithe cad a tharlaíonn nuair a fhaigheann tú bás.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_deleted",
+      "english": "Deleted",
+      "irish": "Scriosta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_deletefailedheader",
+      "english": "Failed to delete file!",
+      "irish": "Failed comhad a scriosadh!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_disallowedcharactername",
+      "english": "Can't create a character with this name",
+      "irish": "Ní féidir a chruthú carachtar leis an ainm seo",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_disallowedworldname",
+      "english": "Can't create a world with this name",
+      "irish": "Ní féidir domhan a chruthú leis an ainm seo",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_done",
+      "english": "Done",
+      "irish": "Arna dhéanamh in Strasbourg",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_dontshowagain",
+      "english": "Don't show again",
+      "irish": "Ná thaispeáint arís",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_duplicatefilepromptheader",
+      "english": "Can't move save",
+      "irish": "Ní féidir bogadh shábháil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_duplicatefileprompttext",
+      "english": "There's already a save with the name $1 in the destination location.",
+      "irish": "Níl cheana féin a shábháil leis an ainm $1 sa suíomh scríbe.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_enteripinvite",
+      "english": "Enter IP or invite code",
+      "irish": "Cuir isteach IP nó cód cuireadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_entername",
+      "english": "Enter Name",
+      "irish": "Cuir isteach ainm",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_enterpassword",
+      "english": "Enter Password",
+      "irish": "Cuir isteach Pasfhocal",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_enterseed",
+      "english": "Enter Seed",
+      "irish": "Cuir isteach Seed",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_events",
+      "english": "Raid Rate",
+      "irish": "Ráta Íoctha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_events_tooltip",
+      "english": "Governs how often enemies may raid your base.",
+      "irish": "Rialuithe cé chomh minic is féidir naimhde ruathar do bonn.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_exitconfirm",
+      "english": "Quit the game?",
+      "irish": "Téigh an cluiche?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_expand",
+      "english": "Expand",
+      "irish": "Leathnú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_favorite",
+      "english": "Favorite",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_female",
+      "english": "Female",
+      "irish": "cineál gas: in airde",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_filter",
+      "english": "Filter",
+      "irish": "Scagaire Scagaire",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_firehazards",
+      "english": "Fire Hazards",
+      "irish": "irl - Library Service",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_firehazards_tooltip",
+      "english": "Wood can catch fire and spread throughout the whole world, not just in the Ashlands.",
+      "irish": "Is féidir le adhmad tine a ghabháil agus a scaipeadh ar fud an domhain ar fad, ní hamháin sa Ashlands.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_friendinvite_accepted_header",
+      "english": "Friend invite accepted",
+      "irish": "Cairde cuireadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_friendinvite_accepted_text",
+      "english": "Waiting for friend to start the game...",
+      "irish": "Ag fanacht le haghaidh cara chun tús a chur leis an cluiche...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_friendinvite_selectcharacter_header",
+      "english": "Accepted invite from ",
+      "irish": "Iarraidh Glactha ó",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_friendinvite_selectcharacter_text",
+      "english": "Please select the character you would like to use to join their game.",
+      "irish": "Roghnaigh an carachtar ba mhaith leat a úsáid chun páirt a ghlacadh a gcluiche.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_friends",
+      "english": "Friends",
+      "irish": "Amharc ar gach eolas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_gamepreviewpopupheader",
+      "english": "Valheim is in Game Preview",
+      "irish": "Tá Valheim i Réamhamharc Cluiche",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_gamepreviewpopuptext",
+      "english": "Some platform- or game features might not work correctly and the game might crash.",
+      "irish": "D'fhéadfadh roinnt gnéithe ardán- nó cluiche ag obair i gceart agus d'fhéadfadh an cluiche tuairteála.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_generating",
+      "english": "Generating...",
+      "irish": "Giniúint...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_hair",
+      "english": "Hair",
+      "irish": "Gruaige",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_hairtone",
+      "english": "Hair Tone",
+      "irish": "Hair Tone",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_ipportorinvitecode",
+      "english": "[IP/URL]:[port] or [6 digit invite code]",
+      "irish": "[IP/URL]:[port] nó [6 dhigit cuireadh cód]",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_joincode",
+      "english": "Join code: $1",
+      "irish": "Member cód: $1",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_joincode_copied",
+      "english": "Copied join code to clipboard!",
+      "irish": "Copied cód páirt a ghlacadh chun clipboard!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_joindifferentserver",
+      "english": "You're about to join a different server.",
+      "irish": "Tá tú ar tí a bheith ina fhreastalaí éagsúla.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_joinip",
+      "english": "Join IP",
+      "irish": "Member IP IP",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_kick_player",
+      "english": "Do you really want to kick '$1'?",
+      "irish": "Ar mhaith leat i ndáiríre chun tús '$1'?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_kick_player_title",
+      "english": "Kick player?",
+      "irish": "Ciceáil imreoir?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_legacynotice",
+      "english": "Please note that this file is currently kept in the old file structure which could cause sync conflicts and data loss. It will be moved to the Cloud on your next save. If you have disabled Cloud saves, it will be saved in the new non-synced folder. A local backup will always be kept when files are moved.",
+      "irish": "Tabhair faoi deara go bhfuil an comhad a choimeád faoi láthair sa struchtúr comhad d'aois a d'fhéadfadh a bheith ina chúis coimhlintí sync agus caillteanas sonraí. Déanfar é a aistriú chuig an Cloud ar do shábháil eile. Má tá tú Sábhálann scamall faoi mhíchumas, beidh sé a shábháil san fhillteán nua neamh-sineite. Coimeádfar cúltaca áitiúil i gcónaí nuair a bhogtar comhaid.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_legacynotice_worlds",
+      "english": "If you prefer to keep the file in an un-synced local folder, use the <color=orange>Move to local</color> button. This is mainly recommended for dedicated servers, or if you wish to play in the same world with different accounts on the same computer. If you have manually disabled Cloud it will be moved to the new un-synced local folder.",
+      "irish": "Más fearr leat a choinneáil ar an comhad i bhfillteán áitiúil un-synced, úsáid a bhaint as an líthir = oráiste . Téigh go dtí an cnaipe áitiúil / dath . Tá sé seo molta go príomha le haghaidh freastalaithe tiomanta, nó más mian leat a imirt ar an domhan céanna le cuntais éagsúla ar an ríomhaire céanna. Má tá tú faoi mhíchumas de láimh Cloud beidh sé ar athraíodh a ionad go dtí an fillteán áitiúil nua un-synced.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_less",
+      "english": "Less",
+      "irish": "Lúide Lúide",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_loading",
+      "english": "Loading...",
+      "irish": "Loading...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_locked",
+      "english": "Locked",
+      "irish": "Faoi ghlas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_logging_in_played_failed_not_signed_in_to_platform",
+      "english": "Make sure you are signed in to the platform you're playing on before trying to play online.",
+      "irish": "Bí cinnte go bhfuil tú sínithe i go dtí an t-ardán atá tú ag imirt ar sula ag iarraidh a imirt ar líne.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_logging_in_played_failed_not_signed_in_to_platform_gamecenter",
+      "english": "Make sure you are signed in to Game Center before trying to play online. You may need to restart the game for changes to take effect.",
+      "irish": "Bí cinnte go bhfuil tú sínithe i go dtí Ionad Cluiche sula ag iarraidh a imirt ar líne. Is féidir leat atosú an cluiche le haghaidh athruithe i bhfeidhm.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_logging_in_playfab_failed_header",
+      "english": "Could not log in to PlayFab. ",
+      "irish": "Níorbh fhéidir logáil isteach chun PlayFab.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_logging_in_playfab_task_header",
+      "english": "Logging in to PlayFab...",
+      "irish": "Logáil isteach chun PlayFab...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_loginfailedtext",
+      "english": "Failed to log in. Please make sure you are connected to the Internet.",
+      "irish": "Failed chun logáil isteach. Déan cinnte go bhfuil tú ceangailte leis an Idirlíon.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_loginheader",
+      "english": "Logging in to backend service...",
+      "irish": "Logáil isteach chun seirbhís a chúlchur...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_loginretrycountdowntext",
+      "english": "Retrying in $1 second(s)...",
+      "irish": "Retrying in $1 dara(s)...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_logintext",
+      "english": "Logging in...",
+      "irish": "Logáil isteach...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_loginwithplayfab_header",
+      "english": "Log in with PlayFab",
+      "irish": "Logáil isteach le PlayFab",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_loginwithplayfab_text",
+      "english": "Valheim uses PlayFab to connect you with other players online. Sign in to PlayFab? This automatically creates an anonymous PlayFab account for you based on which platform you use to play on.",
+      "irish": "Úsáideann Valheim PlayFab chun ceangal tú le himreoirí eile ar líne. Sínigh isteach chun PlayFab? Cruthaíonn sé seo go huathoibríoch cuntas PlayFab anaithnid ar do shon bunaithe ar a ardán a úsáideann tú a imirt ar.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_logoutconfirm",
+      "english": "Log out from server?",
+      "irish": "Logáil amach ó fhreastalaí?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_logoutprompt",
+      "english": "Are you sure you want to log out of the current session?",
+      "irish": "An bhfuil tú cinnte gur mhaith leat logáil amach as an seisiún reatha?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_lowdisk_block_exitanyway_header",
+      "english": "No disk space left - Exit anyway?",
+      "irish": "Níl aon spás diosca fágtha - Exit anyway?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_lowdisk_block_exitanyway_prompt",
+      "english": "You do not have enough space left on the disk to save your game. Exit anyway? (Your world and character will NOT be saved!)",
+      "irish": "Ní gá duit go leor spás fágtha ar an diosca a shábháil do chluiche. Téigh ar aon nós? (Ní bheidh do domhan agus carachtar a shábháil!)",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_lowdisk_header_block",
+      "english": "No disk space left",
+      "irish": "Níl aon spás diosca fágtha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_lowdisk_header_warn",
+      "english": "Low disk space warning",
+      "irish": "Rabhadh spás diosca íseal",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_lowdisk_message_block",
+      "english": "You do not have enough space left on the disk to save your game. Please free up disk space and try saving again.",
+      "irish": "Ní gá duit go leor spás fágtha ar an diosca a shábháil do chluiche. Le do thoil saor in aisce suas spás diosca agus iarracht a shábháil arís.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_lowdisk_message_warn",
+      "english": "You are running out of disk space. Your game will be saved, but please consider freeing up disk space.",
+      "irish": "Tá tú ag rith amach as spás diosca. Beidh do chluiche a shábháil, ach le do thoil a mheas freeing suas spás diosca.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_male",
+      "english": "Male",
+      "irish": "cineál gas: in airde",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_manualsave",
+      "english": "Save",
+      "irish": "Sábháil Sábháil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_manualsavetime",
+      "english": "Last save: $1m ago",
+      "irish": "Last shábháil: $ 1m ó shin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_missingmetarestore",
+      "english": "This world save is missing its meta file. Would you like to restore it from the most recent backup?",
+      "irish": "Tá an shábháil domhan ar iarraidh a comhad meta. Ar mhaith leat a chur ar ais ó na cúltaca is déanaí?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_modifier_casual",
+      "english": "Casual",
+      "irish": "Naisc ábhartha eile",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_modifier_casual_tooltip",
+      "english": "In casual mode combat is a lot easier, enemies will not attack you until provoked, and there are no raids on your base. Resources are more plentiful, and you will not drop items or lose skills on death.",
+      "irish": "I troid modh ócáideach a lán níos éasca, ní bheidh naimhde ionsaí tú go dtí provoked, agus níl aon ruathair ar do bonn. Tá acmhainní níos flúirseach, agus ní bheidh tú míreanna titim nó scileanna a chailleadh ar bhás.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_modifier_custom",
+      "english": "Custom Modifiers",
+      "irish": "Modúcháin Saincheaptha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_modifier_default",
+      "english": "Reset to normal",
+      "irish": "Athshocraigh go gnáth",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_modifier_default_tooltip",
+      "english": "The way Valheim is meant to be played, with the intended difficulty balance. Highly recommended for your first playthrough for the best experience.",
+      "irish": "Is é an bealach i gceist Valheim a bhí, leis an iarmhéid deacracht atá beartaithe. Moltar go mór do do chéad playthrough don taithí is fearr.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_modifier_easy",
+      "english": "Easy",
+      "irish": "Éasca",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_modifier_easy_tooltip",
+      "english": "Combat is easier and there are fewer raids on your base.",
+      "irish": "Tá Chomhrac níos éasca agus tá níos lú ruathair ar do bhonn.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_modifier_hammer",
+      "english": "Hammer Mode",
+      "irish": "Mód Hammer",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_modifier_hammer_tooltip",
+      "english": "In hammer mode you can build all build pieces for free once you have discovered the recipe. There are no raids on your base, and enemies will not attack you until provoked. Other difficulty settings are normal.",
+      "irish": "I mód casúr is féidir leat a thógáil go léir píosaí a thógáil saor in aisce nuair a fuair tú amach an t-oideas. Níl aon ruathair ar do bonn, agus ní bheidh naimhde ionsaí tú go dtí provoked. Tá suímh deacrachta eile gnáth.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_modifier_hard",
+      "english": "Hard",
+      "irish": "Crua crua",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_modifier_hard_tooltip",
+      "english": "Combat is harder and monsters will raid your base more often.",
+      "irish": "Tá Chomhrac níos deacra agus beidh arrachtaigh ruathar do bonn níos minice.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_modifier_hardcore",
+      "english": "Hardcore",
+      "irish": "HD chaighdeán den scoth",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_modifier_hardcore_tooltip",
+      "english": "Combat is a lot harder and enemies will raid your base more often. When you die, all your skills and all the items you are carrying will be lost forever. You have no map and you may not use portals or exit boss dungeons while a boss is alive.",
+      "irish": "Is Chomhrac a lán níos deacra agus beidh naimhde ruathar do bonn níos minice. Nuair a fhaigheann tú bás, beidh gach do chuid scileanna agus na míreanna go bhfuil tú ag iompar a bheith caillte go deo. Tá tú aon léarscáil agus ní féidir leat a úsáid tairseacha nó dungeons Bos scoir cé go bhfuil Bos beo.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_modifier_immersive",
+      "english": "Immersive",
+      "irish": "Tumadóireacht",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_modifier_immersive_tooltip",
+      "english": "In immersive mode you have no map, and you may not use portals. You will need to use your own wits to keep track of where you are in the world! Other difficulty settings are normal.",
+      "irish": "I mód immersive nach bhfuil aon léarscáil agat, agus ní féidir leat tairseacha a úsáid. Beidh ort a bhaint as do chuid WITnna féin a choinneáil ar rian ar áit a bhfuil tú ar fud an domhain! Tá suímh deacrachta eile gnáth.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_modifier_normal",
+      "english": "Normal",
+      "irish": "De ghnáth,",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_modifier_normal_tooltip",
+      "english": "Normal is recommended on your first playthrough and is the most balanced overall.",
+      "irish": "Tá Gnáth molta ar do chéad playthrough agus is é an chuid is mó cothrom foriomlán.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_modifier_popup_text",
+      "english": "Please note that these settings can disrupt your Valheim experience. For your first playthrough, it is highly recommended that you play with the original settings. This way you'll get to play the game as it was meant to be played.",
+      "irish": "Tabhair faoi deara gur féidir leis na suímh cur isteach ar do thaithí Valheim. I gcás do chéad playthrough, tá sé an-mholadh go bhfuil tú ag imirt leis na socruithe bunaidh. Ar an mbealach seo beidh tú a fháil a imirt ar an cluiche mar a bhí sé i gceist a imirt.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_modifier_popup_title",
+      "english": "Warning: World Modifiers",
+      "irish": "Rabhadh: Modifiers Domhanda",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_modifier_veryeasy",
+      "english": "Very Easy",
+      "irish": "An-éasca",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_modifier_veryhard",
+      "english": "Very Hard",
+      "irish": "An-deacair",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_more",
+      "english": "More",
+      "irish": "Tuilleadh eolais",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_movefailedheader",
+      "english": "Failed to move file!",
+      "irish": "Failed chun bogadh comhad!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_movetocloud",
+      "english": "Move to cloud",
+      "irish": "Bog go scamall",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_movetolocal",
+      "english": "Move to local",
+      "irish": "Bog go háitiúil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_muchless",
+      "english": "Much Less",
+      "irish": "Muc Lúide",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_muchmore",
+      "english": "Much More",
+      "irish": "I bhfad níos mó",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_name",
+      "english": "Name",
+      "irish": "Ainm an ainm",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_ndaaccept",
+      "english": "Accept",
+      "irish": "Glacadh le",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_ndadecline",
+      "english": "Decline",
+      "irish": "Amharc ar gach eolas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_new",
+      "english": "New",
+      "irish": "Nuashonraithe go deireanach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_newcharacter",
+      "english": "New Character",
+      "irish": "Carachtar Nua",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_newworld",
+      "english": "New World",
+      "irish": "An Domhan Nua",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_newworldalreadyexists",
+      "english": "World already exists!",
+      "irish": "Domhanda ann cheana féin!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_newworldalreadyexistsmessage",
+      "english": "A world named $1 already exists.",
+      "irish": "A domhan ainmnithe $ 1 ann cheana féin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_no",
+      "english": "No",
+      "irish": "Níl an Tweet seo ar fáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_nobossportals",
+      "english": "No boss portals",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_nobossportals_tooltip",
+      "english": "You will not be able to use portals or exit boss dungeons while a boss is active.",
+      "irish": "Ní bheidh tú in ann a úsáid tairseacha nó dungeons Bos scoir agus tá Bos gníomhach.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_nobuildcost",
+      "english": "No Build Cost",
+      "irish": "Costas na Tógála",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_nobuildcost_tooltip",
+      "english": "Build pieces require no materials to build. You still need to discover recipes as per usual.",
+      "irish": "Éilíonn píosaí tógála aon ábhar a thógáil. Ní mór duit fós oidis a fháil amach de réir mar is gnách.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_nomap",
+      "english": "No Map",
+      "irish": "Léarscáil an tSuímh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_nomap_tooltip",
+      "english": "You will not have access to the map or the minimap. This makes the game harder than intended.",
+      "irish": "Ní bheidh rochtain agat ar an léarscáil nó ar an mionléarscáil. Déanann sé seo an cluiche níos deacra ná mar atá beartaithe.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_none",
+      "english": "None",
+      "irish": "Gan a bheith ráite",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_noportals",
+      "english": "No portals",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_noportals_tooltip",
+      "english": "You will not be able to use portals to teleport yourself across the world.",
+      "irish": "Ní bheidh tú in ann a úsáid tairseacha a teleport féin ar fud an domhain.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_ok",
+      "english": "OK",
+      "irish": "OK",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_onlineprivilegetext",
+      "english": "Your platform account settings prevent you from accessing online multiplayer.",
+      "irish": "Do suímh cuntas ardán cosc tú ó rochtain il-imreora ar líne.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_onlysameversion",
+      "english": "You can only join servers running version $1.",
+      "irish": "Is féidir leat a bheith páirteach ach freastalaithe ag rith leagan $1.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_passivemobs",
+      "english": "Passive enemies",
+      "irish": "naimhde éighníomhach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_passivemobs_tooltip",
+      "english": "Enemies won't attack until you provoke them.",
+      "irish": "Ní bheidh Enemies ionsaí go dtí go spreagfaidh tú iad.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_password",
+      "english": "Password",
+      "irish": "Post a fhógairt",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_passwordfieldempty",
+      "english": "Empty",
+      "irish": "Folamh folamh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_passwordinvalid",
+      "english": "Invalid password",
+      "irish": "Focal faire luachmhar",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_passwordshort",
+      "english": "The password is too short",
+      "irish": "Tá an focal faire ró-ghearr",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_player_list_block_tooltip",
+      "english": "Block",
+      "irish": "Bloc bloc",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_player_list_block_warning_as_client",
+      "english": "Blocking this player will prevent you from playing together. This is in order to follow platform policies where you are not permitted to view User Generated Content (UGC) of blocked players. You will be disconnected, and will not be able to join any server they are playing on. Do you wish to proceed with blocking?",
+      "irish": "Beidh blocála an imreoir a chosc tú ó imirt le chéile. Tá sé seo d'fhonn a leanúint beartais ardán i gcás nach bhfuil tú cead chun féachaint ar Ábhar Úsáideora Ginithe (UGC) na n-imreoirí blocked. Beidh tú a dhícheangal, agus ní bheidh sé in ann a bheith páirteach ar aon fhreastalaí bhfuil siad ag imirt ar. Ar mhaith leat dul ar aghaidh le blocáil?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_player_list_block_warning_as_server",
+      "english": "Blocking this player will prevent you from playing together. As such, this action will kick the other player. Due to platform policies regarding User Generated Content (UGC), you will also be prevented from accessing this world for the duration of the block, meaning you will be logged out from the world as well. Do you wish to proceed with blocking?",
+      "irish": "Beidh blocála an imreoir a chosc tú ó imirt le chéile. Mar sin, beidh an gníomh seo tús an t-imreoir eile. Mar gheall ar bheartais ardán maidir le Ábhar Úsáide Ginnithe (UGC), beidh tú a chosc freisin ó rochtain ar an saol seo ar feadh ré an bloc, rud a chiallaíonn go mbeidh tú a logáil amach as an domhan chomh maith. Ar mhaith leat dul ar aghaidh le blocáil?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_player_list_kick_tooltip",
+      "english": "Kick from server",
+      "irish": "Ciceáil ó fhreastalaí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_player_list_mute_tooltip",
+      "english": "Mute",
+      "irish": "cineál gas: leathadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_player_list_report_tooltip",
+      "english": "Report",
+      "irish": "Tuarascáil Bhliantúil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_playerbasedevents",
+      "english": "Player based raids",
+      "irish": "raids Player bunaithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_playerbasedevents_tooltip",
+      "english": "Raids are based on the progress of each individual player, rather than on which bosses have been killed on the server. This setting is recommended if you want the game to be slightly friendlier to players with different progress.",
+      "irish": "Tá Raids bunaithe ar dhul chun cinn gach imreoir aonair, seachas ar a bhfuil bosses maraíodh ar an bhfreastalaí. Tá an suíomh molta más mian leat an cluiche a bheith beagán friendlier le himreoirí le dul chun cinn éagsúla.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_players",
+      "english": "Player list",
+      "irish": "Liosta de na himreoirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_pleasewait",
+      "english": "Please wait",
+      "irish": "Fan le do thoil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_portals",
+      "english": "Portals",
+      "irish": "Amharc ar gach eolas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_portals_tooltip",
+      "english": "Changes how portals work in the game.",
+      "irish": "Athruithe conas tairseacha ag obair sa chluiche.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_presets",
+      "english": "Presets",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_privilegerequiredheader",
+      "english": "Platform privilege required",
+      "irish": "pribhléid Ardán ag teastáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_public",
+      "english": "Public",
+      "irish": "Pobail agus Fiontair",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_recent",
+      "english": "Recent",
+      "irish": "Le déanaí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_reloadfailed",
+      "english": "Failed to reload saves",
+      "irish": "Failed chun sábhálann athlódáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_remove",
+      "english": "Remove",
+      "irish": "Bain úsáid as",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_removebackup",
+      "english": "Remove backup?",
+      "irish": "Bain cúltaca?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_removecharacter",
+      "english": "Remove character?",
+      "irish": "Bain carachtar?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_removefavoritecategory",
+      "english": "Remove favorite category?",
+      "irish": "Bain an chatagóir is fearr leat?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_removeserver",
+      "english": "Remove server?",
+      "irish": "Bain freastalaí?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_removeworld",
+      "english": "Remove world?",
+      "irish": "Bain domhan?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_resettutorial",
+      "english": "Reset raven hints",
+      "irish": "Athshocraigh leideanna raven",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_resettutorial_descr",
+      "english": "Oden's ravens forgot they told you about anything! You will get every unlocked hint once again.",
+      "irish": "ravens Oden ar dearmad a dúirt siad leat faoi rud ar bith! Gheobhaidh tú gach leid unlocked arís.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_resources",
+      "english": "Resource Rate",
+      "irish": "Ráta Acmhainne",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_resources_tooltip",
+      "english": "Governs the amount of resources you gain from the world and from enemies.",
+      "irish": "Rialaithe an méid na n-acmhainní a fhaigheann tú ón domhan agus ó naimhde.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_restorebackup",
+      "english": "Restore backup",
+      "irish": "Athchóirigh cúltaca",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_savefilecorrupt",
+      "english": "The save file is corrupt!",
+      "irish": "Is é an comhad a shábháil truaillithe!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_savesuccesfull",
+      "english": "Save was successful!",
+      "irish": "Bhí Sábháil rathúil!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_seed",
+      "english": "Seed",
+      "irish": "Amharc ar gach eolas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_selectcharacter",
+      "english": "Select Character",
+      "irish": "Roghnaigh Carachtar",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_selectserver",
+      "english": "Select Server",
+      "irish": "Roghnaigh Freastalaí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_selectworld",
+      "english": "Select World",
+      "irish": "Roghnaigh an Domhain",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_server_info",
+      "english": "Beware that joining any online server will put your game character at risk. It might be a good idea to create a separate character when playing online to reduce the risk of losing precious possessions. Also be aware that there is always a risk of encountering cheaters and griefers when playing online. Good luck!",
+      "irish": "Beware a cheanglaíonn aon fhreastalaí ar líne a chur do charachtar cluiche i mbaol. D'fhéadfadh sé a bheith ina smaoineamh maith a chruthú carachtar ar leith nuair a imirt ar líne a laghdú ar an mbaol a chailliúint sealúchais lómhara. Chomh maith leis sin a bheith ar an eolas go bhfuil i gcónaí i mbaol a bhíonn cheaters agus griefers nuair a imirt ar líne. Ádh mór!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_server_warning",
+      "english": "Warning",
+      "irish": "Ag dul i ngleic",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_serveroptions",
+      "english": "World Modifiers",
+      "irish": "Ardaitheoirí Domhanda",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_serverpassword",
+      "english": "Server Password",
+      "irish": "Pasfhocal Freastalaí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_sex",
+      "english": "Sex",
+      "irish": "Gnéas béil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_skintone",
+      "english": "Skin Tone",
+      "irish": "Seirbhís do Chustaiméirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_skipcutscene",
+      "english": "Skip Intro",
+      "irish": "Scipeáil chuig ábhar",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_start",
+      "english": "Start",
+      "irish": "Tosaigh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_startserver",
+      "english": "Start Server",
+      "irish": "Tosaigh Freastalaí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_storagefull",
+      "english": "Your storage is full!",
+      "irish": "Tá do stóráil iomlán!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_storagefulloperationfailed",
+      "english": "This operation failed because save data storage is full. Please remove unused save data and try again.",
+      "irish": "Theip ar an oibríocht seo toisc go bhfuil stóráil sonraí a shábháil iomlán. Bain úsáid as sonraí a shábháil agus déan iarracht arís.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_storageused",
+      "english": "Storage used: $1",
+      "irish": "Stóráil a úsáidtear: $1",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_teleportall",
+      "english": "Portal Items",
+      "irish": "Míreanna Tairseacha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_teleportall_tooltip",
+      "english": "Allows you to bring all items with you through portals for a more casual playstyle. This will circumvent the progression and exploration of the world as it is intended.",
+      "irish": "Ceadaíonn tú a thabhairt ar gach mír a bhfuil tú trí thairseacha do playstyle níos ócáideach. Beidh sé seo circumvent an dul chun cinn agus taiscéalaíocht an domhain mar go bhfuil sé i gceist.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_textcontainsbannedword",
+      "english": "The text contains banned words",
+      "irish": "Tá an téacs focail toirmeasctha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_tryagainorrestart",
+      "english": "Please try again or restart the game if the problem persists.",
+      "irish": "Déan iarracht arís nó atosú an cluiche má leanann an fhadhb.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_ugcwarningheader",
+      "english": "User generated content blocked",
+      "irish": "Úsáideora ábhar a ghintear blocáilte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_ugcwarningtext",
+      "english": "Your platform privilege settings prevent you from viewing user generated content. Text from other players will be heavily filtered.",
+      "irish": "Do suímh pribhléid ardán cosc tú ó féachana ábhar a ghintear úsáideoir. Beidh téacs ó imreoirí eile a scagadh go mór.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_upgrade_tab",
+      "english": "UPGRADE",
+      "irish": "UPGRADE",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_vulkancrashwarning_header",
+      "english": "Valheim might crash on your system when using Vulkan",
+      "irish": "D'fhéadfadh Valheim tuairteála ar do chóras nuair a úsáid Vulkan",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_vulkancrashwarning_text",
+      "english": "You're currently using Vulkan. We're investigating a known crash when using Vulkan on certain systems, and your system has been detected as potentially being affected. If you experience stability issues, please use the default rendering API instead (DirectX 11). Sorry for the inconvenience!",
+      "irish": "Tá tú ag baint úsáide as faoi láthair Vulkan. Táimid ag imscrúdú tuairteála ar eolas nuair a úsáid Vulkan ar chórais áirithe, agus tá do chóras a bhrath mar a d'fhéadfadh a bheith tionchar. Má bhíonn tú saincheisteanna cobhsaíochta, bain úsáid as an API réamhshocrú ionad (DirectX 11). Tá brón orainn don mhíchaoithiúlacht!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_worldnametip",
+      "english": "5 characters minimum",
+      "irish": "5 carachtair íosta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_worlds",
+      "english": "Worlds",
+      "irish": "An Domhan",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_yes",
+      "english": "Yes",
+      "irish": "Tá sé",
+      "translationMethod": "manual"
+    }
+  ]
+}

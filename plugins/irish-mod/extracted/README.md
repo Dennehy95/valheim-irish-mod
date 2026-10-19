@@ -13,8 +13,11 @@ Static dumps of **scoped** UI strings for translation pipeline work. These files
 | [`building-ui.json`](building-ui.json) | Common **hammer / build menu** piece names (curated `piece_*`) | 100 |
 
 | [`item-names.json`](item-names.json) | **Item** display names, descriptions, lore (`item_*`) | 1959 |
+| [`piece-names.json`](piece-names.json) | Remaining **building piece** names (`piece_*` after `building-ui`) | 786 |
+| [`npc-dialogue.json`](npc-dialogue.json) | **NPC** dialogue (`npc_*`) | 350 |
+| [`menus-rest.json`](menus-rest.json) | **Menus** outside Fejd root (`menu_*` except main menu) | 226 |
 
-**Total scoped keys in extracts:** 2411 (2767 wired via matching `Translations/*.ga.json`, including batch 3 scopes).
+**Total scoped keys in extracts:** 3773 (4129 wired via matching `Translations/*.ga.json` as of v0.5.0).
 
 ### Scope rationale (`fejd-root-main-menu`)
 

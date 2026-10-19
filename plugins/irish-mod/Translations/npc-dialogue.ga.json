@@ -1,0 +1,2109 @@
+{
+  "screen_id": "npc-dialogue",
+  "locale": "ga",
+  "pendingApiKey": true,
+  "machineAssisted": false,
+  "source_extract": "extracted/npc-dialogue.json",
+  "entries": [
+    {
+      "key": "npc_blabar",
+      "english": "Blåbär",
+      "irish": "Foinse do bhfianaise faoi stiúir glan",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_bogwitch",
+      "english": "The Bog Witch",
+      "irish": "An Witch Bog",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_bogwitch_random_buy1",
+      "english": "Lhm!",
+      "irish": "Lhm!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_bogwitch_random_buy2",
+      "english": "Lhm gkr tlk.",
+      "irish": "Lhm gkr tlk.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_bogwitch_random_buy3",
+      "english": "Gkr, gkr!",
+      "irish": "Gkr, gkr!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_bogwitch_random_goodbye1",
+      "english": "Gnk.",
+      "irish": "Gnk.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_bogwitch_random_goodbye2",
+      "english": "Gnk-nk.",
+      "irish": "Gnk-nk.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_bogwitch_random_goodbye3",
+      "english": "Nk. Ktrr!",
+      "irish": "Nk. Ktrr!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_bogwitch_random_greet1",
+      "english": "Gk!",
+      "irish": "Gk!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_bogwitch_random_greet2",
+      "english": "Kgk.",
+      "irish": "..",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_bogwitch_random_greet3",
+      "english": "Krrgk.",
+      "irish": "An t-eolas mícheart nó as dáta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_bogwitch_random_sell1",
+      "english": "Mm, lpr...",
+      "irish": "Mm, lpr...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_bogwitch_random_sell2",
+      "english": "Lkm.",
+      "irish": "Lkm.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_bogwitch_random_sell3",
+      "english": "Kng.",
+      "irish": "Cion.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_bogwitch_random_starttrade1",
+      "english": "Mg, lhm?",
+      "irish": "Mg, lhm?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_bogwitch_random_starttrade2",
+      "english": "Ptl mgg.",
+      "irish": "Ptl mgg.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_bogwitch_random_starttrade3",
+      "english": "Hk! Mg, mg.",
+      "irish": "Hk! Mg, mg.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_bogwitch_random_talk1",
+      "english": "Hm...",
+      "irish": "Hm...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_bogwitch_random_talk2",
+      "english": "Mhm...",
+      "irish": "Mhm...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_bogwitch_random_talk3",
+      "english": "Ngk...",
+      "irish": "Ngk...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_aggravated1",
+      "english": "You really shouldn't have done that!",
+      "irish": "Ní mór duit i ndáiríre a bheith déanta go!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_aggravated2",
+      "english": "I'll get you for that!",
+      "irish": "Feicfidh mé tú a fháil le haghaidh sin!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_aggravated3",
+      "english": "You're going down!",
+      "irish": "Tá tú ag dul síos!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_aggravated4",
+      "english": "I'll feed you to a bloody asksvin!",
+      "irish": "Feicfidh mé tú a beatha le fuilteacha asksvin!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_aggravated5",
+      "english": "Oh you little–",
+      "irish": "Oh tú beag–",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_goodbye1",
+      "english": "Take care now.",
+      "irish": "Tabhair aire anois.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_goodbye2",
+      "english": "Careful out there.",
+      "irish": "Cúramach amach ann.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_goodbye3",
+      "english": "Until next time.",
+      "irish": "Go dtí an chéad uair eile.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_goodbye4",
+      "english": "See you around. Or not.",
+      "irish": "Féach tú timpeall. Nó nach bhfuil.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_goodbye5",
+      "english": "Tettå.",
+      "irish": "Tettå.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_greet1",
+      "english": "Who goes there?",
+      "irish": "Cé a théann ann?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_greet2",
+      "english": "A living person, huh? That's a nice change of pace.",
+      "irish": "Duine beo, huh? Sin athrú deas de luas.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_greet3",
+      "english": "Hello there.",
+      "irish": "Dia duit ann.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_greet4",
+      "english": "Greetings.",
+      "irish": "Beannachtaí.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_greet5",
+      "english": "Are you friend or foe?",
+      "irish": "An bhfuil tú cara nó fóe?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_private_area_alarm1",
+      "english": "Hey!",
+      "irish": "Hey!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_private_area_alarm2",
+      "english": "Stop that.",
+      "irish": "Stop go.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_private_area_alarm3",
+      "english": "Keep your hands to yourself.",
+      "irish": "Coinnigh do lámha duit féin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_private_area_alarm4",
+      "english": "That's a good way to get yourself thrown into the lava.",
+      "irish": "Sin bealach maith a fháil duit féin thrown isteach sa lava.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_private_area_alarm5",
+      "english": "I really wouldn't do that if I were you.",
+      "irish": "Ní ba mhaith liom a dhéanamh i ndáiríre go má bhí mé tú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk1",
+      "english": "I think I'm going to sweat my beard off.",
+      "irish": "I mo thuairimse, tá mé ag dul a sweat mo féasóg as.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk10",
+      "english": "I could really use a mug of cold ale right now...",
+      "irish": "D'fhéadfadh mé a úsáid i ndáiríre mug de ale fuar ceart anois...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk11",
+      "english": "When you think about it, this heat isn't worse than the heat from a good forge.",
+      "irish": "Nuair a cheapann tú faoi, nach bhfuil an teas níos measa ná an teas ó bhrionnú maith.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk12",
+      "english": "Don't forget to wipe off that sweat! Or else a morgen might smell you and decide you're its dinner.",
+      "irish": "Ná déan dearmad a wipe amach go sweat! Nó eile a d'fhéadfadh morgen boladh tú, agus cinneadh a dhéanamh go bhfuil tú a dinnéar.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk13",
+      "english": "Bloodstone, bloodstone, bloodstone, bloodstone...",
+      "irish": "Fuilchloch, cloch fola, cloch fola, cloch fola...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk14",
+      "english": "Be careful if you see a big pile of bones. It usually means one of those morgen creatures is nearby.",
+      "irish": "Bí cúramach má fheiceann tú carn mór cnámha. Ciallaíonn sé de ghnáth ar cheann de na créatúir morgen in aice láimhe.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk15",
+      "english": "Those undead bastards sure hoard some pretty gemstones...",
+      "irish": "Na bastairdí undead cinnte hoard roinnt gemstones go leor...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk16",
+      "english": "This place is astonishing! So much land still to explore!",
+      "irish": "Tá an áit astonishing! An oiread talún fós chun iniúchadh a dhéanamh!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk17",
+      "english": "It may be warm, but the discoveries we make are their own reward.",
+      "irish": "D'fhéadfadh sé a bheith te, ach tá na fionnachtana a dhéanann muid a gcuid luaíocht féin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk18",
+      "english": "Ha! A Whitebeard would never dare to venture here.",
+      "irish": "Bhí! Ní bheadh Whitebeard dare chun fiontair anseo.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk19",
+      "english": "The Whitebeards could never withstand this heat. They just don't have the stones for it!",
+      "irish": "Níorbh fhéidir leis na Whitebeards an teas seo a sheasamh. Níl siad ach na clocha chun é!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk2",
+      "english": "I was made for dwelling below ground, among the cool rocks. Not this blistering heat.",
+      "irish": "Rinneadh mé le haghaidh cónaithe faoi thalamh, i measc na carraigeacha fionnuar. Gan an teas blistering seo.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk20",
+      "english": "I came upon a ruin with a whole flock of asksvin yesterday! They were there to search for food, methinks.",
+      "irish": "Tháinig mé ar ruin le tréad iomlán de asksvin inné! Bhí siad ann chun cuardach a dhéanamh ar bhia, methinks.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk3",
+      "english": "Careful, even the water here is boiling hot.",
+      "irish": "Cúramach, fiú an t-uisce anseo fiuchphointe te.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk4",
+      "english": "My cousin is stationed in the lands of fog. Lucky Whitebeard...",
+      "irish": "Tá mo chol ceathrair lonnaithe i dtailte ceo. cliceáil grianghraf a mhéadú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk5",
+      "english": "I wonder if there's any shade around here. Not that it'd help...",
+      "irish": "N'fheadar má tá aon scáth timpeall anseo. Gan gur mhaith leis cabhrú...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk6",
+      "english": "Hm. Smells like rotten eggs.",
+      "irish": "Hm. Boladh cosúil le uibheacha rotten.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk7",
+      "english": "Mind your step. My brother lost a toe to the lava a while back.",
+      "irish": "Mind do chéim. Chaill mo dheartháir ladhar go dtí an lava ar ais.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk8",
+      "english": "My sister tried to tame an asksvin, you know. It bit off her hand, even though they don't even eat meat!",
+      "irish": "Mo dheirfiúr iarracht a tame ar asksvin, tá a fhios agat. giotán sé as a lámh, cé nach bhfuil siad ag ithe fiú feoil!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk9",
+      "english": "Vineberries, vineberries... I know I saw some around here...",
+      "irish": "Sútha talún, fíniúnacha... Tá a fhios agam chonaic mé roinnt timpeall anseo...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base1",
+      "english": "I should never have bet on that dice game...",
+      "irish": "Ba chóir dom riamh geall ar an cluiche dísle...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base10",
+      "english": "I've been thinking of getting a pet. It would be nice, don't you think?",
+      "irish": "Tá mé ag smaoineamh ar a fháil peataí. Bheadh sé deas, ná cheapann tú?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base11",
+      "english": "A bit of sweat is good for you, my mother always said!",
+      "irish": "Tá beagán de sweat maith ar do shon, a dúirt mo mháthair i gcónaí!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base12",
+      "english": "Ladi dadi dadi dada.",
+      "irish": "Bhí an t-eolas mícheart nó as dáta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base13",
+      "english": "I hope the children are doing alright back home. It's been so long now since I last saw them...",
+      "irish": "Tá súil agam go bhfuil na páistí ag déanamh ar ais sa bhaile. Tá sé chomh fada anois ó chonaic mé go deireanach iad...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base14",
+      "english": "When we get back home I think I'm going to pick up a new hobby.",
+      "irish": "Nuair a fhaigheann muid ar ais sa bhaile I mo thuairimse, tá mé ag dul a phiocadh suas caitheamh aimsire nua.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base15",
+      "english": "I think my boot needs mending.",
+      "irish": "I mo thuairimse, riachtanais mo tosaithe mending.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base16",
+      "english": "Ah, to feel the cool relief of mist on my face... I was a fool to leave that post behind.",
+      "irish": "Ah, a bhraitheann an faoiseamh fionnuar de olc ar mo aghaidh... Bhí mé amadán a fhágáil go post taobh thiar.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base17",
+      "english": "I wonder what discoveries tomorrow will bring. Those Whitebeards don't know what they're missing!",
+      "irish": "N'fheadar cad fionnachtana amárach a thabhairt. Níl a fhios ag na Whitebeards cad tá siad ar iarraidh!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base18",
+      "english": "I could never remain stationed at just one excavation for months. Us Redbeards are meant to explore!",
+      "irish": "Níorbh fhéidir liom fanacht lonnaithe ag tochailt amháin ar feadh míonna. Linn Redbeards i gceist chun iniúchadh a dhéanamh!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base19",
+      "english": "The Whitebeards will be jealous when they hear of our success, I'm sure!",
+      "irish": "Beidh na Whitebeards a bheith éad nuair a chloiseann siad ár rath, tá mé cinnte!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base2",
+      "english": "Then again, the heat isn't too bad!",
+      "irish": "Ansin arís, níl an teas ró-dona!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base20",
+      "english": "I don't care much for those smokepuff mushrooms myself. Only fit for asksvin food, really!",
+      "irish": "Ní féidir liom cúram i bhfad do na beacáin smokepuff féin. Ach oiriúnach le haghaidh bia asksvin, i ndáiríre!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base3",
+      "english": "I saw someone run around in just their underpants and some belts, seemed nice and cool...",
+      "irish": "Chonaic mé duine éigin ar siúl timpeall i díreach a n-pants agus roinnt criosanna, an chuma deas agus cool...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base4",
+      "english": "Those siblings had the right idea. Imagine being off on your very own business venture in a cool forest!",
+      "irish": "Bhí na deartháireacha an smaoineamh ceart. Samhlaigh a bheith as ar do fiontar gnó an-féin i foraoise fionnuar!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base5",
+      "english": "I wonder what we'll find out here. Surely it must be worth it.",
+      "irish": "N'fheadar cad a fheicfidh muid amach anseo. Surely ní mór é a bheith fiú é.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base6",
+      "english": "I wish I could have a nice, cool bath.",
+      "irish": "Is mian liom go raibh folctha deas, fionnuar agam.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base7",
+      "english": "What do you suppose we'll find out here?",
+      "irish": "Cad a dhéanann tú dócha go mbainfidh muid amach anseo?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base8",
+      "english": "We sure hit those charred hard yesterday, didn't we?",
+      "irish": "Táimid bhuail cinnte iad siúd charred crua inné, ní raibh muid?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_ashlands_random_talk_in_faction_base9",
+      "english": "They used to worship the Emerald Flame in these parts. Makes you wonder what kind of patron that is...",
+      "irish": "D'úsáid siad chun adhradh an Flame Emerald sna codanna. Déanann tú Wonder cén cineál pátrún atá...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_deepnorth_random_goodbye1",
+      "english": "Don't worry about me, I'll be fine without you.",
+      "irish": "Ná bíodh imní ort faoi dom, beidh mé fíneáil gan tú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_deepnorth_random_goodbye2",
+      "english": "I suppose I'll find my own way out.",
+      "irish": "Is dócha go mbainfidh mé teacht ar mo bhealach féin amach.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_deepnorth_random_goodbye3",
+      "english": "Slay all the giantkind you can!",
+      "irish": "Slay go léir an giantkind is féidir leat!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_deepnorth_random_goodbye4",
+      "english": "Until we meet again, then.",
+      "irish": "Go dtí go chéile againn arís, ansin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_deepnorth_random_goodbye5",
+      "english": "What are you looking at?",
+      "irish": "Cad atá á lorg agat?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_deepnorth_random_goodbye6",
+      "english": "I'm so far from home...",
+      "irish": "Tá mé go dtí seo ó bhaile...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_deepnorth_random_goodbye7",
+      "english": "Are you leaving?",
+      "irish": "An bhfuil tú ag fágáil?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_deepnorth_random_greet1",
+      "english": "Who goes there?",
+      "irish": "Cé a théann ann?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_deepnorth_random_greet2",
+      "english": "Are you friend or foe?",
+      "irish": "An bhfuil tú cara nó fóe?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_deepnorth_random_greet3",
+      "english": "Hey! You there!",
+      "irish": "Hey! Tá tú ann!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_deepnorth_random_greet4",
+      "english": "Help me get out of here!",
+      "irish": "Cabhair dom a fháil amach anseo!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_deepnorth_random_greet5",
+      "english": "A hand, perhaps?",
+      "irish": "A lámh, b'fhéidir?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_deepnorth_random_greet6",
+      "english": "Over here!",
+      "irish": "Thar anseo!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergr_deepnorth_random_greet7",
+      "english": "I'll help you if you help me.",
+      "irish": "Beidh mé cabhrú leat má tá tú cabhrú liom.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_aggravated1",
+      "english": "I'll show you what magic can do!",
+      "irish": "Feicfidh mé a thaispeáint duit cad is féidir draíochta a dhéanamh!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_aggravated10",
+      "english": "Oden can't help you now!",
+      "irish": "Ní féidir Oden cabhrú leat anois!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_aggravated11",
+      "english": "We warned you!",
+      "irish": "Táimid rabhadh duit!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_aggravated2",
+      "english": "Damn you to Hel!",
+      "irish": "Damn tú a Hel!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_aggravated3",
+      "english": "You really shouldn't have done that!",
+      "irish": "Ní mór duit i ndáiríre a bheith déanta go!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_aggravated4",
+      "english": "Dvergr, to me!",
+      "irish": "Dvergr, dom!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_aggravated5",
+      "english": "The boiled pork has been fried now, alright!",
+      "irish": "Tá an muiceoil bruite friochta anois, ceart!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_aggravated6",
+      "english": "I'll teach you not to mess with us!",
+      "irish": "Beidh mé ag múineadh tú gan praiseach le linn!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_aggravated7",
+      "english": "I'll send you to where the pipe bends!",
+      "irish": "Feicfidh mé tú a sheoladh chuig nuair a Bends an píopa!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_aggravated8",
+      "english": "Human scum!",
+      "irish": "scum daonna!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_aggravated9",
+      "english": "To Nidhögg with you!",
+      "irish": "Chun Nidhögg leat!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_goodbye1",
+      "english": "Farewell.",
+      "irish": "Farewell.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_goodbye2",
+      "english": "Always watch out for the gjall.",
+      "irish": "Féach i gcónaí amach le haghaidh an gjall.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_goodbye3",
+      "english": "Goodbye for now.",
+      "irish": "Goodbye do anois.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_goodbye4",
+      "english": "Maybe we'll meet again, maybe not.",
+      "irish": "B'fhéidir go mbainfidh muid le chéile arís, b'fhéidir nach bhfuil.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_goodbye5",
+      "english": "Safe journey to you.",
+      "irish": "Turas sábháilte a thabhairt duit.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_greet1",
+      "english": "You're taller than I remember.",
+      "irish": "Tá tú níos airde ná cuimhin liom.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_greet2",
+      "english": "So you're the one who's been causing such a ruckus.",
+      "irish": "Mar sin, tá tú an ceann atá ag cúis ruckus den sórt sin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_greet3",
+      "english": "Hi there.",
+      "irish": "Dia duit ann.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_greet4",
+      "english": "Is that a human?",
+      "irish": "An bhfuil an duine sin?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_greet5",
+      "english": "Hello. You've travelled a long way.",
+      "irish": "Dia duit. Tá tú ag taisteal ar bhealach fada.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_private_area_alarm1",
+      "english": "Hey! Be careful with that.",
+      "irish": "Hey! Bí cúramach leis sin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_private_area_alarm2",
+      "english": "Cut that out!",
+      "irish": "Gearr go amach!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_private_area_alarm3",
+      "english": "None of that, stop it!",
+      "irish": "Níl aon cheann de sin, stop a chur leis!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_private_area_alarm4",
+      "english": "We're only good hosts as long as you're a good guest.",
+      "irish": "Tá muid ach hóstach maith chomh fada agus go bhfuil tú aoi maith.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_private_area_alarm5",
+      "english": "You're close to overstaying your welcome, Norseman.",
+      "irish": "Tá tú gar do overcoming do fáilte, Norseman.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_private_area_alarm6",
+      "english": "Stop that!",
+      "irish": "Stop go!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_private_area_alarm7",
+      "english": "If you do that again, you won't like what happens.",
+      "irish": "Má dhéanann tú sin arís, ní bheidh tú mhaith cad a tharlaíonn.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_private_area_alarm8",
+      "english": "You're on thin ice.",
+      "irish": "Tá tú ar oighear tanaí.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk1",
+      "english": "I hope this mine isn't as infested as the last.",
+      "irish": "Tá súil agam nach bhfuil an mianach mar infested mar an ceann deireanach.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk10",
+      "english": "Is it true that there's no magic in Midgard?",
+      "irish": "An bhfuil sé fíor nach bhfuil aon draíocht i Midgard?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk2",
+      "english": "I wonder if we can bring this shipment home soon.",
+      "irish": "N'fheadar más féidir linn an teach loingsiú a thabhairt go luath.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk3",
+      "english": "Do you ever wonder what happened to Haldor?",
+      "irish": "An bhfuil tú riamh Wonder cad a tharla do Haldor?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk4",
+      "english": "Those seekers are not to be messed with...",
+      "irish": "Níl na hiarrthóirí a bheith messed le...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk5",
+      "english": "La-di-di, la-di-da...",
+      "irish": "An bhfuil a fhios agat...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk6",
+      "english": "I remember yet, the giants of yore...",
+      "irish": "Is cuimhin liom go fóill, na giants de yore...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk7",
+      "english": "We built these mines, you know? And now look at us...",
+      "irish": "Thóg muid na mianaigh, tá a fhios agat? Agus anois breathnú ar orainn...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk8",
+      "english": "These pests have spread further than I feared. At this rate, all our old mines will be overtaken.",
+      "irish": "Tá na lotnaidí seo scaipthe níos faide ná mar a bhí eagla orm. Ag an ráta seo, beidh ár mianaigh d'aois a overtaken.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk9",
+      "english": "It must be strange, being human. Imagine having to crawl through small spaces!",
+      "irish": "Caithfidh sé a bheith aisteach, a bheith daonna. Samhlaigh a bhfuil a crawl trí spásanna beaga!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk_in_faction_base1",
+      "english": "I hope this mine isn't as infested as the last.",
+      "irish": "Tá súil agam nach bhfuil an mianach mar infested mar an ceann deireanach.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk_in_faction_base10",
+      "english": "It's damp as a troll's armpit here, but at least it's not as painfully hot as the south.",
+      "irish": "Tá sé taise mar armpit troll ar anseo, ach ar a laghad nach bhfuil sé chomh painfully te mar an taobh ó dheas.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk_in_faction_base2",
+      "english": "I wonder if we can bring this shipment home soon.",
+      "irish": "N'fheadar más féidir linn an teach loingsiú a thabhairt go luath.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk_in_faction_base3",
+      "english": "We built these mines, you know? And now look at us...",
+      "irish": "Thóg muid na mianaigh, tá a fhios agat? Agus anois breathnú ar orainn...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk_in_faction_base4",
+      "english": "Do you ever wonder what happened to Haldor?",
+      "irish": "An bhfuil tú riamh Wonder cad a tharla do Haldor?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk_in_faction_base5",
+      "english": "Sometimes I wonder if the eitr is worth all of this.",
+      "irish": "Uaireanta N'fheadar má tá an eitéar fiú gach ceann de seo.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk_in_faction_base6",
+      "english": "I look forward to seeing what the fire will show me next.",
+      "irish": "Táim ag tnúth le féachaint ar cad a bheidh an tine a thaispeáint dom seo chugainn.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk_in_faction_base7",
+      "english": "Now where did I put that bottle...?",
+      "irish": "Anois, nuair a chuir mé an buidéal sin...?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk_in_faction_base8",
+      "english": "I swear we had a spare Extractor here somewhere...",
+      "irish": "I swear bhí againn Extractor spártha anseo áit éigin...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrmage_random_talk_in_faction_base9",
+      "english": "Just a bit more of this mining, and then we can take it back to Myrkheim.",
+      "irish": "Just a beagán níos mó den mhianadóireacht, agus ansin is féidir linn é a chur ar ais go dtí Myrkheim.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_aggravated1",
+      "english": "I'll make you bleed!",
+      "irish": "Feicfidh mé a dhéanamh bleed tú!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_aggravated10",
+      "english": "Into formation!",
+      "irish": "Into foirmiú!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_aggravated11",
+      "english": "You're going down!",
+      "irish": "Tá tú ag dul síos!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_aggravated2",
+      "english": "Kill the Norseman!",
+      "irish": "Kill an Norseman!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_aggravated3",
+      "english": "Do you feel lucky?",
+      "irish": "An mbraitheann tú ádh?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_aggravated4",
+      "english": "You'll regret this!",
+      "irish": "Feicfidh tú brón seo!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_aggravated5",
+      "english": "You've planted your last turnip!",
+      "irish": "Tá tú curtha do turnip deiridh!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_aggravated6",
+      "english": "I'll kick your arse!",
+      "irish": "Feicfidh mé tús do arse!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_aggravated7",
+      "english": "Enjoying shooting yourself in the foot, eh? I can help with that!",
+      "irish": "Bain sult as lámhach tú féin sa chos, eh? Is féidir liom cabhrú leis sin!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_aggravated8",
+      "english": "So it's a fight you're after, then?",
+      "irish": "Mar sin, tá sé ina troid go bhfuil tú tar éis, ansin?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_aggravated9",
+      "english": "I'll mop the floors with your guts!",
+      "irish": "Beidh mé mop na hurláir le do inní!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_goodbye1",
+      "english": "Until next time.",
+      "irish": "Go dtí an chéad uair eile.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_goodbye2",
+      "english": "Be careful out there!",
+      "irish": "Bí cúramach amach ann!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_goodbye3",
+      "english": "Goodbye then.",
+      "irish": "Goodbye ansin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_goodbye4",
+      "english": "Don't get lost.",
+      "irish": "Ná fháil caillte.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_goodbye5",
+      "english": "Keep that wisplight close, you don't want to lose it.",
+      "irish": "Coinnigh go wisplight gar, nach bhfuil tú ag iarraidh a chailleadh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_goodbye6",
+      "english": "Tettå",
+      "irish": "Déan teagmháil linn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_greet1",
+      "english": "Who goes there?",
+      "irish": "Cé a théann ann?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_greet2",
+      "english": "Norseman.",
+      "irish": "Norseman.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_greet3",
+      "english": "Greetings.",
+      "irish": "Beannachtaí.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_greet4",
+      "english": "Hello.",
+      "irish": "Dia duit.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_greet5",
+      "english": "Welcome.",
+      "irish": "Fáilte.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_greet6",
+      "english": "Åtett.",
+      "irish": "Åtett.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_private_area_alarm1",
+      "english": "I wouldn't do that if I were you.",
+      "irish": "Ní ba mhaith liom a dhéanamh go má bhí mé tú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_private_area_alarm2",
+      "english": "Keep your hands to yourself!",
+      "irish": "Coinnigh do lámha duit féin!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_private_area_alarm3",
+      "english": "We were here first!",
+      "irish": "Bhí muid anseo ar dtús!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_private_area_alarm4",
+      "english": "Hands off!",
+      "irish": "Lámha amach!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_private_area_alarm5",
+      "english": "Touch that again and I'll chop your hand off.",
+      "irish": "Dteagmháil go arís agus beidh mé chop do lámh as.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_private_area_alarm6",
+      "english": "I'm warning you!",
+      "irish": "Tá mé ag rabhadh duit!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_private_area_alarm7",
+      "english": "We're not to be trifled with!",
+      "irish": "Níl muid a bheith trifled le!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_private_area_alarm8",
+      "english": "You'd best be real careful. Or things will go badly for you.",
+      "irish": "Ba mhaith leat a bheith is fearr fíor cúramach. Nó beidh rudaí dul go dona ar do shon.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk1",
+      "english": "You never know what you'll find out there in the mist.",
+      "irish": "Níl a fhios agat cad beidh tú a fháil amach ann sa mist.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk10",
+      "english": "If we could come through to here, it makes you wonder what else might...",
+      "irish": "Má d'fhéadfadh muid teacht tríd go dtí anseo, a dhéanann sé Wonder tú cad eile a d'fhéadfadh...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk2",
+      "english": "Best be on your guard.",
+      "irish": "Is fearr a bheith ar do garda.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk3",
+      "english": "What's Midgard like, then? I've only ever heard the tales.",
+      "irish": "Cad é Midgard mhaith, ansin? Chuala mé ach na scéalta riamh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk4",
+      "english": "Do all humans look like you? You're so... Nevermind.",
+      "irish": "An bhfuil gach duine cuma mhaith leat? Tá tú mar sin... Nevermind.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk5",
+      "english": "It's easy to lose track of the days out here...",
+      "irish": "Tá sé éasca a chailleadh rian de na laethanta amach anseo...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk6",
+      "english": "Us dvergr watch out for our own kin.",
+      "irish": "Linn dvergr faire amach le haghaidh ár kin féin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk7",
+      "english": "Blasted seekers! I wish they'd all just shrivel up and die.",
+      "irish": "Iarrthóirí Blasted! Is mian liom gur mhaith leo go léir ach shrivel suas agus bás.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk8",
+      "english": "I almost got completely drained by a tick once... But dvergr don't die that easily.",
+      "irish": "Fuair mé beagnach draenáilte go hiomlán ag tic uair amháin... Ach nach bhfuil dvergr bás go héasca.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk9",
+      "english": "It's a bit strange to think this was all once a great battlefield...",
+      "irish": "Tá sé beagán aisteach chun smaoineamh go raibh sé seo go léir uair amháin catha mór...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk_in_faction_base1",
+      "english": "My knees are aching, but at least we have food and a warm fire.",
+      "irish": "Tá mo ghlúine aching, ach ar a laghad ní mór dúinn bia agus tine te.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk_in_faction_base10",
+      "english": "I heard we're venturing down south again. Maybe I'll apply for the expedition this time.",
+      "irish": "Chuala mé go bhfuil muid ag venturing síos ó dheas arís. B'fhéidir go mbainfidh mé iarratas ar an expedition an uair seo.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk_in_faction_base2",
+      "english": "If you work and keep tidy, Friday brings money.",
+      "irish": "Má tá tú ag obair agus a choinneáil slachtmhar, tugann Dé hAoine airgead.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk_in_faction_base3",
+      "english": "This little fort is nothing compared to our strongholds at home...",
+      "irish": "Is é seo an fort beag aon rud i gcomparáid lenár láidreacht sa bhaile...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk_in_faction_base4",
+      "english": "When is it dinner time? I'm hungry.",
+      "irish": "Cathain a bhfuil sé am dinnéar? Tá mé ocras.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk_in_faction_base5",
+      "english": "Are we running out of ale? I think we're running out of ale...",
+      "irish": "An bhfuil muid ag rith amach as ale? Sílim go bhfuil muid ag rith amach as ale...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk_in_faction_base6",
+      "english": "Some repairs to this place wouldn't hurt.",
+      "irish": "Ní bheadh roinnt deisiúcháin ar an áit seo Gortaítear.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk_in_faction_base7",
+      "english": "I don't get why they didn't just take everything when they left the mines. Why leave the cores there?",
+      "irish": "Ní féidir liom a fháil cén fáth nach raibh siad a ghlacadh ach gach rud nuair a d'fhág siad na mianaigh. Cén fáth a fhágann na cores ann?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk_in_faction_base8",
+      "english": "Damned seekers smashed our black cores! Back into the deep then, I guess...",
+      "irish": "Iarrthóirí damáiste smashed ár cores dubh! Ar ais isteach sa domhain ansin, buille faoi thuairim mé...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_dvergrrogue_random_talk_in_faction_base9",
+      "english": "This world has changed so much since our people were here last. Imagine what it'll look like in another couple of centuries!",
+      "irish": "Tá an domhan athrú an oiread sin ó bhí ár ndaoine anseo seo caite. Samhlaigh cad beidh sé cuma mhaith i gceann eile cúpla céad bliain!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_giveitem",
+      "english": "Give item",
+      "irish": "Mír a thabhairt",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_giveitem_no1",
+      "english": "Thanks, but I don't need that.",
+      "irish": "Go raibh maith agat, ach ní gá dom go.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_giveitem_no10",
+      "english": "NO!",
+      "irish": "NÍL!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_giveitem_no11",
+      "english": "I'm gonna have to say... no.",
+      "irish": "Tá mé gonna a rá... Níl.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_giveitem_no12",
+      "english": "A definite no on that one.",
+      "irish": "Cinnte aon ar an gceann sin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_giveitem_no2",
+      "english": "Thanks but no.",
+      "irish": "Go raibh maith agat ach níl.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_giveitem_no3",
+      "english": "Not sure what I'd do with that.",
+      "irish": "Ní cinnte cad ba mhaith liom a dhéanamh leis sin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_giveitem_no4",
+      "english": "I wouldn't touch that with a ten foot iron beam.",
+      "irish": "Ní ba mhaith liom teagmháil a dhéanamh le bhíoma iarann deich troigh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_giveitem_no5",
+      "english": "Just...no.",
+      "irish": "Díreach... gan.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_giveitem_no6",
+      "english": "That's not what I'm looking for.",
+      "irish": "Nach bhfuil cad tá mé ag lorg.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_giveitem_no7",
+      "english": "You can do better than that.",
+      "irish": "Is féidir leat a dhéanamh níos fearr ná sin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_giveitem_no8",
+      "english": "I think you misunderstood my needs.",
+      "irish": "I mo thuairimse, misunderstood tú mo chuid riachtanas.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_giveitem_no9",
+      "english": "No, and no.",
+      "irish": "Níl, agus níl.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor",
+      "english": "Haldor",
+      "irish": "Toir agus Crainn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_buy01",
+      "english": "These are fine items, not the sort of things you can just pick up.",
+      "irish": "Tá na míreanna fíneáil, nach bhfuil an saghas rudaí is féidir leat a phiocadh ach suas.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_buy02",
+      "english": "Don't touch anything unless you're prepared to pay for it.",
+      "irish": "Ná dteagmháil le rud ar bith mura bhfuil tú sásta a íoc as é.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_buy03",
+      "english": "Cast your eyes over my goods but keep your hands to yourself.",
+      "irish": "Réitigh do shúile thar mo earraí ach a choinneáil do lámha duit féin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_buy04",
+      "english": "Something here might keep you alive a little longer. Though I don't know why you'd bother.",
+      "irish": "D'fhéadfadh rud éigin anseo a choinneáil beo tú beagán níos faide. Cé nach bhfuil a fhios agam cén fáth gur mhaith leat bodhraigh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_goodbye01",
+      "english": "Try not to wander too far. I want your things when you get killed.",
+      "irish": "Bain triail as gan wander i bhfad ró-. Ba mhaith liom do chuid rudaí nuair a fhaigheann tú maraíodh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_goodbye02",
+      "english": "Away with you. I have things to do.",
+      "irish": "Away leat. Tá mé rudaí a dhéanamh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_goodbye03",
+      "english": "Off you go then.",
+      "irish": "Off théann tú ansin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_greeting01",
+      "english": "Humph! Another scrap of flesh from the Valkyries...",
+      "irish": "Mol! Eile scrap de flesh ó na Valkyries...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_greeting02",
+      "english": "Well?",
+      "irish": "Bhuel?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_greeting03",
+      "english": "What do you want?",
+      "irish": "Cad ba mhaith leat?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_random_buy1",
+      "english": "Good choice!",
+      "irish": "Dea-rogha!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_random_buy2",
+      "english": "That fits you!",
+      "irish": "Go n-oireann tú!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_random_buy3",
+      "english": "It's yours.",
+      "irish": "Tá sé mise.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_random_buy4",
+      "english": "Happy to do business with you.",
+      "irish": "Shona gnó a dhéanamh leat.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_random_buy5",
+      "english": "Use it well.",
+      "irish": "Bain úsáid as go maith.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_random_goodbye1",
+      "english": "Come again!",
+      "irish": "Tar arís!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_random_goodbye2",
+      "english": "Bye!",
+      "irish": "Deo!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_random_goodbye3",
+      "english": "Don't die out there.",
+      "irish": "Ná bás amach ann.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_random_greet1",
+      "english": "Hi there.",
+      "irish": "Dia duit ann.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_random_greet2",
+      "english": "Well hello there!",
+      "irish": "Bhuel Dia duit ann!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_random_greet3",
+      "english": "Welcome to my neck of the woods, as it were.",
+      "irish": "Fáilte go dtí mo mhuineál na coillte, mar a bhí sé.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_random_greet4",
+      "english": "Oh! A customer!",
+      "irish": "Oh! A custaiméir!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_random_sell1",
+      "english": "Good deal.",
+      "irish": "Dea-déileáil.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_random_sell2",
+      "english": "Here you go.",
+      "irish": "Anseo a théann tú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_random_sell3",
+      "english": "That's worth some gold.",
+      "irish": "Sin fiú roinnt óir.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_random_sell4",
+      "english": "I'll take it.",
+      "irish": "Tógfaidh mé é.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_random_starttrade1",
+      "english": "Take a look at my wares.",
+      "irish": "Féach ar mo chogadh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_random_starttrade2",
+      "english": "Check this stuff out!",
+      "irish": "Seiceáil an stuif amach!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_random_starttrade3",
+      "english": "I'm sure I've got what you need.",
+      "irish": "Tá mé cinnte mé fuair cad is gá duit.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_random_starttrade4",
+      "english": "I've got a little bit of everything.",
+      "irish": "Tá mé fuair beagán de gach rud.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_random_starttrade5",
+      "english": "My wares aren't exactly bespoke, but they'll do the job.",
+      "irish": "Níl mo wares bespoke go díreach, ach beidh siad a dhéanamh ar an bpost.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_random_talk1",
+      "english": "I'm short for a dwarf.",
+      "irish": "Tá mé gearr le haghaidh dwarf.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_random_talk2",
+      "english": "Radjdadaj...",
+      "irish": "Gluaiseacht...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_random_talk3",
+      "english": "I've met your kind before.",
+      "irish": "Bhuail mé do chineál roimh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_random_talk4",
+      "english": "What are you looking at? Have you never seen a dwarf before?",
+      "irish": "Cad atá á lorg agat? An bhfaca tú dwarf riamh roimhe seo?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_random_talk5",
+      "english": "Halstein, did you fart again?",
+      "irish": "Halstein, rinne tú fart arís?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_random_talk6",
+      "english": "Mining is just so boring! Fortunately I come from a family of entrepreneurs.",
+      "irish": "Is Mining díreach leadránach sin! Fortunately tháinig mé ó theaghlach na bhfiontraithe.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_random_talk7",
+      "english": "I don't really go in for the fancy stuff, that's my sister's area of expertise.",
+      "irish": "Ní féidir liom dul i ndáiríre i do na stuif mhaisiúil, go bhfuil mo dheirfiúr réimse saineolais.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_sell01",
+      "english": "Let's see what scraps you've picked up...",
+      "irish": "A ligean ar a fheiceáil cad iad na scraps atá tú phiocadh suas...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_sell02",
+      "english": "Hmm, what have we here?",
+      "irish": "Hmm, cad atá againn anseo?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_sell03",
+      "english": "I wonder if anything sparkles amongst all this muck you carry...",
+      "irish": "N'fheadar má sparkles rud ar bith i measc seo go léir a dhéanann tú...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_sell04",
+      "english": "Show me what you have.",
+      "irish": "Taispeáin dom cad atá agat.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_smalltalk01",
+      "english": "We're all lost here. The Gods turned their eyes from Valheim a long time ago.",
+      "irish": "Táimid caillte go léir anseo. Na Dia iompú a súile ó Valheim ar feadh i bhfad ó shin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_smalltalk02",
+      "english": "I suppose you're here to hunt the Forsaken Ones? I don't bother them and they don't bother me.",
+      "irish": "Is dócha go bhfuil tú anseo chun fiach na cinn Forsaken? Ní féidir liom bodhraigh iad agus nach bhfuil siad bodhraigh dom.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_smalltalk03",
+      "english": "Fight, build, explore. It all ends in the grave.",
+      "irish": "An comhrac, a thógáil, iniúchadh. Críochnaíonn sé go léir sa uaigh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_smalltalk04",
+      "english": "You're no different to all the others that came before you, warrior. And you'll end the same way.",
+      "irish": "Tá tú aon éagsúla do na daoine eile a tháinig roimh tú, laoch. Agus beidh tú deireadh ar an mbealach céanna.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_smalltalk05",
+      "english": "Commerce is the only thing that separates us from the beasts.",
+      "irish": "Is é an tráchtáil an rud amháin a scarann chugainn ó na beithigh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_trade01",
+      "english": "I'm interested in trade, not chatter. Do you want to buy something or not?",
+      "irish": "Tá suim agam i dtrádáil, ní chatter. Ar mhaith leat rud éigin a cheannach nó nach ea?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_trade02",
+      "english": "Come, let us make a deal.",
+      "irish": "Tar, lig dúinn déileáil.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_haldor_trade03",
+      "english": "You're fortunate to have caught me in a good mood. Let us trade.",
+      "irish": "Tá tú ádh a bheith gafa dom i giúmar maith. Lig dúinn trádáil.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hallon",
+      "english": "Hallon",
+      "irish": "Comhairle Chontae na Gaillimhe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_halstein",
+      "english": "Halstein",
+      "irish": "Toir agus Crainn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir",
+      "english": "Hildir",
+      "irish": "taiseachas aeir: fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_chest1_recieved",
+      "english": "Yay, you found it! Now check out my wares!",
+      "irish": "Yay, fuair tú é! Anois seiceáil amach mo wares!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_chest2_recieved",
+      "english": "That one must have been a challenge, but you won't regret it!",
+      "irish": "Ní mór an duine sin a bheith ina dhúshlán, ach ní bheidh tú brón air!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_chest3_recieved",
+      "english": "I didn't think you would manage that one. Colour me impressed!",
+      "irish": "Ní raibh mé ag smaoineamh go mbeadh tú a bhainistiú go ceann. Dath mé tógtha!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_alreadyhavechest1",
+      "english": "You've already given me that.",
+      "irish": "Tá tú a tugadh cheana féin dom go.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_alreadyhavechest2",
+      "english": "Nice replica. It's not mine though.",
+      "irish": "macasamhail Nice. Níl sé mianach cé.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_alreadyhavechest3",
+      "english": "Keep it. I have no use for that.",
+      "irish": "Coinnigh é. Níl aon úsáid agam sin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_alreadyhavechest4",
+      "english": "But...you already gave me this chest. Where did you get this?",
+      "irish": "Ach... thug tú dom an cófra seo cheana féin. Cá bhfuair tú é seo?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_alreadyhavechest5",
+      "english": "That's...not mine. I guess someone really just likes my style, huh?",
+      "irish": "Sin...Ní mianach. Buille faoi thuairim mé duine éigin i ndáiríre maith ach mo stíl, huh?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_anylockedchest1",
+      "english": "Thanks for the help, I really appreciate it. There's still more of my stuff out there though, if you have time.",
+      "irish": "Go raibh maith agat as an cabhair, Is mór agam i ndáiríre é. Níl fós níos mó de mo stuif amach ann cé, má tá tú am.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_anylockedchest2",
+      "english": "You know, this place was more peaceful in the past. A lady could travel here without being robbed of all her things.",
+      "irish": "Tá a fhios agat, bhí an áit seo níos síochánta san am atá caite. D'fhéadfadh a bhean taisteal anseo gan a bheith robbed ar a cuid rudaí.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_anylockedchest3",
+      "english": "It's nice to have some of my stock back. But I really would appreciate it if I could get all of it.",
+      "irish": "Tá sé deas go bhfuil roinnt de mo stoc ar ais. Ach ba mhaith liom a thuiscint i ndáiríre é má raibh mé in ann a fháil ar fad é.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_anylockedchest4",
+      "english": "It's not too much trouble, right? To find my stolen things. It's really sweet of you to help.",
+      "irish": "Níl sé an iomarca trioblóide, ceart? Chun teacht ar mo rudaí a goideadh. Tá sé i ndáiríre milis de tú chun cabhrú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_anylockedchest5",
+      "english": "The big lox is Hallon and the small one is Blåbär.",
+      "irish": "Is é an lox mór Hallon agus is é an ceann beag Blåbär.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_anylockedchest6",
+      "english": "She warned me it wasn't a good idea to go here... But I went anyway, and now part of my stock is rotting away in some dungeon.",
+      "irish": "Rabhadh sí dom nach raibh sé smaoineamh maith chun dul anseo... Ach chuaigh mé ar aon nós, agus anois tá cuid de mo stoc ag lobhadh ar shiúl i roinnt dungeon.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_anylockedchest7",
+      "english": "There are rumours about you, you know? I wonder if they match reality.",
+      "irish": "Tá ráflaí faoi tú, tá a fhios agat? N'fheadar má mheaitseáil siad réaltacht.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_anylockedchest8",
+      "english": "Making progress, I hope? I have this fabric I'd love to see on you, but I'd need you to bring it back first.",
+      "irish": "Ag déanamh dul chun cinn, tá súil agam? Tá mé an fabraic ba mhaith liom grá a fheiceáil ar tú, ach ba mhaith liom gá duit a thabhairt ar ais ar dtús.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_anylockedchest9",
+      "english": "It's nice that the shop isn't entirely empty anymore, at least.",
+      "irish": "Tá sé deas nach bhfuil an siopa folamh go hiomlán níos mó, ar a laghad.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_buy1",
+      "english": "Ooh, that'll look great on you!",
+      "irish": "Ooh, go mbainfidh cuma iontach ar tú!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_buy2",
+      "english": "That's one of my finest works.",
+      "irish": "Sin ceann de mo oibreacha is fearr.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_buy3",
+      "english": "Tailored just for you.",
+      "irish": "Tailored díreach ar do shon.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_buy4",
+      "english": "I had a lot of fun making this.",
+      "irish": "Bhí mé a lán de spraoi a dhéanamh seo.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_buy5",
+      "english": "You've got good taste.",
+      "irish": "Tá tú fuair blas maith.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_goodbye1",
+      "english": "See you again soon, I hope!",
+      "irish": "Féach tú arís go luath, Tá súil agam!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_goodbye2",
+      "english": "Don't be a stranger.",
+      "irish": "Ná bheith ina strainséir.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_goodbye3",
+      "english": "I'll be here a while, in case you're in need of anything else.",
+      "irish": "Beidh mé a bheith anseo ar feadh tamaill, i gcás go bhfuil tú i gá aon rud eile.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_goodbye4",
+      "english": "Take care.",
+      "irish": "Tabhair aire.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_greet1",
+      "english": "Welcome to my shop. It's a tad bit more elegant than my brother's.",
+      "irish": "Fáilte go dtí mo siopa. Tá sé beagán níos galánta ná mo dheartháir.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_greet2",
+      "english": "Hi there.",
+      "irish": "Dia duit ann.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_greet3",
+      "english": "You look like your wardrobe could do with a bit of an upgrade.",
+      "irish": "Tá tú ag breathnú cosúil d'fhéadfadh do wardrobe a dhéanamh le beagán de uasghrádú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_greet4",
+      "english": "Well, well, girls, look what the neck dragged in.",
+      "irish": "Bhuel, go maith, cailíní, breathnú ar an muineál dragged i.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_greet5",
+      "english": "Greetings, viking.",
+      "irish": "Greetings, viking.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_lockedchest1",
+      "english": "Almost all of my wares, stolen! What use is a shop if it doesn't even have anything to sell?",
+      "irish": "Beagnach gach ceann de mo wares, goideadh! Cén úsáid a bhaint as siopa más rud é nach bhfuil sé fiú aon rud a dhíol?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_lockedchest2",
+      "english": "Don't try to open the chests yourself if you find them. Dwarven locks can't be picked, and the chests themselves could withstand an explosion...",
+      "irish": "Ná déan iarracht a oscailt na cófraí féin má fhaigheann tú iad. Ní féidir glais dwarf a phiocadh, agus d'fhéadfadh na cófraí iad féin a sheasamh le pléascadh...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_lockedchest3",
+      "english": "Do you know how frustrating it is to have so much hard work just... stolen from you?",
+      "irish": "An bhfuil a fhios agat conas frustrating go bhfuil sé an oiread sin oibre crua díreach... goidte ó tú?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_lockedchest4",
+      "english": "I'll sell you what I have at a discount, if you just get my things back to me. Like a finder's fee.",
+      "irish": "Feicfidh mé a dhíol tú cad tá mé ar lascaine, má tá tú a fháil ach mo rudaí ar ais chugam. Cosúil le táille an aimsitheora.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_lockedchest5",
+      "english": "Bring my chests back to me when you find them. I'll unlock them and we can do good business.",
+      "irish": "Tabhair mo cófraí ar ais chugam nuair a fhaigheann tú iad. Feicfidh mé dhíghlasáil iad agus is féidir linn a dhéanamh gnó maith.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_lockedchest6",
+      "english": "Don't even think about keeping the chests to yourself, now that you know where they are. You can't open them without the right key.",
+      "irish": "Ná fiú smaoineamh ar na cófraí a choinneáil duit féin, anois go bhfuil a fhios agat cá bhfuil siad. Ní féidir leat iad a oscailt gan an eochair cheart.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_map1",
+      "english": "Most of my stuff was stolen from me. I've marked out where it was on the map, in case you'd like to help me look for it.",
+      "irish": "Goideadh an chuid is mó de mo stuif uaim. Tá mé marcáilte amach nuair a bhí sé ar an léarscáil, i gcás gur mhaith leat chun cabhrú liom breathnú ar sé.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_map2",
+      "english": "If you'd help me get some things back, I'd be happy to do business with you.",
+      "irish": "Más mian leat cabhrú liom a fháil ar roinnt rudaí ar ais, Ba mhaith liom a bheith sásta gnó a dhéanamh leat.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_map3",
+      "english": "I'd go get my things back myself, but I'm not willing to risk losing anything else. Help a girl out?",
+      "irish": "Ba mhaith liom dul a fháil ar mo rudaí ar ais mé féin, ach níl mé sásta a chailliúint riosca rud ar bith eile. Cabhair le cailín amach?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_map4",
+      "english": "I got away, but my goods weren't so lucky. At least I know where it happened, whatever good that does me.",
+      "irish": "Fuair mé ar shiúl, ach ní raibh mo earraí chomh-ádh. Ar a laghad tá a fhios agam nuair a tharla sé, is cuma cad maith a dhéanann dom.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_map5",
+      "english": "That's where they ambushed me, the greedy little bastards. You wouldn't want to go after them for me, would you?",
+      "irish": "Sin an áit a inmbushed siad dom, an bastards beag greedy. Ní bheadh tú ag iarraidh dul i ndiaidh dóibh dom, bheadh tú?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_sell1",
+      "english": "Sure, I'll take it.",
+      "irish": "Cinnte, beidh mé é a ghlacadh.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_sell2",
+      "english": "Hm, I might be able to use that for something.",
+      "irish": "Hm, D'fhéadfadh mé a bheith in ann é sin a úsáid le haghaidh rud éigin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_sell3",
+      "english": "You know what they say, one person's trash is another one's treasure.",
+      "irish": "Tá a fhios agat cad a deir siad, tá duine amháin bruscar ceann eile Treasure.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_sell4",
+      "english": "Why not? I'm sure I can pawn that off at some point.",
+      "irish": "Cén fáth nach bhfuil? Tá mé cinnte gur féidir liom a geallearbadh go amach ag pointe éigin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_sell5",
+      "english": "Deal.",
+      "irish": "Déileáil.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_starttrade1",
+      "english": "Take a look, why don't you?",
+      "irish": "Féach, cén fáth nach bhfuil tú?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_starttrade2",
+      "english": "I'm sure I've got something that'll tickle your fancy.",
+      "irish": "Tá mé cinnte mé fuair rud éigin go mbainfidh tickle do mhaisiúil.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_starttrade3",
+      "english": "If you're looking for worms and eggs, you've come to the wrong shop.",
+      "irish": "Má tá tú ag lorg worms agus uibheacha, tá tú ag teacht ar an siopa mícheart.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_starttrade4",
+      "english": "Let me know if you find anything you like!",
+      "irish": "Lig dom a fhios má fhaigheann tú rud ar bith is mian leat!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_starttrade5",
+      "english": "My wares are made out of the finest cloth.",
+      "irish": "Mo wares atá déanta as an éadach is fearr.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_starttrade6",
+      "english": "You'll only find products of the highest quality in my shop, I assure you.",
+      "irish": "Feicfidh tú ach táirgí den chaighdeán is airde i mo siopa, Dearbhaím duit.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_talk1",
+      "english": "It's okay, you can pet the lox if you want.",
+      "irish": "Tá sé ceart go leor, is féidir leat peataí an lox más mian leat.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_talk10",
+      "english": "As fun as these sojourns are, it'll be nice to get back home to my kin.",
+      "irish": "Mar spraoi mar go bhfuil na sojourns, beidh sé deas a fháil ar ais sa bhaile le mo kin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_talk2",
+      "english": "You know, this place was more peaceful in the past. A lady could travel here without being robbed of all her things.",
+      "irish": "Tá a fhios agat, bhí an áit seo níos síochánta san am atá caite. D'fhéadfadh a bhean taisteal anseo gan a bheith robbed ar a cuid rudaí.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_talk3",
+      "english": "The big lox is Hallon and the small one is Blåbär.",
+      "irish": "Is é an lox mór Hallon agus is é an ceann beag Blåbär.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_talk4",
+      "english": "The wagon's off limits, sorry. A girl's gotta keep some trade secrets to herself.",
+      "irish": "Teorainneacha an vaigíní, tá brón orm. A cailín gotta a choinneáil ar roinnt rúin trádála di féin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_talk5",
+      "english": "There are rumours about you, you know? I wonder if they match reality.",
+      "irish": "Tá ráflaí faoi tú, tá a fhios agat? N'fheadar má mheaitseáil siad réaltacht.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_talk6",
+      "english": "I don't do repairs, sorry.",
+      "irish": "Ní féidir liom deisiúcháin, leithscéal.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_talk7",
+      "english": "Hm... I'd love to tailor you a custom piece sometime.",
+      "irish": "Hm... Ba mhaith liom grá a chur in oiriúint duit píosa saincheaptha éigin.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_talk8",
+      "english": "Back in the day I thought about setting up shop here permanently. But there aren't really enough customers for that.",
+      "irish": "Ar ais sa lá a shíl mé faoi bhunú siopa anseo go buan. Ach nach bhfuil i ndáiríre go leor custaiméirí don.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hildir_random_talk9",
+      "english": "This place isn't too bad, all things considered. Maybe I'll bring someone else along next time.",
+      "irish": "Níl an áit seo ró-dona, gach rud a mheas. B'fhéidir go mbainfidh mé duine éigin eile a thabhairt chomh maith an chéad uair eile.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_hugin",
+      "english": "Hugin",
+      "irish": "Uisce agus Séarachas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_munin",
+      "english": "Munin",
+      "irish": "tréimhse saoil: ilbhliantúil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_munin_ashlands_bellshard",
+      "english": "Kraa! A sad memory lingers here... A faint echo in the air... Once these rang for joy to celebrate his passing but now he cannot bear the sound nor the reminder. If you seek to bring him give them voice once more.",
+      "irish": "Kraa! A lingers cuimhne brónach anseo... A macalla faint san aer... Chomh luath agus na ghlao seo le haghaidh áthas chun ceiliúradh a rith ach anois ní féidir leis an fhuaim ná an gcuimhne. Má fhéachann tú a thabhairt dó guth a thabhairt dóibh uair amháin níos mó.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_munin_ashlands_general01",
+      "english": "Kraa! Poor pickings here. Empty skulls scoured clean by the flames. Barely a trace of memory left…",
+      "irish": "Kraa! Piocaí Poor anseo. skulls folamh scoured glan ag na lasracha. Barely rian de chuimhne fágtha...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_munin_ashlands_general02",
+      "english": "Well met little swordling! Look around you this is the Waste of the Emerald Flame… This is the end of all pride the fire that consumes itself… Tread carefully!",
+      "irish": "Bhuel bhuail claíomh beag! Féach timpeall ort é seo an Dramhaíola an Flame Emerald... Is é seo an deireadh gach bród an tine a itheann féin... Arán go cúramach!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_munin_ashlands_general03",
+      "english": "Kraa! I bring a message from the Allfather. Honor is forged in flame. Strike hard upon the anvil spare not the steel!",
+      "irish": "Kraa! Tugaim teachtaireacht ón Uileathair. Tá Honor brionnaithe i lasair. Stailc crua ar an spártha anvil nach bhfuil an cruach!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_munin_ashlands_general04",
+      "english": "Kraahaha! A fellow carrion bird! Look at you picking over these poor dead remains…",
+      "irish": "Cóipeáil nasc leis an tweet éan cairéad eile! Féach ar tú ag piocadh thar na hiarsmaí bocht marbh...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_munin_ashlands_general05",
+      "english": "Hmmm... How do you yet live warrior? Perhaps you have found your element here in the furnace? Curious...",
+      "irish": "Hmmm... Cén chaoi a bhfuil tú fós ina gcónaí laoch? B'fhéidir go bhfuair tú do eilimint anseo sa foirnéis? Aisteach...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_munin_deepnorth_general01",
+      "english": "This is a place of transformation. Certain creatures find a new purpose here, becoming something more than they once were. Are you one of these creatures, I wonder?",
+      "irish": "Is áit claochlaithe é seo. Faigheann créatúir áirithe cuspóir nua anseo, rud éigin níos mó ná mar a bhí siad uair amháin. An bhfuil tú ar cheann de na créatúir, N'fheadar?",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_munin_deepnorth_general02",
+      "english": "Kraa! Those who first ventured here did not know about the underground thieves. If they had known, they would certainly have chosen better places to build their homesteads.",
+      "irish": "Kraa! Ní raibh a fhios ag na daoine a fuair fiontair anseo ar dtús faoi na thieves faoi thalamh. Más eol dóibh, bheadh siad roghnaithe cinnte áiteanna níos fearr a thógáil a n-áit chónaithe.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_munin_deepnorth_general03",
+      "english": "Watch these lands for memorials in the honour of the warriors who came before you. They may bestow a boon upon you, should you prove yourself worthy in their eyes.",
+      "irish": "Féach ar na tailte seo le haghaidh cuimhneacháin in onóir na laochra a tháinig os a gcomhair. Is féidir leo bhronnadh boon ar tú, ba chóir duit a chruthú duit féin fiú ina súile.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_munin_deepnorth_general04",
+      "english": "Long before the Allfather summoned you, others were tasked to guard this world. Even though many years have gone by since their passing, they still can't seem to find peace. Be kind, and do not disturb them.",
+      "irish": "Fada roimh an Allfather thoghairm tú, bhí de chúram ar dhaoine eile a garda an saol seo. Cé go bhfuil blianta fada imithe ag ós rud é a rith, ní féidir leo cosúil go fóill síocháin a aimsiú. Bí cineálta, agus ná cuir isteach orthu.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_munin_deepnorth_morkborg",
+      "english": "Kraa! Strange folk dwell here, created from the very evil itself...",
+      "irish": "Kraa! Strange dwell tíre anseo, a cruthaíodh as an olc féin...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_munin_deepnorth_ship",
+      "english": "Long ago, others attempted to sail to these lands. It appears they made it here, but that there was no way for them to make the return journey...",
+      "irish": "Fada ó shin, rinne daoine eile iarracht a sheoladh chuig na tailte. Dealraíonn sé rinne siad é anseo, ach nach raibh aon bhealach dóibh a dhéanamh ar an turas ar ais...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_munin_general01",
+      "english": "Kraa! Well met, wanderer… I am Munin, brother to Hugin. I bring greetings from the Allfather. His eye sees through mine, I carry his words beneath my tongue. Keep his ways and I will come to you again…",
+      "irish": "Kraa! Bhuel bhuail, wanderer... Tá mé Munin, deartháir go Hugin. Tugaim beannachtaí ón Uileathair. Feiceann a shúil trí mhianach, a dhéanamh mé a chuid focal faoi bhun mo theanga. Coinnigh a chuid bealaí agus beidh mé ag teacht chun tú arís...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_munin_general02",
+      "english": "Kraa! All eyes are on this one. Big eyes, little eyes, eyes from above and eyes from below. Even the trees have eyes…",
+      "irish": "Kraa! Tá gach súile ar an gceann seo. Súile mór, súile beag, súile ó thuas agus súile ó thíos. Fiú go bhfuil na crainn súile...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_munin_general03",
+      "english": "Still you live, warrior? I had hoped for some little snack from your corpse, some morsel of carrion… Still, the Allfather will be pleased.",
+      "irish": "Fós tú i do chónaí, laoch? Bhí súil agam le haghaidh roinnt sneaiceanna beag ó do chorp, roinnt morsel de cairéad... Fós, beidh an Allfather a bheith sásta.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_munin_general04",
+      "english": "Are you lost in the fog, warrior? I see things your eyes once knew, paths you trod and faces you loved. Poor warrior…",
+      "irish": "An bhfuil tú caillte sa ceo, laoch? Feicim rudaí do shúile a fhios uair amháin, cosáin tú trod agus os comhair grá agat. laoch...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_munin_general05",
+      "english": "Kraa! Do not forget your quest, wanderer! Remember why the Allfather sent you here. The Forsaken Ones must be destroyed. Remember!",
+      "irish": "Kraa! Ná déan dearmad ar do rompu, wanderer! Cuimhnigh cén fáth a chuir an Allfather tú anseo. Ní mór na cinn Tosaken a scriosadh. Cuimhnigh!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_munin_general06",
+      "english": "Ah, you have grown into a fine warrior! As a courtesy, I should tell you that when you die, we have agreed that Hugin will have your left eye as a treat and I will have your right. But we wish you well!",
+      "irish": "Ah, tá tú tar éis fás isteach i laoch fíneáil! Mar chúirtéis, ba chóir dom a insint duit go nuair a fhaigheann tú bás, ní mór dúinn a d'aontaigh go mbeidh Hugin bhfuil do shúil chlé mar chóireáil agus beidh mé ag do cheart. Ach is mian linn tú go maith!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_munin_general07",
+      "english": "Kraa! Serve the Allfather well and he has given me leave to restore your memories. Do you remember the life you had before this one? It yet remembers you...",
+      "irish": "Kraa! Freastal ar an Allfather maith agus thug sé dom a fhágáil a chur ar ais do cuimhní cinn. An cuimhin leat an saol a bhí agat roimh an gceann seo? Cuimhníonn sé go fóill tú...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_munin_general08",
+      "english": "I had not thought you would survive so long… But guard against pride, friend. Battlefields are banquets to me, I know how all great warriors end...",
+      "irish": "Ní raibh shíl mé go mbeadh tú maireachtáil chomh fada... Ach garda i gcoinne bród, cara. Catha Tá féastaí dom, Tá a fhios agam conas gach laochra mór deireadh...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_munin_general09",
+      "english": "Kraa! Hear me now, I'll riddle you no longer. I am great Munin, the treasure-house of memory. I sit on the left shoulder of the Allfather and do his bidding in the ten worlds. I have seen many great warriors rise and fall but you are among the greatest. Know that Oden himself is watching you...",
+      "irish": "Kraa! Caith dom anois, beidh mé riddle tú a thuilleadh. Tá mé München mór, an stór-teach de chuimhne. Suí mé ar an ghualainn chlé an Uileathair agus a dhéanamh ar a bidding sa deich saol. Feicthe mé go leor laochra mór ardú agus titim ach tá tú i measc an mó. A fhios go bhfuil Oden féin ag faire ort...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_munin_general10",
+      "english": "Kraa! The Allfather sends tidings! He waits on your word to send the great bridge. Kill the Forsaken Ones and clear the way!",
+      "irish": "Kraa! Cuireann an Allfather tidings! Fanann sé ar do fhocal an droichead mór a sheoladh. Kill na cinn Forsaken agus soiléir ar an mbealach!",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_valkyrie_end",
+      "english": "Valkyrie",
+      "irish": "riachtanais uisce: measartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "npc_valkyrie_end_interact",
+      "english": "Journey to Valhalla",
+      "irish": "Turas go dtí Valhalla",
+      "translationMethod": "manual"
+    }
+  ]
+}

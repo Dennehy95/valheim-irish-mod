@@ -1,0 +1,3944 @@
+{
+  "screen_id": "piece-names",
+  "screen_title": "Building piece names",
+  "scope_notes": "Keys from scope file tools/scopes/piece-names.keys.txt.",
+  "scope_keys_file": "tools/scopes/piece-names.keys.txt",
+  "extracted_at_utc": "2026-10-19T15:53:38.307956+00:00",
+  "method": "static",
+  "game_path": "A:\\Steam\\steamapps\\common\\Valheim",
+  "resources_assets_sha256": "f0274fe60c807842352a049f3762b7a08965bdbfe759dfbb16f90272e51c6bdb",
+  "key_count": 786,
+  "entries": [
+    {
+      "key": "piece_BlackwoodStakewall",
+      "english": "Ashwood Stakewall",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_BlackwoodStakewall_description",
+      "english": "Pointy stakes, guaranteed to hurt.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_UnstableMine",
+      "english": "Unstable Mine",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ancient_pot",
+      "english": "Ancient Pot",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ancientmetalbarstack",
+      "english": "Ancient Metal Stack",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ancientmetalbarstack_description",
+      "english": "It's unclear what this could be used for...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_archerytarget",
+      "english": "Archery Target",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_archerytarget_description",
+      "english": "Aim for the center.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_archerytarget_hits",
+      "english": "hits",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_archerytarget_lastscores",
+      "english": "Hits",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_archerytarget_reset",
+      "english": "Take arrows and reset",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_archerytarget_total",
+      "english": "Total",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_armorstand",
+      "english": "Armour Stand",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_armorstand_cantattach",
+      "english": "That item doesn't fit there",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_armorstand_description",
+      "english": "Some clothes are just too nice to fold away. Why not put them on display instead?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_artisan_ext1",
+      "english": "Artisan Press",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_artisan_ext1_description",
+      "english": "This intricate tool is needed for crafting more advanced designs.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_artisanstation",
+      "english": "Artisan Table",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_artisanstation_description",
+      "english": "To build machinery and craft complicated designs, an artisan table is required.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwood_archedwall",
+      "english": "Ashwood Arched Wall",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwood_beam_1m",
+      "english": "Ashwood Beam 1 m",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwood_beam_2m",
+      "english": "Ashwood Beam 2 m",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwood_bed",
+      "english": "Ashwood Bed",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwood_bed_description",
+      "english": "Rest easy on this finely crafted bed, with asksvin hides to insulate you from heat and cold alike.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwood_decowall",
+      "english": "Ashwood Decorative Wall",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwood_decowall_description",
+      "english": "You could watch this pattern for hours...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwood_decowall_divider",
+      "english": "Ashwood Divider",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwood_decowall_divider_description",
+      "english": "Adds a nice detail to any room.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwood_decowall_tree",
+      "english": "Ashwood Decorative Window",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwood_decowall_tree_description",
+      "english": "Are you looking out the window or at the window? Nobody needs to know.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwood_door",
+      "english": "Ashwood Door",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwood_door_description",
+      "english": "The detailed decorations might make you stop and look instead of actually going through.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwood_floor_1x1",
+      "english": "Ashwood Floor 1x1",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwood_floor_2x2",
+      "english": "Ashwood Floor 2x2",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwood_floor_deco",
+      "english": "Ashwood Decorative Floor",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwood_floor_deco_description",
+      "english": "Patterns work great on the floor as well.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwood_floor_description",
+      "english": "Ashwood floorboards, laid diagonally.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwood_halfwall",
+      "english": "Ashwood Half Wall",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwood_pole_1m",
+      "english": "Ashwood Pole 1 m",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwood_pole_2m",
+      "english": "Ashwood Pole 2 m",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwood_poles_description",
+      "english": "These supports are always warm to the touch.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwood_quarterwall",
+      "english": "Ashwood Quarter Wall",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwood_wall",
+      "english": "Ashwood Wall",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwoodarch_big",
+      "english": "Ashwood Arch",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwoodarch_bottom",
+      "english": "Ashwood Bottom Arch",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwoodarch_top",
+      "english": "Ashwood Top Arch",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwoodbeam26",
+      "english": "Ashwood Beam 26°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwoodbeam45",
+      "english": "Ashwood Beam 45°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwoodbeam67",
+      "english": "Ashwood Beam 67°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwoodcross26",
+      "english": "Ashwood Roof Cross 26°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwoodcross45",
+      "english": "Ashwood Roof Cross 45°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwoodstair",
+      "english": "Ashwood Stair",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwoodstair_description",
+      "english": "These stairs are sturdier than they might appear.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwoodwall_description",
+      "english": "Both sides of this wall have their own charm. The choice is yours!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwoodwallroof67",
+      "english": "Ashwood Wall 67°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwoodwallroof67upsidedown",
+      "english": "Ashwood Wall 67° (Inverted)",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwoodwallroof_26",
+      "english": "Ashwood Wall 26°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwoodwallroof_26_upsidedown",
+      "english": "Ashwood Wall 26° (Inverted)",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwoodwallroof_45",
+      "english": "Ashwood Wall 45°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwoodwallroof_45_upsidedown",
+      "english": "Ashwood Wall 45° (Inverted)",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ashwoodwallrooftop67",
+      "english": "Ashwood Roof Cross 67°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_asksvinskeleton",
+      "english": "Asksvin Skeleton",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_asksvinskeleton_description",
+      "english": "Gruesome or decorative? That is up to you.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_banner01",
+      "english": "Black Banner",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_banner01_description",
+      "english": "A black banner, like the depths of Hel.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_banner02",
+      "english": "Blue Banner",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_banner02_description",
+      "english": "A blue banner, like the oceans around Midgard.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_banner03",
+      "english": "White and Red Striped Banner",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_banner03_description",
+      "english": "A red striped banner, like a sail for a ship.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_banner04",
+      "english": "Red Banner",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_banner04_description",
+      "english": "A red banner, like the blood of Odin's foes.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_banner05",
+      "english": "Green Banner",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_banner05_description",
+      "english": "A green banner, like the lush forests of Alfheim.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_banner06",
+      "english": "Blue, Red and White Banner",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_banner06_description",
+      "english": "A red and blue striped banner, because sometimes you can't pick a colour.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_banner07",
+      "english": "White and Blue Striped Banner",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_banner07_description",
+      "english": "A blue striped banner, like a sail for a ship.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_banner08",
+      "english": "Yellow Banner",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_banner08_description",
+      "english": "A yellow banner, like the golden fields of Vanaheim.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_banner09",
+      "english": "Purple Banner",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_banner09_description",
+      "english": "A purple banner, like strange magics.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_banner10",
+      "english": "Orange Banner",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_banner10_description",
+      "english": "An orange banner, like the fires of Muspelheim.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_banner11",
+      "english": "White Banner",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_banner11_description",
+      "english": "A white banner, like the snow in Niflheim.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_barber",
+      "english": "Barber Station",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_barber_description",
+      "english": "Helps you stay up to date with the latest viking fashion.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_bathtub",
+      "english": "Hot Tub",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_bathtub_description",
+      "english": "Respectable vikings bathe as often as once per week!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_bed02",
+      "english": "Dragon Bed",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_bed02_description",
+      "english": "Draped in furs, this bed is sure to give you a good night's sleep.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_bed_claim",
+      "english": "Claim",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_bed_currentspawn",
+      "english": "Current spawn point",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_bed_description",
+      "english": "When night falls, you'll want somewhere to sleep.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_bed_setspawn",
+      "english": "Set spawn point",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_bed_sleep",
+      "english": "Sleep",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_bed_unclaimed",
+      "english": "Unclaimed Bed",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_beehive_area",
+      "english": "The bees don't like this biome",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_beehive_check",
+      "english": "Check the bees",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_beehive_description",
+      "english": "When they're happy, the bees will produce tasty honey.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_beehive_extract",
+      "english": "Extract",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_beehive_freespace",
+      "english": "The bees need more open space",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_beehive_happy",
+      "english": "The bees are happy",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_beehive_sleep",
+      "english": "The bees are sleeping",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_bench01",
+      "english": "Wood Bench",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_bench01_description",
+      "english": "If there is room in your heart, there is room for your butt.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_bench_runed",
+      "english": "Carved Bench",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_bench_runed_description",
+      "english": "A rustic yet comfortable place to sit.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_benchlog",
+      "english": "Sitting Log",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_benchlog_description",
+      "english": "It's nothing fancy, but it's better than sitting on the ground.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_birdnest",
+      "english": "Birds' Nest",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_birdnest_area",
+      "english": "The birds don't like it here",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_birdnest_check",
+      "english": "Check Birds' Nest",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_birdnest_description",
+      "english": "Healthy and happy birds might shed a feather or two.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_birdnest_extract",
+      "english": "Pick up feathers",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_birdnest_freespace",
+      "english": "The birds need more open space",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_birdnest_happy",
+      "english": "The birds are roosting",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_birdnest_sleep",
+      "english": "The birds are sleeping",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackforge_description",
+      "english": "Certain metals, especially combined with other materials, need to be worked at a more advanced forge.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackforge_ext1",
+      "english": "Black Forge Cooler",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackforge_ext1_description",
+      "english": "Let your new creations cool off before you touch them.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackforge_ext2",
+      "english": "Vice",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackforge_ext2_description",
+      "english": "It's convenient to have your project be held in place while you work.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackforge_ext3",
+      "english": "Metal Cutter",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackforge_ext3_description",
+      "english": "For precise splitting of metal. Mind the sharp edges!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackforge_ext4",
+      "english": "Gem Cutter",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackforge_ext4_description",
+      "english": "To work with gems, you need specific tools.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackforge_ext5",
+      "english": "Smith's Aprons",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackforge_ext5_description",
+      "english": "When dealing with extreme temperatures, workplace safety is of the highest import.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble1x1",
+      "english": "Black Marble 1x1x1",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble2x1x1",
+      "english": "Black Marble 2x1x1",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble2x2_enforced",
+      "english": "Enforced Black Marble",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble2x2x1",
+      "english": "Black Marble 2x2x1",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble2x2x2",
+      "english": "Black Marble 2x2x2",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_arch",
+      "english": "Black Marble Arch",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_base1",
+      "english": "Black Marble Plinth",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_base2",
+      "english": "Black Marble Wide Plinth",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_basecorner",
+      "english": "Black Marble Plinth Corner",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_bench",
+      "english": "Black Marble Bench",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_bench_description",
+      "english": "Sit with dignity on this bench, finely carved from black marble.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_bronze_head1",
+      "english": "Bronze Head 1",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_bronze_head2",
+      "english": "Bronze Head 2",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_column_1",
+      "english": "Black Marble Column Small",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_column_2",
+      "english": "Black Marble Column Wide",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_column_3",
+      "english": "Black Marble Column Tall",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_equilateral_triangle_floor",
+      "english": "Black Marble Floor Equilateral Triangle",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_floor",
+      "english": "Black Marble Floor",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_floor4x4",
+      "english": "Black Marble Floor 4x4",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_floor_description",
+      "english": "Dark floors prevent stains.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_floor_triangle",
+      "english": "Black Marble Floor Triangle",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_head_big1",
+      "english": "Black Marble Large Head 1",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_head_big2",
+      "english": "Black Marble Large Head 2",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_inverted_slope1x2",
+      "english": "Black Marble Slope (Inverted)",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_out1",
+      "english": "Black Marble Cornice",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_out2",
+      "english": "Black Marble Cornice Wide",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_outcorner",
+      "english": "Black Marble Cornice Corner",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_slope1x2",
+      "english": "Black Marble Slope",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_stair",
+      "english": "Black Marble Stair",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_stair_corner_left",
+      "english": "Black Marble Stair Left",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_stair_corner_right",
+      "english": "Black Marble Stair Right",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_stair_description",
+      "english": "Can be used for going both up and down. How convenient!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_table",
+      "english": "Black Marble Table",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_table_description",
+      "english": "Dine like a dwarf at this table!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_throne",
+      "english": "Black Marble Throne",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_throne_description",
+      "english": "A throne carved in authentic dvergr style, yet large enough for a human to sit comfortably upon.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_tile_floor_1x1",
+      "english": "Black Marble Floor Tile Small",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_tile_floor_2x2",
+      "english": "Black Marble Floor Tile Large",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_tile_wall_1x1",
+      "english": "Black Marble Wall Tile Small",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_tile_wall_2x2",
+      "english": "Black Marble Wall Tile Large",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_tile_wall_2x4",
+      "english": "Black Marble Wall Tile Tall",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarble_tip",
+      "english": "Black Marble Quarter Spire",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmarbleblock_description",
+      "english": "A black marble piece inspired by dwarven architecture. The only limit is your own creativity.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmetalbarstack",
+      "english": "Black Metal Stack",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackmetalbarstack_description",
+      "english": "Sure to be the envy of all fulings!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackwoodbench01",
+      "english": "Ashwood Bench",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackwoodbench01_description",
+      "english": "This bench has an elegant curve to it, to facilitate conversation.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackwoodstack",
+      "english": "Ashwood Stack",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackwoodstack_description",
+      "english": "No matter what, this stack of wood always feels warm.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blastfurnace_description",
+      "english": "Some metals need higher temperatures to melt.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_bloodgoldbarstack",
+      "english": "Bloodgold Stack",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_bloodgoldbarstack_description",
+      "english": "This metal does have a more sinister air than others, doesn't it?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_bone_throne",
+      "english": "Bone Throne",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_bone_throne_description",
+      "english": "This throne is sure to invoke respect in friends and foes alike.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_bonestack",
+      "english": "Bone Stack",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_bonestack_description",
+      "english": "You never know when these might come in handy!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_bonfire_description",
+      "english": "For when a regular campfire just isn't impressive enough!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_brazierceiling01",
+      "english": "Hanging Brazier",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_brazierceiling01_description",
+      "english": "If your fire hangs from the ceiling, you can't accidentally stumble into it.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_brazierfloor01",
+      "english": "Standing Brazier",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_brazierfloor01_description",
+      "english": "A classy way to light up the room.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_brazierfloor02",
+      "english": "Blue Standing Brazier",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_brazierfloor02_description",
+      "english": "It's hard to tell whether this flame burns incredibly hot or incredibly cold.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_bronzebarstack_description",
+      "english": "Beautiful, versatile... Now also stackable!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_candle",
+      "english": "Resin Candle",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_candle_description",
+      "english": "A small but incredibly cosy lightsource.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_cartographytable_description",
+      "english": "Mark your discoveries on this map and share them with your friends.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_catapult_legsdown",
+      "english": "Lower legs",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_catapult_legsup",
+      "english": "Raise legs",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_catapult_placeitem",
+      "english": "Place item",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_catapult_wontfit",
+      "english": "That doesn't fit in the catapult",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_cauldron",
+      "english": "Cauldron",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_cauldron_description",
+      "english": "Combine ingredients and cook yourself a tasty meal, important for all vikings!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_cauldron_ext1_spice",
+      "english": "Spice Rack",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_cauldron_ext1_spice_description",
+      "english": "You need many ingredients for a varied and delicious diet.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_cauldron_ext3_butchertable",
+      "english": "Butcher's Table",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_cauldron_ext3_butchertable_description",
+      "english": "The finest dishes require the finest cuts.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_cauldron_ext4_pans",
+      "english": "Pots and Pans",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_cauldron_ext4_pans_description",
+      "english": "Sometimes just a cauldron simply isn't enough.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_cauldron_ext5_mortarandpestle",
+      "english": "Mortar and Pestle",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_cauldron_ext5_mortarandpestle_description",
+      "english": "Some ingredients need to be ground into a fine powder before they can be used for cooking.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_cauldron_ext6_rollingpins",
+      "english": "Rolling Pins and Cutting Boards",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_cauldron_ext6_rollingpins_description",
+      "english": "These always come in handy, particularly for baking.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_cauldron_ext7_smoker",
+      "english": "Smoker",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_cauldron_ext7_smoker_description",
+      "english": "Smoked food will keep longer and taste better!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_celebrationgarland",
+      "english": "Flower Garland",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_celebrationgarland_description",
+      "english": "Some flowers to brighten up your day!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_chair_description",
+      "english": "Lean back and relax.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_chair_runed",
+      "english": "Carved Chair",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_chair_runed_description",
+      "english": "The shape of this chair might be simple, but its decorations are not.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_charcoalkiln",
+      "english": "Charcoal Kiln",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_charcoalkiln_description",
+      "english": "Useful for turning any kind of wood into coal.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_charredballista",
+      "english": "Skugg",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_charredchest",
+      "english": "Charred Chest",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_chest_description",
+      "english": "A sturdier chest, with room for more storage.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_chestbarrel",
+      "english": "Barrel",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_chestbarrel_description",
+      "english": "A barrel is good for storing lots of things, including food and drink.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_chestblackmetal",
+      "english": "Black Metal Chest",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_chestblackmetal_description",
+      "english": "The sturdy black metal that holds this chest together lets you put almost anything inside.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_chestgrausten",
+      "english": "Grausten Chest",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_chestgrausten_description",
+      "english": "Stone and metal are sure to keep your belongings safe. The charred skulls help too.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_chestprivate",
+      "english": "Personal Chest",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_chestprivate_description",
+      "english": "Some things you would rather lock away and keep for yourself.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_chesttreasure",
+      "english": "Treasure Chest",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_chesttreasure_description",
+      "english": "What better way to display your wealth than a treasure chest spilling over with gold and jewels?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_chestwarderobe",
+      "english": "Wardrobe",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_chestwarderobe_description",
+      "english": "An elegant place for storage.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_chestwood",
+      "english": "Chest",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_chestwood_description",
+      "english": "A good place to store any items you don't need to carry with you.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_clothdoor",
+      "english": "Red Jute Curtain",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_clothdoor_description",
+      "english": "Heavy curtains of red jute, excellent for draping.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_coalpile",
+      "english": "Coal Pile",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_coalpile_description",
+      "english": "It never hurts to have a lot of fuel on hand.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_container_empty",
+      "english": "EMPTY",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_container_open",
+      "english": "Open",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_cookingstation_description",
+      "english": "Perfect for grilling raw meat.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_cookingstation_iron",
+      "english": "Iron Cooking Station",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_cookingstation_iron_description",
+      "english": "Sturdy, with room to cook meat from larger creatures.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_copperbarstack_description",
+      "english": "Premium quality copper. Nothing to complain about!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_crate",
+      "english": "Crate",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_crate_long",
+      "english": "Dvergr Component Crate",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_crystalwall_description",
+      "english": "Beautiful and fragile.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_cstand_cook",
+      "english": "Cook item",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_cultivate",
+      "english": "Cultivate",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_cultivate_description",
+      "english": "Make the soil ready for planting.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_darkwoodarch",
+      "english": "Darkwood Arch",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_darkwoodbeam",
+      "english": "Darkwood Beam 2 m",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_darkwoodbeam4",
+      "english": "Darkwood Beam 4 m",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_darkwoodbeam_26",
+      "english": "Darkwood Beam 26°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_darkwoodbeam_45",
+      "english": "Darkwood Beam 45°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_darkwoodchair",
+      "english": "Darkwood Chair",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_darkwoodchair_description",
+      "english": "This chair is padded with furs, suitable for esteemed guests.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_darkwooddecowall",
+      "english": "Carved Darkwood Divider",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_darkwooddecowall_description",
+      "english": "An elegant design for decorating your home, and for keeping prying eyes away.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_darkwoodgate",
+      "english": "Darkwood Gate",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_darkwoodgate_description",
+      "english": "A fancy and sturdy gate. To use by itself or as part of a pair.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_darkwoodpole",
+      "english": "Darkwood Pole 2m",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_darkwoodpole4",
+      "english": "Darkwood Pole 4m",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_darkwoodpoles_description",
+      "english": "Intricate designs run along this support structure.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_darkwoodraven",
+      "english": "Raven Adornment",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_darkwoodraven_description",
+      "english": "The ravens are trusted companions of the Allfather, of course you would want one in your home as well.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_darkwoodroof26",
+      "english": "Shingle Roof 26°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_darkwoodroof26_description",
+      "english": "This shallow roof is sure to keep the rain out, and look good doing it.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_darkwoodroof45",
+      "english": "Shingle Roof 45°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_darkwoodroof45_description",
+      "english": "This steeper roof is sure to keep the rain out, and look good doing it.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_darkwoodroof67",
+      "english": "Shingle Roof 67°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_darkwoodroof67_description",
+      "english": "This very steep roof is sure to keep the rain out, and look good doing it.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_darkwoodrooficorner",
+      "english": "Shingle Roof Inner Corner 26°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_darkwoodrooficorner45",
+      "english": "Shingle Roof Inner Corner 45°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_darkwoodrooficorner67",
+      "english": "Shingle Roof Inner Corner 67°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_darkwoodroofocorner",
+      "english": "Shingle Roof Outer Corner 26°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_darkwoodroofocorner45",
+      "english": "Shingle Roof Outer Corner 45°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_darkwoodroofocorner67",
+      "english": "Shingle Roof Outer Corner 67°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_darkwoodrooftop",
+      "english": "Shingle Roof Ridge 26°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_darkwoodrooftop45",
+      "english": "Shingle Roof Ridge 45°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_darkwoodrooftop67",
+      "english": "Shingle Roof Ridge 67°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_darkwoodwolf",
+      "english": "Wolf Adornment",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_darkwoodwolf_description",
+      "english": "Wolves are pack animals, but this one seems happy enough by itself.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_deco_stave_wall",
+      "english": "Lathed Timber Wall",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_deco_stave_wall_description",
+      "english": "This wall won't do much to keep out the cold, but it's very pretty to look at.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_deposit_copper",
+      "english": "Copper Deposit",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_deposit_goldvein",
+      "english": "Petrified Gammeltroll",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_deposit_obsidian",
+      "english": "Obsidian Deposit",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_deposit_silver",
+      "english": "Silver Deposit",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_deposit_silvervein",
+      "english": "Silver Vein",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_deposit_tin",
+      "english": "Tin Deposit",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_door_close",
+      "english": "Close",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_door_open",
+      "english": "Open",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_drawbridge",
+      "english": "Drawbridge",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_drawbridge_description",
+      "english": "Both a bridge and a gate, how clever!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_drawbridge_dn",
+      "english": "Timberwood Drawbridge",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_drawbridge_log",
+      "english": "Rustic Drawbridge",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_drawbridge_log_description",
+      "english": "Convenient for crossing chasms, or for keeping enemies out.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_dv_gate",
+      "english": "Old Dvergr Gate",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_dvergr_door",
+      "english": "Dvergr Door",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_dvergr_lantern",
+      "english": "Dvergr Wall Lantern",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_dvergr_lantern_description",
+      "english": "A finely wrought lantern, crafted by a true artisan. The wall mount is easy enough to figure out though!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_dvergr_lantern_pole",
+      "english": "Dvergr Pole Lantern",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_dvergr_lantern_pole_description",
+      "english": "You can build a pole easy enough, but the lantern can only have been made by a true master.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_dvergr_metal_wall",
+      "english": "Dvergr Metal Wall",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_dvergr_metal_wall_description",
+      "english": "Dvergr design is all the rage these days.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_dvergr_pole",
+      "english": "Dvergr Pole",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_dvergr_sharpstakes",
+      "english": "Dvergr Sharp Stakes",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_dvergr_sharpstakes_description",
+      "english": "The dvergr know how to keep unwanted visitors away.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_dvergr_spiralstair",
+      "english": "Dvergr Spiral Staircase Left",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_dvergr_spiralstair_description",
+      "english": "Up and around it goes!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_dvergr_spiralstair_right",
+      "english": "Dvergr Spiral Staircase Right",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_dvergr_stake_wall",
+      "english": "Dvergr Stakewall",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_dvergr_stake_wall_description",
+      "english": "Reinforced with metal, this is sure to be a sturdy defence.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_dvergr_woodwall",
+      "english": "Dvergr Wall",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_dvergrchest",
+      "english": "Dvergr Treasure Chest",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_eitrrefinery_description",
+      "english": "This machine will turn soft tissue into the magical substance eitr. The process is quite volatile, however, so stand back!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_faderember",
+      "english": "Eternal Pyre",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_faderember_description",
+      "english": "His rage and regret are at war with each other, and their struggle will fuel this fire until the very end.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_faderember_full",
+      "english": "The embers are burning bright",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_faderember_light",
+      "english": "The embers are catching",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_faderember_nospace",
+      "english": "The embers are suffocating",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_faderember_ok",
+      "english": "The embers are catching",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_fairylightgarland",
+      "english": "Fey Lights",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_fairylightgarland_description",
+      "english": "Lends a gentle light to your festivities.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_fermenter",
+      "english": "Fermenter",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_fermenter_add",
+      "english": "Add item",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_fermenter_description",
+      "english": "Mead needs to sit and ferment for a while, for all its intended properties to emerge.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_fermenter_exposed",
+      "english": "Too exposed",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_fermenter_fermenting",
+      "english": "Fermenting",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_fermenter_needroof",
+      "english": "Requires a roof",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_fermenter_ready",
+      "english": "Done",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_fermenter_tap",
+      "english": "Tap",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_fire",
+      "english": "Fire",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_fire_fuel",
+      "english": "Fuel",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_firepit",
+      "english": "Campfire",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_firepit_description",
+      "english": "Useful for cooking, warmth, or just resting for a bit.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_firepit_iron",
+      "english": "Iron Fire Pit",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_firepit_iron_description",
+      "english": "If you don't want to place a campfire directly onto the ground, this is a classy alternative.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_flametal_beam",
+      "english": "Flametal Beam",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_flametal_pillar",
+      "english": "Flametal Pillar",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_flametal_pillar_description",
+      "english": "Pure flamin' metal.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_flametalbarstack",
+      "english": "Flametal Stack",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_flametalbarstack_description",
+      "english": "The heat is practically radiating from this stack...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_flametalgate",
+      "english": "Flametal Gate",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_flametalgate_description",
+      "english": "An impressive way to welcome your friends, or to ward off your foes.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_flintpile",
+      "english": "Flint Pile",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_flintpile_description",
+      "english": "Watch your step!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_forge_description",
+      "english": "When you want to work with metal, you need a forge.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_forge_ext1",
+      "english": "Forge Bellows",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_forge_ext1_description",
+      "english": "Pressing down on these bellows generates more heat, which is very helpful for smithing.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_forge_ext2",
+      "english": "Anvils",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_forge_ext2_description",
+      "english": "For more detailed work, multiple kinds of anvils can come in handy.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_forge_ext3",
+      "english": "Grinding Wheel",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_forge_ext3_description",
+      "english": "A grinding wheel is necessary for sharpening any kind of sword.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_forge_ext4",
+      "english": "Smith's Anvil",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_forge_ext4_description",
+      "english": "A large anvil for working large items. Make sure it doesn't fall on your feet.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_forge_ext5",
+      "english": "Forge Cooler",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_forge_ext5_description",
+      "english": "Once a creation is done, this barrel of water will bring the metal down to a manageable temperature.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_forge_ext6",
+      "english": "Forge Tool Rack",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_forge_ext6_description",
+      "english": "You need lots of different tools to work with. These conveniently come with a rack for storage.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_frostfoundry",
+      "english": "Frost Foundry",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_frostfoundry_additem",
+      "english": "Place Cast",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_frostfoundry_description",
+      "english": "This foundry can be used to harden casts into proper items.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_frostfoundry_takeitem",
+      "english": "Take Item",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_frostkiln",
+      "english": "Frigid Kiln",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_frostkiln_description",
+      "english": "A strange and chilling process happens within this kiln, to produce a most potent fuel...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_giant_bone",
+      "english": "Petrified Bone",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_giant_brain",
+      "english": "Soft Tissue",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_giant_helmet",
+      "english": "Ancient Armour",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_giant_sword",
+      "english": "Ancient Sword",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_grausten_archmedium",
+      "english": "Grausten Medium Arch",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_grausten_archsmall",
+      "english": "Grausten Small Arch",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_grausten_beammedium",
+      "english": "Grausten Medium Beam",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_grausten_beamsmall",
+      "english": "Grausten Small Beam",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_grausten_floor1x1",
+      "english": "Grausten Floor 1x1",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_grausten_floor2x2",
+      "english": "Grausten Floor 2x2",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_grausten_floor4x4",
+      "english": "Grausten Floor 4x4",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_grausten_floor_description",
+      "english": "These thin floor tiles are deceptively sturdy.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_grausten_pillarmedium",
+      "english": "Grausten Medium Pillar",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_grausten_pillars_description",
+      "english": "Strong enough to withstand a land of fire.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_grausten_pillarsmall",
+      "english": "Grausten Small Pillar",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_grausten_pillartapered",
+      "english": "Grausten Tapered Pillar",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_grausten_pillartaperedinverted",
+      "english": "Grausten Tapered Pillar (Inverted)",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_grausten_roof45",
+      "english": "Grausten Roof",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_grausten_roof45_arch",
+      "english": "Grausten Arched Roof",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_grausten_roof45_archcorner",
+      "english": "Grausten Arched Roof Corner",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_grausten_roof45_archcorner2",
+      "english": "Grausten Arched Roof Corner",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_grausten_roof45_corner",
+      "english": "Grausten Roof Corner",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_grausten_roof45_corner2",
+      "english": "Grausten Roof Corner",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_grausten_roof_description",
+      "english": "A roof design fit for the mightiest of halls.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_grausten_stair",
+      "english": "Grausten Stairs",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_grausten_stair_description",
+      "english": "Just take one step after the other.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_grausten_stoneladder",
+      "english": "Grausten Steep Stairs",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_grausten_stoneladder_description",
+      "english": "Good for getting to higher levels.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_grausten_wall1x2",
+      "english": "Grausten Wall 1x2",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_grausten_wall2x2",
+      "english": "Grausten Wall 2x2",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_grausten_wall4x2",
+      "english": "Grausten Wall 4x2",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_grausten_wall_description",
+      "english": "Stone walls inspired by a long-gone civilisation.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_grausten_wallarch",
+      "english": "Grausten Wall Arch",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_grausten_wallarchinv",
+      "english": "Grausten Wall Arch (Inverted)",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_grausten_window2x2",
+      "english": "Grausten Window 2x2",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_grausten_window4x2",
+      "english": "Grausten Window 4x2",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_graustenpile",
+      "english": "Grausten Pile",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_graustenpile_description",
+      "english": "Grausten, carefully placed into a pile.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_groundtorch",
+      "english": "Standing Iron Torch",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_groundtorch_description",
+      "english": "A sturdy iron torch to light up your surroundings.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_groundtorchblue",
+      "english": "Standing Blue-burning Iron Torch",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_groundtorchblue_description",
+      "english": "A sturdy iron torch, emitting an eerie blue light.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_groundtorchdemister",
+      "english": "Wisp Torch",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_groundtorchdemister_description",
+      "english": "Bind the wisp to a fixed spot, to ensure the place is always free of mist.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_groundtorchgreen",
+      "english": "Standing Green-burning Iron Torch",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_groundtorchgreen_description",
+      "english": "A sturdy iron torch, burning with a green flame.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_groundtorchwood",
+      "english": "Standing Wood Torch",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_groundtorchwood_description",
+      "english": "A torch to stick in the ground, for when you need your hands free.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_guardstone",
+      "english": "Ward",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_guardstone_activate",
+      "english": "Activate",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_guardstone_active",
+      "english": "Active",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_guardstone_add",
+      "english": "Opt-in",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_guardstone_additional",
+      "english": "Permitted",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_guardstone_deactivate",
+      "english": "Deactivate",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_guardstone_description",
+      "english": "Emits a magic seal on the nearby surroundings which prevents other players from constructing buildings or opening doors.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_guardstone_inactive",
+      "english": "Inactive",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_guardstone_owner",
+      "english": "Owner",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_guardstone_remove",
+      "english": "Opt-out",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_hanging_cloth_blue1",
+      "english": "Blue Jute Drapes",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_hanging_cloth_blue1_description",
+      "english": "Blue jute makes any building look official and important.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_hanging_cloth_blue2",
+      "english": "Blue Jute Curtain",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_harvest",
+      "english": "Harvest",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_hearth",
+      "english": "Hearth",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_hearth_description",
+      "english": "A central part of any homestead.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_hexagonalgate",
+      "english": "Hexagonal Gate",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_hexagonalgate_description",
+      "english": "This dwarven design is excellent for keeping unwanted guests out.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_hoodedlantern",
+      "english": "Hooded Lantern",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_hoodedlantern_description",
+      "english": "Aimed in just one direction, the light grows more potent. Convenient for sneak thieves, or those who wish to leave a trail.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_horizontal",
+      "english": "Horizontal",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_icecube",
+      "english": "Ice Block",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_icecube_description",
+      "english": "A solid chunk of ice.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_incinerator",
+      "english": "Obliterator",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_incinerator_conversion",
+      "english": "Thor bestows a gift upon you!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_incinerator_description",
+      "english": "Reduce, reuse, obliterate.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_incinerator_empty",
+      "english": "Thor frowns upon you",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_incinerator_fail",
+      "english": "Obliterator is in use",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_incinerator_success",
+      "english": "Items obliterated!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ironbarstack_description",
+      "english": "If you have iron, you have everything.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ironcage_description",
+      "english": "Finely crafted iron bars, sure to be rattle-proof!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_irongate_description",
+      "english": "A very important gate.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_itemstand",
+      "english": "Item Stand",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_itemstand_attach",
+      "english": "Attach item",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_itemstand_cantattach",
+      "english": "You can't attach this item",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_itemstand_h_description",
+      "english": "Place items on horizontal surfaces with this item stand.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_itemstand_missingitem",
+      "english": "Missing required item",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_itemstand_take",
+      "english": "Take item",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_itemstand_v_description",
+      "english": "Mount items on vertical surfaces with this item stand.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_jackoturnip",
+      "english": "Jack-o-turnip",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_jackoturnip_description",
+      "english": "The face carved into this vegetable...is it spooky or friendly?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_jotunchest",
+      "english": "Jotun's Chest",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_jotungate",
+      "english": "Gates of Mörkhalla",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_jute_carpet",
+      "english": "Red Jute Carpet",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_jute_carpet_description",
+      "english": "This coarse fabric is excellent for keeping the cold at bay.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_juteblue_carpet",
+      "english": "Blue Jute Carpet",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_juteblue_carpet_description",
+      "english": "No matter how misty the air is, this carpet doesn't appear to get damp.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_lavalantern",
+      "english": "Lava Lantern",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_lavalantern_description",
+      "english": "It's...hypnotising to look at...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_levelground",
+      "english": "Level Ground",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_levelground_description",
+      "english": "If the terrain is too lumpy, you can just flatten it.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_logbeam2",
+      "english": "Log Beam 2 m",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_logbeam4",
+      "english": "Log Beam 4 m",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_logpole2",
+      "english": "Log Pole 2 m",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_logpole4",
+      "english": "Log Pole 4 m",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_lorestone",
+      "english": "Runestone",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_magetable_description",
+      "english": "Mysterious galdr forces gather upon this altar. It's up to you to harness them...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_magetable_ext",
+      "english": "Rune Table",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_magetable_ext2",
+      "english": "Unfading Candles",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_magetable_ext2_description",
+      "english": "These candles emit a strange light, urging more potent magic to coalesce around them.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_magetable_ext3",
+      "english": "Feathery Wreath",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_magetable_ext3_description",
+      "english": "An offering to the mysterious powers scattered across the realms. Perhaps they will lend themselves to you.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_magetable_ext4",
+      "english": "Standing Loom",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_magetable_ext4_description",
+      "english": "The Norns weave the threads of fate together in a magical tapestry. What shall you weave?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_magetable_ext_description",
+      "english": "Runes are a well-known tool for channeling magic, if one knows how to read them.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_maptable_hildir",
+      "english": "Hildir's Map Table",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_maptable_hildir_use",
+      "english": "Register chest locations",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_marblepile_description",
+      "english": "Perfect for Dvergr inspired construction.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_maypole_description",
+      "english": "On the longest day of the year, let this monument stretch towards the sun!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_meadcauldron",
+      "english": "Mead Ketill",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_meadcauldron_description",
+      "english": "This copper pot holds the perfect temperature for mixing mead.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_mistletoe",
+      "english": "Mistletoe",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_mistletoe_description",
+      "english": "You can't help but to feel like there's something romantic about this...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_moose_throne",
+      "english": "Antler Throne",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_moose_throne_description",
+      "english": "Though rustic and sturdy, this throne is well suited even for the most noble of royalty.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_morkborg_gate",
+      "english": "Gates of Mörkhalla",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_morkhallachestancient",
+      "english": "Ancient Chest",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_mudpile",
+      "english": "Muddy Scrap Pile",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_noaccess",
+      "english": "No access",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_obsidianpile",
+      "english": "Obsidian Pile",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_obsidianpile_description",
+      "english": "A pile as dark as the night itself.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_offerbowl_bonemass",
+      "english": "Boiling Death",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_offerbowl_eikthyr",
+      "english": "Mystical Altar",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_offerbowl_fader",
+      "english": "Altar of The Emerald Flame",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_offerbowl_frozenking",
+      "english": "Strange Bowl",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_offerbowl_hive",
+      "english": "Hive seat",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_offerbowl_makeoffer",
+      "english": "Make offering",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_offerbowl_memorial",
+      "english": "Ancient Altar",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_offerbowl_offeritem",
+      "english": "Offer item",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_offerbowl_offeritem_fader",
+      "english": "Ring the bells",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_offerbowl_offeritem_memorial",
+      "english": "Light the altar",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_offerbowl_yagluth",
+      "english": "Mystical Altar",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_oven",
+      "english": "Stone Oven",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_oven_additem",
+      "english": "Bake item",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_oven_description",
+      "english": "For all your baking needs.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_path",
+      "english": "Pathen",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_path_description",
+      "english": "Mark out the best way forward.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_pavedroad",
+      "english": "Paved Road",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_pavedroad_description",
+      "english": "A sure mark of civilisation.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_plant_healthy",
+      "english": "Healthy",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_plant_nospace",
+      "english": "Needs more room to grow",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_plant_nosun",
+      "english": "Needs an open sky",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_plant_notcultivated",
+      "english": "Needs cultivated ground",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_plant_nowall",
+      "english": "Needs nearby wall",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_plant_toocold",
+      "english": "Too cold",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_plant_toohot",
+      "english": "Too hot",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_plant_wrongbiome",
+      "english": "Can't grow in this environment",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_portal_censored_warning",
+      "english": "Censored words found, potential crossplay issue.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_portal_connected",
+      "english": "CONNECTED",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_portal_description",
+      "english": "Connects to another portal with equal or no tag.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_portal_settag",
+      "english": "Set tag",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_portal_stone",
+      "english": "Portal – Stone",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_portal_stone_description",
+      "english": "The powerful energy source lets you pass through even with the most valuable of items.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_portal_tag",
+      "english": "Tag",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_portal_unconnected",
+      "english": "UNCONNECTED",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_pot_large_cracked",
+      "english": "Large Clay Pot",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_pot_large_green",
+      "english": "Large Green Pot",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_pot_large_green_description",
+      "english": "A large statement piece of a pot! You could almost fit an entire viking in there.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_pot_large_red",
+      "english": "Large Red Pot",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_pot_medium_cracked",
+      "english": "Medium Clay Pot",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_pot_medium_green",
+      "english": "Medium Green Pot",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_pot_medium_green_description",
+      "english": "A piece of ceramic, deep enough to fit a thing or two inside.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_pot_medium_red",
+      "english": "Medium Red Pot",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_pot_small_cracked",
+      "english": "Small Clay Pot",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_pot_small_green",
+      "english": "Small Green Pot",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_pot_small_green_description",
+      "english": "A small piece of earthenware, with room for something inside.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_pot_small_red",
+      "english": "Small Red Pot",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_preptable",
+      "english": "Food Preparation Table",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_preptable_description",
+      "english": "Not everything can be poured directly into the cauldron, so you need a good surface to work on!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_pulllever",
+      "english": "Pull lever",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_queendoor",
+      "english": "Dvergr Vault",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_raise",
+      "english": "Raise Ground",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_raise_description",
+      "english": "Fill holes and create elevated platforms.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_readmap",
+      "english": "Read map",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_register_location",
+      "english": "Register location",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_repair",
+      "english": "Repair",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_replant",
+      "english": "Grass",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_replant_description",
+      "english": "Restore the ground to its original vegetation.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_rock_01",
+      "english": "Ornamental Boulder",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_rock_01_description",
+      "english": "Adds a rustic touch to any garden.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_rock_02",
+      "english": "Decorative Boulder",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_rock_02_description",
+      "english": "That is a nice boulder.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_rug_asksvin",
+      "english": "Asksvin Rug",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_rug_asksvin_description",
+      "english": "With how lumpy asksvin hide is, it's hard to make anything useful from a single piece. Some assembly is required.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_rug_bjorn",
+      "english": "Bearskin Rug",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_rug_bjorn_description",
+      "english": "The fur is soft, though the teeth are still sharp.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_rug_deer",
+      "english": "Deer Rug",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_rug_deer_description",
+      "english": "Protects your feet from wood splinters.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_rug_hare",
+      "english": "Hare Rug",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_rug_hare_description",
+      "english": "It's a strange texture, but a very interesting piece of decor.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_rug_lox",
+      "english": "Lox Rug",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_rug_lox_description",
+      "english": "It's incredibly fluffy!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_rug_moose",
+      "english": "Moose Hide Carpet",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_rug_moose_description",
+      "english": "This carpet is neatly sewn together, to ensure a large, soft surface.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_rug_seal",
+      "english": "Sealskin Rug",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_rug_seal_description",
+      "english": "This rug is so soft, soft like innocence.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_rug_straw",
+      "english": "Straw",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_rug_straw_description",
+      "english": "Your animals will love this.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_rug_wolf",
+      "english": "Wolf Rug",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_rug_wolf_description",
+      "english": "Warm and cosy, especially up in the mountains.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_rune_read",
+      "english": "Read",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapcollector",
+      "english": "Sap Extractor",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapcollector_description",
+      "english": "Extract sap from mysterious branches.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapcollector_draining",
+      "english": "Extracting",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapcollector_drainingslow",
+      "english": "Extracting slowly",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapcollector_extract",
+      "english": "Collect",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapcollector_isfull",
+      "english": "Full",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapcollector_notconnected",
+      "english": "Nothing to extract",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapling_barley",
+      "english": "Barley",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapling_barley_description",
+      "english": "A robust grain that can be ground into flour.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapling_carrot",
+      "english": "Carrot",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapling_carrot_description",
+      "english": "Plant carrot seeds to grow carrots",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapling_flax",
+      "english": "Flax",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapling_flax_description",
+      "english": "Pretty flowers with fibres that can be spun into thread.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapling_jotunpuffs",
+      "english": "Jotun Puffs Primordia",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapling_kale",
+      "english": "Kale",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapling_kale_description",
+      "english": "A hardy and nutritious plant.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapling_magecap",
+      "english": "Magecap Primordia",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapling_oat",
+      "english": "Oat Straw",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapling_oat_description",
+      "english": "Plant to grow oats.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapling_onion",
+      "english": "Onion",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapling_onion_description",
+      "english": "Useful for many cooking recipes.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapling_poteitr",
+      "english": "Poteitr",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapling_poteitr_description",
+      "english": "A potent, otherworldly spud.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapling_seedcarrot",
+      "english": "Seed-carrot",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapling_seedcarrot_description",
+      "english": "Plant a carrot to get more seeds",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapling_seedkale",
+      "english": "Seed Kale",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapling_seedkale_description",
+      "english": "Plant kale seeds to get even more seeds.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapling_seedonion",
+      "english": "Seed-onion",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapling_seedonion_description",
+      "english": "Plant an onion to get more seeds.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapling_seedturnip",
+      "english": "Seed-turnip",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapling_seedturnip_description",
+      "english": "Plant a turnip to get more seeds",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapling_turnip",
+      "english": "Turnip",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapling_turnip_description",
+      "english": "A hearty vegetable used for cooking.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapling_vineash",
+      "english": "Ashvine",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapling_vineash_description",
+      "english": "Needs something to cling to.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapling_vinegreen",
+      "english": "Ivy",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sapling_vinegreen_description",
+      "english": "Needs something to cling to.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_scale_26",
+      "english": "Scalewood Wall 26° Left",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_scale_26_flipped",
+      "english": "Scalewood Wall 26° Right",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_scale_26_upsidedown",
+      "english": "Scalewood Wall 26° Right (Inverted)",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_scale_26_upsidedown_flipped",
+      "english": "Scalewood Wall 26° Left (Inverted)",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_scale_45",
+      "english": "Scalewood Wall 45° Left",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_scale_45_flipped",
+      "english": "Scalewood Wall 45° Right",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_scale_45_upsidedown",
+      "english": "Scalewood Wall 45° Right (Inverted)",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_scale_45_upsidedown_flipped",
+      "english": "Scalewood Wall 45° Left (Inverted)",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_scale_67",
+      "english": "Scalewood Wall 67° Left",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_scale_67_flipped",
+      "english": "Scalewood Wall 67° Right",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_scale_67_upsidedown",
+      "english": "Scalewood Wall 67° Right (Inverted)",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_scale_67_upsidedown_flipped",
+      "english": "Scalewood Wall 67° Left (Inverted)",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_scale_halfwall",
+      "english": "Scalewood Half Wall",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_scale_quarterwall",
+      "english": "Scalewood Quarter Wall",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_scale_wall",
+      "english": "Scalewood Wall",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_scale_walls_description",
+      "english": "The overlapping wood of these walls provide excellent protection against the elements.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sconce",
+      "english": "Sconce",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sconce_description",
+      "english": "Why stick a torch in the ground when you can hang it on your wall?",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_secretdoor",
+      "english": "Hidden Door",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sharpstakes_description",
+      "english": "If someone comes too close, they'll get poked.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_shieldgenerator",
+      "english": "Shield Generator",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_shieldgenerator_add",
+      "english": "Add bones",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_shieldgenerator_charging",
+      "english": "Charging",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_shieldgenerator_description",
+      "english": "Creates a shield to protect against weather and incoming projectiles. Fuelled by bones of any kind.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_shieldgenerator_fuelname",
+      "english": "bones",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_shieldgenerator_ready",
+      "english": "Armed and ready",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_shieldgenerator_use",
+      "english": "Activate",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_shieldgenerator_waiting",
+      "english": "Needs fuel",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ship_ladder",
+      "english": "Ladder",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ship_rudder",
+      "english": "Use rudder",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sign_description",
+      "english": "Disorder is a survivalist's worst enemy. Defend yourself against it by putting up signs.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sign_input",
+      "english": "Enter text",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_silverbarstack",
+      "english": "Silver Stack",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_silverbarstack_description",
+      "english": "A tidy way of displaying your wealth.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_skullpile",
+      "english": "Pile of Skulls",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_skullpile_description",
+      "english": "A certain proof of your prowess in combat.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_smelter_add",
+      "english": "Add",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_smelter_additem",
+      "english": "Add item",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_smelter_description",
+      "english": "Fuel and ore go in, beautiful metal ingots come out.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_smelter_empty",
+      "english": "Empty",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_smelter_ready",
+      "english": "Processed",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_smelter_reqroof",
+      "english": "Requires a roof",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_snowlantern",
+      "english": "Snow Lantern",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_snowlantern_description",
+      "english": "Adds a cosy touch to a wintry landscape.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_spinningwheel_description",
+      "english": "This automated machine makes spinning fibres into thread a remarkably quick process.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stakewall",
+      "english": "Stakewall",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stakewall_description",
+      "english": "Good for keeping intruders out.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stave_deco_beam_2m",
+      "english": "Decorated Timber Beam 2m",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stave_deco_beams_description",
+      "english": "These supports add a tasteful and decorative touch.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stave_deco_pole_2m",
+      "english": "Decorated Timber Pole 2m",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stave_pole_2m",
+      "english": "Timber Pole 2m",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stave_pole_4m",
+      "english": "Timber Pole 4m",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stave_wall",
+      "english": "Timber Wall",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stave_walls_description",
+      "english": "Heavy timber walls are good for keeping out the cold.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stavebeam2",
+      "english": "Timber Beam 2m",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stavebeam26",
+      "english": "Timber Beam 26°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stavebeam4",
+      "english": "Timber Beam 4m",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stavebeam45",
+      "english": "Timber Beam 45°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stavebeam67",
+      "english": "Timber Beam 67°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stavebeams_description",
+      "english": "These thick chunks of wood are sure to support your constructions.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stavecross26",
+      "english": "Timber Roof Cross 26°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stavecross45",
+      "english": "Timber Roof Cross 45°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stavedecobeam26",
+      "english": "Decorated Timber Beam 26°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stavedecobeam45",
+      "english": "Decorated Timber Beam 45°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stavedecobeam67",
+      "english": "Decorated Timber Beam 67°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stavegate",
+      "english": "Timberwood Gate",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stavegate_description",
+      "english": "Not quite as glorious as the gates of Valhalla, but awfully close!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stavewallrooftop67",
+      "english": "Timber Roof Cross 67°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stonearch_description",
+      "english": "Stable as a rock.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stonecutter_description",
+      "english": "If you want to build with stone, you'll need a stonecutter to work the material.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stonefence_description",
+      "english": "Stones carefully pieced together into a sturdy fence.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stonefloor_description",
+      "english": "Best to put a rug on it, or it might get cold!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stonepile_description",
+      "english": "It's a big pile of stone.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stonestair_description",
+      "english": "Useful for getting around in a large fortress.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stonethrone_description",
+      "english": "A good leader must be firm like stone, yet they also need to know when to be soft like furs...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stonewalls_description",
+      "english": "A roughly hewn block of stone.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stool",
+      "english": "Stool",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stool_description",
+      "english": "A place to sit.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_table_description",
+      "english": "A small but sturdy table.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_table_oak",
+      "english": "Long Heavy Table",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_table_oak_description",
+      "english": "This table is perfect for a large feast, with room for many different dishes!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_table_round",
+      "english": "Round Table",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_table_round_description",
+      "english": "At a round table, no seat is more important than any other.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_table_runed",
+      "english": "Long Carved Table",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_table_runed_description",
+      "english": "The story carved into this table is excellent to read during long feasts.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_table_runed_small",
+      "english": "Square Carved Table",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_table_runed_small_description",
+      "english": "A table for more intimate gatherings.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_tarpile",
+      "english": "Tar Barrel",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_throne01",
+      "english": "Raven Throne",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_throne01_description",
+      "english": "Perhaps this is what Odin's throne in Valhalla looks like... Either way, it's comfortable!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_tinbarstack",
+      "english": "Tin Stack",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_tinbarstack_description",
+      "english": "You can make a lot of bronze with this...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_tombstone",
+      "english": "Here rests",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_tombstone_container",
+      "english": "Grave",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_tombstone_recovered",
+      "english": "Items recovered",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_toofar",
+      "english": "Too far",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_trainingdummy",
+      "english": "T.W.I.G.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_trainingdummy_description",
+      "english": "Step close at your own risk!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_trap",
+      "english": "Trap",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_trap_arm",
+      "english": "Arm trap",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_trap_armed",
+      "english": "Armed",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_trap_cooldown",
+      "english": "Trap is not ready yet",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_trap_description",
+      "english": "This trap will clamp down on whatever steps on it. Careful!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_treasure_pile",
+      "english": "Coin Pile",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_treasure_pile_description",
+      "english": "A small fortune, gleaming and glittering.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_treasure_stack",
+      "english": "Coin Stack",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_treasure_stack_description",
+      "english": "It's important to keep count of your coins.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_turret",
+      "english": "Ballista",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_turret_addammo",
+      "english": "Add missile",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_turret_armed",
+      "english": "Armed and ready",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_turret_description",
+      "english": "Defensive structure that shoots missiles at anything that gets in its way.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_turret_noammo",
+      "english": "No ammunition",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_turret_target",
+      "english": "Target:",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_turret_target_everything",
+      "english": "everything",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_turret_target_set",
+      "english": "Set target with trophy",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_turret_target_set_msg",
+      "english": "Ballista targets",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_upgrade",
+      "english": "improvement",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_upgradestation",
+      "english": "Forge of Potential",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_use",
+      "english": "Use",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_useitem",
+      "english": "Use item",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_vegvisir",
+      "english": "Vegvisir",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_vertical",
+      "english": "Vertical",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_windmill_description",
+      "english": "Turns grain into flour. Works best on windy days!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_wisplure",
+      "english": "Wisp Fountain",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_wisplure_description",
+      "english": "Attracts wisps. They mostly come at night... mostly.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_wisplure_full",
+      "english": "The wisps are dancing",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_wisplure_light",
+      "english": "The wisps demand darkness",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_wisplure_nospace",
+      "english": "The wisps want more open space",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_wisplure_ok",
+      "english": "The wisps are coming",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodcorestack_description",
+      "english": "A big pile of logs, fresh from the forest.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_wooddoor_description",
+      "english": "A simple door for opening and closing.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_wooddragon_description",
+      "english": "Make your home legendary by decorating it with a dragon.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodfence_description",
+      "english": "A good fence, for livestock and crops alike!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodfencegate_description",
+      "english": "A gate is far more practical than jumping over the fence every time.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodfinestack_description",
+      "english": "This pile of wood is waiting to be turned into furniture.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodfloor_description",
+      "english": "A solid bit of wooden flooring.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodfroststack_description",
+      "english": "It's as if fresh snow just fell upon it...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodgate_description",
+      "english": "A simple wooden gate. To use by itself or as part of a pair.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodironpoles_description",
+      "english": "The strongest support you've ever built.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodlogs_description",
+      "english": "Support your constructions in this rustic style.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodpoles_description",
+      "english": "A sturdy wooden support.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodroof26_description",
+      "english": "A simple roof to keep the rain out, built at a shallow angle.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodroof45_description",
+      "english": "A simple roof to keep the rain out, with a steeper angle.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodroof67_description",
+      "english": "A simple roof to keep the rain out, built at a very steep angle.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodstack_description",
+      "english": "Put all that hard work on display!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodstair_description",
+      "english": "Good for getting off the ground.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodstepladder_description",
+      "english": "Convenient for climbing higher.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodwall_description",
+      "english": "Walls are an important part of any house!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodwindowshutter_description",
+      "english": "Open or closed, keep it the way you prefer or switch things up whenever you feel like it!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_workbench_description",
+      "english": "A workbench is necessary for any home. You need it to build wooden structures and craft new tools.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_workbench_ext1",
+      "english": "Chopping Block",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_workbench_ext1_description",
+      "english": "An axe is a very versatile tool for crafting.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_workbench_ext2",
+      "english": "Tanning Rack",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_workbench_ext2_description",
+      "english": "Leathers and hides need proper treatment before they can be used.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_workbench_ext3",
+      "english": "Adze",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_workbench_ext3_description",
+      "english": "Sometimes you need to work the problem from a different angle.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_workbench_ext4",
+      "english": "Tool Shelf",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_workbench_ext4_description",
+      "english": "Fine detail work requires fine tools to match.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_writemap",
+      "english": "Record discoveries",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_yggdrasilstack",
+      "english": "Yggdrasil Wood Stack",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_yggdrasilstack_description",
+      "english": "Fine branches, thrumming with mysterious energy.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_yulecrown",
+      "english": "Yule Wreath",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_yulecrown_description",
+      "english": "It's hard to think of anything more festive than a wreath!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_yulegarland",
+      "english": "Yule Garland",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_yulegarland_description",
+      "english": "Deck the halls!",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_yuleklapp_description1",
+      "english": "A small gift for someone you like.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_yuleklapp_description2",
+      "english": "A gift for someone who was nice this year.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_yuleklapp_description3",
+      "english": "A large gift for someone you appreciate a lot.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_yuletree_description",
+      "english": "This fir tree has been given festive decorative lights.",
+      "source_asset": "localization"
+    }
+  ],
+  "missing_keys": []
+}
