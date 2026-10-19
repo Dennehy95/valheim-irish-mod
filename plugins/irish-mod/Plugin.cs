@@ -24,7 +24,7 @@ namespace IrishMod
             _toggleKey = Config.Bind(
                 "Display",
                 "ToggleIrishKey",
-                KeyCode.F7,
+                KeyCode.F8,
                 "Key to cycle Irish display for wired keys: English only → Irish + [English] → Irish only.");
 
             _displayModeOnStart = Config.Bind(
@@ -99,6 +99,6 @@ namespace IrishMod
     {
         public const string PLUGIN_GUID = "com.dennehy95.valheim.irishmod";
         public const string PLUGIN_NAME = "Valheim Irish Mod";
-        public const string PLUGIN_VERSION = "0.3.1";
+        public const string PLUGIN_VERSION = "0.3.2";
     }
 }

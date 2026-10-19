@@ -3,18 +3,19 @@
 Valheim BepInEx plugin for Irish (Gaeilge) on scoped UI keys (main menu + in-game inventory panel).
 
 - **GUID:** `com.dennehy95.valheim.irishmod`
-- **Version:** `0.3.1`
+- **Version:** `0.3.2`
 
-## Part 3 — scoped Irish (F7 display cycle)
+## Part 3 — scoped Irish (F8 display cycle)
 
 - Harmony postfix on `Localization.Translate` for keys loaded from `Translations/*.ga.json` (main menu + inventory panel).
 - **Default on start:** vanilla English for those wired keys (mode 0).
-- **Toggle key (default F7)** cycles three modes, then repeats:
+- **Toggle key (default F8)** cycles three modes, then repeats:
   1. **English only** (vanilla)
   2. **Irish + `[English]`** learner brackets, e.g. `Socruithe [Settings]`
   3. **Irish only** (no brackets)
+- Default **F8** avoids **F7**, which **ValheimPerformanceOverhaul** often binds on the same profile.
 - Config (`BepInEx/config/com.dennehy95.valheim.irishmod.cfg`): `Display.ToggleIrishKey`, `Display.IrishDisplayModeOnStart` (`0`–`2` matching the list above).
-- Pressing F7 calls `ReLocalizeAll` on the main menu (`FejdStartup`) and inventory UI (`InventoryGui`) when present so visible text updates immediately.
+- Pressing the toggle key calls `ReLocalizeAll` on the main menu (`FejdStartup`) and inventory UI (`InventoryGui`) when present so visible text updates immediately.
 - Translations ship as manual Gaeilge (`translationMethod: manual`, `pendingApiKey: true` in JSON) until an API batch pass is run.
 
 ## Prerequisites

@@ -1,7 +1,7 @@
 namespace IrishMod
 {
     /// <summary>
-    /// F7 cycles: EnglishOnly → IrishLearner → IrishOnly → EnglishOnly.
+    /// F8 cycles: EnglishOnly → IrishLearner → IrishOnly → EnglishOnly.
     /// </summary>
     internal enum IrishDisplayMode
     {
