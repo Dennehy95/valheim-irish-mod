@@ -1,0 +1,514 @@
+{
+  "screen_id": "building-ui",
+  "screen_title": "Common building pieces (hammer menu)",
+  "scope_notes": "Curated piece_* names; see tools/scopes/building-ui.keys.txt and scopes README.",
+  "scope_keys_file": "tools/scopes/building-ui.keys.txt",
+  "extracted_at_utc": "2026-10-19T14:21:10.723156+00:00",
+  "method": "static",
+  "game_path": "A:\\Steam\\steamapps\\common\\Valheim",
+  "resources_assets_sha256": "f0274fe60c807842352a049f3762b7a08965bdbfe759dfbb16f90272e51c6bdb",
+  "key_count": 100,
+  "entries": [
+    {
+      "key": "piece_bed",
+      "english": "Bed",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_beehive",
+      "english": "Beehive",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blackforge",
+      "english": "Black Forge",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_blastfurnace",
+      "english": "Blast Furnace",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_bonfire",
+      "english": "Bonfire",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_bronzebarstack",
+      "english": "Bronze Stack",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_cartographytable",
+      "english": "Cartography Table",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_chair",
+      "english": "Wood Chair",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_chest",
+      "english": "Reinforced Chest",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_cookingstation",
+      "english": "Cooking Station",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_copperbarstack",
+      "english": "Copper Stack",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_craftingstation",
+      "english": "Crafting station",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_crystalwall1x1",
+      "english": "Crystal Wall 1x1",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_eitrrefinery",
+      "english": "Eitr Refinery",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_forge",
+      "english": "Forge",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ironbarstack",
+      "english": "Iron Stack",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ironfloor",
+      "english": "Cage Floor 2x2",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ironfloorSmall",
+      "english": "Cage Floor 1x1",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_irongate",
+      "english": "Iron Gate",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ironwall",
+      "english": "Cage Wall 2x2",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ironwallSmall",
+      "english": "Cage Wall 1x1",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_ironwoodbeam67",
+      "english": "Wood Iron Beam 67°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_magetable",
+      "english": "Galdr Table",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_marblepile",
+      "english": "Black Marble Pile",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_maypole",
+      "english": "Maypole",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_portal",
+      "english": "Portal",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sharpstakes",
+      "english": "Sharp Stakes",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_sign",
+      "english": "Sign",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_smelter",
+      "english": "Smelter",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_spinningwheel",
+      "english": "Spinning Wheel",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stonearch",
+      "english": "Stone Arch",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stonecutter",
+      "english": "Stonecutter",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stonefence",
+      "english": "Stone Fence",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stonefloor2x2",
+      "english": "Stone Floor 2x2",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stonefloor4x4",
+      "english": "Stone Floor 4x4",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stonepile",
+      "english": "Stone Pile",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stonepillar",
+      "english": "Stone Pillar",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stonestair",
+      "english": "Stone Stair",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stonethrone",
+      "english": "Stone Throne",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stonewall1x1",
+      "english": "Stone Wall 1x1",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stonewall2x1",
+      "english": "Stone Wall 2x1",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_stonewall4x2",
+      "english": "Stone Wall 4x2",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_table",
+      "english": "Table",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_windmill",
+      "english": "Windmill",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodbeam1",
+      "english": "Wood Beam 1 m",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodbeam2",
+      "english": "Wood Beam 2 m",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodbeam26",
+      "english": "Wood Beam 26°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodbeam45",
+      "english": "Wood Beam 45°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodbeam67",
+      "english": "Wood Beam 67°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodcorestack",
+      "english": "Corewood Stack",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_wooddoor",
+      "english": "Wood Door",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_wooddragon",
+      "english": "Wood Dragon Adornment",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodfence",
+      "english": "Roundpole Fence",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodfencegate",
+      "english": "Roundpole Gate",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodfinestack",
+      "english": "Finewood Stack",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodfloor1x1",
+      "english": "Wood Floor 1x1",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodfloor2x2",
+      "english": "Wood Floor 2x2",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodfroststack",
+      "english": "Timberwood Stack",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodgate",
+      "english": "Wood Gate",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodironbeam",
+      "english": "Wood Iron Beam",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodironbeam_26",
+      "english": "Wood Iron Beam 26°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodironbeam_45",
+      "english": "Wood Iron Beam 45°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodironpole",
+      "english": "Wood Iron Pole",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodledge",
+      "english": "Wood Ledge",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodlog26",
+      "english": "Log Beam 26°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodlog45",
+      "english": "Log Beam 45°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodlog67",
+      "english": "Log Beam 67°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodpole",
+      "english": "Wood Pole 1 m",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodpole2",
+      "english": "Wood Pole 2 m",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodroof26",
+      "english": "Thatch Roof 26°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodroof45",
+      "english": "Thatch Roof 45°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodroof67",
+      "english": "Thatch Roof 67°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodrooficorner",
+      "english": "Thatch Roof Inner Corner 26°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodrooficorner45",
+      "english": "Thatch Roof Inner Corner 45°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodrooficorner67",
+      "english": "Thatch Roof Inner Corner 67°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodroofocorner",
+      "english": "Thatch Roof Outer Corner 26°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodroofocorner45",
+      "english": "Thatch Roof Outer Corner 45°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodroofocorner67",
+      "english": "Thatch Roof Outer Corner 67°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodrooftop",
+      "english": "Thatch Roof Ridge 26°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodrooftop45",
+      "english": "Thatch Roof Ridge 45°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodrooftop67",
+      "english": "Thatch Roof Ridge 67°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodstack",
+      "english": "Wood Stack",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodstair",
+      "english": "Wood Stairs",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodstepladder",
+      "english": "Wood Ladder",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodwall",
+      "english": "Wood Wall",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodwallhalf",
+      "english": "Wood Wall Half",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodwallquarter",
+      "english": "Wood Wall 1x1",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodwallroof",
+      "english": "Wood Wall 26°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodwallroof45",
+      "english": "Wood Wall 45°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodwallroof45_upsidedown",
+      "english": "Wood Wall 45° (Inverted)",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodwallroof67",
+      "english": "Wood Wall 67°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodwallroof67upsidedown",
+      "english": "Wood Wall 67° (Inverted)",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodwallroof_upsidedown",
+      "english": "Wood Wall 26° (Inverted)",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodwallrooftop",
+      "english": "Wood Roof Cross 26°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodwallrooftop45",
+      "english": "Wood Roof Cross 45°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodwallrooftop67",
+      "english": "Wood Roof Cross 67°",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_woodwindowshutter",
+      "english": "Wood Shutter",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_workbench",
+      "english": "Workbench",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_yuleklapp",
+      "english": "Yuleklapp",
+      "source_asset": "localization"
+    },
+    {
+      "key": "piece_yuletree",
+      "english": "Yule Tree",
+      "source_asset": "localization"
+    }
+  ],
+  "missing_keys": []
+}

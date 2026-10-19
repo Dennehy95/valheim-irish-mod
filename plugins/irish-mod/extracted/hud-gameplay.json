@@ -1,0 +1,649 @@
+{
+  "screen_id": "hud-gameplay",
+  "screen_title": "In-game HUD (hotbar, prompts, build hints)",
+  "scope_notes": "All hud_* keys; excludes inventory panel and main menu scopes.",
+  "scope_keys_file": "tools/scopes/hud-gameplay.keys.txt",
+  "extracted_at_utc": "2026-10-19T14:20:51.117212+00:00",
+  "method": "static",
+  "game_path": "A:\\Steam\\steamapps\\common\\Valheim",
+  "resources_assets_sha256": "f0274fe60c807842352a049f3762b7a08965bdbfe759dfbb16f90272e51c6bdb",
+  "key_count": 127,
+  "entries": [
+    {
+      "key": "hud_addfavorite",
+      "english": "Add Favorite",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_addfavoritecategory",
+      "english": "Add Category...",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_addfavoritecategory_popupheader",
+      "english": "Add Category",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_addfavoritecategory_popuptext",
+      "english": "Enter Category Name:",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_addpin",
+      "english": "Add pin",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_all",
+      "english": "Show All",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_altplace",
+      "english": "Toggle snapping / options",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_altplacement",
+      "english": "Alternative placement mode:",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_autopickup",
+      "english": "Auto-pickup",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_build",
+      "english": "Build",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_building",
+      "english": "Building",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_building2",
+      "english": "Heavy Build",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_buildmenu",
+      "english": "Build Menu",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_bymaterial",
+      "english": "By Material",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_byusage",
+      "english": "By Usage",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_categories",
+      "english": "Categories",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_category",
+      "english": "Category",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_changeorientation",
+      "english": "Change orientation",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_copypiece",
+      "english": "Copy",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_crafting",
+      "english": "Crafting",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_crossoffpin",
+      "english": "Cross off pin",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_cyclesnap",
+      "english": "Cycle snapping",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_deletecategory",
+      "english": "Delete Category",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_eitrrequired",
+      "english": "Eitr required",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_emotes_blowkiss",
+      "english": "Blow kiss",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_emotes_bow",
+      "english": "Bow",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_emotes_challenge",
+      "english": "Challenge",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_emotes_cheer",
+      "english": "Cheer",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_emotes_comehere",
+      "english": "Come here",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_emotes_cower",
+      "english": "Cower",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_emotes_cry",
+      "english": "Cry",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_emotes_dance",
+      "english": "Dance",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_emotes_despair",
+      "english": "Despair",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_emotes_flex",
+      "english": "Flex",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_emotes_headbang",
+      "english": "Headbang",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_emotes_kneel",
+      "english": "Kneel",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_emotes_laugh",
+      "english": "Laugh",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_emotes_loveyou",
+      "english": "Love you",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_emotes_nonono",
+      "english": "No no no",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_emotes_point",
+      "english": "Point",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_emotes_relax",
+      "english": "Relax",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_emotes_rest",
+      "english": "Rest",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_emotes_roar",
+      "english": "Roar",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_emotes_shrug",
+      "english": "Shrug",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_emotes_sit",
+      "english": "Sit",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_emotes_thumbsup",
+      "english": "Thumbs up",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_emotes_toast",
+      "english": "Toast",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_emotes_vibe",
+      "english": "Vibe",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_emotes_wave",
+      "english": "Wave",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_equipping",
+      "english": "Equipping",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_extrainvslot1",
+      "english": "Wider Pockets",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_extrainvslot1_tooltip",
+      "english": "A convenient belt pouch to store your items.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_extrainvslot2",
+      "english": "Deeper Pockets",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_extrainvslot2_tooltip",
+      "english": "A practical belt bag to store your items.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_favorites",
+      "english": "Favorites",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_feasts",
+      "english": "Feasts",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_food",
+      "english": "Food",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_furniture",
+      "english": "Furniture",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_hidden_messagehud_notification",
+      "english": "HUD disabled. To enable, press Ctrl + F3",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_hidden_messagehud_notification_gamepad",
+      "english": "HUD disabled. To enable, press ",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_hidemap",
+      "english": "Hide map",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_hidepin",
+      "english": "Toggle pins",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_itemstucktar",
+      "english": "It is stuck in the tar",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_loadingrequired",
+      "english": "Weapon not loaded",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_mapday",
+      "english": "Day",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_materials",
+      "english": "Materials",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_maxsummonsreached",
+      "english": "Your Dead Raiser is not strong enough to control more summons.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_maxsummonsreached_greenroots",
+      "english": "Your Staff of the Wild is not strong enough to control more summons.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_maxsummonsreached_spiritcaller",
+      "english": "Your Spirit Caller is not strong enough to control more summons",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_maxsummonsreached_trollstav",
+      "english": "Your Trollstav is not strong enough to control more summons.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_meads",
+      "english": "Mead",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_misc",
+      "english": "Misc.",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_namepin",
+      "english": "Name your pin",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_nothingtobuild",
+      "english": "Nothing to build",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_off",
+      "english": "Off",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_on",
+      "english": "On",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_pet",
+      "english": "Pet",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_pin_dnboss",
+      "english": "Aesir Passage",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_pin_hildir1",
+      "english": "Smouldering Tomb",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_pin_hildir2",
+      "english": "Howling Cavern",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_pin_hildir3",
+      "english": "Sealed Tower",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_ping",
+      "english": "Ping",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_place",
+      "english": "Place",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_powernotready",
+      "english": "Power not ready",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_publicpos",
+      "english": "Visible to other players",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_ready",
+      "english": "Ready",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_recent",
+      "english": "Recent",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_reloading",
+      "english": "Loading",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_remove",
+      "english": "Remove",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_removepin",
+      "english": "Remove pin",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_rename",
+      "english": "Rename",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_repair",
+      "english": "Repair",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_require",
+      "english": "Require",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_rotate",
+      "english": "Rotate",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_saddle_already",
+      "english": "already has a saddle",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_saddle_ready",
+      "english": "is ready for a ride",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_saddle_remove",
+      "english": "Remove saddle",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_sharedmap",
+      "english": "Cartography Table",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_showmap",
+      "english": "Show map",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_snappoint_attach",
+      "english": "Attach",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_snappoint_bottom",
+      "english": "Bottom",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_snappoint_center",
+      "english": "Center",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_snappoint_corner",
+      "english": "Corner",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_snappoint_edge",
+      "english": "Edge",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_snappoint_end",
+      "english": "End",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_snappoint_inner",
+      "english": "Inner",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_snappoint_mid",
+      "english": "Mid",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_snappoint_top",
+      "english": "Top",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_switchcategory",
+      "english": "Switch category",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_switchitem",
+      "english": "Switch item",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_tame",
+      "english": "Tame",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_tamecheck",
+      "english": "Check",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_tamedone",
+      "english": "has been tamed",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_tamefollow",
+      "english": "follows you",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_tamefrightened",
+      "english": "Frightened",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_tamehappy",
+      "english": "Happy",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_tamehungry",
+      "english": "Hungry",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_tameinprogress",
+      "english": "Acclimatizing",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_tamelove",
+      "english": "loves you",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_tamelove2",
+      "english": "loves you a lot",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_tamelove3",
+      "english": "cuddles you",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_tameness",
+      "english": "Tameness",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_tamestay",
+      "english": "stays",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_unequipping",
+      "english": "Unequipping",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_wild",
+      "english": "Wild",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_zoom",
+      "english": "Zoom",
+      "source_asset": "localization"
+    },
+    {
+      "key": "hud_zoom_in_out",
+      "english": "Zoom out/in",
+      "source_asset": "localization"
+    }
+  ],
+  "missing_keys": []
+}

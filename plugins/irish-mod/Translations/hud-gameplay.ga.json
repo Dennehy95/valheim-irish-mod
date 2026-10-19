@@ -1,0 +1,771 @@
+{
+  "screen_id": "hud-gameplay",
+  "locale": "ga",
+  "pendingApiKey": true,
+  "machineAssisted": false,
+  "source_extract": "extracted/hud-gameplay.json",
+  "entries": [
+    {
+      "key": "hud_addfavorite",
+      "english": "Add Favorite",
+      "irish": "Cuir le Ceanáin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_addfavoritecategory",
+      "english": "Add Category...",
+      "irish": "Cuir Catagóir leis...",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_addfavoritecategory_popupheader",
+      "english": "Add Category",
+      "irish": "Cuir Catagóir leis",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_addfavoritecategory_popuptext",
+      "english": "Enter Category Name:",
+      "irish": "Iontráil ainm catagóire:",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_addpin",
+      "english": "Add pin",
+      "irish": "Cuir pionna leis",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_all",
+      "english": "Show All",
+      "irish": "Taispeáin Uile",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_altplace",
+      "english": "Toggle snapping / options",
+      "irish": "Scoránaigh snapáil / roghanna",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_altplacement",
+      "english": "Alternative placement mode:",
+      "irish": "Mód suiteála malartach:",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_autopickup",
+      "english": "Auto-pickup",
+      "irish": "Piocadh uathoibríoch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_build",
+      "english": "Build",
+      "irish": "Tógáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_building",
+      "english": "Building",
+      "irish": "Tógáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_building2",
+      "english": "Heavy Build",
+      "irish": "Tógáil Throm",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_buildmenu",
+      "english": "Build Menu",
+      "irish": "Roghchlár Tógála",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_bymaterial",
+      "english": "By Material",
+      "irish": "De réir Ábhair",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_byusage",
+      "english": "By Usage",
+      "irish": "De réir Úsáide",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_categories",
+      "english": "Categories",
+      "irish": "Catagóirí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_category",
+      "english": "Category",
+      "irish": "Catagóir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_changeorientation",
+      "english": "Change orientation",
+      "irish": "Athraigh treoshuíomh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_copypiece",
+      "english": "Copy",
+      "irish": "Cóipeáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_crafting",
+      "english": "Crafting",
+      "irish": "Ceardaíocht",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_crossoffpin",
+      "english": "Cross off pin",
+      "irish": "Cros ar phionna",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_cyclesnap",
+      "english": "Cycle snapping",
+      "irish": "Rothlaigh snapáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_deletecategory",
+      "english": "Delete Category",
+      "irish": "Scrios Catagóir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_eitrrequired",
+      "english": "Eitr required",
+      "irish": "Eitr ag teastáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_emotes_blowkiss",
+      "english": "Blow kiss",
+      "irish": "Póg aerach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_emotes_bow",
+      "english": "Bow",
+      "irish": "Umhlú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_emotes_challenge",
+      "english": "Challenge",
+      "irish": "Dúshlán",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_emotes_cheer",
+      "english": "Cheer",
+      "irish": "Beochaint",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_emotes_comehere",
+      "english": "Come here",
+      "irish": "Tar anseo",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_emotes_cower",
+      "english": "Cower",
+      "irish": "Cúlú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_emotes_cry",
+      "english": "Cry",
+      "irish": "Caoineadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_emotes_dance",
+      "english": "Dance",
+      "irish": "Damhsa",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_emotes_despair",
+      "english": "Despair",
+      "irish": "Éadóchas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_emotes_flex",
+      "english": "Flex",
+      "irish": "Luascadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_emotes_headbang",
+      "english": "Headbang",
+      "irish": "Croitheadh cinn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_emotes_kneel",
+      "english": "Kneel",
+      "irish": "Gluin ar an talamh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_emotes_laugh",
+      "english": "Laugh",
+      "irish": "Gáire",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_emotes_loveyou",
+      "english": "Love you",
+      "irish": "Grá ort",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_emotes_nonono",
+      "english": "No no no",
+      "irish": "Ní hea ní hea",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_emotes_point",
+      "english": "Point",
+      "irish": "Díriú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_emotes_relax",
+      "english": "Relax",
+      "irish": "Scíth a ligean",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_emotes_rest",
+      "english": "Rest",
+      "irish": "Scíth",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_emotes_roar",
+      "english": "Roar",
+      "irish": "Búir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_emotes_shrug",
+      "english": "Shrug",
+      "irish": "Guaireadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_emotes_sit",
+      "english": "Sit",
+      "irish": "Suí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_emotes_thumbsup",
+      "english": "Thumbs up",
+      "irish": "Ordóg suas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_emotes_toast",
+      "english": "Toast",
+      "irish": "Tósta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_emotes_vibe",
+      "english": "Vibe",
+      "irish": "Atmaisféar",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_emotes_wave",
+      "english": "Wave",
+      "irish": "Croitheadh láimhe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_equipping",
+      "english": "Equipping",
+      "irish": "Á chur ort",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_extrainvslot1",
+      "english": "Wider Pockets",
+      "irish": "Pócaí Níos Leithne",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_extrainvslot1_tooltip",
+      "english": "A convenient belt pouch to store your items.",
+      "irish": "Póca crios áisiúil chun do chuid earraí a stóráil.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_extrainvslot2",
+      "english": "Deeper Pockets",
+      "irish": "Pócaí Níos Doimhne",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_extrainvslot2_tooltip",
+      "english": "A practical belt bag to store your items.",
+      "irish": "Mála crios praiticiúil chun do chuid earraí a stóráil.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_favorites",
+      "english": "Favorites",
+      "irish": "Ceanáin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_feasts",
+      "english": "Feasts",
+      "irish": "Féastaí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_food",
+      "english": "Food",
+      "irish": "Bia",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_furniture",
+      "english": "Furniture",
+      "irish": "Troscán",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_hidden_messagehud_notification",
+      "english": "HUD disabled. To enable, press Ctrl + F3",
+      "irish": "HUD díchumasaithe. Chun é a chumasú, brúigh Ctrl + F3",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_hidden_messagehud_notification_gamepad",
+      "english": "HUD disabled. To enable, press ",
+      "irish": "HUD díchumasaithe. Chun é a chumasú, brúigh ",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_hidemap",
+      "english": "Hide map",
+      "irish": "Folaigh léarscáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_hidepin",
+      "english": "Toggle pins",
+      "irish": "Scoránaigh pionnaí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_itemstucktar",
+      "english": "It is stuck in the tar",
+      "irish": "Tá sé greamaithe sa tar",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_loadingrequired",
+      "english": "Weapon not loaded",
+      "irish": "Níl an t-arm luchtaithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_mapday",
+      "english": "Day",
+      "irish": "Lá",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_materials",
+      "english": "Materials",
+      "irish": "Ábhair",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_maxsummonsreached",
+      "english": "Your Dead Raiser is not strong enough to control more summons.",
+      "irish": "Níl do Dhaorálaí Marbh láidir go leor chun tuilleadh glaochán a rialú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_maxsummonsreached_greenroots",
+      "english": "Your Staff of the Wild is not strong enough to control more summons.",
+      "irish": "Níl do Bhata Fiáin láidir go leor chun tuilleadh glaochán a rialú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_maxsummonsreached_spiritcaller",
+      "english": "Your Spirit Caller is not strong enough to control more summons",
+      "irish": "Níl do Ghlaoitheoir Spiorad láidir go leor chun tuilleadh glaochán a rialú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_maxsummonsreached_trollstav",
+      "english": "Your Trollstav is not strong enough to control more summons.",
+      "irish": "Níl do Bhata Tróll láidir go leor chun tuilleadh glaochán a rialú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_meads",
+      "english": "Mead",
+      "irish": "Meá",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_misc",
+      "english": "Misc.",
+      "irish": "Ilghnéitheach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_namepin",
+      "english": "Name your pin",
+      "irish": "Ainmnigh do phionna",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_nothingtobuild",
+      "english": "Nothing to build",
+      "irish": "Níl rud le tógáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_off",
+      "english": "Off",
+      "irish": "As",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_on",
+      "english": "On",
+      "irish": "Ar",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_pet",
+      "english": "Pet",
+      "irish": "Peata",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_pin_dnboss",
+      "english": "Aesir Passage",
+      "irish": "Pasáiste Aesir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_pin_hildir1",
+      "english": "Smouldering Tomb",
+      "irish": "Tuama Smúdálach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_pin_hildir2",
+      "english": "Howling Cavern",
+      "irish": "Uaimh Gháireach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_pin_hildir3",
+      "english": "Sealed Tower",
+      "irish": "Túr Séalaithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_ping",
+      "english": "Ping",
+      "irish": "Ping",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_place",
+      "english": "Place",
+      "irish": "Cuir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_powernotready",
+      "english": "Power not ready",
+      "irish": "Níl an chumhacht réidh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_publicpos",
+      "english": "Visible to other players",
+      "irish": "Infheicthe do imreoirí eile",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_ready",
+      "english": "Ready",
+      "irish": "Réidh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_recent",
+      "english": "Recent",
+      "irish": "Le déanaí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_reloading",
+      "english": "Loading",
+      "irish": "Á luchtú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_remove",
+      "english": "Remove",
+      "irish": "Bain",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_removepin",
+      "english": "Remove pin",
+      "irish": "Bain pionna",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_rename",
+      "english": "Rename",
+      "irish": "Athainmnigh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_repair",
+      "english": "Repair",
+      "irish": "Deisigh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_require",
+      "english": "Require",
+      "irish": "Éiligh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_rotate",
+      "english": "Rotate",
+      "irish": "Rothlaigh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_saddle_already",
+      "english": "already has a saddle",
+      "irish": "tá diallait air cheana",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_saddle_ready",
+      "english": "is ready for a ride",
+      "irish": "réidh le haghaidh marcaíochta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_saddle_remove",
+      "english": "Remove saddle",
+      "irish": "Bain diallait",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_sharedmap",
+      "english": "Cartography Table",
+      "irish": "Tábla Cartagrafaíochta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_showmap",
+      "english": "Show map",
+      "irish": "Taispeáin léarscáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_snappoint_attach",
+      "english": "Attach",
+      "irish": "Ceangail",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_snappoint_bottom",
+      "english": "Bottom",
+      "irish": "Bun",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_snappoint_center",
+      "english": "Center",
+      "irish": "Lár",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_snappoint_corner",
+      "english": "Corner",
+      "irish": "Cúinne",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_snappoint_edge",
+      "english": "Edge",
+      "irish": "Imeall",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_snappoint_end",
+      "english": "End",
+      "irish": "Deireadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_snappoint_inner",
+      "english": "Inner",
+      "irish": "Inmheánach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_snappoint_mid",
+      "english": "Mid",
+      "irish": "Lár",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_snappoint_top",
+      "english": "Top",
+      "irish": "Barr",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_switchcategory",
+      "english": "Switch category",
+      "irish": "Athraigh catagóir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_switchitem",
+      "english": "Switch item",
+      "irish": "Athraigh earra",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_tame",
+      "english": "Tame",
+      "irish": "Síothaigh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_tamecheck",
+      "english": "Check",
+      "irish": "Seiceáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_tamedone",
+      "english": "has been tamed",
+      "irish": "síothaithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_tamefollow",
+      "english": "follows you",
+      "irish": "leanann tú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_tamefrightened",
+      "english": "Frightened",
+      "irish": "Scanraithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_tamehappy",
+      "english": "Happy",
+      "irish": "Sásta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_tamehungry",
+      "english": "Hungry",
+      "irish": "Ocrach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_tameinprogress",
+      "english": "Acclimatizing",
+      "irish": "Ag aclaíocht",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_tamelove",
+      "english": "loves you",
+      "irish": "grá ort",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_tamelove2",
+      "english": "loves you a lot",
+      "irish": "grá mór ort",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_tamelove3",
+      "english": "cuddles you",
+      "irish": "croitheann leat",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_tameness",
+      "english": "Tameness",
+      "irish": "Síothú",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_tamestay",
+      "english": "stays",
+      "irish": "fanann",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_unequipping",
+      "english": "Unequipping",
+      "irish": "Á bhaint díot",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_wild",
+      "english": "Wild",
+      "irish": "Fiáin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_zoom",
+      "english": "Zoom",
+      "irish": "Zúmáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "hud_zoom_in_out",
+      "english": "Zoom out/in",
+      "irish": "Zúmáil amach/isteach",
+      "translationMethod": "manual"
+    }
+  ]
+}

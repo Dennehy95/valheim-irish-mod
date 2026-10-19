@@ -1,0 +1,609 @@
+{
+  "screen_id": "building-ui",
+  "locale": "ga",
+  "pendingApiKey": true,
+  "machineAssisted": false,
+  "source_extract": "extracted/building-ui.json",
+  "entries": [
+    {
+      "key": "piece_bed",
+      "english": "Bed",
+      "irish": "Leaba",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_beehive",
+      "english": "Beehive",
+      "irish": "Coirceog",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blackforge",
+      "english": "Black Forge",
+      "irish": "Ceardlann Dhubh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_blastfurnace",
+      "english": "Blast Furnace",
+      "irish": "Furnas Réitithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_bonfire",
+      "english": "Bonfire",
+      "irish": "Tine Chnámh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_bronzebarstack",
+      "english": "Bronze Stack",
+      "irish": "Cruach Cré-umha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_cartographytable",
+      "english": "Cartography Table",
+      "irish": "Tábla Cartagrafaíochta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_chair",
+      "english": "Wood Chair",
+      "irish": "Cathaoir Adhmaid",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_chest",
+      "english": "Reinforced Chest",
+      "irish": "Cófra Neartaithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_cookingstation",
+      "english": "Cooking Station",
+      "irish": "Stáisiún Cócaireachta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_copperbarstack",
+      "english": "Copper Stack",
+      "irish": "Cruach Copair",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_craftingstation",
+      "english": "Crafting station",
+      "irish": "Stáisiún ceardaíochta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_crystalwall1x1",
+      "english": "Crystal Wall 1x1",
+      "irish": "Balla Criostail 1x1",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_eitrrefinery",
+      "english": "Eitr Refinery",
+      "irish": "Refinery Eitr",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_forge",
+      "english": "Forge",
+      "irish": "Ceardlann",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ironbarstack",
+      "english": "Iron Stack",
+      "irish": "Cruach Iarainn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ironfloor",
+      "english": "Cage Floor 2x2",
+      "irish": "Urlár Cáige 2x2",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ironfloorSmall",
+      "english": "Cage Floor 1x1",
+      "irish": "Urlár Cáige 1x1",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_irongate",
+      "english": "Iron Gate",
+      "irish": "Geata Iarainn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ironwall",
+      "english": "Cage Wall 2x2",
+      "irish": "Balla Cáige 2x2",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ironwallSmall",
+      "english": "Cage Wall 1x1",
+      "irish": "Balla Cáige 1x1",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_ironwoodbeam67",
+      "english": "Wood Iron Beam 67°",
+      "irish": "Tráinse Adhmaid Iarainn 67°",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_magetable",
+      "english": "Galdr Table",
+      "irish": "Tábla Galdr",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_marblepile",
+      "english": "Black Marble Pile",
+      "irish": "Cruach Marmair Dhubh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_maypole",
+      "english": "Maypole",
+      "irish": "Cuaille Bealtaine",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_portal",
+      "english": "Portal",
+      "irish": "Portal",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sharpstakes",
+      "english": "Sharp Stakes",
+      "irish": "Cuaille Géara",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_sign",
+      "english": "Sign",
+      "irish": "Comhartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_smelter",
+      "english": "Smelter",
+      "irish": "Teilgeoir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_spinningwheel",
+      "english": "Spinning Wheel",
+      "irish": "Roth Sníomha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stonearch",
+      "english": "Stone Arch",
+      "irish": "Áirse Chloch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stonecutter",
+      "english": "Stonecutter",
+      "irish": "Gearrthóir Cloch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stonefence",
+      "english": "Stone Fence",
+      "irish": "Fál Cloch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stonefloor2x2",
+      "english": "Stone Floor 2x2",
+      "irish": "Urlár Cloch 2x2",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stonefloor4x4",
+      "english": "Stone Floor 4x4",
+      "irish": "Urlár Cloch 4x4",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stonepile",
+      "english": "Stone Pile",
+      "irish": "Cruach Cloch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stonepillar",
+      "english": "Stone Pillar",
+      "irish": "Colún Cloch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stonestair",
+      "english": "Stone Stair",
+      "irish": "Staighre Cloch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stonethrone",
+      "english": "Stone Throne",
+      "irish": "Ríchathaoir Cloch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stonewall1x1",
+      "english": "Stone Wall 1x1",
+      "irish": "Balla Cloch 1x1",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stonewall2x1",
+      "english": "Stone Wall 2x1",
+      "irish": "Balla Cloch 2x1",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_stonewall4x2",
+      "english": "Stone Wall 4x2",
+      "irish": "Balla Cloch 4x2",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_table",
+      "english": "Table",
+      "irish": "Tábla",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_windmill",
+      "english": "Windmill",
+      "irish": "Muileann Gaoithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodbeam1",
+      "english": "Wood Beam 1 m",
+      "irish": "Tráinse Adhmaid 1 m",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodbeam2",
+      "english": "Wood Beam 2 m",
+      "irish": "Tráinse Adhmaid 2 m",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodbeam26",
+      "english": "Wood Beam 26°",
+      "irish": "Tráinse Adhmaid 26°",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodbeam45",
+      "english": "Wood Beam 45°",
+      "irish": "Tráinse Adhmaid 45°",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodbeam67",
+      "english": "Wood Beam 67°",
+      "irish": "Tráinse Adhmaid 67°",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodcorestack",
+      "english": "Corewood Stack",
+      "irish": "Cruach Adhmad Lárnach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_wooddoor",
+      "english": "Wood Door",
+      "irish": "Doras Adhmaid",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_wooddragon",
+      "english": "Wood Dragon Adornment",
+      "irish": "Maisiú Dragain Adhmaid",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodfence",
+      "english": "Roundpole Fence",
+      "irish": "Fál Cuaille",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodfencegate",
+      "english": "Roundpole Gate",
+      "irish": "Geata Cuaille",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodfinestack",
+      "english": "Finewood Stack",
+      "irish": "Cruach Adhmad Mín",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodfloor1x1",
+      "english": "Wood Floor 1x1",
+      "irish": "Urlár Adhmaid 1x1",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodfloor2x2",
+      "english": "Wood Floor 2x2",
+      "irish": "Urlár Adhmaid 2x2",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodfroststack",
+      "english": "Timberwood Stack",
+      "irish": "Cruach Adhmad Tímire",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodgate",
+      "english": "Wood Gate",
+      "irish": "Geata Adhmaid",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodironbeam",
+      "english": "Wood Iron Beam",
+      "irish": "Tráinse Adhmaid Iarainn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodironbeam_26",
+      "english": "Wood Iron Beam 26°",
+      "irish": "Tráinse Adhmaid Iarainn 26°",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodironbeam_45",
+      "english": "Wood Iron Beam 45°",
+      "irish": "Tráinse Adhmaid Iarainn 45°",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodironpole",
+      "english": "Wood Iron Pole",
+      "irish": "Cuaille Adhmaid Iarainn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodledge",
+      "english": "Wood Ledge",
+      "irish": "Seilf Adhmaid",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodlog26",
+      "english": "Log Beam 26°",
+      "irish": "Tráinse Loga 26°",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodlog45",
+      "english": "Log Beam 45°",
+      "irish": "Tráinse Loga 45°",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodlog67",
+      "english": "Log Beam 67°",
+      "irish": "Tráinse Loga 67°",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodpole",
+      "english": "Wood Pole 1 m",
+      "irish": "Cuaille Adhmaid 1 m",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodpole2",
+      "english": "Wood Pole 2 m",
+      "irish": "Cuaille Adhmaid 2 m",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodroof26",
+      "english": "Thatch Roof 26°",
+      "irish": "Díon Tuí 26°",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodroof45",
+      "english": "Thatch Roof 45°",
+      "irish": "Díon Tuí 45°",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodroof67",
+      "english": "Thatch Roof 67°",
+      "irish": "Díon Tuí 67°",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodrooficorner",
+      "english": "Thatch Roof Inner Corner 26°",
+      "irish": "Cúinne Inmheánach Díon Tuí 26°",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodrooficorner45",
+      "english": "Thatch Roof Inner Corner 45°",
+      "irish": "Cúinne Inmheánach Díon Tuí 45°",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodrooficorner67",
+      "english": "Thatch Roof Inner Corner 67°",
+      "irish": "Cúinne Inmheánach Díon Tuí 67°",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodroofocorner",
+      "english": "Thatch Roof Outer Corner 26°",
+      "irish": "Cúinne Seachtrach Díon Tuí 26°",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodroofocorner45",
+      "english": "Thatch Roof Outer Corner 45°",
+      "irish": "Cúinne Seachtrach Díon Tuí 45°",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodroofocorner67",
+      "english": "Thatch Roof Outer Corner 67°",
+      "irish": "Cúinne Seachtrach Díon Tuí 67°",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodrooftop",
+      "english": "Thatch Roof Ridge 26°",
+      "irish": "Maoldíon Tuí 26°",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodrooftop45",
+      "english": "Thatch Roof Ridge 45°",
+      "irish": "Maoldíon Tuí 45°",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodrooftop67",
+      "english": "Thatch Roof Ridge 67°",
+      "irish": "Maoldíon Tuí 67°",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodstack",
+      "english": "Wood Stack",
+      "irish": "Cruach Adhmaid",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodstair",
+      "english": "Wood Stairs",
+      "irish": "Staighre Adhmaid",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodstepladder",
+      "english": "Wood Ladder",
+      "irish": "Dréimire Adhmaid",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodwall",
+      "english": "Wood Wall",
+      "irish": "Balla Adhmaid",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodwallhalf",
+      "english": "Wood Wall Half",
+      "irish": "Leathbhalla Adhmaid",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodwallquarter",
+      "english": "Wood Wall 1x1",
+      "irish": "Balla Adhmaid 1x1",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodwallroof",
+      "english": "Wood Wall 26°",
+      "irish": "Balla Adhmaid 26°",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodwallroof45",
+      "english": "Wood Wall 45°",
+      "irish": "Balla Adhmaid 45°",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodwallroof45_upsidedown",
+      "english": "Wood Wall 45° (Inverted)",
+      "irish": "Balla Adhmaid 45° (Inbhéartaithe)",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodwallroof67",
+      "english": "Wood Wall 67°",
+      "irish": "Balla Adhmaid 67°",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodwallroof67upsidedown",
+      "english": "Wood Wall 67° (Inverted)",
+      "irish": "Balla Adhmaid 67° (Inbhéartaithe)",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodwallroof_upsidedown",
+      "english": "Wood Wall 26° (Inverted)",
+      "irish": "Balla Adhmaid 26° (Inbhéartaithe)",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodwallrooftop",
+      "english": "Wood Roof Cross 26°",
+      "irish": "Cros Díon Adhmaid 26°",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodwallrooftop45",
+      "english": "Wood Roof Cross 45°",
+      "irish": "Cros Díon Adhmaid 45°",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodwallrooftop67",
+      "english": "Wood Roof Cross 67°",
+      "irish": "Cros Díon Adhmaid 67°",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_woodwindowshutter",
+      "english": "Wood Shutter",
+      "irish": "Comhla Adhmaid",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_workbench",
+      "english": "Workbench",
+      "irish": "Binse Oibre",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_yuleklapp",
+      "english": "Yuleklapp",
+      "irish": "Yuleklapp",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "piece_yuletree",
+      "english": "Yule Tree",
+      "irish": "Crann Yule",
+      "translationMethod": "manual"
+    }
+  ]
+}

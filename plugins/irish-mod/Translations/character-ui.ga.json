@@ -1,0 +1,909 @@
+{
+  "screen_id": "character-ui",
+  "locale": "ga",
+  "pendingApiKey": true,
+  "machineAssisted": false,
+  "source_extract": "extracted/character-ui.json",
+  "entries": [
+    {
+      "key": "customization_beard01",
+      "english": "Majestic",
+      "irish": "Móruail",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_beard02",
+      "english": "Twin Braids",
+      "irish": "Dhá Trilse",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_beard03",
+      "english": "Short",
+      "irish": "Gearr",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_beard04",
+      "english": "Straight",
+      "irish": "Díreach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_beard05",
+      "english": "Single Braid",
+      "irish": "Trilse Aonair",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_beard06",
+      "english": "Loose Braid",
+      "irish": "Trilse Scaoilte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_beard07",
+      "english": "Split Shave",
+      "irish": "Bearradh Scoilte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_beard08",
+      "english": "Thick",
+      "irish": "Tiubh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_beard09",
+      "english": "Trobadour",
+      "irish": "Trúbhadóir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_beard10",
+      "english": "Top Braid",
+      "irish": "Trilse Uachtair",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_beard11",
+      "english": "Facewarmer",
+      "irish": "Teas Aghaidhe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_beard12",
+      "english": "Royal",
+      "irish": "Ríoga",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_beard13",
+      "english": "Triplets",
+      "irish": "Trí Trilse",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_beard14",
+      "english": "Split Braid",
+      "irish": "Trilse Scoilte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_beard15",
+      "english": "Mini Braid",
+      "irish": "Miontrilse",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_beard16",
+      "english": "Stonedweller",
+      "irish": "Cónaitheoir Carraige",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_beard17",
+      "english": "Neat",
+      "irish": "Néata",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_beard18",
+      "english": "Jarl Braids",
+      "irish": "Trilse Jarl",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_beard19",
+      "english": "Bushy",
+      "irish": "Fliuch",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_beard20",
+      "english": "Spiky",
+      "irish": "Spíceach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_beard21",
+      "english": "Tidy",
+      "irish": "Slachtmhar",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_beard22",
+      "english": "Mustache",
+      "irish": "Mustaice",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_beard23",
+      "english": "Crumb Catcher",
+      "irish": "Gaothaire Gráin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_beard24",
+      "english": "Waxed",
+      "irish": "Céartha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_beard25",
+      "english": "Trimmed",
+      "irish": "Bearrtha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_beard26",
+      "english": "Handlebar",
+      "irish": "Barraí Láimhe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair01",
+      "english": "Windswept",
+      "irish": "Séideadh na Gaoithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair02",
+      "english": "High Ponytail",
+      "irish": "Cúlán Ard",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair03",
+      "english": "Pigtails",
+      "irish": "Dhá Chúlán",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair04",
+      "english": "Low Ponytail",
+      "irish": "Cúlán Íseal",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair05",
+      "english": "Short",
+      "irish": "Gearr",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair06",
+      "english": "Long and Loose",
+      "irish": "Fada Scaoilte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair07",
+      "english": "Dragonslayer",
+      "irish": "Maraíodóir Dragain",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair08",
+      "english": "Parted",
+      "irish": "Scoilte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair09",
+      "english": "Old One-Eye",
+      "irish": "Sean-Aon-Súil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair10",
+      "english": "Side Swept",
+      "irish": "Sínte Taobh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair11",
+      "english": "Long Braid",
+      "irish": "Trilse Fhada",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair12",
+      "english": "Matronly",
+      "irish": "Mátharúil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair13",
+      "english": "Twin Braids",
+      "irish": "Dhá Trilse",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair14",
+      "english": "Speed Demon",
+      "irish": "Deamhan Luais",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair15",
+      "english": "Pulled Back Curls",
+      "irish": "Curlaí Tarraingthe Siar",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair16",
+      "english": "Gathered Braids",
+      "irish": "Trilse Bailithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair17",
+      "english": "Neat Braids",
+      "irish": "Trilse Néata",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair18",
+      "english": "Royal Braids",
+      "irish": "Trilse Ríoga",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair19",
+      "english": "Painter Curls",
+      "irish": "Curlaí Péintéora",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair20",
+      "english": "Tidy Curls",
+      "irish": "Curlaí Slachtmhara",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair21",
+      "english": "Twin Buns",
+      "irish": "Dhá Bhun",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair22",
+      "english": "Single Bun",
+      "irish": "Bun Aonair",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair23",
+      "english": "Short Curls",
+      "irish": "Curlaí Gearra",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair24",
+      "english": "Shaved and Braided",
+      "irish": "Bearrtha agus Trilse",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair25",
+      "english": "Knot",
+      "irish": "Snaidhm",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair26",
+      "english": "Short Locs",
+      "irish": "Loca Gearra",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair27",
+      "english": "Strength Braids",
+      "irish": "Trilse Neart",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair28",
+      "english": "Merchant's Braid",
+      "irish": "Trilse Ceannaí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair29",
+      "english": "Tucked Back",
+      "irish": "Tarraingthe Siar",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair30",
+      "english": "Loose Waves",
+      "irish": "Tonnta Scaoilte",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair31",
+      "english": "Gathered Locs",
+      "irish": "Loca Bailithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair32",
+      "english": "Mullet",
+      "irish": "Mullet",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair33",
+      "english": "Vinland Shave",
+      "irish": "Bearradh Vinland",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair34",
+      "english": "Castellan",
+      "irish": "Caisleánach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair35",
+      "english": "Champion",
+      "irish": "Curadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair36",
+      "english": "Chronicler",
+      "irish": "Crónicas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair37",
+      "english": "Sunbringer",
+      "irish": "Láithreoir Gréine",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_hair38",
+      "english": "Masculine",
+      "irish": "Fireann",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_nobeard",
+      "english": "No Beard",
+      "irish": "Gan Féasóg",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "customization_nohair",
+      "english": "No Hair",
+      "irish": "Gan Gruaig",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_axes",
+      "english": "Axes",
+      "irish": "Tuailtí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_blacksmithing",
+      "english": "Blacksmithing",
+      "irish": "Ceardaíocht Iarainn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_blocking",
+      "english": "Blocking",
+      "irish": "Blocáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_bloodmagic",
+      "english": "Blood Magic",
+      "irish": "Draíocht Fola",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_bows",
+      "english": "Bows",
+      "irish": "Boga",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_clubs",
+      "english": "Clubs",
+      "irish": "Clubanna",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_cooking",
+      "english": "Cooking",
+      "irish": "Cócaireacht",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_crafting",
+      "english": "Crafting",
+      "irish": "Ceardaíocht",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_crossbows",
+      "english": "Crossbows",
+      "irish": "Crosboga",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_dodge",
+      "english": "Dodge",
+      "irish": "Seachaint",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_elementalmagic",
+      "english": "Elemental Magic",
+      "irish": "Draíocht Eiliminteach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_farming",
+      "english": "Farming",
+      "irish": "Feirmeoireacht",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_firemagic",
+      "english": "Fire Magic",
+      "irish": "Draíocht Tine",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_fishing",
+      "english": "Fishing",
+      "irish": "Iascaireacht",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_frostmagic",
+      "english": "Frost Magic",
+      "irish": "Draíocht Sioc",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_jump",
+      "english": "Jump",
+      "irish": "Léim",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_knives",
+      "english": "Knives",
+      "irish": "Scianna",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_pickaxes",
+      "english": "Pickaxes",
+      "irish": "Piocóid",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_polearms",
+      "english": "Polearms",
+      "irish": "Arma sleá",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_ride",
+      "english": "Riding",
+      "irish": "Marcachas",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_run",
+      "english": "Run",
+      "irish": "Rith",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_shields",
+      "english": "Shields",
+      "irish": "Sciatha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_sneak",
+      "english": "Sneak",
+      "irish": "Luíochán",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_spears",
+      "english": "Spears",
+      "irish": "Sleánna",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_swim",
+      "english": "Swim",
+      "irish": "Snámh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_swords",
+      "english": "Swords",
+      "irish": "Claíomh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_unarmed",
+      "english": "Fists",
+      "irish": "Dorn",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_woodcutting",
+      "english": "Wood Cutting",
+      "irish": "Gearradh Adhmaid",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "skill_woodworking",
+      "english": "Woodworking",
+      "irish": "Adhmadóireacht",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_BeesHarvested",
+      "english": "Honey collected",
+      "irish": "Mil bailithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_BuiltPiecesNoDebt",
+      "english": "Build pieces placed",
+      "irish": "Píosaí tógála curtha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_ConsecutiveDaysSurvivedMax",
+      "english": "Max consecutive days survived",
+      "irish": "Uasmhéid laethanta as a chéile marthanach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_CraftFood",
+      "english": "Food crafted",
+      "irish": "Bia déanta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_DeathByAshlandsOcean",
+      "english": "Death by Ashlands ocean",
+      "irish": "Bás san fharraige Ashlands",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_DeathByBoat",
+      "english": "Death by boat",
+      "irish": "Bás ar bhád",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_DeathByBurning",
+      "english": "Death by burning",
+      "irish": "Bás trí dhó",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_DeathByCart",
+      "english": "Death by cart",
+      "irish": "Bás ar charr",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_DeathByCatapult",
+      "english": "Death by catapult",
+      "irish": "Bás ar chatapulta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_DeathByCinderFire",
+      "english": "Death by cinder fire",
+      "irish": "Bás trí thine ghuail",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_DeathByDrawBridge",
+      "english": "Death by drawbridge",
+      "irish": "Bás ar dhroichead tarraingthe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_DeathByDrowning",
+      "english": "Death by drowning",
+      "irish": "Bás trí bhá",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_DeathByEdgeOfWorld",
+      "english": "Death by falling off the edge of the world",
+      "irish": "Bás trí thitim thar imeall an domhain",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_DeathByEnemyHit",
+      "english": "Death by enemy",
+      "irish": "Bás ag namhaid",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_DeathByFall",
+      "english": "Death by falling",
+      "irish": "Bás trí thitim",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_DeathByFreezing",
+      "english": "Death by freezing",
+      "irish": "Bás trí reo",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_DeathByImpact",
+      "english": "Death by impact",
+      "irish": "Bás trí imbhualadh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_DeathByIncinerator",
+      "english": "Death by the Obliterator",
+      "irish": "Bás ag an Obliterator",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_DeathByPoisoned",
+      "english": "Death by poisoning",
+      "irish": "Bás trí nimh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_DeathBySelf",
+      "english": "Death by player",
+      "irish": "Bás ag imreoir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_DeathBySmoke",
+      "english": "Death by smoke",
+      "irish": "Bás trí dheatach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_DeathByStalagtite",
+      "english": "Death by stalactite",
+      "irish": "Bás ag stalactite",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_DeathByStructural",
+      "english": "Death by structure",
+      "irish": "Bás ag struchtúr",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_DeathByTree",
+      "english": "Death by tree",
+      "irish": "Bás ag crann",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_DeathByTurret",
+      "english": "Death by ballista",
+      "irish": "Bás ag ballista",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_DeathByWater",
+      "english": "Death by water",
+      "irish": "Bás san uisce",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_DistanceSail",
+      "english": "Distance sailed",
+      "irish": "Fad seolta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_DistanceSailHelm",
+      "english": "Distance sailed, while manning the helm",
+      "irish": "Fad seolta ag stiúradh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_ExploreEast",
+      "english": "Explore the far east",
+      "irish": "Taiscéal an oirthear i bhfad",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_ExploreEastNoMap",
+      "english": "Explore the far east, without using a map",
+      "irish": "Taiscéal an oirthear i bhfad gan léarscáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_ExploreNorth",
+      "english": "Explore the far north",
+      "irish": "Taiscéal an tuaisceart i bhfad",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_ExploreNorthNoMap",
+      "english": "Explore the far north, without using a map",
+      "irish": "Taiscéal an tuaisceart i bhfad gan léarscáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_ExploreSouth",
+      "english": "Explore the far south",
+      "irish": "Taiscéal an deisceart i bhfad",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_ExploreSouthNoMap",
+      "english": "Explore the far south, without using a map",
+      "irish": "Taiscéal an deisceart i bhfad gan léarscáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_ExploreWest",
+      "english": "Explore the far west",
+      "irish": "Taiscéal an iarthar i bhfad",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_ExploreWestNoMap",
+      "english": "Explore the far west, without using a map",
+      "irish": "Taiscéal an iarthar i bhfad gan léarscáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_FoodEaten",
+      "english": "Food eaten",
+      "irish": "Bia ite",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_HarvestBerry",
+      "english": "Berries harvested",
+      "irish": "Caoracha bailithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_HarvestCrop",
+      "english": "Crops harvested",
+      "irish": "Barraí bailithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_HarvestMushroom",
+      "english": "Mushrooms harvested",
+      "irish": "Muisiriúin bailithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_MaxBuildingHeight",
+      "english": "Highest building",
+      "irish": "Tógáil is airde",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_MaxBuildingHeightWorld",
+      "english": "Highest world position of building",
+      "irish": "Pointe domhanda is airde de thógáil",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_MaxComfort",
+      "english": "Max comfort level",
+      "irish": "Uasleibhéal compord",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_TreasureBuriedFound",
+      "english": "Buried treasure found",
+      "irish": "Taisce curtha faoin talamh aimsithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_Tree",
+      "english": "Trees cut down",
+      "irish": "Crainn gearrtha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_TreeAshlands",
+      "english": "Death by Ashlands Tree",
+      "irish": "Bás ag Crann Ashlands",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_TreeBeech",
+      "english": "Death by Beech",
+      "irish": "Bás ag Feá",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_TreeBirch",
+      "english": "Death by Birch",
+      "irish": "Bás ag Beith",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_TreeFir",
+      "english": "Death by Fir",
+      "irish": "Bás ag Giúis",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_TreeOak",
+      "english": "Death by Oak",
+      "irish": "Bás ag Darach",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_TreePine",
+      "english": "Death by Pine",
+      "irish": "Bás ag Péine",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_TreeSnowFir",
+      "english": "Death by Snow Fir",
+      "irish": "Bás ag Giúis Sneachta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_TreeSnowPine",
+      "english": "Death by Snow Pine",
+      "irish": "Bás ag Péine Sneachta",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_TreeSwamp",
+      "english": "Death by Swamp Tree",
+      "irish": "Bás ag Crann Portaigh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "stat_TreeYggdrasilShoot",
+      "english": "Death by Yggdrasil Shoot",
+      "irish": "Bás ag Seabhac Yggdrasil",
+      "translationMethod": "manual"
+    }
+  ]
+}

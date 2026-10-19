@@ -1,0 +1,764 @@
+{
+  "screen_id": "character-ui",
+  "screen_title": "Character stats, skills, and customization",
+  "scope_notes": "skill_*, stat_*, and customization_* UI strings.",
+  "scope_keys_file": "tools/scopes/character-ui.keys.txt",
+  "extracted_at_utc": "2026-10-19T14:20:52.810526+00:00",
+  "method": "static",
+  "game_path": "A:\\Steam\\steamapps\\common\\Valheim",
+  "resources_assets_sha256": "f0274fe60c807842352a049f3762b7a08965bdbfe759dfbb16f90272e51c6bdb",
+  "key_count": 150,
+  "entries": [
+    {
+      "key": "customization_beard01",
+      "english": "Majestic",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_beard02",
+      "english": "Twin Braids",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_beard03",
+      "english": "Short",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_beard04",
+      "english": "Straight",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_beard05",
+      "english": "Single Braid",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_beard06",
+      "english": "Loose Braid",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_beard07",
+      "english": "Split Shave",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_beard08",
+      "english": "Thick",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_beard09",
+      "english": "Trobadour",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_beard10",
+      "english": "Top Braid",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_beard11",
+      "english": "Facewarmer",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_beard12",
+      "english": "Royal",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_beard13",
+      "english": "Triplets",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_beard14",
+      "english": "Split Braid",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_beard15",
+      "english": "Mini Braid",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_beard16",
+      "english": "Stonedweller",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_beard17",
+      "english": "Neat",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_beard18",
+      "english": "Jarl Braids",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_beard19",
+      "english": "Bushy",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_beard20",
+      "english": "Spiky",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_beard21",
+      "english": "Tidy",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_beard22",
+      "english": "Mustache",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_beard23",
+      "english": "Crumb Catcher",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_beard24",
+      "english": "Waxed",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_beard25",
+      "english": "Trimmed",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_beard26",
+      "english": "Handlebar",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair01",
+      "english": "Windswept",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair02",
+      "english": "High Ponytail",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair03",
+      "english": "Pigtails",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair04",
+      "english": "Low Ponytail",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair05",
+      "english": "Short",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair06",
+      "english": "Long and Loose",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair07",
+      "english": "Dragonslayer",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair08",
+      "english": "Parted",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair09",
+      "english": "Old One-Eye",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair10",
+      "english": "Side Swept",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair11",
+      "english": "Long Braid",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair12",
+      "english": "Matronly",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair13",
+      "english": "Twin Braids",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair14",
+      "english": "Speed Demon",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair15",
+      "english": "Pulled Back Curls",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair16",
+      "english": "Gathered Braids",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair17",
+      "english": "Neat Braids",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair18",
+      "english": "Royal Braids",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair19",
+      "english": "Painter Curls",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair20",
+      "english": "Tidy Curls",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair21",
+      "english": "Twin Buns",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair22",
+      "english": "Single Bun",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair23",
+      "english": "Short Curls",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair24",
+      "english": "Shaved and Braided",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair25",
+      "english": "Knot",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair26",
+      "english": "Short Locs",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair27",
+      "english": "Strength Braids",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair28",
+      "english": "Merchant's Braid",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair29",
+      "english": "Tucked Back",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair30",
+      "english": "Loose Waves",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair31",
+      "english": "Gathered Locs",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair32",
+      "english": "Mullet",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair33",
+      "english": "Vinland Shave",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair34",
+      "english": "Castellan",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair35",
+      "english": "Champion",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair36",
+      "english": "Chronicler",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair37",
+      "english": "Sunbringer",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_hair38",
+      "english": "Masculine",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_nobeard",
+      "english": "No Beard",
+      "source_asset": "localization"
+    },
+    {
+      "key": "customization_nohair",
+      "english": "No Hair",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_axes",
+      "english": "Axes",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_blacksmithing",
+      "english": "Blacksmithing",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_blocking",
+      "english": "Blocking",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_bloodmagic",
+      "english": "Blood Magic",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_bows",
+      "english": "Bows",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_clubs",
+      "english": "Clubs",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_cooking",
+      "english": "Cooking",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_crafting",
+      "english": "Crafting",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_crossbows",
+      "english": "Crossbows",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_dodge",
+      "english": "Dodge",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_elementalmagic",
+      "english": "Elemental Magic",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_farming",
+      "english": "Farming",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_firemagic",
+      "english": "Fire Magic",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_fishing",
+      "english": "Fishing",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_frostmagic",
+      "english": "Frost Magic",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_jump",
+      "english": "Jump",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_knives",
+      "english": "Knives",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_pickaxes",
+      "english": "Pickaxes",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_polearms",
+      "english": "Polearms",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_ride",
+      "english": "Riding",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_run",
+      "english": "Run",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_shields",
+      "english": "Shields",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_sneak",
+      "english": "Sneak",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_spears",
+      "english": "Spears",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_swim",
+      "english": "Swim",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_swords",
+      "english": "Swords",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_unarmed",
+      "english": "Fists",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_woodcutting",
+      "english": "Wood Cutting",
+      "source_asset": "localization"
+    },
+    {
+      "key": "skill_woodworking",
+      "english": "Woodworking",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_BeesHarvested",
+      "english": "Honey collected",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_BuiltPiecesNoDebt",
+      "english": "Build pieces placed",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_ConsecutiveDaysSurvivedMax",
+      "english": "Max consecutive days survived",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_CraftFood",
+      "english": "Food crafted",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_DeathByAshlandsOcean",
+      "english": "Death by Ashlands ocean",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_DeathByBoat",
+      "english": "Death by boat",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_DeathByBurning",
+      "english": "Death by burning",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_DeathByCart",
+      "english": "Death by cart",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_DeathByCatapult",
+      "english": "Death by catapult",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_DeathByCinderFire",
+      "english": "Death by cinder fire",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_DeathByDrawBridge",
+      "english": "Death by drawbridge",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_DeathByDrowning",
+      "english": "Death by drowning",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_DeathByEdgeOfWorld",
+      "english": "Death by falling off the edge of the world",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_DeathByEnemyHit",
+      "english": "Death by enemy",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_DeathByFall",
+      "english": "Death by falling",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_DeathByFreezing",
+      "english": "Death by freezing",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_DeathByImpact",
+      "english": "Death by impact",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_DeathByIncinerator",
+      "english": "Death by the Obliterator",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_DeathByPoisoned",
+      "english": "Death by poisoning",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_DeathBySelf",
+      "english": "Death by player",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_DeathBySmoke",
+      "english": "Death by smoke",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_DeathByStalagtite",
+      "english": "Death by stalactite",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_DeathByStructural",
+      "english": "Death by structure",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_DeathByTree",
+      "english": "Death by tree",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_DeathByTurret",
+      "english": "Death by ballista",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_DeathByWater",
+      "english": "Death by water",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_DistanceSail",
+      "english": "Distance sailed",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_DistanceSailHelm",
+      "english": "Distance sailed, while manning the helm",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_ExploreEast",
+      "english": "Explore the far east",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_ExploreEastNoMap",
+      "english": "Explore the far east, without using a map",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_ExploreNorth",
+      "english": "Explore the far north",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_ExploreNorthNoMap",
+      "english": "Explore the far north, without using a map",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_ExploreSouth",
+      "english": "Explore the far south",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_ExploreSouthNoMap",
+      "english": "Explore the far south, without using a map",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_ExploreWest",
+      "english": "Explore the far west",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_ExploreWestNoMap",
+      "english": "Explore the far west, without using a map",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_FoodEaten",
+      "english": "Food eaten",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_HarvestBerry",
+      "english": "Berries harvested",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_HarvestCrop",
+      "english": "Crops harvested",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_HarvestMushroom",
+      "english": "Mushrooms harvested",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_MaxBuildingHeight",
+      "english": "Highest building",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_MaxBuildingHeightWorld",
+      "english": "Highest world position of building",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_MaxComfort",
+      "english": "Max comfort level",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_TreasureBuriedFound",
+      "english": "Buried treasure found",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_Tree",
+      "english": "Trees cut down",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_TreeAshlands",
+      "english": "Death by Ashlands Tree",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_TreeBeech",
+      "english": "Death by Beech",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_TreeBirch",
+      "english": "Death by Birch",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_TreeFir",
+      "english": "Death by Fir",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_TreeOak",
+      "english": "Death by Oak",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_TreePine",
+      "english": "Death by Pine",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_TreeSnowFir",
+      "english": "Death by Snow Fir",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_TreeSnowPine",
+      "english": "Death by Snow Pine",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_TreeSwamp",
+      "english": "Death by Swamp Tree",
+      "source_asset": "localization"
+    },
+    {
+      "key": "stat_TreeYggdrasilShoot",
+      "english": "Death by Yggdrasil Shoot",
+      "source_asset": "localization"
+    }
+  ],
+  "missing_keys": []
+}
