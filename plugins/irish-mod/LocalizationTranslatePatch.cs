@@ -7,11 +7,17 @@ namespace IrishMod
     {
         private static void Postfix(string word, ref string __result)
         {
-            if (!Plugin.IrishLearnerModeEnabled)
+            if (Plugin.DisplayMode == IrishDisplayMode.EnglishOnly)
                 return;
 
             if (!IrishTranslationCache.TryGet(word, out var entry))
                 return;
+
+            if (Plugin.DisplayMode == IrishDisplayMode.IrishOnly)
+            {
+                __result = entry.Irish;
+                return;
+            }
 
             var english = string.IsNullOrEmpty(__result) ? entry.English : __result;
             __result = $"{entry.Irish} [{english}]";

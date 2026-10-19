@@ -1,4 +1,3 @@
-using System;
 using BepInEx;
 using BepInEx.Configuration;
 using BepInEx.Logging;
@@ -12,14 +11,11 @@ namespace IrishMod
     {
         internal static ManualLogSource Log { get; private set; } = null!;
 
-        /// <summary>
-        /// When true: scoped keys show Irish with [English]. When false: vanilla English for those keys.
-        /// </summary>
-        internal static bool IrishLearnerModeEnabled { get; private set; }
+        internal static IrishDisplayMode DisplayMode { get; private set; }
 
         private Harmony? _harmony;
         private ConfigEntry<KeyCode> _toggleKey = null!;
-        private ConfigEntry<bool> _irishModeDefault = null!;
+        private ConfigEntry<int> _displayModeOnStart = null!;
 
         private void Awake()
         {
@@ -29,15 +25,15 @@ namespace IrishMod
                 "Display",
                 "ToggleIrishKey",
                 KeyCode.F7,
-                "Key to toggle Irish learner display (Irish + [English]) vs vanilla English for wired keys.");
+                "Key to cycle Irish display for wired keys: English only → Irish + [English] → Irish only.");
 
-            _irishModeDefault = Config.Bind(
+            _displayModeOnStart = Config.Bind(
                 "Display",
-                "IrishLearnerModeOnStart",
-                false,
-                "If true, wired UI starts in Irish + [English] mode; if false, vanilla English until you press the toggle key.");
+                "IrishDisplayModeOnStart",
+                (int)IrishDisplayMode.EnglishOnly,
+                "Starting display mode: 0 = English only, 1 = Irish + [English], 2 = Irish only.");
 
-            IrishLearnerModeEnabled = _irishModeDefault.Value;
+            DisplayMode = NormalizeDisplayMode(_displayModeOnStart.Value);
 
             IrishTranslationCache.LoadFromPluginFolder(Log);
 
@@ -46,7 +42,7 @@ namespace IrishMod
 
             Log.LogInfo(
                 $"{PluginInfo.PLUGIN_NAME} {PluginInfo.PLUGIN_VERSION} loaded. Wired keys: {IrishTranslationCache.LoadedCount}. " +
-                $"Irish mode: {(IrishLearnerModeEnabled ? "on" : "off")}. Toggle: {_toggleKey.Value}.");
+                $"Display: {DescribeDisplayMode(DisplayMode)}. Cycle key: {_toggleKey.Value}.");
         }
 
         private void Update()
@@ -54,22 +50,43 @@ namespace IrishMod
             if (!Input.GetKeyDown(_toggleKey.Value))
                 return;
 
-            IrishLearnerModeEnabled = !IrishLearnerModeEnabled;
-            Log.LogInfo($"Irish learner mode: {(IrishLearnerModeEnabled ? "ON (Irish + [English])" : "OFF (English)")}.");
+            DisplayMode = (IrishDisplayMode)(((int)DisplayMode + 1) % 3);
+            Log.LogInfo($"Irish display: {DescribeDisplayMode(DisplayMode)}.");
 
-            TryRefreshMainMenuLocalization();
+            TryRefreshScopedLocalization();
         }
 
-        private static void TryRefreshMainMenuLocalization()
+        internal static string DescribeDisplayMode(IrishDisplayMode mode) =>
+            mode switch
+            {
+                IrishDisplayMode.EnglishOnly => "English only (vanilla)",
+                IrishDisplayMode.IrishLearner => "Irish + [English]",
+                IrishDisplayMode.IrishOnly => "Irish only",
+                _ => mode.ToString(),
+            };
+
+        private static IrishDisplayMode NormalizeDisplayMode(int raw)
+        {
+            if (raw < 0 || raw > 2)
+            {
+                Log.LogWarning($"IrishDisplayModeOnStart {raw} is out of range; using English only (0).");
+                return IrishDisplayMode.EnglishOnly;
+            }
+
+            return (IrishDisplayMode)raw;
+        }
+
+        private static void TryRefreshScopedLocalization()
         {
             if (Localization.instance == null)
                 return;
 
             var startup = UnityEngine.Object.FindObjectOfType<FejdStartup>();
-            if (startup == null)
-                return;
+            if (startup != null)
+                Localization.instance.ReLocalizeAll(startup.transform);
 
-            Localization.instance.ReLocalizeAll(startup.transform);
+            if (InventoryGui.instance != null)
+                Localization.instance.ReLocalizeAll(InventoryGui.instance.transform);
         }
 
         private void OnDestroy()
@@ -82,6 +99,6 @@ namespace IrishMod
     {
         public const string PLUGIN_GUID = "com.dennehy95.valheim.irishmod";
         public const string PLUGIN_NAME = "Valheim Irish Mod";
-        public const string PLUGIN_VERSION = "0.3.0";
+        public const string PLUGIN_VERSION = "0.3.1";
     }
 }
