@@ -1,5 +1,9 @@
+using System;
 using BepInEx;
+using BepInEx.Configuration;
 using BepInEx.Logging;
+using HarmonyLib;
+using UnityEngine;
 
 namespace IrishMod
 {
@@ -8,10 +12,69 @@ namespace IrishMod
     {
         internal static ManualLogSource Log { get; private set; } = null!;
 
+        /// <summary>
+        /// When true: scoped keys show Irish with [English]. When false: vanilla English for those keys.
+        /// </summary>
+        internal static bool IrishLearnerModeEnabled { get; private set; }
+
+        private Harmony? _harmony;
+        private ConfigEntry<KeyCode> _toggleKey = null!;
+        private ConfigEntry<bool> _irishModeDefault = null!;
+
         private void Awake()
         {
             Log = Logger;
-            Log.LogInfo($"{PluginInfo.PLUGIN_NAME} {PluginInfo.PLUGIN_VERSION} loaded.");
+
+            _toggleKey = Config.Bind(
+                "Display",
+                "ToggleIrishKey",
+                KeyCode.F7,
+                "Key to toggle main-menu Irish display (Irish + [English]) vs vanilla English.");
+
+            _irishModeDefault = Config.Bind(
+                "Display",
+                "IrishLearnerModeOnStart",
+                false,
+                "If true, main menu starts in Irish + [English] mode; if false, vanilla English until you press the toggle key.");
+
+            IrishLearnerModeEnabled = _irishModeDefault.Value;
+
+            MainMenuTranslationCache.LoadFromPluginFolder(Log);
+
+            _harmony = new Harmony(PluginInfo.PLUGIN_GUID);
+            _harmony.PatchAll(typeof(Plugin).Assembly);
+
+            Log.LogInfo(
+                $"{PluginInfo.PLUGIN_NAME} {PluginInfo.PLUGIN_VERSION} loaded. Main menu keys: {MainMenuTranslationCache.LoadedCount}. " +
+                $"Irish mode: {(IrishLearnerModeEnabled ? "on" : "off")}. Toggle: {_toggleKey.Value}.");
+        }
+
+        private void Update()
+        {
+            if (!Input.GetKeyDown(_toggleKey.Value))
+                return;
+
+            IrishLearnerModeEnabled = !IrishLearnerModeEnabled;
+            Log.LogInfo($"Main menu Irish learner mode: {(IrishLearnerModeEnabled ? "ON (Irish + [English])" : "OFF (English)")}.");
+
+            TryRefreshMainMenuLocalization();
+        }
+
+        private static void TryRefreshMainMenuLocalization()
+        {
+            if (Localization.instance == null)
+                return;
+
+            var startup = UnityEngine.Object.FindObjectOfType<FejdStartup>();
+            if (startup == null)
+                return;
+
+            Localization.instance.ReLocalizeAll(startup.transform);
+        }
+
+        private void OnDestroy()
+        {
+            _harmony?.UnpatchSelf();
         }
     }
 
@@ -19,6 +82,6 @@ namespace IrishMod
     {
         public const string PLUGIN_GUID = "com.dennehy95.valheim.irishmod";
         public const string PLUGIN_NAME = "Valheim Irish Mod";
-        public const string PLUGIN_VERSION = "0.1.0";
+        public const string PLUGIN_VERSION = "0.2.0";
     }
 }

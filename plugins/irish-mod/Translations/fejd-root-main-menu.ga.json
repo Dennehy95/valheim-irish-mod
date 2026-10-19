@@ -1,0 +1,93 @@
+{
+  "screen_id": "fejd-root-main-menu",
+  "locale": "ga",
+  "pendingApiKey": true,
+  "machineAssisted": false,
+  "source_extract": "extracted/fejd-root-main-menu.json",
+  "entries": [
+    {
+      "key": "menu_startgame",
+      "english": "Start Game",
+      "irish": "Tosaigh an Cluiche",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_joingame",
+      "english": "Join Game",
+      "irish": "Glac Páirt sa Chluiche",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_settings",
+      "english": "Settings",
+      "irish": "Socruithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_credits",
+      "english": "Credits",
+      "irish": "Creidiúintí",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_exit",
+      "english": "Quit",
+      "irish": "Scoir",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_continue",
+      "english": "Continue",
+      "irish": "Lean ar Aghaidh",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_changelog",
+      "english": "Changelog",
+      "irish": "Loga na nAthruithe",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_feedback",
+      "english": "Do you have any bugs, cool ideas or general feedback you want to give us? Send us a message using this fancy mail button.",
+      "irish": "An bhfuil fabhtanna, smaointe nó aiseolas ginearálta agat? Seol teachtaireacht chugainn leis an gcnaipe poist álainn seo.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_mod_notice",
+      "english": "You are playing a modded version of Valheim.\nPlease note that this may change the original game experience. If you are experiencing any issues, please first uninstall all mods before reporting it. If there has been a patch recently, some mods that previously worked may be broken until they are updated.",
+      "irish": "Tá leagan modáilte de Valheim á imirt agat.\nTabhair faoi deara go bhféadfadh sé seo taithí bunaidh an chluiche a athrú. Má tá fadhbanna agat, díshuiteáil gach mod ar dtús sula thuairiscíonn tú iad. Má tá paiste déanta le déanaí, d’fhéadfadh mods a bhí ag obair roimhe seo a bheith briste go dtí go ndéanfar iad a nuashonrú.",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_managesaves",
+      "english": "Manage saves",
+      "irish": "Bainistigh sábhálacha",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_cinematics",
+      "english": "Cinematics",
+      "irish": "Scannáin",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_codeofconduct_button",
+      "english": "Code of Conduct",
+      "irish": "Cód Iompair",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_invite_friends_macos",
+      "english": "Invite Friends",
+      "irish": "Tabhair Cuireadh do Chairde",
+      "translationMethod": "manual"
+    },
+    {
+      "key": "menu_logout",
+      "english": "Log Out",
+      "irish": "Logáil Amach",
+      "translationMethod": "manual"
+    }
+  ]
+}
